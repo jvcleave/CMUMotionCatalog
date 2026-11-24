@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "subject": "10",
+  "takes": [
+    {
+      "takeID": "10_01",
+      "sourceUUID": "B9C19540-BFC2-54A7-BDCF-E5870FF26B3D",
+      "sourceDescription": "soccer - kick ball",
+      "sourceSHA256": "eae9408ca4e979439700a537ab488e95dfef6b9804936af792c6daafd1ad497d",
+      "frameCount": 801,
+      "frameInterval": 0.0083333,
+      "title": "Soccer kick and recovery",
+      "actionDescription": "The performer starts standing, steps into a leg swing with arms out for balance, follows through across the body and settles upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "soccer",
+        "kick",
+        "ball",
+        "recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "10_02",
+      "sourceUUID": "F85E59B8-6AAC-5515-9E3B-F868361D8FAC",
+      "sourceDescription": "soccer - kick ball",
+      "sourceSHA256": "b1ab89efaaaed74bc9a74a73a3f37227dd471a67c0d035eb6f88d95ca226a136",
+      "frameCount": 590,
+      "frameInterval": 0.0083333,
+      "title": "Soccer kick and recovery",
+      "actionDescription": "The performer starts standing, approaches with short steps, swings one leg forward and across, then recovers upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "soccer",
+        "kick",
+        "ball",
+        "recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "10_03",
+      "sourceUUID": "33A997AE-74DE-5D09-BC80-D98E9E4C3036",
+      "sourceDescription": "soccer - kick ball",
+      "sourceSHA256": "f958f4a745c3bba254f006ce8fb78448d8ff71a3559ae9638703008fb84a2611",
+      "frameCount": 362,
+      "frameInterval": 0.0083333,
+      "title": "Soccer kick and recovery",
+      "actionDescription": "The performer starts stepping, swings a leg outward and across while spreading the arms, then recovers to a standing stance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "soccer",
+        "kick",
+        "ball",
+        "recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "10_04",
+      "sourceUUID": "B15947FB-DD30-5401-9877-B096BA4ACF00",
+      "sourceDescription": "walk",
+      "sourceSHA256": "c122373324397290e7cdc230e0d9b41389473226dbf2021c939320bdb1b6ef3a",
+      "frameCount": 549,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts standing, then continues alternating walking steps with relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "10_05",
+      "sourceUUID": "8A0B3230-2CEC-5DA4-94D7-03474A8DFFB5",
+      "sourceDescription": "soccer - kick ball",
+      "sourceSHA256": "0bd83cf7231eb631bf07117ba7fd9c9007afdf13ea8ab4ac9ce7e90e8501e15f",
+      "frameCount": 436,
+      "frameInterval": 0.0083333,
+      "title": "Soccer kick and recovery",
+      "actionDescription": "The performer starts standing, takes short approach steps, kicks forward and follows through across the body before settling upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "soccer",
+        "kick",
+        "ball",
+        "recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "10_06",
+      "sourceUUID": "0BF457CF-F359-5841-A8A1-98056B5D22A9",
+      "sourceDescription": "soccer - kick ball",
+      "sourceSHA256": "338ef1adcf47bfd684b3474006829e2148b1cb31f424f9010e6f418a36caad04",
+      "frameCount": 572,
+      "frameInterval": 0.0083333,
+      "title": "Soccer kick and recovery",
+      "actionDescription": "The performer starts standing, turns sideways and approaches with short steps, swings a leg forward, follows through across the body and returns upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "soccer",
+        "kick",
+        "ball",
+        "recovery"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
