@@ -1,0 +1,2 @@
+# Keep the published CMU motion source bytes intact on every platform.
+*.bvh -text -diff

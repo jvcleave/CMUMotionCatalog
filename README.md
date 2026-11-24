@@ -1,22 +1,18 @@
 # CMU Motion Catalog
 
 Search and preview all 2,548 takes in the cgspeed 2010 MotionBuilder-friendly
-BVH conversion of the CMU Graphics Lab Motion Capture Database. Each take has
-a readable title and a still and animated preview on MessCharacterCreator's
-Default Human.
+BVH conversion of the CMU Graphics Lab Motion Capture Database. Each take
+includes the original BVH, a readable title, and still and animated previews
+on MessCharacterCreator's Default Human.
 
 ## Catalog
 
-[Browse the catalog](catalog/) for the full JSON index, editable labels, all
-2,548 still PNGs, and all 2,548 animated PNGs. A clone includes the complete
-catalog and its previews. The [v1.0.0 release](https://github.com/jvcleave/CMUMotionCatalog/releases/tag/v1.0.0)
-offers the same previews as 17 ZIPs grouped by subject range.
+[Download the complete catalog ZIP](https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.0.1/cmu-motion-catalog-v1.0.1.zip).
+The ZIP extracts to a `catalog/` folder with all original BVHs, both previews
+for every take, and the JSON metadata. The SHA-256 is in the [release notes](https://github.com/jvcleave/CMUMotionCatalog/releases/tag/v1.0.1).
 
-## Regeneration
-
-[See the regeneration tools](tools/) to restore the catalog from the published
-ZIPs, verify a local copy, or rerender from the original BVHs with a built
-MessCharacterCreator checkout.
+[Browse the catalog](catalog/) to find individual files or suggest a label
+correction.
 
 ## Credits and source terms
 
