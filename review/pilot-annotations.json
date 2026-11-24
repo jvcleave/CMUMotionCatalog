@@ -72,6 +72,109 @@
         "overhead reach"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "02_03",
+      "sourceUUID": "C49B22AF-1BE2-5ECE-A7BD-CE0B487B5257",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "6f4d38b92b041221030de2e1058903e0f7a8fa08f9c6c9efabf7df9a128011ac",
+      "frameCount": 173,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Quick Strides",
+      "actionDescription": "The performer is already jogging as the clip opens, taking quick alternating strides with bent elbows. The motion ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jogging",
+        "starts mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "02_04",
+      "sourceUUID": "7E42BC28-1F9B-53B9-AD0B-72341E4849C0",
+      "sourceDescription": "jump, balance",
+      "sourceSHA256": "1b9f80f045608eaf50e2912c2f9180e97cffc708ce717c227f52ce1bc6fe091b",
+      "frameCount": 483,
+      "frameInterval": 0.0083333,
+      "title": "Jump and Steady the Landing",
+      "actionDescription": "From standing, the performer crouches, swings the arms, and springs upward. They absorb the landing through bent knees and make a small adjustment before standing still.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "crouch",
+        "vertical jump",
+        "bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "02_06",
+      "sourceUUID": "6B44ED14-C002-5ADE-921B-1A6F963BCD10",
+      "sourceDescription": "bend over, scoop up, rise, lift arm",
+      "sourceSHA256": "8aa5a8a583aeb20f0e66d4985f04b93becfb9af7eac534b20e62934911bf68bc",
+      "frameCount": 2235,
+      "frameInterval": 0.0083333,
+      "title": "Reach Low and Lift an Arm",
+      "actionDescription": "The performer repeatedly bends or crouches to reach toward the floor, then straightens and brings one hand up toward the face or overhead. The movement finishes upright with the arms lowered.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "repeated",
+        "floor reach",
+        "overhead reach",
+        "scooping motion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_47",
+      "sourceUUID": "B790745F-B9DF-5979-B329-C5FF25B31A56",
+      "sourceDescription": "long jump forward",
+      "sourceSHA256": "cacf421d009625c4cc0741acda49082814939fc45945c47e13d8213d453e451d",
+      "frameCount": 622,
+      "frameInterval": 0.0083333,
+      "title": "Long Jump Forward",
+      "actionDescription": "From standing, the performer dips and swings the arms, leaps forward, and lands in a deep crouch. They straighten and settle into standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "two-foot takeoff",
+        "deep landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_17",
+      "sourceUUID": "8CFEB361-4E81-5CC2-AB62-56370F0DB35B",
+      "sourceDescription": "walk, 90-degree left turn",
+      "sourceSHA256": "91f57b476b9c678239b1d1353bb752acbfc91fa9e564082ccd57b5ab40124619",
+      "frameCount": 518,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Turn Left",
+      "actionDescription": "The performer starts mid-stride, takes several forward steps, then turns left roughly a quarter turn and keeps walking through the final frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "left turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_20",
+      "sourceUUID": "5C256D69-83CC-5E15-A02A-BA14FA569F48",
+      "sourceDescription": "walk, 90-degree right turn",
+      "sourceSHA256": "39af3554a0516308f82c27cde79996061b1bd217da34c2275a810a1a3626b3cb",
+      "frameCount": 503,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Turn Right",
+      "actionDescription": "The performer starts mid-stride, takes several forward steps, then turns right roughly a quarter turn and keeps walking through the final frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "right turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
