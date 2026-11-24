@@ -25,3 +25,8 @@ To add or replace adjudicated rows, run
 `python3 review/checkpoint.py SUBJECT DRAFT.json`. The draft needs a `takes`
 array with each take ID and editorial fields. The tool copies pinned source
 fields from the catalog and validates the proposed checkpoint before writing it.
+
+Run `python3 review/pending.py SUBJECT` to check the queue for a subject. It
+shows reviewed takes that share the pinned BVH digest and calls out differences
+in source context. Reuse only editorial fields that apply to both records.
+Use `--ids` to get the pending take IDs for the Creator renderer.
