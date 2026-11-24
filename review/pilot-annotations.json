@@ -613,6 +613,208 @@
         "head tilt"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "106_06",
+      "sourceUUID": "19A5682B-5052-5E35-9819-47BE53752D7D",
+      "sourceDescription": "clean",
+      "sourceSHA256": "f443407f07c389e3be644d48a71fab7d05c44a24c0486045ad4ddcb692c01699",
+      "frameCount": 651,
+      "frameInterval": 0.0083333,
+      "title": "Turn in Place with Cross-Steps",
+      "actionDescription": "The performer starts mid-step and uses small crossing steps to turn through several headings, briefly swinging the arms out. The take ends with another step still in progress.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn in place",
+        "cross-step",
+        "multiple turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_23",
+      "sourceUUID": "9460A069-6A9D-569F-AAC0-C44A59763A6D",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "5a9ed3fd8990efd26d5a93be8939a3ed5bd6809cd36e1690b0b1894caf8236d2",
+      "frameCount": 664,
+      "frameInterval": 0.0083333,
+      "title": "Drop into a Deep Crouch and Rise",
+      "actionDescription": "From an upright stepping stance, the performer lowers into a deep crouch with hands near the floor and shifts position while staying low. They push up and end in quick forward steps.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "deep crouch",
+        "floor reach",
+        "stand up",
+        "forward steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "122_01",
+      "sourceUUID": "4BF89717-2CFA-551D-87C4-6779BB2F940C",
+      "sourceDescription": "clean",
+      "sourceSHA256": "923fbc9e299e13cf4aa329580d739f9a4e332b40e294152f3cfb39f1443638a2",
+      "frameCount": 633,
+      "frameInterval": 0.0083333,
+      "title": "Take One Wide Diagonal Step Right",
+      "actionDescription": "After standing still, the performer takes a wide step diagonally forward and right, lowers into a staggered stance, then brings the trailing foot in and settles upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right",
+        "forward diagonal",
+        "sidestep",
+        "from standstill"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_01",
+      "sourceUUID": "EF0BDCB0-196F-5084-9EFF-0668BA627A2C",
+      "sourceDescription": "large sidestep to right",
+      "sourceSHA256": "923fbc9e299e13cf4aa329580d739f9a4e332b40e294152f3cfb39f1443638a2",
+      "frameCount": 633,
+      "frameInterval": 0.0083333,
+      "title": "Take One Wide Diagonal Step Right",
+      "actionDescription": "After standing still, the performer takes a wide step diagonally forward and right, lowers into a staggered stance, then brings the trailing foot in and settles upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right",
+        "forward diagonal",
+        "sidestep",
+        "from standstill"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_19",
+      "sourceUUID": "05FB7DC5-5B01-59CF-A10D-B866F2495807",
+      "sourceDescription": "medium sidestep to left",
+      "sourceSHA256": "5a58da9b279285999f5be04d589d7821130bc6343ca4e9c8aa01c27e0e465194",
+      "frameCount": 509,
+      "frameInterval": 0.0083333,
+      "title": "Take a Side Step Left",
+      "actionDescription": "From standing, the performer moves one foot left into a wide stance, shifts weight over it, and brings the other foot in. The performer finishes upright with feet close together.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left",
+        "sidestep",
+        "weight shift",
+        "from standstill"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_52",
+      "sourceUUID": "F450F94B-31BE-5ADB-ABC8-A0514105D666",
+      "sourceDescription": "walk backwards and turn",
+      "sourceSHA256": "ae4a3d80f8aaef1c69ae7e356c2994015c5e9f6716db46c60dbaa8ba43d91af7",
+      "frameCount": 544,
+      "frameInterval": 0.0083333,
+      "title": "Walk Backward and Turn",
+      "actionDescription": "The performer starts already stepping backward, turns partway through, and continues stepping with the torso angled and head lowered. The clip ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward",
+        "turn",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "01_07",
+      "sourceUUID": "1301C390-1F09-527D-869B-E7DE110E5855",
+      "sourceDescription": "playground - climb, sit, dangle legs, jump down",
+      "sourceSHA256": "be90a4cf92b188a917899b875b3192c748a15fb61b6758fce9fffbe6ab12e9c9",
+      "frameCount": 4839,
+      "frameInterval": 0.0083333,
+      "title": "Climb, Sit with Legs Dangling, and Drop",
+      "actionDescription": "The performer walks up, raises the knees and reaches upward in several climbing passages, then sits high with the lower legs hanging. The final passage ends with a drop, a bent-knee landing, and a standing recovery.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climbing",
+        "dangling legs",
+        "seated",
+        "drop",
+        "bent-knee landing"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 301,
+          "endFrame": 1381,
+          "title": "Climb and sit"
+        },
+        {
+          "startFrame": 1861,
+          "endFrame": 2881,
+          "title": "Climb and lower the body"
+        },
+        {
+          "startFrame": 3541,
+          "endFrame": 4621,
+          "title": "Climb and dangle the legs"
+        },
+        {
+          "startFrame": 4633,
+          "endFrame": 4838,
+          "title": "Drop, land, and stand"
+        }
+      ]
+    },
+    {
+      "takeID": "49_20",
+      "sourceUUID": "B6D4CFFC-0F0C-5DFB-9C8D-E83B86518B5B",
+      "sourceDescription": "balance on one leg, outstretched arms",
+      "sourceSHA256": "779ffb908b10c370fe765fdf931c239ea814137d0ca70a92a327b5be6afa252f",
+      "frameCount": 898,
+      "frameInterval": 0.0083333,
+      "title": "Hold a One-Leg Balance with Arms Wide",
+      "actionDescription": "The performer starts with both arms raised, transfers weight to one foot, and lifts the other knee. They extend both arms to the sides and hold the one-legged stance through the final frame.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "single-leg balance",
+        "lifted knee",
+        "arms out",
+        "sustained hold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "124_04",
+      "sourceUUID": "95764C5B-1177-5B89-A3FD-27ECAB4A8F8E",
+      "sourceDescription": "Basketball Free Throw",
+      "sourceSHA256": "6ae21fff5539bb4a481171a281f970811e6cc370b17e29c03cbb00afe466bf8d",
+      "frameCount": 726,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Basketball Free Throw",
+      "actionDescription": "The performer starts with hands in front, bends and reaches low, then straightens and extends both arms overhead in a shooting motion. They lower the arms and remain standing.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "basketball",
+        "free throw",
+        "shooting motion",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "124_05",
+      "sourceUUID": "24121D82-F761-5C43-A693-C15A056105E6",
+      "sourceDescription": "Basketball Jump Shot",
+      "sourceSHA256": "4e240edfadeae9f0b611f91dd318e0336d3143e921d28873c8b04066c2b75f9f",
+      "frameCount": 789,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Basketball Jump Shot",
+      "actionDescription": "The performer gestures with one hand, lowers into a slight crouch, then jumps while driving both arms overhead. They land, bend and reach forward with both hands, and finish upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "basketball",
+        "jump shot",
+        "overhead release",
+        "landing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
