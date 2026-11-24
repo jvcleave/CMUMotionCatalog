@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "subject": "16",
+  "takes": [
+    {
+      "takeID": "16_01",
+      "sourceUUID": "6F0822FF-2B83-5438-A8CC-A79BC120B938",
+      "sourceDescription": "jump",
+      "sourceSHA256": "f989be024ec2b26099300707e182c0b96c22fdf7843757f0ba36e75a475c309c",
+      "frameCount": 322,
+      "frameInterval": 0.0083333,
+      "title": "Jump and land",
+      "actionDescription": "The performer starts standing, bends the knees and jumps upward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_02",
+      "sourceUUID": "6031DE96-DD61-5BCA-A289-FFF60539A70F",
+      "sourceDescription": "jump",
+      "sourceSHA256": "1245e54a92f30ea236f39bd5cf7bf203e6870efae4da80a237225ee96638189d",
+      "frameCount": 466,
+      "frameInterval": 0.0083333,
+      "title": "Jump and land",
+      "actionDescription": "The performer starts standing, bends the knees and jumps upward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_03",
+      "sourceUUID": "0A3D9778-3CC3-5553-847D-CE3EADA381DA",
+      "sourceDescription": "high jump",
+      "sourceSHA256": "6cab2d9485e5c449670bbbf7fdd184b6eabf5cc461ef766811b3d4bd89ae3a25",
+      "frameCount": 410,
+      "frameInterval": 0.0083333,
+      "title": "High jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps upward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "high jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_04",
+      "sourceUUID": "C242378E-EF1E-526A-B75D-5C4C5591C0EE",
+      "sourceDescription": "high jump",
+      "sourceSHA256": "63dc9f135f960b6a8e8e0e01cf4db1b28840f39469fdb10c0813aeef12e83155",
+      "frameCount": 380,
+      "frameInterval": 0.0083333,
+      "title": "High jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps upward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "high jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_05",
+      "sourceUUID": "365A9BFC-2CC6-5786-87F6-FD4EFB356689",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "a68f6c5e0db8ac7d5c6e7097fc4cb643a8204e0cce45fb66135eba168b518864",
+      "frameCount": 295,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps forward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_06",
+      "sourceUUID": "C8BFDE6F-BAE7-534D-8BDD-E4AB5E3A0695",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "21a97c7ec3336f381bfa829efa856a08a5944abac74ecff63140388f047c9a40",
+      "frameCount": 407,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps forward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_07",
+      "sourceUUID": "78FB6697-18FF-5C25-8D0A-1AA79CFB9193",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "4f687752a6a1b7191936bf97d5dd9107b50ead3154a9ff77ea0670cdb6c35837",
+      "frameCount": 422,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps forward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_08",
+      "sourceUUID": "EF9673BF-E5DF-5ED4-A8FE-A3FD2D318C90",
+      "sourceDescription": "run/jog, sudden stop",
+      "sourceSHA256": "63cf40ddd89cbe348d8a155d40ed4c1a8b77947a6e57b12bc07dcf556a3b2ed0",
+      "frameCount": 239,
+      "frameInterval": 0.0083333,
+      "title": "Jog to a sudden stop",
+      "actionDescription": "The performer starts jogging, takes several running steps, then slows sharply and settles into standing.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog",
+        "run",
+        "stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_09",
+      "sourceUUID": "E6C85078-275B-56FB-B125-93FDA6B1D064",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "9a093673797f4260a9c872bf4b62b1812cfa28a6fdc367f7df3232d8e739c16b",
+      "frameCount": 496,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps forward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_10",
+      "sourceUUID": "D4085502-F6F2-595D-A774-48C1BF4430E2",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "b3227c54397c748bdfcf8e79e6e4fc39052d3a4232056566c09fd3b955fccebf",
+      "frameCount": 461,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "The performer starts standing, bends the knees and jumps forward, lands with bent knees, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "landing",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_11",
+      "sourceUUID": "AF8BA55B-1B0B-5CBA-AC5C-AE7C7E400AFD",
+      "sourceDescription": "walk, veer left",
+      "sourceSHA256": "efeb0ebb07ab6491f4e51c32561b54a1643451e6e9a269bcf55799268f9c404a",
+      "frameCount": 534,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer left",
+      "actionDescription": "The performer starts mid-stride and walks with alternating steps, veering left while continuing through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_12",
+      "sourceUUID": "BB6D5150-2435-5363-A575-E69DBB0B3C60",
+      "sourceDescription": "walk, veer left",
+      "sourceSHA256": "c7a1b34e9989faf0ec53ea778cb6889237eb85def142ac25fe24825af1652d20",
+      "frameCount": 441,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer left",
+      "actionDescription": "The performer starts mid-stride and walks with alternating steps, veering left while continuing through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
