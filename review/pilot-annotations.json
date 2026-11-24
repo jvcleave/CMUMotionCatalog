@@ -361,7 +361,7 @@
       "frameCount": 8856,
       "frameInterval": 0.0083333,
       "title": "Mime a Series of Cleaning Tasks",
-      "actionDescription": "The performer walks and turns, bends to make repeated low reaching and sweeping motions, then straightens for repeated one-handed wiping motions. They walk again at the end; the CMU source describes sweeping and wiping.",
+      "actionDescription": "The performer walks and turns, bends to make repeated low reaching and sweeping motions, then straightens for repeated one-handed wiping motions. They walk again at the end. The CMU source describes sweeping and wiping.",
       "primaryCategory": "everyday-tasks",
       "searchTags": [
         "walking",
@@ -397,6 +397,222 @@
           "title": "Walk and turn"
         }
       ]
+    },
+    {
+      "takeID": "143_17",
+      "sourceUUID": "B6B20137-FEC0-5FC4-9896-599F92B6096E",
+      "sourceDescription": "Walk Up Stairs And Over",
+      "sourceSHA256": "604489372a2b8ff2b6990c77e99d2e34db34037c146b865d9bda1544864b32ed",
+      "frameCount": 632,
+      "frameInterval": 0.0083333,
+      "title": "Step Up and Over",
+      "actionDescription": "The performer walks forward, raises the knees in a series of steps, then steps down and finishes in a staggered stance. The CMU source identifies the steps as stairs.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "step up",
+        "step down",
+        "high knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_34",
+      "sourceUUID": "2744903A-0B86-59D9-8CE1-31C2AE60BA66",
+      "sourceDescription": "climb ladder",
+      "sourceSHA256": "826b25c9395c66458cec4b0b7f3f4c0dff35a13bdb53655b3261b2975338e221",
+      "frameCount": 1417,
+      "frameInterval": 0.0083333,
+      "title": "Climb a Ladder",
+      "actionDescription": "The performer starts upright and repeatedly reaches forward with the hands while raising alternate knees, rising and lowering through several cycles. The CMU source identifies the action as ladder climbing.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder",
+        "climb",
+        "repeated",
+        "alternating knee lifts"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "143_18",
+      "sourceUUID": "C9412958-4EF6-5292-883C-746A3A47A4BD",
+      "sourceDescription": "Sit Down And Get Up",
+      "sourceSHA256": "1b55e3b6fe9254c14acc5cc53cd6e8ede16d21682029c4ccf56d374d612f508f",
+      "frameCount": 752,
+      "frameInterval": 0.0083333,
+      "title": "Sit Down and Stand Up Twice",
+      "actionDescription": "From standing, the performer leans forward, lowers into a seated posture, and rises. They repeat the seated transition, then finish upright.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "sit",
+        "stand up",
+        "seated transition",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "115_01",
+      "sourceUUID": "2256EF19-4389-5DD8-8D47-DA4A2054D4DB",
+      "sourceDescription": "Pick up box, bend from waist",
+      "sourceSHA256": "e71dfc1ae602882319b017f7cc82ac421cb2b6c32b8cb226912f51bb6e736845",
+      "frameCount": 469,
+      "frameInterval": 0.0083333,
+      "title": "Bend to Pick Up and Present a Box",
+      "actionDescription": "The performer bends at the waist to reach down, straightens with the hands together at mid-torso, and extends them forward before lowering the arms. The CMU source identifies the object as a box.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "box",
+        "waist bend",
+        "pickup",
+        "two-handed reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "143_28",
+      "sourceUUID": "48BBACE1-498F-59E5-B916-C078AD42302D",
+      "sourceDescription": "Sweeping, Push Broom",
+      "sourceSHA256": "e4bc1e1b2eea2c403e794e0f4cf8eff127edf4a22a3c9ef5f01aca8f42a71a27",
+      "frameCount": 643,
+      "frameInterval": 0.0083333,
+      "title": "Sweep with Short Forward Strokes",
+      "actionDescription": "The performer starts upright, leans and makes several low sweeping strokes while taking small steps, then straightens and steps away. The CMU source identifies a push broom.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping",
+        "push broom",
+        "floor",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_12",
+      "sourceUUID": "C3077B96-9D41-5F3C-8028-831AF92D82B9",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "f3100de4ba87d68f917fa66991e218a74ba324f67e1712c44166105f83ae740c",
+      "frameCount": 2753,
+      "frameInterval": 0.0083333,
+      "title": "Mime Washing a Window",
+      "actionDescription": "The performer bends forward, then alternates high one-handed arcs and lower reaches while shifting weight. The take ends with one arm extended, and the CMU source identifies window washing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "wiping motion",
+        "one-handed reach",
+        "high reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "05_11",
+      "sourceUUID": "664D343F-7220-5733-A61A-752E42AA6CC2",
+      "sourceDescription": "dance - sideways steps, pirouette",
+      "sourceSHA256": "50e801a21638ee2abf89fadba0ac99acd6de1650fca3510dc790fdd600fb3418",
+      "frameCount": 591,
+      "frameInterval": 0.0083333,
+      "title": "Dance Sideways, Turn, and Lunge",
+      "actionDescription": "Starting with both arms open, the performer takes side steps, spins with one knee lifted, and steps into a long lunge with one arm reaching diagonally upward. They lower the arms while holding the lunge.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "side steps",
+        "pirouette",
+        "lifted knee",
+        "lunge"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "05_14",
+      "sourceUUID": "74A8DA96-4C87-58D4-9A60-663293F27A41",
+      "sourceDescription": "dance - retire derriere, attitude/arabesque",
+      "sourceSHA256": "5511ea1303723125e38e7019aaa2db8bbe83e8294bc95e539694e9d7cf2bb9e2",
+      "frameCount": 642,
+      "frameInterval": 0.0083333,
+      "title": "Dance Through Two Raised-Leg Balances",
+      "actionDescription": "The performer steps from a narrow stance, opens the arms, and balances first with one knee forward and then with a bent leg raised behind. The phrase ends in a crossed stance with one arm raised.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "ballet",
+        "raised knee",
+        "rear leg lift",
+        "balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_04",
+      "sourceUUID": "6327D425-5895-55B7-A16F-14216BADC259",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "264de5a8d90e3af2f70f615fdb4c8bfb7828606b559d2ca0d8aa804eec544cc9",
+      "frameCount": 698,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel from an Arms-Out Stance",
+      "actionDescription": "The performer begins with feet apart and arms extended, tips sideways onto the hands, and passes through an inverted split. They return to an open standing stance with the arms extended.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        "inversion",
+        "hand support",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_07",
+      "sourceUUID": "C7B90A5D-3929-5632-B369-42510FF16229",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "2dfd53f94480217bce5f292a24a308323ed53d6ef4a460c595bbc774700e5ada",
+      "frameCount": 471,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel and Walk Away",
+      "actionDescription": "From standing, the performer steps into a cartwheel, placing the hands down as the legs pass overhead. They rise, turn, and walk away through the end of the take.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        "inversion",
+        "hand support",
+        "walk out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "111_40",
+      "sourceUUID": "EB74B17C-00C9-57B1-8A88-1723F25A45CB",
+      "sourceDescription": "Yoga",
+      "sourceSHA256": "05840391e6fcf5e9b882d5fa682c57761c2f5538d44b80d0f7a7202deac37bb3",
+      "frameCount": 307,
+      "frameInterval": 0.0083333,
+      "title": "Lower the Arms into a Standing Side Stretch",
+      "actionDescription": "The performer starts with feet wide and arms open at shoulder height, then lowers the arms and shifts into a brief side lean. They narrow the stance near the end.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        "standing stretch",
+        "side lean",
+        "wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "143_30",
+      "sourceUUID": "6D3DF37B-B4C3-51A0-8A5C-9768EECA01E8",
+      "sourceDescription": "Stretch And Yawn",
+      "sourceSHA256": "1fe2ef354edb63415477212fb15bdf189ca5ffede323c2be6188e9e027366d8f",
+      "frameCount": 370,
+      "frameInterval": 0.0083333,
+      "title": "Stretch Both Arms Up and Out",
+      "actionDescription": "From standing, the performer brings both hands up, tilts the head back, and opens both arms into a broad stretch. They lower the arms and return to standing.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "stretch",
+        "both arms",
+        "standing",
+        "head tilt"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
