@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "status": "proposed",
+  "categories": [
+    {
+      "id": "walking-turning",
+      "name": "Walking & Turning",
+      "definition": "Walking forward, backward, or sideways, or making a walking or in-place turn."
+    },
+    {
+      "id": "running-agility",
+      "name": "Running & Agility",
+      "definition": "Jogging, running, sprinting, or taking quick lateral steps, cuts, and dodges."
+    },
+    {
+      "id": "jumping-landing",
+      "name": "Jumping & Landing",
+      "definition": "Jumping, hopping, leaping, or landing after takeoff."
+    },
+    {
+      "id": "balance-recovery",
+      "name": "Balance & Recovery",
+      "definition": "Balancing, correcting a stumble or slip, falling, or recovering from a loss of balance."
+    },
+    {
+      "id": "stairs-climbing",
+      "name": "Stairs & Climbing",
+      "definition": "Going up or down stairs, stepping onto a raised surface, climbing, or hanging."
+    },
+    {
+      "id": "posture-changes",
+      "name": "Posture Changes",
+      "definition": "Sitting, standing up, kneeling, lying down, or moving between the floor and standing."
+    },
+    {
+      "id": "reaching-handling",
+      "name": "Reaching & Handling",
+      "definition": "Reaching for, lifting, carrying, placing, grasping, pushing, or pulling. Use tags for a box or another object when the source identifies it."
+    },
+    {
+      "id": "everyday-tasks",
+      "name": "Everyday Tasks",
+      "definition": "Acting out a recognizable routine such as dressing, washing, grooming, or cleaning."
+    },
+    {
+      "id": "gestures-pantomime",
+      "name": "Gestures & Pantomime",
+      "definition": "Waving, pointing, shrugging, signaling, or acting something out through body movement."
+    },
+    {
+      "id": "dance",
+      "name": "Dance",
+      "definition": "Performing dance steps, turns, or choreographed phrases."
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "definition": "Performing sport-specific actions such as a golf swing, basketball shot, or swim stroke."
+    },
+    {
+      "id": "acrobatics",
+      "name": "Acrobatics",
+      "definition": "Performing cartwheels, handstands, flips, rolls, or similarly gymnastic movements."
+    },
+    {
+      "id": "exercise-mobility",
+      "name": "Exercise & Mobility",
+      "definition": "Stretching, practicing yoga, or performing a drill or repeated range-of-motion exercise."
+    },
+    {
+      "id": "action-sequences",
+      "name": "Action Sequences",
+      "definition": "Performing several equally important actions with no single dominant movement."
+    },
+    {
+      "id": "poses-reference",
+      "name": "Poses & Reference",
+      "definition": "Holding a pose or performing a technical calibration or reference take."
+    }
+  ]
+}

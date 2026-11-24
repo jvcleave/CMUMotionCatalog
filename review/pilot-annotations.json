@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "takes": [
+    {
+      "takeID": "02_01",
+      "sourceUUID": "F72AC6F7-0208-557D-8420-4C774637B89E",
+      "sourceDescription": "walk",
+      "sourceSHA256": "cf56db43157acc3d200b3d4215523f54d354a8926bea67e1f6c8031bd335ba7e",
+      "frameCount": 343,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward at a Steady Pace",
+      "actionDescription": "Already mid-stride, the performer walks forward with an easy arm swing and remains in stride through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "steady pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "02_02",
+      "sourceUUID": "E916B5DF-BAD0-5CB3-9975-7D89B6CECF6F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "569a1dcb5dba169249761fe32c9fc1e5fed5e75db43bd50576a514e57d1ca7a1",
+      "frameCount": 298,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Longer Strides",
+      "actionDescription": "The performer is already walking when the take opens and takes long, even strides with a pronounced arm swing. The take ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "brisk walk",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "121_10",
+      "sourceUUID": "9250D557-FFCC-562C-B9E4-02F95A1296D5",
+      "sourceDescription": null,
+      "sourceSHA256": "ff98134caf711703d806f28f68f971c883a43b918e4282affde78896d8dfba48",
+      "frameCount": 2,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Bent-Knee Pose with Arms Raised",
+      "actionDescription": "The performer holds a wide stance with bent knees, one forearm extended outward and the other hand near the head. The pose is essentially unchanged across the two captured frames.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "wide stance",
+        "bent knees",
+        "arms raised",
+        "two frames"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_08",
+      "sourceUUID": "2C549C86-1507-5442-8D2C-A3596C2AB424",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "4d61823a460dc83886e73d673eb27387a4ca0e97b4a498d774757655482d41eb",
+      "frameCount": 3511,
+      "frameInterval": 0.0083333,
+      "title": "Gesture in Place, Bend, and Reach Overhead",
+      "actionDescription": "The performer stands nearly in place, gestures with both hands, folds forward at the waist and straightens, then reaches overhead and continues gesturing at chest and face height. The arms lower at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "both hands",
+        "forward bend",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
