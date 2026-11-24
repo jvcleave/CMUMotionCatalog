@@ -335,6 +335,113 @@
         "standing finish"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_20",
+      "sourceUUID": "3F2AF607-3305-5F11-BFA7-3530C5693BD2",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "c8f11a62cba1d24b17a49e2a26f617a81e3a9a8c659dd97810c72f4131317609",
+      "frameCount": 5719,
+      "frameInterval": 0.0083333,
+      "title": "Mime Window Washing with Repeated High Reaches",
+      "actionDescription": "From standing, the performer repeatedly lifts one hand above shoulder height, lowers it past the face, and shifts between feet. The final pose keeps the hand near the head.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "high reach",
+        "one hand",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_21",
+      "sourceUUID": "A3D3BCA6-03EC-596A-B9FE-985F62AF4FA7",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "d57a013fc04018187c62cea62535ad946ce2d45d4abedf728dc596c989bbedfd",
+      "frameCount": 5439,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Low and High Window-Washing Motions",
+      "actionDescription": "The performer starts leaning forward, alternates low forward reaches with hand sweeps around forehead height, and straightens into a wide stance with arms lowered.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "forward lean",
+        "high and low reaches"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_22",
+      "sourceUUID": "20D25DEF-28E5-558D-A54C-BC31E8D2CE39",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "5cf24a2d7547a99762c9091888befa6b4a7cb60e2c27865ef753b9dfb68c9e11",
+      "frameCount": 4962,
+      "frameInterval": 0.0083333,
+      "title": "Repeat One-Handed Wiping Arcs",
+      "actionDescription": "The performer starts with one hand already raised and traces repeated diagonal arcs while shifting weight and turning slightly. The hand remains extended in the last pose.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "diagonal arcs",
+        "raised hand",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_23",
+      "sourceUUID": "319C9BB5-9F4D-549C-BFA4-44E86B26413B",
+      "sourceDescription": "sweep floor",
+      "sourceSHA256": "09963a4e3253caa8273358d40e277f465ef76932e30f6cdfb0c2d6a9e607fedc",
+      "frameCount": 4017,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sweeping with Forward Bends",
+      "actionDescription": "The performer alternates upright resets with pronounced forward bends and low arm strokes. The take ends upright with the hands gathered near the upper torso.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping",
+        "forward bend",
+        "low strokes",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_24",
+      "sourceUUID": "487BF4A2-D534-5715-97F6-02C8AB3A6260",
+      "sourceDescription": "sweep floor",
+      "sourceSHA256": "1e2a989e1336ca6eeafd86a6df79dc6bbfb6b46105364757c35230ec40d45e58",
+      "frameCount": 4034,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sweeping While Turning",
+      "actionDescription": "The performer bends and makes short low strokes, straightens between passes, and turns through several headings. The final pose is still bent forward.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping",
+        "low strokes",
+        "turns",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_25",
+      "sourceUUID": "F072F9E2-C61E-5E8D-9AE1-1154252E826A",
+      "sourceDescription": "sweep floor",
+      "sourceSHA256": "f57a7805b991b336219aaa1cb69688988a4e0c8db6f7fa3c103ae127d57872e3",
+      "frameCount": 4009,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sweeping in a Side-Facing Stance",
+      "actionDescription": "The performer opens upright, leans and makes repeated low sweeping motions with bent knees, and finishes side-facing with the hands extended in front.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping",
+        "side-facing",
+        "bent knees",
+        "repeated"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
