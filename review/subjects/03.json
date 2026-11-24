@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "subject": "03",
+  "takes": [
+    {
+      "takeID": "03_01",
+      "sourceUUID": "DA7CA276-59F5-5FDA-8D05-D5A52D7AF69C",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "116bdcb9ac81d39098389097fbfe4a0ee988b183b78badd338862b48ddb8b5a6",
+      "frameCount": 432,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Uneven Steps",
+      "actionDescription": "The performer starts mid-step and walks forward with alternating knee lifts and variable foot placement, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "uneven terrain",
+        "irregular steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "03_02",
+      "sourceUUID": "7CAB5AA2-7AFD-5A31-B856-C5944B5150E0",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "6081d9ff5b08fa750e974328dc56b450ba799abaeae7b94905237e9b505b50fe",
+      "frameCount": 365,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward from an Arms-Out Start",
+      "actionDescription": "The performer starts with arms extended while stepping forward, lowers them, and continues with variable knee height. The take ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "uneven terrain",
+        "irregular steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "03_03",
+      "sourceUUID": "ABA8B540-B579-5E61-9727-DAA845CFBC3F",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "e32073a620ab5b11c598c7227990a216b6decdbad4cd047fb3579109e70ce067",
+      "frameCount": 4563,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer starts stepping and continues through a long stretch of alternating high steps, intermittent forward leans, and turns. They face toward the original camera again near the end and finish mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "uneven terrain",
+        "turn",
+        "high knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "03_04",
+      "sourceUUID": "86988F93-D7A6-518E-9500-2D0AE1F05EE1",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "99117f928db2765412a9e57ee9fdb4573e3eea3eb2f35bdacf869ed66ca3d7e2",
+      "frameCount": 4722,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and a Side-Facing Finish",
+      "actionDescription": "The performer starts mid-step, takes irregular alternating steps with periodic raised knees, and changes heading while leaning forward slightly. The take ends moving in side profile.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "uneven terrain",
+        "turn",
+        "high knees"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
