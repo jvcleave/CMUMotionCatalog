@@ -56,5 +56,3 @@ The source captures come from the [CMU Graphics Lab Motion Capture Database](htt
 The MotionBuilder-friendly BVH conversion is by Bruce Hahne.
 See the [CMU data terms](https://mocap.cs.cmu.edu/) and
 [cgspeed conversion notes](https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/the-motionbuilder-friendly-bvh-conversion-release-of-cmus-motion-capture-database/readme-file-for-the-bvh-conversion-release).
-The rendered Default Human uses the
-[MPFB core assets prepared for MessCharacterCreator](https://github.com/jvcleave/MessCharacterCreatorApp/releases/tag/mpfb-core-2.0.18-r1).
