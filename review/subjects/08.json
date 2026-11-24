@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "subject": "08",
+  "takes": [
+    {
+      "takeID": "08_01",
+      "sourceUUID": "03F4D4E3-D6AC-5E70-94AE-FDAECCB9242F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "4e6cc1e0aa8b6b112be25b6aab5db8f176094181280b2c8ebcf903ede66e6e98",
+      "frameCount": 277,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_02",
+      "sourceUUID": "E43E0F23-E765-516D-879C-3C23AAB46183",
+      "sourceDescription": "walk",
+      "sourceSHA256": "fa3908bdd8d1842e4c9efd2c91ee94d76d82ebd4049d9468435ce82245bd11a0",
+      "frameCount": 309,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_03",
+      "sourceUUID": "339B7178-9628-5392-8C15-FACDFEC9649F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "341df8c3b8d99976e8fe320ddc3e1cd764f55ecac3165e69df07ef0e439b5ca5",
+      "frameCount": 353,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_04",
+      "sourceUUID": "D836674D-F320-565A-AB91-4E228E92A21A",
+      "sourceDescription": "slow walk",
+      "sourceSHA256": "1acf07634f97a864cb764f4adf22e5ef950ccff32748ea2f62b772bd81010176",
+      "frameCount": 484,
+      "frameInterval": 0.0083333,
+      "title": "Slow walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait",
+        "slow"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_05",
+      "sourceUUID": "CEEE1670-DFC5-58F5-B017-64E5E3263B1A",
+      "sourceDescription": "walk/stride",
+      "sourceSHA256": "b77577ba28fb1772f381caf02082d53030cbfd53de802a113b151f37a8f87eca",
+      "frameCount": 298,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_06",
+      "sourceUUID": "328504E1-A753-5096-ACFD-F744A92BBA2F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ec6bf95c1c05f3d6eb74b4755db13615efb34e7054065f5e2c241917cc5ec3ce",
+      "frameCount": 296,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_07",
+      "sourceUUID": "569FB8E8-A4F4-5112-A08A-27D22F41EE06",
+      "sourceDescription": "walk, exaggerated stride",
+      "sourceSHA256": "1cee2ea0728d61b44a06d0d686c8a20631f8900b424de47bc30834c24816da7f",
+      "frameCount": 302,
+      "frameInterval": 0.0083333,
+      "title": "Walking with exaggerated strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating pronounced strides with stronger arm movement and raised knees, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait",
+        "exaggerated stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_08",
+      "sourceUUID": "A62490A1-4B78-5167-9B24-A213604EFE4E",
+      "sourceDescription": "walk",
+      "sourceSHA256": "acd574f300ef4866e74182f1a5284113c206c8f3dea76d85016db91827464812",
+      "frameCount": 283,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_09",
+      "sourceUUID": "C35F39BE-63EB-5B18-AAD2-DF0AD7C01A5D",
+      "sourceDescription": "walk",
+      "sourceSHA256": "938c69eb38b69bb061fdd4919141ecb03c1f3d593d1a6040ec599ea25deb5940",
+      "frameCount": 293,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_10",
+      "sourceUUID": "F47BA478-6835-56A3-92A3-EAE7AE001905",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ffbe5c67235e820389ea1f26bdd90840420f25efee64d495a2335827d7166d73",
+      "frameCount": 275,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "08_11",
+      "sourceUUID": "8101E01B-9236-5AA0-9B34-2BB3221AC73B",
+      "sourceDescription": "slow walk/stride",
+      "sourceSHA256": "bfae5b6a26ade217c171e3ba028d8a01af9f95e908328e611bd7d9c2a8616d9c",
+      "frameCount": 375,
+      "frameInterval": 0.0083333,
+      "title": "Slow walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps with a narrow foot path and arms swinging across or close to the torso, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait",
+        "slow"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
