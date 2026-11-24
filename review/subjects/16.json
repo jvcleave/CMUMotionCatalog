@@ -201,6 +201,200 @@
         "veer left"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_13",
+      "sourceUUID": "0F12C3E8-AF27-5D89-9D07-A404980A1315",
+      "sourceDescription": "walk, veer right",
+      "sourceSHA256": "20a626c60b9e4875c82bbc8a012e845738a087764cde1414635e8ddba6ebacb1",
+      "frameCount": 444,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer right",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps while veering right, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_14",
+      "sourceUUID": "80778AF9-F77E-50A7-A3C0-07F02FEF6EE7",
+      "sourceDescription": "walk, veer right",
+      "sourceSHA256": "9170660befa6997ea566dc9b44affdfd1e0f34f805761a5c0e5859c5b158363e",
+      "frameCount": 476,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer right",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps while veering right, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_15",
+      "sourceUUID": "83CF871C-E9E8-578D-93A2-8B75EF8C665C",
+      "sourceDescription": "walk",
+      "sourceSHA256": "7459cd4be169477b4e2c629075a9cde9436e37a87cdf4e774574400f4ec942d8",
+      "frameCount": 471,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride with one arm extended, lowers it and continues alternating walking steps with relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_16",
+      "sourceUUID": "DC27F952-99B7-5E84-BDAE-BCE7EFCD184E",
+      "sourceDescription": "walk",
+      "sourceSHA256": "5a488ffbcb1eddde29ed65c62d6acf32acd971c5e980ac36b8c622b395d211d8",
+      "frameCount": 510,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating walking steps with relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_18",
+      "sourceUUID": "0B4618C0-0F1F-54C1-98D4-19864FF6BF9B",
+      "sourceDescription": "walk, 90-degree left turn",
+      "sourceSHA256": "0c2e1723ebaf44cf8b8476ed307b6a12d345626123713c99f55c74a3ba1c6ae8",
+      "frameCount": 520,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "The performer starts mid-stride, walks into a 90-degree left turn and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_19",
+      "sourceUUID": "56530198-6953-5D37-99BF-D88A88AD93ED",
+      "sourceDescription": "walk, 90-degree right turn",
+      "sourceSHA256": "bd5f6f56d52d0b5cd13e657f8cebfc15d70f07f063f6fd1b540ca8778efbce80",
+      "frameCount": 410,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "The performer starts mid-stride, walks into a 90-degree right turn and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_21",
+      "sourceUUID": "079235B9-6949-5B57-BF38-084DEA0BCA16",
+      "sourceDescription": "walk",
+      "sourceSHA256": "fa1ac84e2efca453c4cd002b0d908f1e6c1fab4aa237898ac3ee5c80efdddd0e",
+      "frameCount": 312,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating walking steps with relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_22",
+      "sourceUUID": "E0156F0B-A5AA-5855-81C9-95C93C61231B",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ad0f1cd8fb4c1d41adabd8c62128b3cdd7362eb99ec45c13ab1eb1befb552553",
+      "frameCount": 307,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride and continues alternating walking steps with relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_23",
+      "sourceUUID": "E4C5879C-5542-5766-A51B-2D7A44B24959",
+      "sourceDescription": "walk, veer left",
+      "sourceSHA256": "9db1d06fdc1e54acfdb1ff3fdde9e19f149352c5638814629fc9e651ff6d2852",
+      "frameCount": 299,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer left",
+      "actionDescription": "The performer starts mid-stride with one arm extended, lowers it and continues alternating steps while veering left, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_24",
+      "sourceUUID": "4FD0F417-4BA9-50F0-A359-F5E10AE8F363",
+      "sourceDescription": "walk, veer left",
+      "sourceSHA256": "8ed0c2155da9dee64e04e738817cb3c67ea8d28f05ff7d561b170214fe5cfd99",
+      "frameCount": 297,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer left",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps while veering left, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_25",
+      "sourceUUID": "956DDE46-3549-58BE-AD1C-FA528FF62559",
+      "sourceDescription": "walk, veer right",
+      "sourceSHA256": "20c593a34349f6616e0190711e2f131ceeb30d9b62d4bd2227add8e0e8272fd0",
+      "frameCount": 284,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer right",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps while veering right, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_26",
+      "sourceUUID": "84A0C4A3-CF4D-5685-85A4-DD84D2970081",
+      "sourceDescription": "walk, veer right",
+      "sourceSHA256": "2b29920059e5384d39b1080f778540e5a9f8f7e9452354e35997f2c111349abe",
+      "frameCount": 269,
+      "frameInterval": 0.0083333,
+      "title": "Walk and veer right",
+      "actionDescription": "The performer starts mid-stride and continues alternating steps while veering right, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "veer right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
