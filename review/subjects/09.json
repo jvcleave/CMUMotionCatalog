@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "subject": "09",
+  "takes": [
+    {
+      "takeID": "09_01",
+      "sourceUUID": "EE85D615-4EE7-5F4B-A62D-79F3E07A5D5E",
+      "sourceDescription": "run",
+      "sourceSHA256": "90641ccca814b9d8d59f63576a548bb5612477364462d142a9f741268fbe3b78",
+      "frameCount": 148,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_02",
+      "sourceUUID": "F453BDF7-9C0E-505F-A78A-FB688F7C038A",
+      "sourceDescription": "run",
+      "sourceSHA256": "96cc613c494a44d593c97e3dd475d10d768eb7fc7ea8c4c6eee813ae69922cb8",
+      "frameCount": 130,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_03",
+      "sourceUUID": "A04A3DF9-AA8D-5C39-BC0A-EC82A939D5B7",
+      "sourceDescription": "run",
+      "sourceSHA256": "275d24814053eb17d6c46e00f396c4138d98c62fe5d68940447fb4ec29c4c042",
+      "frameCount": 128,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_04",
+      "sourceUUID": "B2BEB81F-0B43-5200-AD13-B638C78234EF",
+      "sourceDescription": "run",
+      "sourceSHA256": "9fd8f872739053df52ecd1b26f499ee74520837062cd5bedfad2cfdfbe7cdc40",
+      "frameCount": 137,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_05",
+      "sourceUUID": "8F3D2CF8-F2D8-509D-BBC6-FF3714A2ECC1",
+      "sourceDescription": "run",
+      "sourceSHA256": "d2841178b030656661f8e05810487c269563ce2e7cf03799c0129fbf02d935e5",
+      "frameCount": 143,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_06",
+      "sourceUUID": "B2E8BBE6-8D75-5E42-A526-F46D42DE5AA6",
+      "sourceDescription": "run",
+      "sourceSHA256": "d6470e7caad38c7a687ea84bf147077c7c07c41ac8c8d6126039976f50f6baf7",
+      "frameCount": 141,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_07",
+      "sourceUUID": "5D44BD62-A75F-5AE3-A5E6-01972FF2D88B",
+      "sourceDescription": "run",
+      "sourceSHA256": "4a4afc1d0fdd789629038421f33bb433604537e0e7bd08d0b0ec41729fdeeb99",
+      "frameCount": 138,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_08",
+      "sourceUUID": "814C515F-DDB1-56AF-91D0-72AF45C24A42",
+      "sourceDescription": "run",
+      "sourceSHA256": "991fe93d5aa15110434a48884847160efc6d5c859e44690322c2c6f9977a02b8",
+      "frameCount": 128,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_09",
+      "sourceUUID": "B3456852-D969-599F-9C5A-E085876547D3",
+      "sourceDescription": "run",
+      "sourceSHA256": "d90acf71e38651648559c653a9bfc46e7ec6123f6b17fc7b619fccf37d79c211",
+      "frameCount": 152,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_10",
+      "sourceUUID": "9F8F2E0A-CB01-5700-9DC1-E8CD903C9FE1",
+      "sourceDescription": "run",
+      "sourceSHA256": "1149cbc2d6d4603ac7a0cb5bca7ee4dce938a5e87db965793a10b6922d8f4f87",
+      "frameCount": 132,
+      "frameInterval": 0.0083333,
+      "title": "Run Forward with Bent-Arm Swing",
+      "actionDescription": "After four arms-out frames, the performer runs forward with bent elbows and alternating strides. The source jumps into the run, which ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Captured frames 1–4 have all-zero channels. Frame 5 (0.0333 s) is the first moving pose and follows a 1.609 m horizontal root discontinuity. Preserve source frame numbers while deciding how to expose the usable start."
+    },
+    {
+      "takeID": "09_11",
+      "sourceUUID": "DA3CD5F6-64E9-5644-8AF5-EE33F1014CE6",
+      "sourceDescription": "run",
+      "sourceSHA256": "1ecc12d8ae242f271d8e1b17ac9b204d1c71cb17d06ba881bc1915a5b72dc712",
+      "frameCount": 165,
+      "frameInterval": 0.0083333,
+      "title": "Running strides",
+      "actionDescription": "The performer starts mid-stride and continues alternating running strides with bent arms pumping, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "09_12",
+      "sourceUUID": "E82E81DA-00EF-58DD-9384-E2112FC41003",
+      "sourceDescription": "navigate - walk forward, backward, sideways",
+      "sourceSHA256": "1e1f2d1468fba783cedf4c42a6de60d5113e891a91566b6da1d77c5a1a3a2238",
+      "frameCount": 1918,
+      "frameInterval": 0.0083333,
+      "title": "Walking in multiple directions",
+      "actionDescription": "The performer starts standing, walks and turns through several orientations with forward, backward and sideways steps, then slows toward the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward",
+        "backward",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
