@@ -12,8 +12,8 @@ it in the BVH. Convert a captured frame to seconds with
 `(frame - 1) * frameInterval`.
 
 Run `python3 review/validate.py` before committing a batch. Add `--complete`
-for the final coverage check. Review renders and model evidence are kept in
-local build storage.
+for the pilot coverage check and `--catalog-complete` for the release coverage
+check. Review renders and model evidence are kept in local build storage.
 
 The [pilot results](pilot-results.md) record the model comparison and timing.
 For subject review, add each batch to `subjects/<subject>.json` with
@@ -30,3 +30,6 @@ Run `python3 review/pending.py SUBJECT` to check the queue for a subject. It
 shows reviewed takes that share the pinned BVH digest and calls out differences
 in source context. Reuse only editorial fields that apply to both records.
 Use `--ids` to get the pending take IDs for the Creator renderer.
+
+The [source timing audit](source-timing.md) lists takes with leading all-zero
+captured frames and the open decision about their usable starts.

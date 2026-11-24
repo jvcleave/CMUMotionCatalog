@@ -23,7 +23,7 @@ def index(rows, key):
     return result
 
 
-def validate(require_complete, proposed_checkpoint=None):
+def validate(require_complete, proposed_checkpoint=None, require_catalog_complete=False):
     source = index(read("catalog/source-catalog.json")["takes"], "trialID")
     display = index(read("catalog/catalog.json")["takes"], "takeID")
     batches = index(read("review/pilot.json")["batches"], "id")
@@ -115,10 +115,16 @@ def validate(require_complete, proposed_checkpoint=None):
     if checkpoints:
         print(f"{len(annotations)}/{len(source)} catalog takes annotated, "
               f"{len(flagged)} flagged across pilot and subject checkpoints.")
+    if require_catalog_complete and (annotations.keys() != source.keys() or flagged):
+        raise ValueError(
+            f"Catalog review has {len(source.keys() - annotations.keys())} pending takes "
+            f"and {len(flagged)} flagged annotations."
+        )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--complete", action="store_true", help="Require final coverage and no flagged takes.")
+    parser.add_argument("--complete", action="store_true", help="Require pilot coverage and no flagged pilot takes.")
+    parser.add_argument("--catalog-complete", action="store_true", help="Require coverage and no flags across the catalog.")
     args = parser.parse_args()
-    validate(args.complete)
+    validate(args.complete or args.catalog_complete, require_catalog_complete=args.catalog_complete)
