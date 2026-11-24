@@ -1,0 +1,499 @@
+{
+  "schemaVersion": 1,
+  "subject": "01",
+  "takes": [
+    {
+      "takeID": "01_01",
+      "sourceUUID": "ED97F512-1D36-5027-8DCE-7FA072445F50",
+      "sourceDescription": "playground - forward jumps, turn around",
+      "sourceSHA256": "305cc58cba2314e2686b7207ffb433946d7bbfd0a396ac8110df8f57b54f8481",
+      "frameCount": 2751,
+      "frameInterval": 0.0083333,
+      "title": "Repeat Forward Jumps and Turn Around",
+      "actionDescription": "From standing, the performer makes a series of forward jumps with bent-knee landings, turns around, and repeats the jumps in the opposite direction. The take ends just after the last landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward jumps",
+        "turn",
+        "playground",
+        "landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "01_02",
+      "sourceUUID": "12D84F87-0503-552B-A295-F3045BADE13C",
+      "sourceDescription": "playground - climb",
+      "sourceSHA256": "0086a96afe641d30af6c285e93ccf3bb9bb95630b31f91ee6a761b293219545f",
+      "frameCount": 4346,
+      "frameInterval": 0.0083333,
+      "title": "Repeated playground climbing",
+      "actionDescription": "The performer starts standing, walks into repeated high-knee climbing motions, bends and lowers the body, walks, then repeats before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "playground",
+        "high knee"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 1201,
+          "title": "First climbing passage"
+        },
+        {
+          "startFrame": 1801,
+          "endFrame": 2521,
+          "title": "Bent-knee climb and lower"
+        },
+        {
+          "startFrame": 3121,
+          "endFrame": 4201,
+          "title": "Second climbing passage"
+        }
+      ]
+    },
+    {
+      "takeID": "01_03",
+      "sourceUUID": "9A1C4163-C179-530E-BC17-42EDAC31F76A",
+      "sourceDescription": "playground - climb, hang, swing",
+      "sourceSHA256": "54f298c2ce0f833320166a97c5f6b500d07dfc28ac1ba7c0953311df4a1bd1a8",
+      "frameCount": 4510,
+      "frameInterval": 0.0083333,
+      "title": "Climb, hang, and swing twice",
+      "actionDescription": "The performer starts standing, makes climbing steps and bends forward, then raises both hands overhead in a hanging and swinging posture; walks and repeats before ending upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "hang",
+        "swing",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 241,
+          "endFrame": 1441,
+          "title": "First climb"
+        },
+        {
+          "startFrame": 1561,
+          "endFrame": 2161,
+          "title": "First hang and swing"
+        },
+        {
+          "startFrame": 2401,
+          "endFrame": 3361,
+          "title": "Second climb"
+        },
+        {
+          "startFrame": 3601,
+          "endFrame": 4201,
+          "title": "Second hang and swing"
+        }
+      ]
+    },
+    {
+      "takeID": "01_04",
+      "sourceUUID": "A539B81C-E5F5-521C-AF53-A25A287D752E",
+      "sourceDescription": "playground - climb",
+      "sourceSHA256": "9a6551e29f9dd18242269282ebf78e7a38e2d505edb1e985fb598be47d7ffacb",
+      "frameCount": 4298,
+      "frameInterval": 0.0083333,
+      "title": "Two climbing passages",
+      "actionDescription": "The performer starts walking, lifts a knee and crouches, raises both arms and leans back, lowers and walks, then repeats a similar sequence before walking away.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "playground",
+        "reach overhead"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 481,
+          "endFrame": 1801,
+          "title": "First climb and lower"
+        },
+        {
+          "startFrame": 2521,
+          "endFrame": 3721,
+          "title": "Second climb and lower"
+        }
+      ]
+    },
+    {
+      "takeID": "01_05",
+      "sourceUUID": "23E98F58-3ABE-5CEA-89F8-59C4404CD5DE",
+      "sourceDescription": "playground - climb, go under",
+      "sourceSHA256": "e4b67068c9ee49b6fa58e9b61864307e5f8648e35dc715ac088e47062e8e07a7",
+      "frameCount": 4376,
+      "frameInterval": 0.0083333,
+      "title": "Climb and go under",
+      "actionDescription": "The performer starts standing, steps into a climb with bent torso and raised arms, lowers and walks, then makes repeated low crouching movements with raised hands before another climbing passage and return to standing.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "go under",
+        "crouch",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 1561,
+          "title": "First climb"
+        },
+        {
+          "startFrame": 1921,
+          "endFrame": 3001,
+          "title": "Low crouches and under passage"
+        },
+        {
+          "startFrame": 3241,
+          "endFrame": 4081,
+          "title": "Second climb"
+        }
+      ]
+    },
+    {
+      "takeID": "01_06",
+      "sourceUUID": "51BB39BD-102C-584D-9D40-4C2CBC31965F",
+      "sourceDescription": "playground - climb, sit, dangle legs, descend",
+      "sourceSHA256": "8882922f6d51ab25cf7c44ac31e23ad21b5deaebc3332c74b01e2a61cb751b1a",
+      "frameCount": 5133,
+      "frameInterval": 0.0083333,
+      "title": "Climb, sit, and descend",
+      "actionDescription": "The performer starts standing, walks into high-knee climbing movements and holds arms overhead with bent legs, lowers and walks, then repeats raised-arm and stepping movements before finishing upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "sit",
+        "dangle legs",
+        "descend",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 841,
+          "title": "Climb"
+        },
+        {
+          "startFrame": 842,
+          "endFrame": 1441,
+          "title": "Seated or dangling posture"
+        },
+        {
+          "startFrame": 1442,
+          "endFrame": 1681,
+          "title": "Lower and step away"
+        },
+        {
+          "startFrame": 1921,
+          "endFrame": 2881,
+          "title": "Second climb and overhead hold"
+        },
+        {
+          "startFrame": 3721,
+          "endFrame": 4681,
+          "title": "Repeat overhead hold and descend"
+        }
+      ]
+    },
+    {
+      "takeID": "01_08",
+      "sourceUUID": "C2E46F2D-AEA0-5342-B906-F1C3D105C6B0",
+      "sourceDescription": "playground - climb, sit, dangle legs, rock back, lower self to ground",
+      "sourceSHA256": "d751a9355cf3610cdae6d7ec4f2bda4cc71a29eec57e6f7e2384f64e33044bbb",
+      "frameCount": 2610,
+      "frameInterval": 0.0083333,
+      "title": "Climb, sit, rock, and lower",
+      "actionDescription": "The performer starts walking, climbs with raised knees and a forward bend, shifts into a suspended seated posture with raised arms, extends the legs and rocks back, then lowers to standing and walks.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "sit",
+        "dangle legs",
+        "rock back",
+        "lower",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 1201,
+          "title": "Climb"
+        },
+        {
+          "startFrame": 1202,
+          "endFrame": 2257,
+          "title": "Sit, dangle, and rock"
+        },
+        {
+          "startFrame": 2258,
+          "endFrame": 2401,
+          "title": "Lower to ground"
+        }
+      ]
+    },
+    {
+      "takeID": "01_09",
+      "sourceUUID": "F45796DE-4494-56F6-A8F9-FD80FF5AAA75",
+      "sourceDescription": "playground - climb, hang, hold self up with arms straight, swing, drop, sit, dangle legs, go under",
+      "sourceSHA256": "2efceb3dc8bbce5933f96867c982a5de4007e872bb6614d9a0073dd62973babd",
+      "frameCount": 4242,
+      "frameInterval": 0.0083333,
+      "title": "Climb, swing, and go under",
+      "actionDescription": "The performer starts walking, climbs, reaches overhead and swings with the legs lifted before dropping. They walk into another climb and make several low sideways movements before finishing upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "hang",
+        "swing",
+        "drop",
+        "sit",
+        "go under",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 961,
+          "title": "Climb"
+        },
+        {
+          "startFrame": 962,
+          "endFrame": 1801,
+          "title": "Hang, swing, and drop"
+        },
+        {
+          "startFrame": 2161,
+          "endFrame": 2641,
+          "title": "Second climb"
+        },
+        {
+          "startFrame": 2642,
+          "endFrame": 3241,
+          "title": "Low seated or under movement"
+        },
+        {
+          "startFrame": 3841,
+          "endFrame": 4201,
+          "title": "Final crouch and rise"
+        }
+      ]
+    },
+    {
+      "takeID": "01_10",
+      "sourceUUID": "8F7B864E-58A9-5076-89E5-7F4A6B503E11",
+      "sourceDescription": "playground - climb, swing, lean back, drop",
+      "sourceSHA256": "b663fe0872c7d0d7ba0d61db48192053b2ba91cceb6206f514dbb9733adbbb4b",
+      "frameCount": 3266,
+      "frameInterval": 0.0083333,
+      "title": "Climb, swing, and drop",
+      "actionDescription": "The performer begins standing, raises both arms, walks and climbs, then repeatedly holds a bent-leg hanging posture and leans back before lowering to standing.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "swing",
+        "lean back",
+        "drop",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 121,
+          "endFrame": 661,
+          "title": "Overhead reach and swing"
+        },
+        {
+          "startFrame": 841,
+          "endFrame": 1321,
+          "title": "Climb"
+        },
+        {
+          "startFrame": 1322,
+          "endFrame": 2281,
+          "title": "Hang, swing, and drop"
+        },
+        {
+          "startFrame": 2401,
+          "endFrame": 3061,
+          "title": "Repeat overhead swing and lower"
+        }
+      ]
+    },
+    {
+      "takeID": "01_11",
+      "sourceUUID": "8A9EE9F8-75CF-594F-85AC-63850DD612C0",
+      "sourceDescription": "playground - climb, hang, lean over, jump down",
+      "sourceSHA256": "76e58fc2879aafb852552bf4610ff0c21216cd3817e96715a6ad333328f95143",
+      "frameCount": 4654,
+      "frameInterval": 0.0083333,
+      "title": "Climb, hang, lean, and jump down",
+      "actionDescription": "The performer starts walking and climbs with raised arms, leans forward and lowers, then repeats a suspended-looking reach and bent-leg hang before coming down and walking.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "hang",
+        "lean",
+        "jump down",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 361,
+          "endFrame": 1321,
+          "title": "Climb and forward lean"
+        },
+        {
+          "startFrame": 1921,
+          "endFrame": 2965,
+          "title": "Hang and lean"
+        },
+        {
+          "startFrame": 2966,
+          "endFrame": 3121,
+          "title": "Come down"
+        },
+        {
+          "startFrame": 3361,
+          "endFrame": 4261,
+          "title": "Repeat climb and lower"
+        }
+      ]
+    },
+    {
+      "takeID": "01_12",
+      "sourceUUID": "187326D1-DBE2-5DF7-8AC3-DB1C0F8BE22A",
+      "sourceDescription": "playground - climb, pull up, dangle, sit, lower self to ground",
+      "sourceSHA256": "90f247374acd8f39b2fd41fa6da689f1180600825347e5e7c3e133434c6c07e5",
+      "frameCount": 4109,
+      "frameInterval": 0.0083333,
+      "title": "Climb, pull up, dangle, and lower",
+      "actionDescription": "The performer starts standing, raises both arms and draws the legs up in a hanging posture, returns to standing, then repeats bent-leg suspended movements before lowering and walking away.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "pull up",
+        "dangle",
+        "sit",
+        "lower",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 121,
+          "endFrame": 601,
+          "title": "Reach and pull up"
+        },
+        {
+          "startFrame": 602,
+          "endFrame": 1321,
+          "title": "Hang and lower"
+        },
+        {
+          "startFrame": 1681,
+          "endFrame": 2941,
+          "title": "Climb and seated hanging posture"
+        },
+        {
+          "startFrame": 2942,
+          "endFrame": 3121,
+          "title": "Lower to ground"
+        },
+        {
+          "startFrame": 3361,
+          "endFrame": 3961,
+          "title": "Repeat suspended movement and descend"
+        }
+      ]
+    },
+    {
+      "takeID": "01_13",
+      "sourceUUID": "A1D5E9BD-EDC8-56AB-8FDF-1AC4FFD4E2E9",
+      "sourceDescription": "playground - climb, go under, jump down",
+      "sourceSHA256": "02f610150605226d5057f741753839ac36ee8d79ed35b87a73a29622a9447b39",
+      "frameCount": 3385,
+      "frameInterval": 0.0083333,
+      "title": "Climb, go under, and jump down",
+      "actionDescription": "The performer starts standing, moves into low crouches with arms raised, steps and climbs with a high knee, repeats raised-arm and bent-leg positions, then returns to standing.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "go under",
+        "jump down",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 121,
+          "endFrame": 721,
+          "title": "Low under movement"
+        },
+        {
+          "startFrame": 961,
+          "endFrame": 1321,
+          "title": "Climb and lower"
+        },
+        {
+          "startFrame": 2161,
+          "endFrame": 2641,
+          "title": "Second climb and lower"
+        },
+        {
+          "startFrame": 2642,
+          "endFrame": 3121,
+          "title": "Low suspended posture and return"
+        }
+      ]
+    },
+    {
+      "takeID": "01_14",
+      "sourceUUID": "5C52A4BD-91C5-5DAA-AC67-F22EF6F20057",
+      "sourceDescription": "playground - climb, jump down, dangle, legs push off against",
+      "sourceSHA256": "2cc06d975654001fd63aa8f0e17d41c3171dcbd653bde8b61dc45ea0ea3b5553",
+      "frameCount": 2338,
+      "frameInterval": 0.0083333,
+      "title": "Hanging leg pushes and descents",
+      "actionDescription": "The performer starts already in a bent-leg suspended posture, repeatedly reaches overhead and raises or extends the legs, comes upright, then repeats dangling and stepping movements before ending walking.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "climb",
+        "hang",
+        "dangle",
+        "leg push",
+        "jump down",
+        "playground"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1,
+          "endFrame": 841,
+          "title": "Suspended leg movements and descent"
+        },
+        {
+          "startFrame": 961,
+          "endFrame": 1921,
+          "title": "Repeat dangling and lowering"
+        },
+        {
+          "startFrame": 2041,
+          "endFrame": 2338,
+          "title": "Final bent-leg movement and walk"
+        }
+      ]
+    }
+  ]
+}

@@ -20,3 +20,8 @@ For subject review, add each batch to `subjects/<subject>.json` with
 `schemaVersion`, `subject`, and a `takes` array using the annotation format.
 Reuse pilot entries by source UUID. Keep takes in capture order within a
 subject, and leave a precise follow-up note on any provisional assignment.
+
+To add or replace adjudicated rows, run
+`python3 review/checkpoint.py SUBJECT DRAFT.json`. The draft needs a `takes`
+array with each take ID and editorial fields. The tool copies pinned source
+fields from the catalog and validates the proposed checkpoint before writing it.

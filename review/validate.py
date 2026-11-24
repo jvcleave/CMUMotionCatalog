@@ -23,7 +23,7 @@ def index(rows, key):
     return result
 
 
-def validate(require_complete):
+def validate(require_complete, proposed_checkpoint=None):
     source = index(read("catalog/source-catalog.json")["takes"], "trialID")
     display = index(read("catalog/catalog.json")["takes"], "takeID")
     batches = index(read("review/pilot.json")["batches"], "id")
@@ -50,14 +50,18 @@ def validate(require_complete):
     pilot = index(read("review/pilot-annotations.json")["takes"], "takeID")
     if not pilot.keys() <= roster.keys():
         raise ValueError("The pilot annotations must stay within the pilot roster.")
+    subject_data = {
+        path.stem: json.loads(path.read_bytes())
+        for path in sorted((ROOT / "review/subjects").glob("*.json"))
+    }
+    if proposed_checkpoint is not None:
+        subject_data[proposed_checkpoint["subject"]] = proposed_checkpoint
     checkpoints = []
-    for path in sorted((ROOT / "review/subjects").glob("*.json")):
-        data = json.loads(path.read_bytes())
-        subject = path.stem
+    for subject, data in subject_data.items():
         if data["subject"] != subject or not data["takes"]:
-            raise ValueError(f"Invalid subject checkpoint {path.name}.")
+            raise ValueError(f"Invalid subject checkpoint {subject}.json.")
         if any(take["takeID"].split("_")[0] != subject for take in data["takes"]):
-            raise ValueError(f"A take appears in the wrong subject checkpoint {path.name}.")
+            raise ValueError(f"A take appears in the wrong subject checkpoint {subject}.json.")
         checkpoints.extend(data["takes"])
     annotations = index([*pilot.values(), *checkpoints], "takeID")
     index(annotations.values(), "sourceUUID")
