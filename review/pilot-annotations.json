@@ -175,6 +175,228 @@
         "quarter turn"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_07",
+      "sourceUUID": "76C77D32-A1DF-5F7E-9FD3-29D3709E3ED5",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "68000c62c8d45a18b8ff053bdad974cab54634cf5f7a4e069942a94d3fa0ad31",
+      "frameCount": 3658,
+      "frameInterval": 0.0083333,
+      "title": "Sweep Both Arms Up and Out",
+      "actionDescription": "The performer starts upright, alternates wide two-handed sweeps and overhead reaches with smaller motions near the head and chest, and leans forward several times. The take ends with one hand extended at waist height.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "two-handed gesture",
+        "overhead reach",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "29_05",
+      "sourceUUID": "C60A35A4-7A6E-59F7-A3CF-93FFD2DEB9A6",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "45c0771b26fb4995c0aec164338879d2d7ea4933d71aa2b4a460d4d61ed6e978",
+      "frameCount": 3718,
+      "frameInterval": 0.0083333,
+      "title": "Raise Both Hands and Gesture at Chest Height",
+      "actionDescription": "The performer opens with one hand extended, then raises both arms above shoulder height and spreads them to the sides. The gestures grow smaller and end with both hands near the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "two-handed gesture",
+        "hand near head",
+        "chest-height gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "30_04",
+      "sourceUUID": "97444A37-7DEA-581F-807F-790DF8F8E080",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "9af11ed94d837d12919520d9f42a5413cb0de6e8da0bb8931b75e55e57771eb6",
+      "frameCount": 3701,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Wide Gestures with Still Pauses",
+      "actionDescription": "Beginning with arms lowered, the performer draws the hands in, bends and reaches to the sides, and lifts both hands overhead with pauses between gestures. The performer returns to standing with arms down.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "pauses",
+        "side reach",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "31_07",
+      "sourceUUID": "7E8C1130-3DD6-594D-AFC1-0FAA499486A6",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "be646a3f40a8d7f496bda5a7cd187d05585aed96a81a4d485493001e04a88275",
+      "frameCount": 3693,
+      "frameInterval": 0.0083333,
+      "title": "Gesture with Side Leans and Knee Bends",
+      "actionDescription": "The performer begins with knees bent and arms open, then leans to each side, reaches upward, and makes smaller chest-level gestures. They dip into a shallow crouch and straighten near the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "side lean",
+        "knee bend",
+        "chest-height gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_05",
+      "sourceUUID": "9610FA0D-5701-5101-89AF-F1F41F82D4DD",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "4476770d23dd1d92cf48a8700abe41db013c7c88e9db6f4cadf622d464e7df82",
+      "frameCount": 3648,
+      "frameInterval": 0.0083333,
+      "title": "Lean, Crouch, and Raise Both Arms",
+      "actionDescription": "The performer starts upright and changes between hand-to-face gestures, deep side leans, and wide overhead reaches. A pronounced crouch near the end leads back to standing with arms lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "hand near face",
+        "side lean",
+        "overhead reach",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_05",
+      "sourceUUID": "82A3BEB3-CB52-5874-A179-72D56A724D79",
+      "sourceDescription": "vignettes - walk, drink water, run/jog, jump, wipe window, lift open window, throw punches, yawn, stretch",
+      "sourceSHA256": "88c0e792e63c22c6857941f92e14671cecb46e031434670ec7b17544527b286d",
+      "frameCount": 7359,
+      "frameInterval": 0.0083333,
+      "title": "Walk, Turn, and Perform Short Gestures",
+      "actionDescription": "The performer starts upright, raises a hand toward the face, and alternates walking and turns with brief hand motions and overhead reaches. The take finishes with several walking steps and a final turn.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "walking",
+        "turn",
+        "hand near face",
+        "overhead reach"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1,
+          "endFrame": 1741,
+          "title": "Hand near face and first turns"
+        },
+        {
+          "startFrame": 1801,
+          "endFrame": 4501,
+          "title": "Steps, turns, and forward reaches"
+        },
+        {
+          "startFrame": 4621,
+          "endFrame": 6421,
+          "title": "Face-level gestures and overhead reach"
+        },
+        {
+          "startFrame": 6481,
+          "endFrame": 7359,
+          "title": "Walk and turn"
+        }
+      ]
+    },
+    {
+      "takeID": "86_10",
+      "sourceUUID": "40DC28FA-B885-5F78-9238-BB1DEAE9DE5A",
+      "sourceDescription": "walk around, sit, stand up, and running",
+      "sourceSHA256": "f141018a4c9088ef004b9ef6f31afe539a11d2b020632bb2e7216495f9d78a64",
+      "frameCount": 7583,
+      "frameInterval": 0.0083333,
+      "title": "Walk, Bend the Knees, and Jog",
+      "actionDescription": "The performer opens with walking and turns, pauses for repeated knee bends and weight shifts, then walks again before leaning sideways and breaking into quicker running steps. The final stretch returns to walking.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "walking",
+        "turns",
+        "knee bend",
+        "side lean",
+        "jogging"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1,
+          "endFrame": 1801,
+          "title": "Walk and turn"
+        },
+        {
+          "startFrame": 1921,
+          "endFrame": 3781,
+          "title": "Repeated knee bends and weight shifts"
+        },
+        {
+          "startFrame": 3901,
+          "endFrame": 5581,
+          "title": "Resume walking and lean sideways"
+        },
+        {
+          "startFrame": 5701,
+          "endFrame": 6697,
+          "title": "Jog and change direction"
+        },
+        {
+          "startFrame": 6769,
+          "endFrame": 7583,
+          "title": "Return to walking"
+        }
+      ]
+    },
+    {
+      "takeID": "86_12",
+      "sourceUUID": "80AD6E51-EE65-5CE6-AE53-ABA9A4131434",
+      "sourceDescription": "walking, dragging, sweeping, dustpan, wipe window, and wipe mirror",
+      "sourceSHA256": "8b83011200b86aded78bc4f7f29f02297526917fa218d56c9e0a6e3b8ca10140",
+      "frameCount": 8856,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Series of Cleaning Tasks",
+      "actionDescription": "The performer walks and turns, bends to make repeated low reaching and sweeping motions, then straightens for repeated one-handed wiping motions. They walk again at the end; the CMU source describes sweeping and wiping.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "walking",
+        "sweeping motion",
+        "floor reach",
+        "wiping motion"
+      ],
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1,
+          "endFrame": 901,
+          "title": "Walk and turn"
+        },
+        {
+          "startFrame": 961,
+          "endFrame": 3181,
+          "title": "Bent-over reaching and sweeping motions"
+        },
+        {
+          "startFrame": 3241,
+          "endFrame": 4981,
+          "title": "Repeated low floor reaches"
+        },
+        {
+          "startFrame": 5101,
+          "endFrame": 7621,
+          "title": "Standing one-handed wiping motions"
+        },
+        {
+          "startFrame": 7681,
+          "endFrame": 8856,
+          "title": "Walk and turn"
+        }
+      ]
     }
   ]
 }
