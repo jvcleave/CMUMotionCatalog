@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "subject": "13",
+  "takes": [
+    {
+      "takeID": "13_01",
+      "sourceUUID": "B4AE11EA-215E-5994-B4EA-AAC02CDF4060",
+      "sourceDescription": "sit on high stool, stand up",
+      "sourceSHA256": "f9e1fa1da61569a14ca8ecd7bd7782e02a55e6189351148e958c9b75ab89889f",
+      "frameCount": 2313,
+      "frameInterval": 0.0083333,
+      "title": "Sit High and Stand Up Again",
+      "actionDescription": "The performer repeatedly approaches a high seated position, settling with hands by the hips or on the thighs before rising. The last rise ends in an upright step.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "high stool",
+        "repeated",
+        "sit",
+        "stand up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_02",
+      "sourceUUID": "E0E90A96-5936-527F-A683-5E3DFF5D8609",
+      "sourceDescription": "sit on high stool, stand up",
+      "sourceSHA256": "636265a85b5f0a1b7546ae20362d273b84dbc828f50f3939237b3544f22ac050",
+      "frameCount": 3477,
+      "frameInterval": 0.0083333,
+      "title": "Alternate High Sitting and Standing",
+      "actionDescription": "The performer moves into several high seated poses, bracing the hands near the hips or placing them on the thighs between rises. They finish with a brief turn and a bent-knee step.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "high stool",
+        "repeated",
+        "sit",
+        "rise"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_03",
+      "sourceUUID": "F2F4B49A-DD7E-5C9E-B91D-6396246A8153",
+      "sourceDescription": "sit on high stool, stand up",
+      "sourceSHA256": "90a36a4e5386adf80fa0872c800dcdde6865084862369c2090258a52eaddc276",
+      "frameCount": 3715,
+      "frameInterval": 0.0083333,
+      "title": "Sit High from Several Angles",
+      "actionDescription": "The performer alternates upright steps with several high seated poses, including side-facing sits with the feet drawn back. The take ends in another bent-knee seated position.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "high stool",
+        "repeated",
+        "sit",
+        "side-facing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_04",
+      "sourceUUID": "C4DA0BFD-6FB7-597E-9BDB-9749FC8C5ADE",
+      "sourceDescription": "sit on stepstool, chin in hand",
+      "sourceSHA256": "e3170b370d5615604448ed7b5caa2e9f3733a323d71ae383fe5f8f9ad6d4c8b1",
+      "frameCount": 4759,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low and Rest the Chin on a Hand",
+      "actionDescription": "The performer lowers into a squat-height seated pose, shifts orientation, and brings one hand to the chin. They repeat the low sit and finish by stepping away.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "chin in hand",
+        "repeated",
+        "stand up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_05",
+      "sourceUUID": "38AA542E-D016-5C0D-BC53-D4703B39AD7F",
+      "sourceDescription": "sit on stepstool, hands against chin, fidget, stand up",
+      "sourceSHA256": "3a17d74e693a258acddcd1cb89c19c569a6a533aa7b2d82c0a29f2255a404a82",
+      "frameCount": 4403,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low, Fidget, and Sit Again",
+      "actionDescription": "The performer sits low with hands near the chin, changes hand and torso positions, and rises between repetitions. The take ends seated with the hands gathered in front.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "fidget",
+        "hands near chin",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_06",
+      "sourceUUID": "480A8DED-82E5-5138-832C-E4C2C8032E5A",
+      "sourceDescription": "sit on stepstool, hands against chin, elbow out, stand up",
+      "sourceSHA256": "11875a4458cd833efe6207fdaea00381da07d9433d43506f4e8088425bc166df",
+      "frameCount": 4413,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low with an Elbow Set Out",
+      "actionDescription": "The performer alternates between standing and low sits, changing from an elbow-out posture to a raised hand and a side-facing sit. They finish standing in profile.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "elbow out",
+        "repeated",
+        "side profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_07",
+      "sourceUUID": "4C2CBA00-FFA8-5E67-B619-EA5E4B330CC7",
+      "sourceDescription": "unscrew bottlecap, drink soda",
+      "sourceSHA256": "80942a3a49d4fc84988093545cee0a37f6c17777213284b2c051a2da4405be8b",
+      "frameCount": 1452,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening a Bottle and Drinking",
+      "actionDescription": "The performer brings the hands together in front of the chest, then repeatedly raises one hand toward the mouth while standing. The CMU source identifies the hand motions as opening a bottle and drinking.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "opening bottle",
+        "hand to mouth",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_08",
+      "sourceUUID": "7FC7FDA1-6510-5DA9-A288-B938922CF854",
+      "sourceDescription": "unscrew bottlecap, drink soda, screw on bottlecap",
+      "sourceSHA256": "a83e4d2c6707d450ccff3a677eeaf4675d9efdb9b6202d4f7567a6067ba073b2",
+      "frameCount": 1603,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening, Drinking, and Recapping a Bottle",
+      "actionDescription": "The performer starts with hands together, raises one hand to the mouth in several intervals, and finishes with both hands together near the chest. The CMU source identifies a bottle cap.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "bottle cap",
+        "hand to mouth",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_09",
+      "sourceUUID": "8A534A63-F9EE-5EC8-ACC9-00B13C9ADA70",
+      "sourceDescription": "drink soda",
+      "sourceSHA256": "d17eb6e1088323b428486815a8008533f7798aace02cb0df3b02897baf30e8d8",
+      "frameCount": 1102,
+      "frameInterval": 0.0083333,
+      "title": "Mime Taking Several Sips While Standing",
+      "actionDescription": "From a wide stance, the performer repeatedly lifts one hand to the mouth and tips the head back. They lower the arm and return upright at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "repeated",
+        "head tilt",
+        "wide stance"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
