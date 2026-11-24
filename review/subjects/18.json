@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "subject": "18",
+  "takes": [
+    {
+      "takeID": "18_01",
+      "sourceUUID": "56012DEC-62FF-5479-99E7-F69F6FEB18B1",
+      "sourceDescription": "walk, shake hands (2 subjects - subject A)",
+      "sourceSHA256": "08a783b18cb63314cefe5ea1d953377d0f02de718de4148067a8febd756bdabf",
+      "frameCount": 303,
+      "frameInterval": 0.0083333,
+      "title": "Approach and handshake, participant A",
+      "actionDescription": "Participant A starts walking, pauses with a hand extended for a handshake, then turns and walks away.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "handshake",
+        "walk",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_02",
+      "sourceUUID": "560CC0CA-40C0-5F32-95AF-12BC4B448B76",
+      "sourceDescription": "walk, shake hands (2 subjects - subject A)",
+      "sourceSHA256": "7bb21478d6fa641fbcd9a74b2cb0e4225fe7558dc65572127e0b1fe789f18b59",
+      "frameCount": 301,
+      "frameInterval": 0.0083333,
+      "title": "Approach and handshake, participant A",
+      "actionDescription": "Participant A takes a few steps, extends a hand for a handshake, and settles standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "handshake",
+        "walk",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_03",
+      "sourceUUID": "598D3775-4E58-5086-9A12-45A6681BCB28",
+      "sourceDescription": "A pulls B; B resists (2 subjects - subject A)",
+      "sourceSHA256": "9ad0bd0cdb3c55c712bc495b07ebea2fd472132d824a79e3b0a50dcbfc16c1f1",
+      "frameCount": 592,
+      "frameInterval": 0.0083333,
+      "title": "Pull a resisting partner, participant A",
+      "actionDescription": "Participant A reaches forward with both hands, shifts into a wide stance and repeatedly leans back with one arm extended, then rises.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull",
+        "resistance",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_04",
+      "sourceUUID": "D0BBCFCE-4863-52E6-AC04-C7E5396780DC",
+      "sourceDescription": "A pulls B; B resists (2 subjects - subject A)",
+      "sourceSHA256": "cd677a3640061bb0c7d921d4ff0a1a6dad3dc4932ca9cfb09f7a461d72810d9d",
+      "frameCount": 405,
+      "frameInterval": 0.0083333,
+      "title": "Pull a resisting partner, participant A",
+      "actionDescription": "Participant A reaches forward, steps wide and leans back with one arm extended, then crosses a step while continuing the pull.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull",
+        "resistance",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_05",
+      "sourceUUID": "75A607A2-2890-53FC-AA2B-9DAA799004C9",
+      "sourceDescription": "A pulls B by the elbow; B resists (2 subjects - subject A)",
+      "sourceSHA256": "904d1599316f96cf6047dd8fd59caf84b3560c72aaa0a967fece4f48ddba341a",
+      "frameCount": 438,
+      "frameInterval": 0.0083333,
+      "title": "Pull partner by elbow, participant A",
+      "actionDescription": "Participant A steps and reaches back, then leans forward and continues stepping while holding an arm behind.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull",
+        "elbow",
+        "resistance",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_06",
+      "sourceUUID": "11846618-9824-5AAD-B091-2943D60C7717",
+      "sourceDescription": "A pulls B by the elbow; B resists (2 subjects - subject A)",
+      "sourceSHA256": "52c0e9af29fb8ac8734a28b4efbeb57a55147497d19c14cf668bfb930227a3df",
+      "frameCount": 407,
+      "frameInterval": 0.0083333,
+      "title": "Pull partner by elbow, participant A",
+      "actionDescription": "Participant A reaches out, bends the knees and draws both hands across the body while stepping and turning.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull",
+        "elbow",
+        "resistance",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_07",
+      "sourceUUID": "DE6328BB-8FB6-5CA2-BD96-45686A167815",
+      "sourceDescription": "navigate busy sidewalk; A leads the way, takes B by the arm (2 subjects - subject A)",
+      "sourceSHA256": "c020a4d1a52bedf75cebc10701675eb57548614ace8e291d775262276e24cada",
+      "frameCount": 291,
+      "frameInterval": 0.0083333,
+      "title": "Lead partner through a sidewalk, participant A",
+      "actionDescription": "Participant A steps and turns with a hand extended, brings both hands together, then continues with one hand out while stepping.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "walk",
+        "lead",
+        "arm",
+        "two people",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_08",
+      "sourceUUID": "945D181A-7DF5-53CD-8765-9448F8B7AF23",
+      "sourceDescription": "conversation - explain with hand gestures (2 subjects - subject A)",
+      "sourceSHA256": "b57e6ba15cf2bde4e6e4233da53425dde6d91952fb2bff17a89c5fce18a1a0ce",
+      "frameCount": 2086,
+      "frameInterval": 0.0083333,
+      "title": "Explain with hand gestures, participant A",
+      "actionDescription": "Participant A stands for several seconds, raises the hands in brief explanatory gestures, and returns to standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "conversation",
+        "explain",
+        "hand gestures",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_09",
+      "sourceUUID": "CF65B699-4322-5154-B1F9-CBCBD32A8756",
+      "sourceDescription": "conversation - explain with hand gestures, walk (2 subjects - subject A)",
+      "sourceSHA256": "4f275ce0ee30fbe91bfcc74dbdd98fd8260763f21baa9df279ade2a2710b670b",
+      "frameCount": 232,
+      "frameInterval": 0.0083333,
+      "title": "Gesture while stepping, participant A",
+      "actionDescription": "Participant A starts with both hands raised, gestures while taking crossing steps, then brings the hands toward the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "conversation",
+        "explain",
+        "gesture",
+        "walk",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_10",
+      "sourceUUID": "0013AA04-2177-56A3-A511-E11E1126EAB8",
+      "sourceDescription": "quarrel - angry hand gestures (2 subjects - subject A)",
+      "sourceSHA256": "5dd2d8c4985e0b56c352f1276a428bf10f81f698baa791840ef10528b7d093a8",
+      "frameCount": 1805,
+      "frameInterval": 0.0083333,
+      "title": "Quarrel gestures, participant A",
+      "actionDescription": "Participant A starts standing, repeatedly opens and raises the arms while stepping and turning, then finishes in a side-facing stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "quarrel",
+        "angry gestures",
+        "conversation",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_11",
+      "sourceUUID": "35E7D0B8-C18F-57F7-8558-85C877617013",
+      "sourceDescription": "quarrel - angry hand gestures (2 subjects - subject A)",
+      "sourceSHA256": "c706e5a572092c1b78e1939abf6e7a47e0ad6647c662d33a83040445d9dc1d08",
+      "frameCount": 1911,
+      "frameInterval": 0.0083333,
+      "title": "Quarrel and pointing gestures, participant A",
+      "actionDescription": "Participant A steps and turns, raises the hands and extends an arm toward the other participant, then lowers the arms to finish standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "quarrel",
+        "point",
+        "angry gestures",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_12",
+      "sourceUUID": "59FA25B7-F5E8-560D-80A7-C4F695BDF9E5",
+      "sourceDescription": "friends meet, hang out; A sits, B joins A (2 subjects - subject A)",
+      "sourceSHA256": "66f8c02c2ecd501401fc8ce98b40c6e0f69b5ac410cf25edbe355d3f770dd646",
+      "frameCount": 1253,
+      "frameInterval": 0.0083333,
+      "title": "Seated meeting, participant A",
+      "actionDescription": "Participant A begins seated, gestures briefly with the hands, then remains seated and leans forward toward the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "sit",
+        "friends",
+        "conversation",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_13",
+      "sourceUUID": "937FFA9F-DEA1-5C2F-A29F-221D35CB3629",
+      "sourceDescription": "run, scramble for last seat (2 subjects - subject A)",
+      "sourceSHA256": "b2a469aba982e11969b4b8c16a04469a180cf4660ee2cd2078acad6b5c712584",
+      "frameCount": 466,
+      "frameInterval": 0.0083333,
+      "title": "Scramble for a seat and rise, participant A",
+      "actionDescription": "Participant A lowers into a deep seated or crouched position, then rises and steps away to stand.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "scramble",
+        "seat",
+        "sit",
+        "stand",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_14",
+      "sourceUUID": "0BC824D7-A620-5791-AD22-0C86FBE2E38C",
+      "sourceDescription": "run, scramble for last seat (2 subjects - subject A)",
+      "sourceSHA256": "9438e7fbad6a37efede55cdbb07b5676c479e6dc60b153fd1aca3c021876c42f",
+      "frameCount": 332,
+      "frameInterval": 0.0083333,
+      "title": "Scramble to a seat, participant A",
+      "actionDescription": "Participant A steps into a wide crouch and lowers into a seated posture, remaining seated through the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "scramble",
+        "seat",
+        "sit",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "18_15",
+      "sourceUUID": "14528469-A654-5893-9566-ADC6F8FB673C",
+      "sourceDescription": "chicken dance (2 subjects - subject A)",
+      "sourceSHA256": "6752442b599d8ca5428c51c2a32c4f22926239c8217455c3e3f214a1558a57ff",
+      "frameCount": 1536,
+      "frameInterval": 0.0083333,
+      "title": "Chicken dance, participant A",
+      "actionDescription": "Participant A gestures with bent arms near the chest, alternates arm movements with repeated knee bends and crouches, and finishes upright with hands together.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "chicken dance",
+        "crouch",
+        "arm gestures",
+        "participant A"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
