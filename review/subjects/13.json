@@ -163,6 +163,178 @@
         "wide stance"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_10",
+      "sourceUUID": "0C8623E2-8E21-5AA2-9807-E8B5F1CFFFBB",
+      "sourceDescription": "jump up to grab, reach for, tiptoe",
+      "sourceSHA256": "0cae88c2ae622232040f4ea7a8251ea9b2c02f4c9e0d88610f6f5e05368a838d",
+      "frameCount": 2396,
+      "frameInterval": 0.0083333,
+      "title": "Reach and Spring Upward Repeatedly",
+      "actionDescription": "The performer starts upright and alternates one-handed reaches with two-handed overhead reaches and small upward springs. The final pose has both arms extended high.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "overhead reach",
+        "two-handed",
+        "upward spring",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_11",
+      "sourceUUID": "20F45BDC-2181-51FC-ABC0-9CD2F2F5E226",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "52ce2d122aab299d0abed89dcb202be6cc431cb42fc038b3efd3169ce52a0f79",
+      "frameCount": 415,
+      "frameInterval": 0.0083333,
+      "title": "Make a Short Forward Jump and Settle",
+      "actionDescription": "The performer dips and swings the arms back, jumps forward, and absorbs the landing before returning to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "bent-knee landing",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_12",
+      "sourceUUID": "798A865C-DE0B-5C0C-A772-3405A6D5338B",
+      "sourceDescription": "jump up to grab, reach for, tiptoe",
+      "sourceSHA256": "07843544e8b242ee73c8aa3af7c3a73762f286c0627b18015eda25f86b46b262",
+      "frameCount": 3434,
+      "frameInterval": 0.0083333,
+      "title": "Repeat High Reaches with a Side Leg Lift",
+      "actionDescription": "The performer repeatedly reaches above the head from standing, adding small jumps and a sideways leg lift mid-take. The take ends with both hands still high.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "overhead reach",
+        "repeated",
+        "small jumps",
+        "side leg lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_13",
+      "sourceUUID": "64B22995-AE22-5AFB-A7E4-E7534FC70CDC",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "fc64c3913f70623a245f14be38e1563f1a39be35f9652b958b043384a61228ef",
+      "frameCount": 439,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward from a Deep Dip",
+      "actionDescription": "The performer folds into a deep dip, springs into a fully extended airborne pose, and catches the landing with bent knees. They finish upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "deep dip",
+        "bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_14",
+      "sourceUUID": "1C6C06AC-10EC-51A0-ADC8-B89D215ABA47",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "743dd4e8f497df33f8ce84182ab34710fe864fabb5e7ba21f3e220f7d11affcb",
+      "frameCount": 2424,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with Broad Gestures",
+      "actionDescription": "The performer shifts between standing stances, raising a hand toward the face and opening the arms in brief emphatic gestures. The last pose has one hand still extended.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "hand near face",
+        "weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_15",
+      "sourceUUID": "25DD1DA9-5962-5209-BDE9-A223584F512C",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "b5ec29365dd4e44bf86e90129a2c34396f805c2ffe7d798cc2d6ee450b650093",
+      "frameCount": 2382,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with a Forward Bend",
+      "actionDescription": "The performer starts with arms lowered, shifts weight and raises a hand toward the face, then bends sharply forward and straightens. They finish upright with one arm lifted.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "forward bend",
+        "hand near face"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_16",
+      "sourceUUID": "DF04D03C-A912-5CD0-8805-CE4CC5A0D25B",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "159c1af1e098f597362eeac67b13522979ff4e1450d67d1299e8609dbe8c1bf1",
+      "frameCount": 2275,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with Both Hands Raised",
+      "actionDescription": "The performer opens with both hands high, changes to hand-near-head gestures, and folds forward with hands low. The take ends in a bent-knee stance with arms extended in front.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "arms raised",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_17",
+      "sourceUUID": "B6124531-4DBF-557E-8149-A0ED5D6F33AC",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "5eba9811c5031d661f013e7269233c21878a9b70be0a1a4bed49baaec0161634",
+      "frameCount": 4840,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Boxing Sequence with Short Steps",
+      "actionDescription": "The performer starts with hands raised, alternates short steps and arm extensions while turning, then lowers the hands as the sequence winds down.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "short steps",
+        "arm extensions"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_18",
+      "sourceUUID": "C74A0A39-6D29-5088-BFAC-00854A8A6281",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "24efe49cc97292cbce871bec7ed3a2413118da63d435b9ad46a57e7eb81eafbb",
+      "frameCount": 3000,
+      "frameInterval": 0.0083333,
+      "title": "Mime Boxing with Repeated Forward Reaches",
+      "actionDescription": "The performer starts hands-up, alternates outward arm extensions with wider steps and body turns, and finishes with hands drawn in and feet apart.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "forward reaches",
+        "wide steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_19",
+      "sourceUUID": "E7890056-D65A-5222-91D3-9593E0039640",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "0b4350092328703aa25bbc25fd2808a00df2aea1f660f0b393c8a8a891afaf80",
+      "frameCount": 426,
+      "frameInterval": 0.0083333,
+      "title": "Dip, Jump Forward, and Return to Standing",
+      "actionDescription": "The performer stands, dips with both arms back, jumps forward with arms raised, and settles upright after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "arm swing",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
