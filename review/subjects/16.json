@@ -395,6 +395,204 @@
         "veer right"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_27",
+      "sourceUUID": "F87164B0-FE99-52BE-90E9-3C0A4C1C6C99",
+      "sourceDescription": "walk, 90-degree left turn",
+      "sourceSHA256": "055425eeeb11f4808aed57546fe0a4e2fbd9a392da35062dbf3d634d38dbc3de",
+      "frameCount": 243,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "The performer starts mid-stride, walks into a 90-degree left turn, and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_28",
+      "sourceUUID": "B971BCF5-1A4A-57A2-9EE0-D62926A2DD00",
+      "sourceDescription": "walk, 90-degree left turn",
+      "sourceSHA256": "3f0d1ec9051c2a124299be7162dac429b470eb2ba95bfe4db76d3c5ab241eae0",
+      "frameCount": 271,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "The performer starts mid-stride with one arm extended, lowers it, turns left while walking, and continues through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_29",
+      "sourceUUID": "E13D5659-7973-5600-9923-B7BBA095A954",
+      "sourceDescription": "walk, 90-degree right turn",
+      "sourceSHA256": "822dcec096524955010e51716008d80a456ab8df5f295c3c563114e6fe3f150d",
+      "frameCount": 282,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "The performer starts mid-stride, walks into a 90-degree right turn, and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_30",
+      "sourceUUID": "65612445-7CC3-5829-871A-CED397AED8D8",
+      "sourceDescription": "walk, 90-degree right turn",
+      "sourceSHA256": "a7a5d91b131aeefe2eedcd3fba68b7cad5a2977ef8a4bf422b1300f763234763",
+      "frameCount": 266,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "The performer starts mid-stride, walks into a 90-degree right turn, and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_31",
+      "sourceUUID": "39FBEE2F-CF59-505E-A762-D835E23F6541",
+      "sourceDescription": "walk",
+      "sourceSHA256": "a655ee2e91ee516ccd91523f1537276e39e0b0abaa5cfc7f531c4f2f567d5088",
+      "frameCount": 424,
+      "frameInterval": 0.0083333,
+      "title": "Walk from standing",
+      "actionDescription": "The performer starts standing, takes alternating walking steps and continues mid-stride through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "start walking"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_32",
+      "sourceUUID": "4478DFF1-C82C-5B96-A252-4E9CA353CD0D",
+      "sourceDescription": "walk",
+      "sourceSHA256": "85c04d40dafd959d07e910ea97179e72367915050002ade48c7ad21d33803a88",
+      "frameCount": 580,
+      "frameInterval": 0.0083333,
+      "title": "Walk from standing",
+      "actionDescription": "The performer starts standing, takes alternating walking steps and continues mid-stride through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "start walking"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_33",
+      "sourceUUID": "BE45B428-E994-5420-942D-3C06BF41C35D",
+      "sourceDescription": "slow walk, stop",
+      "sourceSHA256": "e4600cd3ab9bc61ce24d15fd40d07bcd1e8782c0bccc5899a4e8bdc12c97d240",
+      "frameCount": 285,
+      "frameInterval": 0.0083333,
+      "title": "Slow walk to a stop",
+      "actionDescription": "The performer starts mid-stride, takes several walking steps, then slows and comes to standing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        "stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_34",
+      "sourceUUID": "D0FB1FDB-FD7C-57E2-A6DF-53BEB0A11362",
+      "sourceDescription": "slow walk, stop",
+      "sourceSHA256": "63ae6dc70dca57e30edc4647e10a3972a30d59227875f64f3a61e6b5f0369e2c",
+      "frameCount": 347,
+      "frameInterval": 0.0083333,
+      "title": "Slow walk to a stop",
+      "actionDescription": "The performer starts mid-stride, takes several walking steps, then slows and comes to standing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        "stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_35",
+      "sourceUUID": "CB197FCE-1AE8-52EE-A1E9-9B00DC1ECA9A",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "d20d54a9ccebd7aaf4aa6c4d7662c4905d47009401895de216a914edecf287be",
+      "frameCount": 162,
+      "frameInterval": 0.0083333,
+      "title": "Jogging strides",
+      "actionDescription": "The performer starts mid-stride, continues jogging with bent arms, and ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog",
+        "run"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_36",
+      "sourceUUID": "87A05451-9BE8-597C-8E65-8BFD35958608",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "bc99c89352df21f9fed601b4529f430e364c174b6e87527144b6143e04005caf",
+      "frameCount": 189,
+      "frameInterval": 0.0083333,
+      "title": "Jogging strides",
+      "actionDescription": "The performer starts mid-stride, continues jogging with bent arms, and ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog",
+        "run"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_37",
+      "sourceUUID": "8F756C39-0BD2-5C94-952E-560C59D306F1",
+      "sourceDescription": "run/jog, veer left",
+      "sourceSHA256": "2930e2ccb161d8a341b2319f6ad296ca8cec4d352b7e04babead76837096666f",
+      "frameCount": 184,
+      "frameInterval": 0.0083333,
+      "title": "Jog and veer left",
+      "actionDescription": "The performer starts mid-stride, continues jogging with bent arms, veers left, and ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog",
+        "run",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_38",
+      "sourceUUID": "3710BF99-8790-59C3-AD45-ADB93846D322",
+      "sourceDescription": "run/jog, veer left",
+      "sourceSHA256": "11e2d865cea07da80c23778d5ac22542da488b0b1cb73b7525a333180005d49a",
+      "frameCount": 168,
+      "frameInterval": 0.0083333,
+      "title": "Jog and veer left",
+      "actionDescription": "The performer starts mid-stride, continues jogging with bent arms, veers left, and ends mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog",
+        "run",
+        "veer left"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
