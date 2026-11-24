@@ -593,6 +593,207 @@
         "veer left"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_39",
+      "sourceUUID": "C76D5E4B-5050-5075-81DD-6353CD265875",
+      "sourceDescription": "run/jog, veer right",
+      "sourceSHA256": "cdfd9c1d85d1b2bf3bad7a2e0f7e7127673c97808d48af915259866a4670e1e6",
+      "frameCount": 147,
+      "frameInterval": 0.0083333,
+      "title": "Run and veer right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, veers right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_40",
+      "sourceUUID": "E63724FC-FC46-53C0-9840-38176AF53028",
+      "sourceDescription": "run/jog, veer right",
+      "sourceSHA256": "f5f7e93b357180101f5dd229e53ba09aa544d52af47a38361db41daa8032d74a",
+      "frameCount": 194,
+      "frameInterval": 0.0083333,
+      "title": "Run and veer right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, veers right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_41",
+      "sourceUUID": "171D50CD-69EB-5F50-8016-37246A562F5C",
+      "sourceDescription": "run/jog, 90-degree left turn",
+      "sourceSHA256": "4a41df6f5c06ae6c5562f8d427c01cb6b73ccc6a6c4afcfe96750a18eb356bf8",
+      "frameCount": 160,
+      "frameInterval": 0.0083333,
+      "title": "Run and turn left",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, turns 90 degrees left, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "left turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_42",
+      "sourceUUID": "DE0DBA25-A865-589C-9200-8C127059E2D0",
+      "sourceDescription": "run/jog, 90-degree left turn",
+      "sourceSHA256": "e1de6e778d55ecf82248170686aeb16796bbfd0edc4a8473e10496e520bdd440",
+      "frameCount": 206,
+      "frameInterval": 0.0083333,
+      "title": "Run and turn left",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, turns 90 degrees left, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "left turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_43",
+      "sourceUUID": "CAC9BF75-0F65-502F-B432-CA115C30D5E8",
+      "sourceDescription": "run/jog, 90-degree right turn",
+      "sourceSHA256": "dd4efb8fe3df03f5a8b76a4d7b78e1f6ddc017dabe63c18d879032450b171fae",
+      "frameCount": 210,
+      "frameInterval": 0.0083333,
+      "title": "Run and turn right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, turns 90 degrees right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "right turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_44",
+      "sourceUUID": "AA66814D-0126-5E10-8128-BF1B422EEAD7",
+      "sourceDescription": "run/jog, 90-degree right turn",
+      "sourceSHA256": "89425de9c4c743352428c528be2c1b50a93fe0634cf08fce6de81233daa40955",
+      "frameCount": 216,
+      "frameInterval": 0.0083333,
+      "title": "Run and turn right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, turns 90 degrees right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "right turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_45",
+      "sourceUUID": "9FEB0A4C-1545-59A8-981A-D5EF2D0887A6",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "6c179f799f3b2f766ce41cf962caaae08d9342ce73fc32fbc15648bf6589e872",
+      "frameCount": 135,
+      "frameInterval": 0.0083333,
+      "title": "Jogging strides",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_46",
+      "sourceUUID": "0430AAD6-B8A1-512A-8DAB-550CE782B678",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "3cb60c5b83b15a8ad51e8911e2566d0cdd8dfe4186bdbbe237c19ab97d36bb35",
+      "frameCount": 136,
+      "frameInterval": 0.0083333,
+      "title": "Jogging strides",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_47",
+      "sourceUUID": "953579B6-C725-5260-9F69-050E818B727D",
+      "sourceDescription": "walk",
+      "sourceSHA256": "2138c2e46a95052a437a71b1bff5680fb490636c989556576b0533754ee61cf6",
+      "frameCount": 416,
+      "frameInterval": 0.0083333,
+      "title": "Walking steps",
+      "actionDescription": "The performer starts mid-stride, continues alternating walking steps with relaxed arms, and ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_48",
+      "sourceUUID": "5073B9D8-7B51-5A5A-BC20-115723EC417D",
+      "sourceDescription": "run, veer left",
+      "sourceSHA256": "82e0ca8a9f73c993ea2c57fdd852b4314712ec117957ddb4a6bf43af0d674255",
+      "frameCount": 128,
+      "frameInterval": 0.0083333,
+      "title": "Run and veer left",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, veers left, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "veer left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_49",
+      "sourceUUID": "947F58EE-3E07-547D-8EDC-D0455E37E6ED",
+      "sourceDescription": "run, veer right",
+      "sourceSHA256": "6e2b8cfed93a57cadcfabf7e209339d94e3fe1ac739f7ae8bbefb5c816e268e6",
+      "frameCount": 127,
+      "frameInterval": 0.0083333,
+      "title": "Run and veer right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, veers right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "veer right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "16_50",
+      "sourceUUID": "AA0443F1-1820-5309-9911-68997DCFCE86",
+      "sourceDescription": "run, veer right",
+      "sourceSHA256": "ed6b323be7ffebd34f9e6aad600dd158417179c92f1afc87fd95653eac3598ac",
+      "frameCount": 130,
+      "frameInterval": 0.0083333,
+      "title": "Run and veer right",
+      "actionDescription": "The performer starts mid-stride and continues running with bent arms, veers right, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "jog",
+        "veer right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
