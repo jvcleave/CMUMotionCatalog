@@ -6,7 +6,6 @@ import json
 import math
 from pathlib import Path
 import re
-from urllib.request import urlopen
 from zipfile import ZipFile
 
 
@@ -15,8 +14,7 @@ SOURCE_URL = (
     "https://github.com/jvcleave/MessCharacterCreatorApp/releases/download/cmu-bvh-2010-v1/catalog.json"
 )
 SOURCE_SHA256 = "d3840484688ab07e18f29dd4c5633f38973cb370bce9421c93b951c7555ec4eb"
-RELEASE_TAG = "v1.0.0"
-PACK_URL = f"https://github.com/jvcleave/CMUMotionCatalog/releases/download/{RELEASE_TAG}/"
+DEFAULT_RELEASE_TAG = "v1.0.0"
 
 CATEGORY_RULES = (
     ("Calibration", r"\b(t.pose|calibration|range of motion)\b"),
@@ -51,11 +49,7 @@ TAG_RULES = (
 
 
 def load_source(path):
-    if path is None:
-        with urlopen(SOURCE_URL, timeout=30) as response:
-            raw = response.read()
-    else:
-        raw = path.read_bytes()
+    raw = (path or ROOT / "catalog" / "source-catalog.json").read_bytes()
     if hashlib.sha256(raw).hexdigest() != SOURCE_SHA256:
         raise ValueError("Source catalog SHA-256 differs from the pinned release.")
     return json.loads(raw)
@@ -156,19 +150,20 @@ def motion_profile(poses, take_id):
     return dict(title=f"{title} {take_id}", tags=tags, labelOrigin="motion-profile")
 
 
-def build(source, archives, stage):
-    annotations = json.loads((ROOT / "annotations.json").read_bytes())
+def build(source, archives, stage, release_tag):
+    annotations = json.loads((ROOT / "catalog" / "annotations.json").read_bytes())
     take_ids = {take["trialID"] for take in source["takes"]}
     if not annotations.keys() <= take_ids:
         raise ValueError("An annotation names a take missing from the published index.")
     staged = []
     catalog = []
     media_packs = []
+    pack_url = f"https://github.com/jvcleave/CMUMotionCatalog/releases/download/{release_tag}/"
     stage.mkdir(parents=True, exist_ok=True)
     for pack in source["packs"]:
         pack_id = pack["id"]
         asset = f"{pack_id}-previews.zip"
-        media_packs.append(dict(id=pack_id, url=PACK_URL + asset, takeCount=pack["takeCount"]))
+        media_packs.append(dict(id=pack_id, url=pack_url + asset, takeCount=pack["takeCount"]))
         with ZipFile(archives / pack["filename"]) as archive:
             index = archive.read("cmu-mocap-index-text.txt").decode("utf-8-sig")
             descriptions = dict(re.findall(r"^([0-9]+_[0-9]+)[ \t]+([^\r\n]+)", index, re.M))
@@ -198,7 +193,7 @@ def build(source, archives, stage):
     staged.sort(key=by_id)
     preview = dict(
         schemaVersion=1,
-        catalogVersion=RELEASE_TAG.removeprefix("v"),
+        catalogVersion=release_tag.removeprefix("v"),
         source=dict(
             revision=source["revision"],
             catalogURL=SOURCE_URL,
@@ -224,8 +219,11 @@ def main():
     parser.add_argument("archives", type=Path, help="Directory with the original CMU ZIPs.")
     parser.add_argument("stage", type=Path, help="Temporary output for sparse BVHs and render.json.")
     parser.add_argument("--source-catalog", type=Path, help="Local copy of the pinned public index.")
+    parser.add_argument("--tag", default=DEFAULT_RELEASE_TAG, help="GitHub release tag for the output catalog.")
     args = parser.parse_args()
-    catalog, staged = build(load_source(args.source_catalog), args.archives, args.stage)
+    if not re.fullmatch(r"v\d+\.\d+\.\d+", args.tag):
+        parser.error("--tag must be a version such as v1.0.0")
+    catalog, staged = build(load_source(args.source_catalog), args.archives, args.stage, args.tag)
     write_json(args.stage / "render.json", staged)
     write_json(args.stage / "catalog.json", catalog)
     print(f"Staged {len(staged)} verified CMU takes.")
