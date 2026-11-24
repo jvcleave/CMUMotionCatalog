@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "subject": "25",
+  "takes": [
+    {
+      "takeID": "25_01",
+      "sourceUUID": "465D2753-679C-5A00-BD8D-A1DEB5E27873",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "bc3a2d104500ec5ce699b68708d6cd2158e1784adac04fc735a0ca88976f78b1",
+      "frameCount": 1618,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Teapot Rhyme with a Wide Side Lean",
+      "actionDescription": "The performer begins with hands gathered, alternates opening an arm and lifting a hand, then leans sideways with one arm extended and one foot raised. They straighten and finish in profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "teapot rhyme",
+        "side lean",
+        "arm extension",
+        "single-leg balance"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
