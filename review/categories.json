@@ -1,81 +1,157 @@
 {
   "schemaVersion": 1,
-  "status": "proposed",
+  "status": "pilot-reviewed",
   "categories": [
     {
       "id": "walking-turning",
       "name": "Walking & Turning",
-      "definition": "Walking forward, backward, or sideways, or making a walking or in-place turn."
+      "definition": "Walking forward, backward, or sideways, or making a walking or in-place turn.",
+      "pilotCount": 9,
+      "exampleTakes": [
+        "02_01",
+        "16_17",
+        "83_19"
+      ]
     },
     {
       "id": "running-agility",
       "name": "Running & Agility",
-      "definition": "Jogging, running, sprinting, or taking quick lateral steps, cuts, and dodges."
+      "definition": "Jogging, running, sprinting, or taking quick lateral steps, cuts, and dodges.",
+      "pilotCount": 1,
+      "exampleTakes": [
+        "02_03"
+      ]
     },
     {
       "id": "jumping-landing",
       "name": "Jumping & Landing",
-      "definition": "Jumping, hopping, leaping, or landing after takeoff."
+      "definition": "Jumping, hopping, leaping, or landing after takeoff.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "02_04",
+        "83_47"
+      ]
     },
     {
       "id": "balance-recovery",
       "name": "Balance & Recovery",
-      "definition": "Balancing, correcting a stumble or slip, falling, or recovering from a loss of balance."
+      "definition": "Balancing, correcting a stumble or slip, falling, or recovering from a loss of balance.",
+      "pilotCount": 1,
+      "exampleTakes": [
+        "49_20"
+      ]
     },
     {
       "id": "stairs-climbing",
       "name": "Stairs & Climbing",
-      "definition": "Going up or down stairs, stepping onto a raised surface, climbing, or hanging."
+      "definition": "Going up or down stairs, stepping onto a raised surface, climbing, or hanging.",
+      "pilotCount": 3,
+      "exampleTakes": [
+        "143_17",
+        "13_34",
+        "01_07"
+      ]
     },
     {
       "id": "posture-changes",
       "name": "Posture Changes",
-      "definition": "Sitting, standing up, kneeling, lying down, or moving between the floor and standing."
+      "definition": "Sitting, standing up, kneeling, lying down, or moving between the floor and standing.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "143_18",
+        "108_23"
+      ]
     },
     {
       "id": "reaching-handling",
       "name": "Reaching & Handling",
-      "definition": "Reaching for, lifting, carrying, placing, grasping, pushing, or pulling. Use tags for a box or another object when the source identifies it."
+      "definition": "Reaching for, lifting, carrying, placing, grasping, pushing, or pulling. Use tags for a box or another object when the source identifies it.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "02_06",
+        "115_01"
+      ]
     },
     {
       "id": "everyday-tasks",
       "name": "Everyday Tasks",
-      "definition": "Acting out a recognizable routine such as dressing, washing, grooming, or cleaning."
+      "definition": "Acting out a recognizable routine such as dressing, washing, grooming, or cleaning.",
+      "pilotCount": 3,
+      "exampleTakes": [
+        "143_28",
+        "14_12",
+        "86_12"
+      ]
     },
     {
       "id": "gestures-pantomime",
       "name": "Gestures & Pantomime",
-      "definition": "Waving, pointing, shrugging, signaling, or acting something out through body movement."
+      "definition": "Waving, pointing, shrugging, signaling, or acting something out through body movement.",
+      "pilotCount": 6,
+      "exampleTakes": [
+        "27_08",
+        "28_07",
+        "31_07"
+      ]
     },
     {
       "id": "dance",
       "name": "Dance",
-      "definition": "Performing dance steps, turns, or choreographed phrases."
+      "definition": "Performing dance steps, turns, or choreographed phrases.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "05_11",
+        "05_14"
+      ]
     },
     {
       "id": "sports",
       "name": "Sports",
-      "definition": "Performing sport-specific actions such as a golf swing, basketball shot, or swim stroke."
+      "definition": "Performing sport-specific actions such as a golf swing, basketball shot, or swim stroke.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "124_04",
+        "124_05"
+      ]
     },
     {
       "id": "acrobatics",
       "name": "Acrobatics",
-      "definition": "Performing cartwheels, handstands, flips, rolls, or similarly gymnastic movements."
+      "definition": "Performing cartwheels, handstands, flips, rolls, or similarly gymnastic movements.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "90_04",
+        "49_07"
+      ]
     },
     {
       "id": "exercise-mobility",
       "name": "Exercise & Mobility",
-      "definition": "Stretching, practicing yoga, or performing a drill or repeated range-of-motion exercise."
+      "definition": "Stretching, practicing yoga, or performing a drill or repeated range-of-motion exercise.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "111_40",
+        "143_30"
+      ]
     },
     {
       "id": "action-sequences",
       "name": "Action Sequences",
-      "definition": "Performing several equally important actions with no single dominant movement."
+      "definition": "Performing several equally important actions with no single dominant movement.",
+      "pilotCount": 2,
+      "exampleTakes": [
+        "56_05",
+        "86_10"
+      ]
     },
     {
       "id": "poses-reference",
       "name": "Poses & Reference",
-      "definition": "Holding a pose or performing a technical calibration or reference take."
+      "definition": "Holding a pose or performing a technical calibration or reference take.",
+      "pilotCount": 1,
+      "exampleTakes": [
+        "121_10"
+      ]
     }
   ]
 }

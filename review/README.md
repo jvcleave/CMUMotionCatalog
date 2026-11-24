@@ -14,3 +14,9 @@ it in the BVH. Convert a captured frame to seconds with
 Run `python3 review/validate.py` before committing a batch. Add `--complete`
 for the final coverage check. Review renders and model evidence are kept in
 local build storage.
+
+The [pilot results](pilot-results.md) record the model comparison and timing.
+For subject review, add each batch to `subjects/<subject>.json` with
+`schemaVersion`, `subject`, and a `takes` array using the annotation format.
+Reuse pilot entries by source UUID. Keep takes in capture order within a
+subject, and leave a precise follow-up note on any provisional assignment.
