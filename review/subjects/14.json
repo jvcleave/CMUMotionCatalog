@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "subject": "14",
+  "takes": [
+    {
+      "takeID": "14_01",
+      "sourceUUID": "CC2CF0A7-2626-5F05-8522-B38DF3A43E91",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "8eb8626892235ec66f815e7950cbba9e3d9a01a8556dd36c56a336fcab81952e",
+      "frameCount": 5594,
+      "frameInterval": 0.0083333,
+      "title": "Mime Boxing with Close Steps and Turns",
+      "actionDescription": "The performer starts with hands gathered, then alternates short steps and arm extensions while turning through several headings. The take ends with both hands raised and one foot crossing behind.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "close steps",
+        "turns",
+        "hands raised"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_02",
+      "sourceUUID": "4AE6C9F1-2AD2-54BD-94B2-1E7C85482D12",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "ec705327a1442b3e5679bbbfa1aef31c8d845936b63c4c91462227af89cbd7f5",
+      "frameCount": 5423,
+      "frameInterval": 0.0083333,
+      "title": "Mime Boxing with Wide Weight Shifts",
+      "actionDescription": "The performer keeps the hands near the upper chest, alternately steps wide and draws the feet in, and makes short arm motions between shifts. They finish in a narrower bent-knee stance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "wide steps",
+        "weight shifts",
+        "bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_03",
+      "sourceUUID": "7E73BD83-F670-5E3A-9BD1-80E1DB435E52",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "12df6b36b2432a396ab8b891b57d547adf21400195cf06f995bd608b05a6e525",
+      "frameCount": 5536,
+      "frameInterval": 0.0083333,
+      "title": "Mime Boxing with Deep Side Steps",
+      "actionDescription": "The performer starts hands-up, shifts into deeper bent-knee steps, and repeatedly turns into profile. They finish in a wide side-facing stance with one hand held forward.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "deep side steps",
+        "profile",
+        "hands raised"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_04",
+      "sourceUUID": "FFF9C82A-26B7-5117-B664-0FE223D6878D",
+      "sourceDescription": "drink soda, screw on bottlecap",
+      "sourceSHA256": "a4a19144de56f269d3f0fbaa58a6d30f6aa0bab6f8dbda650a0a014a3f016150",
+      "frameCount": 759,
+      "frameInterval": 0.0083333,
+      "title": "Mime Taking a Drink and Recapping the Bottle",
+      "actionDescription": "The performer starts with hands together, lifts one hand to the mouth and tilts the head, then returns both hands to the chest. The CMU source identifies the final motion as screwing on a bottle cap.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "bottle cap",
+        "hand to mouth",
+        "head tilt"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_05",
+      "sourceUUID": "E0E84BC8-B706-5452-98DE-E15DCD7E47D7",
+      "sourceDescription": "unscrew bottlecap, drink soda",
+      "sourceSHA256": "05a7732dec11a33d3ccb14153e8abb328822f1b875f69a2c5c255c7a42a66c14",
+      "frameCount": 847,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening a Bottle and Taking a Drink",
+      "actionDescription": "The performer raises both hands in front, lifts one hand toward the mouth as the head tilts, and returns to a hands-together stance. The CMU source describes opening a bottle.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "opening a bottle",
+        "drinking",
+        "hand to mouth"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_08",
+      "sourceUUID": "A7089B61-FD4C-5ED5-9724-AF70C87FBB7B",
+      "sourceDescription": "jump up to grab, reach for, tiptoe",
+      "sourceSHA256": "f7c2847cb17049336e3fb8ba6933f5c88ed817db89be34c21632a5dd9fc41354",
+      "frameCount": 2625,
+      "frameInterval": 0.0083333,
+      "title": "Spring Upward into Overhead Reaches",
+      "actionDescription": "From standing, the performer repeats two-handed overhead stretches and small jumps with both feet briefly off the floor. They end upright with the arms lowered.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "overhead reach",
+        "repeated",
+        "small jumps",
+        "two-handed"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_13",
+      "sourceUUID": "2CDA3BBC-AE4F-58B9-82DA-4DA9C7CB71EE",
+      "sourceDescription": "mop floor",
+      "sourceSHA256": "fe4e668a08c42542dd27868dc6ba9518f835e971983044a19d4772e370914641",
+      "frameCount": 3264,
+      "frameInterval": 0.0083333,
+      "title": "Mime Mopping with Short Low Reaches",
+      "actionDescription": "The performer alternates upright resets with forward bends and low strokes, shifting the feet and changing direction between passes. They finish with head lowered over the hands.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "mopping",
+        "low strokes",
+        "forward bend",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
