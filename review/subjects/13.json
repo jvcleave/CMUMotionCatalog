@@ -442,6 +442,290 @@
         "repeated"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_26",
+      "sourceUUID": "84C29346-3E04-5F0A-B1C1-F11560014C94",
+      "sourceDescription": "direct traffic, wave",
+      "sourceSHA256": "73ac49cfdb65ac0c85a4a931c2c408720ec7e125f2753a68d64e5f0322c3cab4",
+      "frameCount": 3028,
+      "frameInterval": 0.0083333,
+      "title": "Wave and Signal in Several Directions",
+      "actionDescription": "The performer starts upright, extends both arms forward, and alternates high and low signals while turning. They finish facing forward with hands drawn toward the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "wave",
+        "turns",
+        "one- and two-handed"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_27",
+      "sourceUUID": "E55F5094-69C8-593E-8858-994E9C0AE9A9",
+      "sourceDescription": "direct traffic, wave, point",
+      "sourceSHA256": "a39a336da6aedd372ea4f129f02a634a775853a92786510fad5a2a64356ad3ed",
+      "frameCount": 4169,
+      "frameInterval": 0.0083333,
+      "title": "Point and Sweep Both Arms Wide",
+      "actionDescription": "The performer opens with hands together, directs several gestures to the side, then opens both arms wide and turns through smaller signals. The arms lower at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "pointing",
+        "two-handed sweep",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_28",
+      "sourceUUID": "9193FE8E-6993-5260-92F7-18E3505F5937",
+      "sourceDescription": "direct traffic, wave, point",
+      "sourceSHA256": "cdc6220e270ef3280461cc4cbeb9fea06c6407490e1153b33911203acb04ee18",
+      "frameCount": 4121,
+      "frameInterval": 0.0083333,
+      "title": "Give Repeated Pointing and Overhead Signals",
+      "actionDescription": "The performer starts standing, alternates forward points with higher single-arm signals, and shifts stance while changing direction. One arm remains in front as the take ends.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "pointing",
+        "overhead gesture",
+        "weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_29",
+      "sourceUUID": "F5BBFE02-BE6B-5B40-9AE3-B59CAA2B22F6",
+      "sourceDescription": "jumping jacks, side twists, bend over, squats",
+      "sourceSHA256": "bdfcb61b78f4cc0c03c88f275de1e109fe94581a124dae604f1113dbb66691b7",
+      "frameCount": 4592,
+      "frameInterval": 0.0083333,
+      "title": "Do Jumping Jacks, Trunk Turns, and Squats",
+      "actionDescription": "The performer moves through repeated feet-apart arm raises, extends the arms during trunk turns, and lowers into deep squats before rising. The last pose is upright with one arm out.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "trunk turns",
+        "squats",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_30",
+      "sourceUUID": "2E3D301E-F86F-53C9-843D-EF9B8C7CFD79",
+      "sourceDescription": "jumping jacks, side twists, squats, jog",
+      "sourceSHA256": "00d597df6c2aae9a16b5261c40907c169d95f7810f244ac0738b021adbca84d4",
+      "frameCount": 2465,
+      "frameInterval": 0.0083333,
+      "title": "Do Jumping Jacks, Twists, and Jogging Steps",
+      "actionDescription": "The take opens with arms overhead and feet apart, then moves into side turns, knee lifts, and short jogging steps. The performer returns to standing.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "twists",
+        "knee lifts",
+        "jogging"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_31",
+      "sourceUUID": "28F9AF93-C8E9-5544-8734-1177BE859BA2",
+      "sourceDescription": "jumping jacks, side twists, bend over, jog",
+      "sourceSHA256": "74a66b7637d9894b7919bd2a8f181cb65610a1a2901a9877d58051728b39dead",
+      "frameCount": 3017,
+      "frameInterval": 0.0083333,
+      "title": "Combine Jumping Jacks, a Side Bend, and Jogging",
+      "actionDescription": "The performer starts upright, raises and opens the arms and lifts the knees, then reaches down and across in a deep bend. They rise and continue quick steps and arm swings.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "side bend",
+        "jogging",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_32",
+      "sourceUUID": "246FB7A5-57D1-5EC4-AEBE-BAA19F74CBBB",
+      "sourceDescription": "forward jump",
+      "sourceSHA256": "ed7050ed9e344b2650dbc8ba00e5f236708d3f3d0b852abde6855a4b6f8fa65c",
+      "frameCount": 336,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward and Land Compactly",
+      "actionDescription": "The performer sinks into a crouch, springs forward with bent elbows, and lands with the feet close before standing upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "crouch",
+        "bent elbows",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_33",
+      "sourceUUID": "1B664970-72AA-5E51-A2BF-D0331FB07FAD",
+      "sourceDescription": "climb ladder",
+      "sourceSHA256": "8ec161c5a4c7b87928fef64bee383f353ab34da511b7285b960f19affa13fe56",
+      "frameCount": 1499,
+      "frameInterval": 0.0083333,
+      "title": "Repeat a High-Knee Ladder Climb",
+      "actionDescription": "The performer alternates high knee lifts and forward hand reaches in several climbing motions. They lower between repetitions and finish upright in profile.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder",
+        "high knees",
+        "forward reaches",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_35",
+      "sourceUUID": "77836457-5356-51C2-8ECF-261288C5C35B",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "a676f7f5c13ece4a0b0a86bb5ddf8a86f76b72e0dfbdf17c575d1bb3df66ecdd",
+      "frameCount": 1201,
+      "frameInterval": 0.0083333,
+      "title": "Step Up and Down in Short Passes",
+      "actionDescription": "From a slight forward lean, the performer steps upward in a short series and back down, then repeats while changing orientation. They finish stepping side-on.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "step up",
+        "step down",
+        "side-facing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_36",
+      "sourceUUID": "90F87E60-7892-5913-ACBD-65347B45D8D1",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "2ec44d31cc22d470ea267f563aed4e20292b54bca051856cd8f6da1020df140b",
+      "frameCount": 1379,
+      "frameInterval": 0.0083333,
+      "title": "Climb Three Steps with a Side-Facing Start",
+      "actionDescription": "The performer turns into profile, raises the knees to step up, and changes direction to descend. The last pose remains slightly bent at the knees in profile.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "step up",
+        "step down",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_37",
+      "sourceUUID": "ECA46C8A-2096-5009-96B3-6D4D8A051450",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "8fcc43f79de7a00b261087136aca86670ec2fd0e4dd9a006724bbd75534677a4",
+      "frameCount": 1478,
+      "frameInterval": 0.0083333,
+      "title": "Step Up, Turn, and Step Down with Arms Out",
+      "actionDescription": "The performer starts upright, turns and climbs in short steps, then descends while shifting the arms outward. The last pose has a lifted knee and one arm away from the body.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "turning",
+        "step down",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_38",
+      "sourceUUID": "37C2DBB2-E7AF-5A8B-B30D-5CAA2D26B103",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "93830b3f0d858387d77deb6044cef8cc8fd64eb0767fbe29047498d4a8aa9c36",
+      "frameCount": 1244,
+      "frameInterval": 0.0083333,
+      "title": "Repeat Short Stair Passes and Settle",
+      "actionDescription": "The performer starts mid-step, lifts the knees to move upward, and then steps down while alternating profile and forward-facing poses. They finish standing.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "repeated",
+        "changes heading",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_39",
+      "sourceUUID": "6CFA8EE9-FA34-5AFF-95FE-E7C3AD0970CA",
+      "sourceDescription": "jump",
+      "sourceSHA256": "1810dec74cf72839042dde67425c53773c910803415e945f3ffd747a55a8ee78",
+      "frameCount": 351,
+      "frameInterval": 0.0083333,
+      "title": "Jump in Place with Arms Open",
+      "actionDescription": "The performer dips, springs upward and opens both arms out, then absorbs the landing and resumes a neutral stance.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "arms open",
+        "bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_40",
+      "sourceUUID": "854E5FA6-7906-5975-B01B-7E380EE8EC99",
+      "sourceDescription": "jump",
+      "sourceSHA256": "80eeae8fba9f0329244022e15269c4666a8a29fcec4d47a314eb6184f483992c",
+      "frameCount": 319,
+      "frameInterval": 0.0083333,
+      "title": "Make a Compact Vertical Jump",
+      "actionDescription": "The performer stands briefly, bends the knees with arms low, and rises into a compact jump. They land and stand with the arms near the sides.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "compact",
+        "arms low"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_41",
+      "sourceUUID": "73108E56-6920-524A-B090-2FB899AEDE8D",
+      "sourceDescription": "jump",
+      "sourceSHA256": "e48ced8a153f175de6fd062f8040fa71b5f3a203ddda13f3d353755d4972e613",
+      "frameCount": 369,
+      "frameInterval": 0.0083333,
+      "title": "Dip, Jump Vertically, and Open the Arms",
+      "actionDescription": "The performer drops into a crouch with the hands in front, jumps straight up while extending the arms outward, and lands with soft knees. They straighten to finish.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "bent knees",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "13_42",
+      "sourceUUID": "EB09C8FE-1B39-523E-AF1F-7A0E480FCE51",
+      "sourceDescription": "jump",
+      "sourceSHA256": "15c34938cd57ddfa0fc33458210a89f4a7f90dfe3ce64e9ac0a8ae035c2ac747",
+      "frameCount": 400,
+      "frameInterval": 0.0083333,
+      "title": "Jump Vertically from a Deep Crouch",
+      "actionDescription": "The performer folds down sharply with the arms pulled behind, then jumps upward and lowers the arms while landing. The take ends upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "deep crouch",
+        "arm swing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
