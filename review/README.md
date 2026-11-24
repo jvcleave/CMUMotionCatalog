@@ -33,3 +33,8 @@ Use `--ids` to get the pending take IDs for the Creator renderer.
 
 The [source timing audit](source-timing.md) lists takes with leading all-zero
 captured frames and the open decision about their usable starts.
+
+For an affected take, `firstUsableFrame` identifies the first usable pose in
+original captured-frame coordinates. Keep the pinned BVH, source timing, and
+existing trim coordinates. Log take-specific concerns as `needs-review` with
+a `reviewNote` while continuing other batches.

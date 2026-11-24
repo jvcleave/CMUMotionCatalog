@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "takes": [
+    {
+      "takeID": "07_12",
+      "sourceUUID": "B9B157E7-E201-5C7E-B040-F0F74F06D2CD",
+      "leadingZeroChannelFrames": 1,
+      "firstDifferentFrame": 2,
+      "firstDifferentSeconds": 0.0083333,
+      "horizontalRootJumpMeters": 2.2463
+    },
+    {
+      "takeID": "09_10",
+      "sourceUUID": "9F8F2E0A-CB01-5700-9DC1-E8CD903C9FE1",
+      "leadingZeroChannelFrames": 4,
+      "firstDifferentFrame": 5,
+      "firstDifferentSeconds": 0.0333332,
+      "horizontalRootJumpMeters": 1.6088
+    },
+    {
+      "takeID": "104_01",
+      "sourceUUID": "8793E44D-790D-593C-8FB6-B4353B262048",
+      "leadingZeroChannelFrames": 55,
+      "firstDifferentFrame": 56,
+      "firstDifferentSeconds": 0.4583315,
+      "horizontalRootJumpMeters": 2.371
+    },
+    {
+      "takeID": "104_18",
+      "sourceUUID": "1778FAD9-27B2-504B-9619-BD68F10E7DA0",
+      "leadingZeroChannelFrames": 113,
+      "firstDifferentFrame": 114,
+      "firstDifferentSeconds": 0.9416629,
+      "horizontalRootJumpMeters": 2.3606
+    },
+    {
+      "takeID": "104_21",
+      "sourceUUID": "F66F22AD-71A8-5601-B3B2-53F51FF1D411",
+      "leadingZeroChannelFrames": 5,
+      "firstDifferentFrame": 6,
+      "firstDifferentSeconds": 0.0416665,
+      "horizontalRootJumpMeters": 1.6933
+    },
+    {
+      "takeID": "104_38",
+      "sourceUUID": "26E132F6-DB47-5871-945C-05344470D215",
+      "leadingZeroChannelFrames": 4,
+      "firstDifferentFrame": 5,
+      "firstDifferentSeconds": 0.0333332,
+      "horizontalRootJumpMeters": 1.6511
+    },
+    {
+      "takeID": "138_54",
+      "sourceUUID": "C5A3CF95-8B9E-58D4-B57C-3BD0B834F4E2",
+      "leadingZeroChannelFrames": 74,
+      "firstDifferentFrame": 75,
+      "firstDifferentSeconds": 0.6166642,
+      "horizontalRootJumpMeters": 2.8994
+    },
+    {
+      "takeID": "20_10",
+      "sourceUUID": "40ECE1AE-A749-5C7A-9FCF-AB4611AEA6E9",
+      "leadingZeroChannelFrames": 13,
+      "firstDifferentFrame": 14,
+      "firstDifferentSeconds": 0.1083329,
+      "horizontalRootJumpMeters": 1.112
+    },
+    {
+      "takeID": "28_01",
+      "sourceUUID": "6A710C3A-A8A5-529C-B509-C7B66A090393",
+      "leadingZeroChannelFrames": 48,
+      "firstDifferentFrame": 49,
+      "firstDifferentSeconds": 0.3999984,
+      "horizontalRootJumpMeters": 0.0428
+    },
+    {
+      "takeID": "79_77",
+      "sourceUUID": "63746620-CA42-525A-A4E3-6EDC34AF9D62",
+      "leadingZeroChannelFrames": 79,
+      "firstDifferentFrame": 80,
+      "firstDifferentSeconds": 0.6583307,
+      "horizontalRootJumpMeters": 0.2996
+    }
+  ]
+}

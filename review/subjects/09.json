@@ -161,7 +161,8 @@
         "gait"
       ],
       "reviewStatus": "needs-review",
-      "reviewNote": "Captured frames 1–4 have all-zero channels. Frame 5 (0.0333 s) is the first moving pose and follows a 1.609 m horizontal root discontinuity. Preserve source frame numbers while deciding how to expose the usable start."
+      "reviewNote": "Captured frames 1–4 have all-zero channels. Frame 5 (0.0333 s) is the first moving pose and follows a 1.609 m horizontal root discontinuity. The first usable frame is recorded for later review.",
+      "firstUsableFrame": 5
     },
     {
       "takeID": "09_11",

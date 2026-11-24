@@ -65,6 +65,13 @@ def validate(require_complete, proposed_checkpoint=None, require_catalog_complet
         checkpoints.extend(data["takes"])
     annotations = index([*pilot.values(), *checkpoints], "takeID")
     index(annotations.values(), "sourceUUID")
+    timing_issues = index(read("review/source-timing-issues.json")["takes"], "takeID")
+    for take_id, issue in timing_issues.items():
+        frame = issue["firstDifferentFrame"]
+        if (issue["sourceUUID"] != source[take_id]["id"]
+                or type(frame) is not int or not 1 < frame <= source[take_id]["frameCount"]
+                or frame != issue["leadingZeroChannelFrames"] + 1):
+            raise ValueError(f"{take_id} has inconsistent source timing audit metadata.")
     flagged = set()
     for take_id, take in annotations.items():
         original = source[take_id]
@@ -82,6 +89,11 @@ def validate(require_complete, proposed_checkpoint=None, require_catalog_complet
             raise ValueError(f"{take_id} is missing a title or action description.")
         if take["primaryCategory"] not in categories:
             raise ValueError(f"{take_id} has an unknown primary category.")
+        usable_frame = take.get("firstUsableFrame", 1)
+        if type(usable_frame) is not int or not 1 <= usable_frame <= original["frameCount"]:
+            raise ValueError(f"{take_id} has an invalid first usable source frame.")
+        if take_id in timing_issues and usable_frame != timing_issues[take_id]["firstDifferentFrame"]:
+            raise ValueError(f"{take_id} is missing the audited first usable source frame.")
         if any(not tag.strip() for tag in take["searchTags"]) or len(set(take["searchTags"])) != len(take["searchTags"]):
             raise ValueError(f"{take_id} has empty or repeated tags.")
         status = take["reviewStatus"]

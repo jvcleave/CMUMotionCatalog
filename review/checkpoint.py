@@ -35,10 +35,9 @@ def checkpoint(subject, draft):
         for field in REVIEW_FIELDS:
             take[field] = row[field]
         take["reviewStatus"] = row.get("reviewStatus", "described")
-        if "reviewNote" in row:
-            take["reviewNote"] = row["reviewNote"]
-        if "segments" in row:
-            take["segments"] = row["segments"]
+        for field in ("reviewNote", "firstUsableFrame", "segments"):
+            if field in row:
+                take[field] = row[field]
         takes[take_id] = take
 
     data = dict(schemaVersion=1, subject=subject, takes=[takes[take_id] for take_id in sorted(takes)])

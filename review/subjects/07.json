@@ -196,7 +196,8 @@
         "brisk"
       ],
       "reviewStatus": "needs-review",
-      "reviewNote": "Captured frame 1 has all-zero channels. Frame 2 (0.0083 s) is the first moving pose and follows a 2.246 m horizontal root discontinuity. Preserve source frame numbers while deciding how to expose the usable start."
+      "reviewNote": "Captured frame 1 has all-zero channels. Frame 2 (0.0083 s) is the first moving pose and follows a 2.246 m horizontal root discontinuity. The first usable frame is recorded for later review.",
+      "firstUsableFrame": 2
     }
   ]
 }

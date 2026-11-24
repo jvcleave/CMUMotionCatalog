@@ -25,9 +25,10 @@ in saved Motion Clip Sessions.
 
 Keep the pinned BVHs and their source timing. The recorded entries for
 `07_12` and `09_10` describe the visible gait and flag the start. The other
-eight are queued for subject review. Resolve how the usable start should be
-presented before approving affected entries. A source-time range can expose
-it while preserving the original timeline.
+eight are queued for subject review. Record the first usable frame on each affected annotation as
+`firstUsableFrame`, using the original one-based captured-frame coordinates.
+Keep the entries in the review queue for later inspection. The
+[machine-readable audit](source-timing-issues.json) carries all ten IDs.
 
 The private Creator tool `Tools/CMUMotionCatalog/audit_leading_frames.py`
 reproduces this report from the checksum-verified BVHs.
