@@ -161,6 +161,167 @@
         "forward bend"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_11",
+      "sourceUUID": "727167C0-E04A-5D82-97D0-D32E7E6E2653",
+      "sourceDescription": "bear (human subject)",
+      "sourceSHA256": "47b531a6cfbabda4202f079468325fb1a6376050770e3f2a75f28a48461864ce",
+      "frameCount": 6616,
+      "frameInterval": 0.0083333,
+      "title": "Bear pantomime",
+      "actionDescription": "The performer starts upright with bent arms, alternates broad arm gestures and side bends, then remains folded forward with repeated low reaches before rising.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "bear",
+        "animal pantomime",
+        "bend",
+        "reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_12",
+      "sourceUUID": "541ACA90-DF8D-5ECC-8C0C-22EEC8929632",
+      "sourceDescription": "dog (human subject)",
+      "sourceSHA256": "82c47519f2b6a27aac041d8754ed167254e543d478071e545ddae1ff1269382f",
+      "frameCount": 5147,
+      "frameInterval": 0.0083333,
+      "title": "Dog pantomime",
+      "actionDescription": "The performer starts standing with hands near the face, repeatedly tilts the head and moves the hands around the face and chest, ending with the head lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "dog",
+        "animal pantomime",
+        "head tilt",
+        "hand gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_13",
+      "sourceUUID": "1D65CEF5-CAC0-5578-86A3-35C48F2367B1",
+      "sourceDescription": "snake (human subject)",
+      "sourceSHA256": "c7bcffbea719d13d69662f5e51abfde4231c691d2119fae6c91ddba07a1421f6",
+      "frameCount": 5889,
+      "frameInterval": 0.0083333,
+      "title": "Snake pantomime",
+      "actionDescription": "The performer starts leaning sideways with hands together, repeatedly sways and bends while moving the hands in front of the body, and finishes leaning with the arms extended.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "snake",
+        "animal pantomime",
+        "sway",
+        "hand gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_14",
+      "sourceUUID": "F8CF2B17-8375-5B7F-9367-B69FD42F33D4",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "2138d187a87bd1f10a213077168e17a85d6387e28fc659d6e45af610871228a2",
+      "frameCount": 3742,
+      "frameInterval": 0.0083333,
+      "title": "Chicken pantomime",
+      "actionDescription": "The performer starts upright with bent arms near the chest, makes repeated forward bends and head-level gestures, then holds both hands on or above the head through the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "chicken",
+        "animal pantomime",
+        "bend",
+        "head gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_15",
+      "sourceUUID": "32F23DB1-45C6-5CDC-B801-48731B775972",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "13648aff68edb7f554f767c6ac212e7403e29637bde2c64f70c685428ba4331c",
+      "frameCount": 3443,
+      "frameInterval": 0.0083333,
+      "title": "Monkey pantomime",
+      "actionDescription": "The performer starts standing with bent arms, repeatedly leans sideways, gestures near the head and hips and reaches outward, ending in another extended-arm gesture.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "monkey",
+        "animal pantomime",
+        "side lean",
+        "reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_16",
+      "sourceUUID": "4C31FC1A-D62C-55F5-8596-7440F3CB3677",
+      "sourceDescription": "mouse (human subject)",
+      "sourceSHA256": "c31d9631edc902dfbc0a485245b79614c7ae4d130fdbe69fe854055593496154",
+      "frameCount": 5601,
+      "frameInterval": 0.0083333,
+      "title": "Mouse pantomime",
+      "actionDescription": "The performer starts standing with both hands near the mouth, repeats small hand and head movements while shifting weight, and finishes with hands near the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mouse",
+        "animal pantomime",
+        "hands near face"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_17",
+      "sourceUUID": "52B7EFB1-F7BE-5214-9259-DAF028EE5A14",
+      "sourceDescription": "cat (human subject)",
+      "sourceSHA256": "439c502d0f7adadf7f23bfaadd64143e15b6cafbb73ff668fb8dcbc1c065e4bd",
+      "frameCount": 5338,
+      "frameInterval": 0.0083333,
+      "title": "Cat pantomime",
+      "actionDescription": "The performer starts in a wide stance with hands near the face, repeatedly tilts the head and moves the hands around the cheeks and mouth, ending with hands together near the chin.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "cat",
+        "animal pantomime",
+        "head tilt",
+        "hands near face"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_18",
+      "sourceUUID": "D1CF15EE-E0DF-593B-81F2-4A52BAD83ACA",
+      "sourceDescription": "elephant (human subject)",
+      "sourceSHA256": "53df71312f328a77f9b794f84475107c183181af6eb44db3935274023983bfa5",
+      "frameCount": 4246,
+      "frameInterval": 0.0083333,
+      "title": "Elephant pantomime",
+      "actionDescription": "The performer starts standing, raises one arm overhead, folds forward and repeatedly extends the arm downward, then rises and lifts the arm again through the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "elephant",
+        "animal pantomime",
+        "forward bend",
+        "arm reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_19",
+      "sourceUUID": "D6060341-2DC8-5418-885F-635C8478470E",
+      "sourceDescription": "dinosaur (human subject)",
+      "sourceSHA256": "176023f2d23dc3738eada22190904e13ceab5f73c8f415425df79f8661b33468",
+      "frameCount": 4522,
+      "frameInterval": 0.0083333,
+      "title": "Dinosaur pantomime",
+      "actionDescription": "The performer starts standing with hands near the face, repeats forward leans and bent-knee movements with hands held up, then rises and continues gesturing through the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "dinosaur",
+        "animal pantomime",
+        "forward lean",
+        "hand gestures"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
