@@ -70,7 +70,29 @@
         "dance",
         "boxing mime"
       ],
-      "reviewStatus": "described"
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1081,
+          "endFrame": 5761,
+          "title": "Standing arm sweeps and raised-hand motions"
+        },
+        {
+          "startFrame": 6241,
+          "endFrame": 10921,
+          "title": "Wide gestures and single-arm arcs"
+        },
+        {
+          "startFrame": 12481,
+          "endFrame": 17041,
+          "title": "Rhythmic steps and bent-knee turns"
+        },
+        {
+          "startFrame": 18001,
+          "endFrame": 22548,
+          "title": "Raised hands and boxing steps"
+        }
+      ]
     },
     {
       "takeID": "15_05",
@@ -88,7 +110,29 @@
         "dance",
         "boxing mime"
       ],
-      "reviewStatus": "described"
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1081,
+          "endFrame": 5761,
+          "title": "Small signals and high two-handed reaches"
+        },
+        {
+          "startFrame": 6241,
+          "endFrame": 10561,
+          "title": "One-handed reaches and upright pauses"
+        },
+        {
+          "startFrame": 12121,
+          "endFrame": 16921,
+          "title": "Stepping, bends, and turning arm motions"
+        },
+        {
+          "startFrame": 17881,
+          "endFrame": 22501,
+          "title": "Raised hands and boxing footwork"
+        }
+      ]
     },
     {
       "takeID": "15_06",
@@ -211,7 +255,29 @@
         "dance",
         "turns"
       ],
-      "reviewStatus": "described"
+      "reviewStatus": "described",
+      "segments": [
+        {
+          "startFrame": 1,
+          "endFrame": 2041,
+          "title": "Chest-height and overhead reaches"
+        },
+        {
+          "startFrame": 2401,
+          "endFrame": 4681,
+          "title": "Forward arm gestures and stepping turns"
+        },
+        {
+          "startFrame": 4801,
+          "endFrame": 6241,
+          "title": "Low dip, rise, and side reach"
+        },
+        {
+          "startFrame": 6601,
+          "endFrame": 9085,
+          "title": "Compact gestures and upright finish"
+        }
+      ]
     },
     {
       "takeID": "15_13",
