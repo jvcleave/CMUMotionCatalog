@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "subject": "140",
+  "takes": [
+    {
+      "takeID": "140_01",
+      "sourceUUID": "CF8C10C2-F627-5DCA-9C7D-8AC557202397",
+      "sourceDescription": "Get Up Face Down",
+      "sourceSHA256": "0e877369973888a526fc9230661ab53c12cd1a20023a71e0a3abcc8c1507bbc5",
+      "frameCount": 830,
+      "frameInterval": 0.0083333,
+      "title": "Rise from face down into a ready crouch",
+      "actionDescription": "The performer presses the chest off the floor, comes through hands and knees, then stands into a low ready stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "prone to stand",
+        " hand support",
+        " ready crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_02",
+      "sourceUUID": "3900A2DC-96C1-5E1A-960E-2C2D6877569F",
+      "sourceDescription": "Get Up Face Down",
+      "sourceSHA256": "280026527779f443ad02dccf9232e914202e469d9a91908ca8561737fa7f1ed5",
+      "frameCount": 937,
+      "frameInterval": 0.0083333,
+      "title": "Push up from face down and settle in a squat",
+      "actionDescription": "The performer raises the chest and hips off the floor, plants the feet from a kneel, then rises and settles with both hands forward.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "prone to stand",
+        " kneel",
+        " squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_03",
+      "sourceUUID": "71E681E2-F42E-5E83-9117-FD41A5FBAA59",
+      "sourceDescription": "Get Up Laying on Side",
+      "sourceSHA256": "7ba705b771ab9febcfd0bac22d7fcd4039de382cfc4a92ead264ca5c6fc1bb41",
+      "frameCount": 1023,
+      "frameInterval": 0.0083333,
+      "title": "Rise from side lying through a seated brace",
+      "actionDescription": "The performer rolls up from the side, plants a hand behind in sitting, then comes through a squat into a bent-knee ready position.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "side lying",
+        " floor to stand",
+        " seated brace"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_04",
+      "sourceUUID": "AF7569D0-6678-5746-90E6-7D74EB1DC441",
+      "sourceDescription": "Get Up Laying on Side",
+      "sourceSHA256": "a35821a3ed48106a3c1867d3785d216a624207c5de315ee7e8dbadd817444cf1",
+      "frameCount": 1103,
+      "frameInterval": 0.0083333,
+      "title": "Get up from side lying into a wide stance",
+      "actionDescription": "The performer rolls from the side into sitting, supports the body with the hands, then pushes up and opens the feet into a wide stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "side lying",
+        " floor to stand",
+        " wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_05",
+      "sourceUUID": "BCB6896B-2896-56E3-A87D-18B119BA25BD",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "2e6f5f205c6c1f6e4e0d32eadb27ff4d9baec9b448d9b28c72b8c19f847d6ee3",
+      "frameCount": 27,
+      "frameInterval": 0.0083333,
+      "title": "Low motorcycle pose with arms forward",
+      "actionDescription": "The performer holds a deep bent-knee stance with both arms forward at shoulder height.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " deep squat",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_06",
+      "sourceUUID": "2D31FBBE-D921-5D2E-B17D-6A4D96678BF4",
+      "sourceDescription": "Idle",
+      "sourceSHA256": "a4035318459ac8313c822fa8b6fbfc9fb873308a052ea410a67b26c679b16407",
+      "frameCount": 3562,
+      "frameInterval": 0.0083333,
+      "title": "Long ready idle with weight shifts",
+      "actionDescription": "The performer steps into a staggered, slightly crouched stance and alternates weight between the feet with loose arms.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "ready idle",
+        " weight shifts",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_07",
+      "sourceUUID": "34C906ED-98CA-5E9F-8EB9-1F90AA66404C",
+      "sourceDescription": "Idle",
+      "sourceSHA256": "887e959672f854103229b6c14ceb40ed244bf92d61b6e0b70d02565b1c7dbd7b",
+      "frameCount": 1235,
+      "frameInterval": 0.0083333,
+      "title": "Ready idle in a staggered crouch",
+      "actionDescription": "The performer holds a low staggered stance, making small knee bends and arm adjustments without moving far.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "ready idle",
+        " staggered stance",
+        " small adjustments"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_08",
+      "sourceUUID": "ADF93303-D164-5FF2-A615-D611A82CD830",
+      "sourceDescription": "Get Up From Ground Laying on Back",
+      "sourceSHA256": "70e80d6da7acbbf840eeb0b149715e5668dff0d18b15168d2a1ad82d3de8d30c",
+      "frameCount": 898,
+      "frameInterval": 0.0083333,
+      "title": "Get up from the back into a low crouch",
+      "actionDescription": "The performer rocks up from the back into sitting, plants the feet, and rises into a low ready position with both hands forward.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "supine to stand",
+        " sit-up",
+        " ready crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "140_09",
+      "sourceUUID": "74C6739E-35F9-5023-9B35-FF323589825C",
+      "sourceDescription": "Get Up From Ground Laying on Back",
+      "sourceSHA256": "f436f560e73b6b67d6afc179bb35d584bbfe2f95b34d5166395bcd2dccda6cc2",
+      "frameCount": 815,
+      "frameInterval": 0.0083333,
+      "title": "Get up from the back with a wide plant",
+      "actionDescription": "The performer rolls upward, braces on one hand behind, then pushes through a deep squat into a wide upright stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "supine to stand",
+        " hand brace",
+        " wide plant"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}

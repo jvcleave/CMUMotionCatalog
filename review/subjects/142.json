@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "subject": "142",
+  "takes": [
+    {
+      "takeID": "142_01",
+      "sourceUUID": "123B5ED3-488E-5F35-9B8C-A349FA0A6620",
+      "sourceDescription": "Childish",
+      "sourceSHA256": "48d225c31aca9741ce81ff8a72f3a0ed6f06d63b18564cc6f179e856e8b0afdc",
+      "frameCount": 5241,
+      "frameInterval": 0.0083333,
+      "title": "Playful walk with skipping accents",
+      "actionDescription": "The performer walks through several turns with small bouncing and crossing steps and loose arm swings.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "playful walk",
+        " bouncy steps",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_02",
+      "sourceUUID": "2EB84BBD-BA77-5F36-8BEC-581D2232D8CC",
+      "sourceDescription": "Clumsy",
+      "sourceSHA256": "49664b2317cdf1181ad2cfb099f9fa6b2a4e81fff71680934a1859bad2132e3c",
+      "frameCount": 1882,
+      "frameInterval": 0.0083333,
+      "title": "Clumsy walk with quick balance corrections",
+      "actionDescription": "The performer takes irregular steps, pitches sideways briefly, and gathers the arms and feet to steady the next turn.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "clumsy walk",
+        " irregular steps",
+        " balance correction"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_03",
+      "sourceUUID": "67646C70-AB47-5D63-A03F-9DAE20345FA9",
+      "sourceDescription": "Clumsy",
+      "sourceSHA256": "84c4e93576c35cb856d832e435f1a319f05836087c5f4912be1bdc5b35455ce3",
+      "frameCount": 2427,
+      "frameInterval": 0.0083333,
+      "title": "Clumsy walk with a forward stumble",
+      "actionDescription": "The performer walks through short changes in facing, then tips forward with one arm extended and steps out of the tilt.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "clumsy walk",
+        " stumble",
+        " forward reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_04",
+      "sourceUUID": "2B272B34-36A9-5D34-BB34-AE4A07B4F80F",
+      "sourceDescription": "Cool",
+      "sourceSHA256": "e7b97c80a800f84dd51dd59eecf0709ea8b44d544f35cf4416ac4b8f4febf753",
+      "frameCount": 3731,
+      "frameInterval": 0.0083333,
+      "title": "Casual swagger with a forward dip",
+      "actionDescription": "The performer takes relaxed crossed steps through turns, briefly dips the torso and lifts a leg, then resumes the walk.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "swagger",
+        " cross steps",
+        " forward dip"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_05",
+      "sourceUUID": "D0D519B3-91AE-523D-8A86-41FFCC0FB2F6",
+      "sourceDescription": "Depressed",
+      "sourceSHA256": "d956c0bc116ceb7091602550c9fa8d4061cccab66527c675c32e33be5d1dce2b",
+      "frameCount": 6732,
+      "frameInterval": 0.0083333,
+      "title": "Slumped walk with slow turns",
+      "actionDescription": "The performer moves with a lowered head and dropped shoulders, taking slow steps through repeated direction changes.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "dejected walk",
+        " slouch",
+        " slow turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_06",
+      "sourceUUID": "3DF6AF29-50C9-5B3E-AB65-948D0E374A44",
+      "sourceDescription": "Elated",
+      "sourceSHA256": "b77f8cf461da24895214cd93393b9b77c4b360fed3abf98e1bb033805706f6a4",
+      "frameCount": 2644,
+      "frameInterval": 0.0083333,
+      "title": "Buoyant walk with springy crossing steps",
+      "actionDescription": "The performer moves through quick, light steps with a lifted torso, adds crossing steps while turning, and finishes upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "elated walk",
+        " springy steps",
+        " cross steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_07",
+      "sourceUUID": "5BF21DB7-84D1-54D6-9951-D93C16761D9B",
+      "sourceDescription": "Elderlyman",
+      "sourceSHA256": "8fa3b494faf90ca7c28db9d3846715f988745025288c53ae83e2fbcb421371e5",
+      "frameCount": 8386,
+      "frameInterval": 0.0083333,
+      "title": "Stooped walk with short deliberate steps",
+      "actionDescription": "The performer walks with knees flexed and shoulders bent forward, takes short deliberate steps through turns, and eases upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "older character",
+        " stooped gait",
+        " short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_08",
+      "sourceUUID": "828AC9B0-EC75-5F45-9473-305CF4C5F67A",
+      "sourceDescription": "Happy",
+      "sourceSHA256": "05ed78094cb426a334d2c528a4238d98e2f86e79c2951939fcf8a0fe834bfd37",
+      "frameCount": 3033,
+      "frameInterval": 0.0083333,
+      "title": "Light happy walk with crossing turns",
+      "actionDescription": "The performer walks in an easy, buoyant rhythm, crossing the feet during turns and letting the arms swing low.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "happy walk",
+        " cross steps",
+        " light gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_09",
+      "sourceUUID": "E83AC983-0A17-5355-9107-A9545952E4DD",
+      "sourceDescription": "Joy",
+      "sourceSHA256": "f8afc94a8dfb4348328d620bcbddc3e2f50ff776c5ae41e62aecdc92a916c48a",
+      "frameCount": 2666,
+      "frameInterval": 0.0083333,
+      "title": "Joyful steps with an overhead jump",
+      "actionDescription": "The performer mixes quick steps and turns with open-arm accents, springs up with the hands overhead, and resumes stepping.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "joy",
+        " overhead jump",
+        " open arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_10",
+      "sourceUUID": "21B058E2-29A6-58CA-86E8-E3272EC01FA1",
+      "sourceDescription": "Lavish",
+      "sourceSHA256": "f97791c0dfdd96b308a848618ef98cce8381b9376304a5769b54da10368f8118",
+      "frameCount": 4508,
+      "frameInterval": 0.0083333,
+      "title": "Flourished walk with poised hand gestures",
+      "actionDescription": "The performer crosses the feet through turns, occasionally raises a hand near the face, and continues with the arms lightly bent.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "flourished walk",
+        " hand gesture",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_11",
+      "sourceUUID": "B37479F7-DFC4-51A1-893E-B3CC1B1BF449",
+      "sourceDescription": "Marching",
+      "sourceSHA256": "3acf7004ebb7e2e8f174b101184ba752a8d3f5423933cf84e2ea48a16c306b50",
+      "frameCount": 3277,
+      "frameInterval": 0.0083333,
+      "title": "High-knee march with turns",
+      "actionDescription": "The performer repeatedly lifts the knees high while keeping the arms bent, changing direction through the marching steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "march",
+        " high knees",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_12",
+      "sourceUUID": "2420D005-215D-57B6-8AE3-F1C459298054",
+      "sourceDescription": "Painfulleftknee",
+      "sourceSHA256": "26709c8201006b1f2f68d35e5252445e0a9506e65c724f6200a00320759dcf03",
+      "frameCount": 4702,
+      "frameInterval": 0.0083333,
+      "title": "Walk favoring the left knee",
+      "actionDescription": "The performer walks with an asymmetric cadence and short guarded steps, occasionally bringing a hand near the body or thigh. The source identifies left knee pain.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        " left knee",
+        " guarded gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_13",
+      "sourceUUID": "27024E3B-1388-51D1-B94F-BD0C0121D5C3",
+      "sourceDescription": "Relaxed",
+      "sourceSHA256": "151f0bc7c95bea2c0d613f4213b194ac5b8aef8a3ee7a34a64fded28a6a0831c",
+      "frameCount": 5159,
+      "frameInterval": 0.0083333,
+      "title": "Relaxed walk with mild torso sway",
+      "actionDescription": "The performer takes easy, even steps with arms low, turning through several headings before coming back to a stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "relaxed walk",
+        " torso sway",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_14",
+      "sourceUUID": "0768498F-CDAE-52FA-8B52-8CC276C01E17",
+      "sourceDescription": "Rushed",
+      "sourceSHA256": "a3cdd9c495298b45f6c5c4648ccebb71b7876c81d5d2c07d529ab8603b684148",
+      "frameCount": 1663,
+      "frameInterval": 0.0083333,
+      "title": "Rushed walk with quick turns",
+      "actionDescription": "The performer takes brisk close steps with bent elbows, pivots through several changes in facing, and slows at the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "rushed walk",
+        " brisk pace",
+        " quick turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_15",
+      "sourceUUID": "A8FEFA30-B452-5B8D-92C1-25DCA8C4C94B",
+      "sourceDescription": "Sad",
+      "sourceSHA256": "45f9f7f9acd613e6bf525c0fd8aca13e0c48e197748fd572580ec4e9b685bcac",
+      "frameCount": 5374,
+      "frameInterval": 0.0083333,
+      "title": "Sad walk with the head and arms low",
+      "actionDescription": "The performer moves through slow, short steps with a lowered head and loose arms, then returns to a quiet upright stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "sad walk",
+        " lowered head",
+        " short strides"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_16",
+      "sourceUUID": "57FC5F45-5178-513D-A904-F41177AE1657",
+      "sourceDescription": "Scared",
+      "sourceSHA256": "3e66abefa036b7b733911aaf6a559cfe0a4768ef8d8924421ab55b9f23ba74a7",
+      "frameCount": 5818,
+      "frameInterval": 0.0083333,
+      "title": "Startled steps into a deep crouch",
+      "actionDescription": "The performer turns and backs away with the hands opening, drops into a deep guarded crouch, and rises and steps out.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "fear",
+        " deep crouch",
+        " startled steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_17",
+      "sourceUUID": "0E6D0396-21C5-5461-B871-42A0A5B76E58",
+      "sourceDescription": "Scared",
+      "sourceSHA256": "7fc949ee9fa7868e31e8915a41716976736e3fe3a273acf7dcfdd0c6a95f5243",
+      "frameCount": 4431,
+      "frameInterval": 0.0083333,
+      "title": "Guarded walk with repeated low recoils",
+      "actionDescription": "The performer takes short steps with the knees bent, repeatedly reaches the hands forward and recoils, then straightens.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "fear",
+        " recoil",
+        " guarded stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_18",
+      "sourceUUID": "66227359-FC42-59DA-9550-444F2D711480",
+      "sourceDescription": "Sexy",
+      "sourceSHA256": "f1642494ad4380e76811b234a9a60419dfa07e0665c14ad6c77b89269a3bf205",
+      "frameCount": 4897,
+      "frameInterval": 0.0083333,
+      "title": "Stylized hip-led walk with crossed steps",
+      "actionDescription": "The performer uses measured crossing steps and hip sway, occasionally bringing the forearms forward during turns.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stylized walk",
+        " hip sway",
+        " cross steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_19",
+      "sourceUUID": "F8CD93A6-D567-5C1E-AC80-6D12C839F7EB",
+      "sourceDescription": "Shy",
+      "sourceSHA256": "fa3bcc08928114fa89b5260a7012bbbfc017088217ca204697d19f2e2a515ef3",
+      "frameCount": 4493,
+      "frameInterval": 0.0083333,
+      "title": "Shy walk with inward arm posture",
+      "actionDescription": "The performer takes short steps with the shoulders and arms drawn inward, turns away and approaches a neutral stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "shy walk",
+        " inward posture",
+        " short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_20",
+      "sourceUUID": "1CF5D2D6-346F-55C0-8646-925F9C432A66",
+      "sourceDescription": "Singing in the rain jump",
+      "sourceSHA256": "282a6993c698fc5c76f6593fd1115b0cf2472ee2be69ef9fbbddd080c6942e31",
+      "frameCount": 1534,
+      "frameInterval": 0.0083333,
+      "title": "Playful traveling leap with a side lean",
+      "actionDescription": "The performer takes light approach steps, leans sideways into a sweeping jump, and lands into a short walk-out.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "traveling jump",
+        " side lean",
+        " playful jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_21",
+      "sourceUUID": "E7703B59-66CA-5D9C-A1F3-7D5C1ABBB7B5",
+      "sourceDescription": "Singing in the rain jump",
+      "sourceSHA256": "3f58511d14bae0faf4e85ceaa72b85cbde14bbaf09d2fbb09220d130c0ae0032",
+      "frameCount": 1412,
+      "frameInterval": 0.0083333,
+      "title": "High-knee jump with a side reach",
+      "actionDescription": "The performer steps into a strong side lean, jumps with a raised knee and the arms reaching out, then steps back to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "high-knee jump",
+        " side reach",
+        " landing steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "142_22",
+      "sourceUUID": "7123FCD7-5FEE-5EDF-8C11-425CDDC94369",
+      "sourceDescription": "Sneaky",
+      "sourceSHA256": "ab296dc9d4ce62abec3605809025757c92d0db76c06383eeebae9f592388e153",
+      "frameCount": 5221,
+      "frameInterval": 0.0083333,
+      "title": "Sneaking walk with repeated crouched turns",
+      "actionDescription": "The performer bends the knees and tips forward, advances with careful low steps and half-turns, then comes back up slightly.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "sneak",
+        " crouched walk",
+        " turning"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
