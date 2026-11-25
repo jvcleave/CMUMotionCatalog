@@ -1,0 +1,499 @@
+{
+  "schemaVersion": 1,
+  "subject": "113",
+  "takes": [
+    {
+      "takeID": "113_01",
+      "sourceUUID": "A9EEA5F5-74CB-5786-AAE9-EE1BAE7EE228",
+      "sourceDescription": "Walk backwards",
+      "sourceSHA256": "24bea55644fd19abb46b148963fcdbcf7c2a39490e9ba8bb41f6bf9a6b94fc4b",
+      "frameCount": 835,
+      "frameInterval": 0.0083333,
+      "title": "Backward walk with an upright stop",
+      "actionDescription": "The performer takes alternating backward steps with relaxed arms and draws the feet together to stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward walk",
+        " relaxed arms",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_02",
+      "sourceUUID": "F9911AA0-B890-57D2-96C2-55A70B5161FB",
+      "sourceDescription": "Bow",
+      "sourceSHA256": "ec649ab14591024b80d3d6514ae25c2898411357e22c1fe2c90ae5855042deee",
+      "frameCount": 529,
+      "frameInterval": 0.0083333,
+      "title": "Deep standing bow",
+      "actionDescription": "The performer brings the arms toward the torso, bends until the back is nearly horizontal, holds briefly, then straightens and lowers the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "bow",
+        " forward bend",
+        " brief hold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_03",
+      "sourceUUID": "F0FD8B43-9B6B-5871-8BFB-9C32C5CB7926",
+      "sourceDescription": "Curtsey",
+      "sourceSHA256": "2ff9662fbb369bac3795159c0c7b1d5ba4a23870311ad7d360ae04089489f2b7",
+      "frameCount": 485,
+      "frameInterval": 0.0083333,
+      "title": "Curtsy with a backward crossing step",
+      "actionDescription": "The performer crosses one foot back, lowers into a knee bend with palms spreading, and returns to standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "curtsy",
+        " cross-behind step",
+        " open palms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_04",
+      "sourceUUID": "B515FE6C-B4A9-53B1-874C-73391712C10E",
+      "sourceDescription": "Dance",
+      "sourceSHA256": "5b4180e07a443737e84e2eea919d847c59e7b3df42e2b571a83a2f3794296ea6",
+      "frameCount": 970,
+      "frameInterval": 0.0083333,
+      "title": "Bouncy dance with turning arm gestures",
+      "actionDescription": "The performer links small bent-knee dance steps and turns with alternating forward hand gestures, then straightens.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "bouncy steps",
+        " dance turn",
+        " hand gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_05",
+      "sourceUUID": "C7DB4953-FC63-5D2E-978E-F6C480317092",
+      "sourceDescription": "Walk digital 8",
+      "sourceSHA256": "9c07ed22ba314f4f25d05f006cb8a5bfc5b64aed4125953f1d42ef02d3bd15fb",
+      "frameCount": 2660,
+      "frameInterval": 0.0083333,
+      "title": "Angular figure-eight walk",
+      "actionDescription": "The performer walks through straight sections with distinct changes in facing along a repeated eight-shaped route.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " angular turns",
+        " straight strides"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_06",
+      "sourceUUID": "1464E0ED-0D6B-5B9C-ADF5-573A43461200",
+      "sourceDescription": "Walk figure 8",
+      "sourceSHA256": "d5109cc1c64e66ad2101ca57c08254082517bd3c46155198de73fd05c7747fbc",
+      "frameCount": 2026,
+      "frameInterval": 0.0083333,
+      "title": "Curved figure-eight walk",
+      "actionDescription": "The performer walks a looping figure eight with long relaxed steps and comes back to an upright stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " curved path",
+        " long strides"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_07",
+      "sourceUUID": "80A767F6-C12D-561B-B043-F2A78771F363",
+      "sourceDescription": "Run",
+      "sourceSHA256": "3188c42f67c8a2e41a1afcd0ae10670bb27084b5900cd3565e4226f632c41652",
+      "frameCount": 582,
+      "frameInterval": 0.0083333,
+      "title": "Short run into a side-on stop",
+      "actionDescription": "The performer builds from standing into a quick run with bent arms, turns slightly, then slows and finishes side-on.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run start",
+        " running turn",
+        " run stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_08",
+      "sourceUUID": "97B1C616-0817-5582-A3E9-7C872052DA4A",
+      "sourceDescription": "Lay down and get up",
+      "sourceSHA256": "4a5b6784c5d8074e503cbdd64987c4899bc433572e51d77f1d14ba321cf16a94",
+      "frameCount": 1845,
+      "frameInterval": 0.0083333,
+      "title": "Lie down and stand again",
+      "actionDescription": "The performer crouches to the floor, lies flat on the back for several seconds, then rolls up and stands.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "lie down",
+        " supine hold",
+        " floor to stand"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_09",
+      "sourceUUID": "47D145E9-DD07-5B42-B785-4DEF1008AE7B",
+      "sourceDescription": "March",
+      "sourceSHA256": "91e2b6d5bcb5f8fbb0a33ba9e85687f86523c6af6f15f1a213b7254430fd66cf",
+      "frameCount": 1198,
+      "frameInterval": 0.0083333,
+      "title": "High-knee march with turns",
+      "actionDescription": "The performer lifts the knees in alternation with the elbows bent and changes heading without leaving the marching rhythm.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "march",
+        " high knees",
+        " turning"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_10",
+      "sourceUUID": "6DABEA57-3579-5E90-AAD2-60B72204DD20",
+      "sourceDescription": "Walk, mope around",
+      "sourceSHA256": "336d1ad177c6faab65667aa3a4b4e05b0ddca9ef1d3b10a89212168fe63f9f98",
+      "frameCount": 1334,
+      "frameInterval": 0.0083333,
+      "title": "Moping walk with a pause",
+      "actionDescription": "The performer begins with hands at the waist, then wanders slowly with the head and shoulders slumped, turning between short stretches.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "mope",
+        " slow walk",
+        " rounded shoulders"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_11",
+      "sourceUUID": "D29025FE-6A7B-5320-BDA5-F4DD574766E9",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "0811f3747d3374bb837bcfde77f46566fadabea2fb043508a4d28e273ef60448",
+      "frameCount": 278,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle pose in a shallow crouch",
+      "actionDescription": "The performer holds the knees bent and torso slightly forward, with both elbows flexed and hands in front.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " bent knees",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_12",
+      "sourceUUID": "8B8EF9F0-4C1C-5FEA-807B-1C0DCA484CC7",
+      "sourceDescription": "Peekaboo",
+      "sourceSHA256": "f729ac5f1ce4a70fe4d643f0d714147e3c4b5ba2da180859897bbc48b1f3d14f",
+      "frameCount": 397,
+      "frameInterval": 0.0083333,
+      "title": "Peekaboo from a wide stance",
+      "actionDescription": "The performer raises both hands to the face, separates and returns them near the eyes, then drops the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "peekaboo",
+        " hands to face",
+        " wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_13",
+      "sourceUUID": "9D8685F9-E133-5F25-B68F-287AD2A2BDDB",
+      "sourceDescription": "Punch and kick",
+      "sourceSHA256": "7c00ca5e76d025f16d0d3b895feef79f4306f1a82bbb91219502258a3e868a2f",
+      "frameCount": 1343,
+      "frameInterval": 0.0083333,
+      "title": "Punch and kick with stance resets",
+      "actionDescription": "The performer keeps the hands near the chest for short punches and lifted-leg kicks, returning to a standing stance between efforts.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "punch",
+        " kick",
+        " standing reset"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_14",
+      "sourceUUID": "EC2AD885-1935-58D7-BDD9-FE65448785AC",
+      "sourceDescription": "Ring around the rosie",
+      "sourceSHA256": "b0760ed518f98f0684dace14861f3a55459d901e6212a468e8c3e5f31cdc3c55",
+      "frameCount": 1012,
+      "frameInterval": 0.0083333,
+      "title": "Circle steps into cross-legged sitting",
+      "actionDescription": "The performer steps and turns as if circling, drops into a low squat, and settles cross-legged on the floor. The source calls it Ring Around the Rosie.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "Ring Around the Rosie",
+        " circle steps",
+        " cross-legged sit"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_15",
+      "sourceUUID": "5476B035-63B6-5303-B26D-3FCE878FFC07",
+      "sourceDescription": "Sit in chair and get up",
+      "sourceSHA256": "a7d1294ee85122f8c4c8e0ec4420f8804b847974940a581970ec83b69142000c",
+      "frameCount": 953,
+      "frameInterval": 0.0083333,
+      "title": "Sit in a chair and rise",
+      "actionDescription": "The performer leans forward and lowers to a chair-sitting pose, pauses with the forearms lifted, then stands and steps out.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "chair sit",
+        " seated pause",
+        " chair rise"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_16",
+      "sourceUUID": "5F6607B5-6AA1-5345-B927-003189ABD26B",
+      "sourceDescription": "Shrug",
+      "sourceSHA256": "02245662c71767e72eaad72e3e0007f83604e6a3e6d1060a7c0b2950d263081f",
+      "frameCount": 699,
+      "frameInterval": 0.0083333,
+      "title": "Small shrug from standing",
+      "actionDescription": "The performer makes a slight shoulder lift and weight shift with the hands close to the sides, then relaxes again.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "shrug",
+        " shoulder lift",
+        " weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_17",
+      "sourceUUID": "2871DB32-85B6-501A-AD73-BB20E7E3A3F1",
+      "sourceDescription": "Walk sideway",
+      "sourceSHA256": "6d3b3997a327595bbe718311c09a630ab92f93242d4dba8b1be327f69a6d1915",
+      "frameCount": 1854,
+      "frameInterval": 0.0083333,
+      "title": "Side walk with crossing steps",
+      "actionDescription": "The performer travels laterally by crossing the feet and reopening the stance, then narrows the steps toward the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "side walk",
+        " cross steps",
+        " lateral travel"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_18",
+      "sourceUUID": "EBD78166-4E58-590E-805B-A8E8A0DA209A",
+      "sourceDescription": "Walk sideways",
+      "sourceSHA256": "58c55939ea026f6e146d814bcaaea9d89cd398e3f8833edb895ef5e3ebad3b67",
+      "frameCount": 2196,
+      "frameInterval": 0.0083333,
+      "title": "Side walk with wide step-together movements",
+      "actionDescription": "The performer repeatedly steps wide to the side and draws the trailing foot in, keeping the arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "side walk",
+        " step together",
+        " wide steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_19",
+      "sourceUUID": "07BC097B-F745-5AD1-9EE1-4B39C5D26F9A",
+      "sourceDescription": "Walking up and down stairs",
+      "sourceSHA256": "b9905657508c47d62242e7736024e274a80ced75be680304c220c4d0b0eb7764",
+      "frameCount": 803,
+      "frameInterval": 0.0083333,
+      "title": "Climb and descend stairs with short steps",
+      "actionDescription": "The performer takes a short flight of high steps, turns, and moves through a descending series with bent knees.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs up",
+        " stairs down",
+        " turning"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_20",
+      "sourceUUID": "EF9EB3B8-F9FE-5457-8233-0A1FF7298B2F",
+      "sourceDescription": "Walk up and down stairs",
+      "sourceSHA256": "27a003b2ae15f089a284b205b4dcc2aec9ad0e889f21882e8dc3b3c282acd370",
+      "frameCount": 1448,
+      "frameInterval": 0.0083333,
+      "title": "Climb and descend stairs with a standing finish",
+      "actionDescription": "The performer steps up in sequence, changes direction and lowers through several steps, finishing upright with the feet apart.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs up",
+        " stairs down",
+        " standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_21",
+      "sourceUUID": "3C084CD6-5BC5-5C66-A988-D96EB0D07525",
+      "sourceDescription": "Standing Still",
+      "sourceSHA256": "127c9364e77f6a8eb4197a4d58959f71758072a4db2f05e0360464aef16ce57a",
+      "frameCount": 1367,
+      "frameInterval": 0.0083333,
+      "title": "Quiet standing with subtle head turns",
+      "actionDescription": "The performer stands in place with arms low and makes occasional small shifts in head angle and weight.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "standing pose",
+        " head turn",
+        " weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_22",
+      "sourceUUID": "EA43A255-37C9-50A6-BCCD-ADEE40AE60BD",
+      "sourceDescription": "Step over",
+      "sourceSHA256": "2adfe5c7105561c2647e88ddf87a4b7bfdff73c5ecbaba193ee470874780b887",
+      "frameCount": 1193,
+      "frameInterval": 0.0083333,
+      "title": "Repeat high steps over an obstacle mime",
+      "actionDescription": "The performer lowers the hands from the waist and takes several exaggerated raised-knee steps, turning between attempts.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step over",
+        " high knees",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_23",
+      "sourceUUID": "64DB087A-5B40-5B17-BCC2-E754E01C688F",
+      "sourceDescription": "Stretch and yawn",
+      "sourceSHA256": "2ff82f09544ee3d38d4ff6a6544a37e6d244b7f73a39a057d05088201871a9de",
+      "frameCount": 1010,
+      "frameInterval": 0.0083333,
+      "title": "Yawn into a two-arm stretch",
+      "actionDescription": "The performer lifts both hands near the face, reaches high with the arms spread, and slowly lowers them to the sides.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "yawn",
+        " overhead stretch",
+        " open arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_24",
+      "sourceUUID": "BA8699AE-BE61-50C0-A399-F5BB771803EB",
+      "sourceDescription": "Throw",
+      "sourceSHA256": "32442be34ca31bda6e74f8c48a74e1ec92f52d1eb6a4defa6b3e60496b1848a9",
+      "frameCount": 1105,
+      "frameInterval": 0.0083333,
+      "title": "Repeated one-hand throwing mime",
+      "actionDescription": "The performer sets one hand near the face and makes short forward casting gestures, returning to a loose stance between efforts.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "throwing mime",
+        " one hand",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_25",
+      "sourceUUID": "D2558E93-6BE4-5222-8436-A1F63DD23189",
+      "sourceDescription": "Walk",
+      "sourceSHA256": "a13d2456f4f3b03800f7a49623168a90e3477ba2b11187ca748ff4cddf00d993",
+      "frameCount": 689,
+      "frameInterval": 0.0083333,
+      "title": "Short walk with relaxed shoulders",
+      "actionDescription": "The performer takes a few easy walking strides with the hands low, then brings the feet close and settles.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "short walk",
+        " relaxed arms",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_26",
+      "sourceUUID": "071DC46E-3995-50B5-8ACC-BE0E836EA378",
+      "sourceDescription": "Walk and carry",
+      "sourceSHA256": "548aeb49cc8889610877f358f6131aa01e489431b1a38011c62ace01753b2bf7",
+      "frameCount": 1316,
+      "frameInterval": 0.0083333,
+      "title": "Walking carry with bent forearms",
+      "actionDescription": "The performer walks and turns while holding the forearms in front as if carrying something, occasionally moving one hand outward.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "carrying mime",
+        " walk and turn",
+        " bent forearms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_27",
+      "sourceUUID": "F6A417BB-3231-5722-BE2C-26BE5EF74A0D",
+      "sourceDescription": "Wave",
+      "sourceSHA256": "fa589f0dabd1a5a56430f047622279cd91a28ea9466baf6bad2b331f87409833",
+      "frameCount": 357,
+      "frameInterval": 0.0083333,
+      "title": "One-hand wave and lower",
+      "actionDescription": "The performer lifts one hand beside the head, waves briefly, then extends and lowers the forearm while keeping the feet planted.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "wave",
+        " one hand",
+        " planted stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_28",
+      "sourceUUID": "4B2ADA51-DCDE-5D17-B1C5-AB14B007F24F",
+      "sourceDescription": "Yoga",
+      "sourceSHA256": "bab0b19847e10974bd1443a24546593778c8ab341b7b95917ae6791567892970",
+      "frameCount": 5153,
+      "frameInterval": 0.0083333,
+      "title": "Floor yoga with repeated folds and lunges",
+      "actionDescription": "The performer folds down, alternates hand-supported bends, low lunges and seated positions, and returns to standing.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        " forward fold",
+        " floor lunge"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "113_29",
+      "sourceUUID": "D1152149-0894-573A-9348-2205AB89AB56",
+      "sourceDescription": "Yoga",
+      "sourceSHA256": "e47116c1caebc103692e48d66966ed60fe24ac9085cd01a85804db943ffbbfa3",
+      "frameCount": 4318,
+      "frameInterval": 0.0083333,
+      "title": "Standing yoga with one-leg balance and side reaches",
+      "actionDescription": "The performer balances on each leg with the arms open, steps into a wide stance, then alternates low side reaches before standing.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        " one-leg balance",
+        " side reach"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
