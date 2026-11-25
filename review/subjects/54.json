@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "subject": "54",
+  "takes": [
+    {
+      "takeID": "54_01",
+      "sourceUUID": "ACDEEBB6-F8AC-5809-A548-C50095C86595",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "fce13b798d5bd1c3e6ade5dc3611482c4adba2bfd7e5bc0a330357cf185fdcc0",
+      "frameCount": 1921,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with High Reaches and Low Dips",
+      "actionDescription": "The performer raises both arms, opens them to the sides, and repeatedly dips and reaches. They finish upright after lowering the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_02",
+      "sourceUUID": "95AC6D8C-E900-5306-A3C0-DC4E528B70AC",
+      "sourceDescription": "bear (human subject)",
+      "sourceSHA256": "d9751c558ab73b0abcee74091e704f39070cea81102f6c788e435540a6c3ab82",
+      "frameCount": 3009,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Bear with Low Bends and Long Reaches",
+      "actionDescription": "The performer folds forward into staggered stances, reaches outward while low, then straightens and steps to finish.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "bear",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_03",
+      "sourceUUID": "799A4531-9DAC-53B0-B54C-740C8E839B1B",
+      "sourceDescription": "penguin (human subject)",
+      "sourceSHA256": "75e6800801b98998f1ee95164c99bdeb8aff7eee6355df8762d04e8f8d22d972",
+      "frameCount": 2772,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Penguin with Short Steps and Open Hands",
+      "actionDescription": "The performer makes several open-hand gestures and takes short steps with the arms low, finishing side-on with flexed knees.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "penguin",
+        "short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_04",
+      "sourceUUID": "E19D395A-AA2E-5DAC-BDD1-4699FB03748C",
+      "sourceDescription": "pterosaur (human subject)",
+      "sourceSHA256": "db4de8c93032427181ca89024b83d428d18e2b2e1bcb792cc1dfe60bf3ff5e0f",
+      "frameCount": 4609,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Pterosaur with Wide Arms and Deep Dips",
+      "actionDescription": "The performer spreads the arms wide, alternates lower bent-knee positions and high knee lifts, and keeps an arm extended in the closing pose.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "pterosaur",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_05",
+      "sourceUUID": "1CF3AC76-C1BB-5C49-A670-621CC8E4AEF7",
+      "sourceDescription": "pterosaur (human subject)",
+      "sourceSHA256": "a978c4ce6b4cf362a34c4fbe4efefe9a9f703d83a8ea964f0ec404a8c26328c6",
+      "frameCount": 1067,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Pterosaur with a Low Crouch and Wide Reach",
+      "actionDescription": "The performer opens with one knee high and arms out, sinks into several low crouches, and rises with a diagonal reach before returning upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "pterosaur",
+        "low crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_06",
+      "sourceUUID": "061B7B80-0C0A-5F54-B922-9B608725BDD5",
+      "sourceDescription": "pterosaur (human subject)",
+      "sourceSHA256": "955259917ec5a7cd2b2a2be7f0e5cbf47e2b9f658f7a2082bed523de1308795a",
+      "frameCount": 7878,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Wing-Like Arm Openings and Bent-Knee Dips",
+      "actionDescription": "The performer raises and spreads both arms, repeats broad openings with bent knees and turns, then lowers the arms while stepping. The CMU source identifies a pterosaur mime.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "pterosaur",
+        "wing-like arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_07",
+      "sourceUUID": "0B79789F-61B1-5B5D-BCBD-59BA4EB00D36",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "f25221d346b109bd0248f14139715f7c5d596d991ce222ae3b24c8d072b42270",
+      "frameCount": 4010,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Prairie Dog with Close Hand Gestures",
+      "actionDescription": "The performer keeps the hands close, alternates small outward gestures and brief knee bends, and ends upright with elbows bent.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "prairie dog",
+        "knee bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_08",
+      "sourceUUID": "786F3C26-8BA6-569A-97E6-854058FCD807",
+      "sourceDescription": "roadrunner (human subject)",
+      "sourceSHA256": "0c44dad6dd6d2a83ca43408f6b7338cae4d9decc67188272be66db7faa018530",
+      "frameCount": 4238,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Roadrunner with Repeated Forward Leans",
+      "actionDescription": "The performer starts upright, leans forward with the elbows pulled back, and repeats quick steps and turns before straightening.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "roadrunner",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_09",
+      "sourceUUID": "B9C6ABBB-56E8-597B-A28B-15C2DC13FD98",
+      "sourceDescription": "insect/praying mantis (human subject)",
+      "sourceSHA256": "26f3e626f711326d52f51a965c244635af8b0a1cdb5c517857fc5b004cf6773d",
+      "frameCount": 1932,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Praying Mantis with Wide Elbows and Dips",
+      "actionDescription": "The performer alternates broad arm openings with angular bent elbows and low dips, then returns to an upright side-facing stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "mantis",
+        "angular arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_10",
+      "sourceUUID": "D93EB8C0-3599-5010-B490-414B92D06317",
+      "sourceDescription": "ghost (human subject)",
+      "sourceSHA256": "92aa237796de09940c8c7654f7dc1b81e5b34e07faf07329b1693576b28a860e",
+      "frameCount": 4711,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Ghost with Floating Arm Reaches",
+      "actionDescription": "The performer opens both arms, alternates diagonal reaches with bent-knee turns, and raises both hands before lowering them at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "ghost mime",
+        "diagonal reach",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_11",
+      "sourceUUID": "CE913F4C-5ECF-5794-9290-31020392248F",
+      "sourceDescription": "penguin (human subject)",
+      "sourceSHA256": "ef3a3114285ed6a081f9562195a054e4d50fb70a34dccc87f120bbbb04bc0eb5",
+      "frameCount": 3414,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Penguin with Small Shuffling Steps",
+      "actionDescription": "The performer takes small, narrow steps while keeping the arms low, slowly changes heading, and finishes standing in profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "penguin",
+        "shuffling"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_12",
+      "sourceUUID": "D9E1093F-7356-586D-A6EF-512B926C2C91",
+      "sourceDescription": "dragon (human subject)",
+      "sourceSHA256": "12dc5b5a81544ffb260283b746cb21e120965fff48a57d12a7284d0b20564c80",
+      "frameCount": 2293,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dragon with Wing-Like Reaches and Side Steps",
+      "actionDescription": "From standing, the performer repeatedly opens both arms and steps sideways, then lowers them and settles upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "dragon",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_13",
+      "sourceUUID": "C6E148F5-E5D9-50AA-B671-4B9683B4F378",
+      "sourceDescription": "dragon (human subject)",
+      "sourceSHA256": "2e1e5aaa9d16020cffd486c7e616bb00652c9729c6ea537a6edb8bbe20e5f0e4",
+      "frameCount": 1631,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dragon with Arms Out and a High Knee Lift",
+      "actionDescription": "The performer extends both arms, turns, raises a knee and brings the arms overhead before lowering them and standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "dragon",
+        "high knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_14",
+      "sourceUUID": "F73ED629-5D7C-5485-AAE6-6BAC8C20E7D1",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "a2caf7abab295d984e388e2710e05f95f90adc92388db6c204efc05f48f1a4c6",
+      "frameCount": 1628,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with Deep Side Bends",
+      "actionDescription": "The performer bends forward and sideways with alternating high and low reaches, then returns upright after a final side lean.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "side bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_15",
+      "sourceUUID": "270F763C-C452-5EE1-B5C1-947FD5251F40",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "523b99841bbcb969a73e5eb1040a144fee8ed67de5159da02bf047e0fdbd59ec",
+      "frameCount": 4124,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Prairie Dog with Small Steps and Open Palms",
+      "actionDescription": "The performer makes small hand gestures while stepping and bending the knees, opens both hands wide, and returns to an upright stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "prairie dog",
+        "stepping"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_16",
+      "sourceUUID": "2AA07FAE-2AC0-5AF8-A6A4-5B19CA57AFC8",
+      "sourceDescription": "superhero",
+      "sourceSHA256": "5f0f6b73967b417a84f6812a42b64d4d0932290f116e235e653f9bcf95c022e4",
+      "frameCount": 4122,
+      "frameInterval": 0.0083333,
+      "title": "Pose with One Arm Raised and Change Stance",
+      "actionDescription": "The performer steps and reaches one arm diagonally upward, returns to hands at the hips, and later points sideways. The CMU source identifies a superhero mime.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "superhero mime",
+        "high reach",
+        "side point"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_17",
+      "sourceUUID": "292015CD-3DE9-54D0-B11E-2BE209F362DC",
+      "sourceDescription": "squirrel (human subject)",
+      "sourceSHA256": "69a27ebd58404228dde279df70e9f8f4c34030eac82cfe9e1f9817eec3f9482a",
+      "frameCount": 2820,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Squirrel with Short Hops and Close Hands",
+      "actionDescription": "The performer alternates compact arm positions and small side steps with brief dips, then finishes with the torso leaning slightly forward.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "squirrel",
+        "compact steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_18",
+      "sourceUUID": "35D51BAA-B758-5375-B861-DC464DA4B225",
+      "sourceDescription": "squirrel (human subject)",
+      "sourceSHA256": "213e0f85384d87507bff095398bb515aa2d03e76051859138d00f99174ca6f77",
+      "frameCount": 2024,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Squirrel with Repeated Low Crouches",
+      "actionDescription": "The performer steps with hands gathered, lifts a hand near the face, then repeats deep bent-knee poses before rising.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "squirrel",
+        "crouches"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_19",
+      "sourceUUID": "FE9F6CC7-5FC7-5E3F-AE96-3D6325D6C2D3",
+      "sourceDescription": "squirrel - robotic like motion (human subject)",
+      "sourceSHA256": "cbe61b37425345f98af7a476d157841965fa8051a4bdf73a03f9122d8c26d172",
+      "frameCount": 4890,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Squirrel with Angular Steps and Arm Motions",
+      "actionDescription": "The performer starts upright, moves through angular bent-knee steps and forward hand reaches, then straightens after lifting a hand near the face.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "squirrel",
+        "robotic style"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_20",
+      "sourceUUID": "D493140C-AA8D-5B58-9790-0BD05D52461B",
+      "sourceDescription": "follow path, walk around obstacles",
+      "sourceSHA256": "ae40cda023d9ff04e6fe1b41ab75e5ecc143edd5b70c90bae439e13dd9ee879b",
+      "frameCount": 6196,
+      "frameInterval": 0.0083333,
+      "title": "Follow a Walking Route with Frequent Turns",
+      "actionDescription": "The performer walks continuously, changes heading several times, and briefly shortens the stride while turning. The CMU source identifies obstacles in the route.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "obstacle route",
+        "turns",
+        "continuous walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_21",
+      "sourceUUID": "3E6A5FAC-1E96-5265-AD4F-8A3B6CA03AB4",
+      "sourceDescription": "follow path, walk around obstacles",
+      "sourceSHA256": "6de492c02e1601f018785041458814fa599aa451d2c7928b1908cbac46a9a884",
+      "frameCount": 6988,
+      "frameInterval": 0.0083333,
+      "title": "Walk Around Obstacles with Short Reorientation Steps",
+      "actionDescription": "The performer alternates fuller walking strides and shorter turns, changing direction repeatedly before ending mid-step.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "obstacle route",
+        "turns",
+        "variable stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_22",
+      "sourceUUID": "A7E8310B-7FBE-52DB-A38B-9D9FB78241BC",
+      "sourceDescription": "follow path, walk around obstacles",
+      "sourceSHA256": "61690eb7f4f0bdb5ca3170082558c3c8eeb61d16be1977359f08494eafe46736",
+      "frameCount": 2534,
+      "frameInterval": 0.0083333,
+      "title": "Walk a Short Obstacle Route and Turn Sideways",
+      "actionDescription": "The performer walks with the arms low, makes several small direction changes, and continues stepping in profile at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "obstacle route",
+        "direction changes",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_23",
+      "sourceUUID": "98FB52E0-0A8D-5EBC-9365-49346C426A5E",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "1103ed24d11c81c9c694c91351b5319fc28a74c19bf5e67dcc9e1cc170b7c402",
+      "frameCount": 4299,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with High Gestures and a Deep Side Fold",
+      "actionDescription": "The performer alternates hands near the head and outward arm sweeps, drops into a deep side fold, then rises with both hands lifted.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "side fold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_24",
+      "sourceUUID": "DC0F5CB2-8CE4-52F8-973B-609768774BC0",
+      "sourceDescription": "hummingbird (human subject)",
+      "sourceSHA256": "339b770664d70eb6ee1ca6925a354c12de7e869c8efa50ea3f8ecd7b9add83ae",
+      "frameCount": 2687,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Hummingbird with Open Arms and Light Steps",
+      "actionDescription": "The performer spreads both hands to the sides, changes direction with bent knees and small steps, then lowers the arms and steps out.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "hummingbird",
+        "light steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_25",
+      "sourceUUID": "8B7E3DB6-D829-545F-868D-49EA5BBBCB5C",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "a6f5f5c3d40428976b9fb73461889e3b444c507bb567953699e721cd7e5b4145",
+      "frameCount": 4542,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Deep Forward Bobs",
+      "actionDescription": "The performer repeatedly bends the knees and tips the torso forward with both arms swept back. They straighten and finish with hands near the torso.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "forward bobs"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_26",
+      "sourceUUID": "5AF56D2A-9F00-505D-8195-61BFDA8E3AAC",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "27cea8b0b4476fce56a8fcfc58c6e20861b453993f5a75607ddf6c3660f3c714",
+      "frameCount": 1961,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Elbow Lifts and Short Steps",
+      "actionDescription": "The performer holds both elbows out, repeats short steps and knee bends, and lowers the arms while turning into profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "elbows out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "54_27",
+      "sourceUUID": "50EACB4C-41FE-56A6-AB70-B11DF4A862C2",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "4a8844dd9110bea3530e1b90db1dc4370622b913e8fbc654da611cf6ffb0ba4d",
+      "frameCount": 3440,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Repeated Waist Bends",
+      "actionDescription": "The performer alternates upright resets with deep forward folds while keeping the elbows bent. They return upright in profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "waist bends"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
