@@ -309,6 +309,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "31_20",
+      "sourceUUID": "DB5FA608-AC9A-5A3B-8798-67CC8EE8158B",
+      "sourceDescription": "snake (human subject)",
+      "sourceSHA256": "b816fe53d8b3a277da3a5924c3ef77ee592fb0e4bb64904669b2779ceeec3f06",
+      "frameCount": 3946,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Snake with a Forward Bend and Raised Arms",
+      "actionDescription": "The performer begins folded forward with hands gathered, straightens, then sweeps the arms outward and raises them overhead. Both arms remain bent and lifted at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "snake",
+        "overhead arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "31_21",
       "sourceUUID": "DA75F81E-726B-57C5-BF0D-99EA6700E8A9",
       "sourceDescription": "monkey (human subject)",
