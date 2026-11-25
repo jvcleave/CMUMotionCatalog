@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "subject": "74",
+  "takes": [
+    {
+      "takeID": "74_01",
+      "sourceUUID": "9BE12255-9225-5D09-AF4A-C6FBBBB8B8D0",
+      "sourceDescription": "stiff walk",
+      "sourceSHA256": "3161b093cac595aef44764f51029d072d762b6515726e04859f2520d00ee09b3",
+      "frameCount": 464,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Stiff Arms and Wide Steps",
+      "actionDescription": "The performer walks forward with a relatively rigid upper body, low arms, and feet set wider on several steps. The take ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stiff walk",
+        "wide steps",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_02",
+      "sourceUUID": "A8237E92-E306-5580-BBA0-C2570A5EC056",
+      "sourceDescription": "stiff walk",
+      "sourceSHA256": "8b3b67193e79d1dc059f7104bf01d238a7af8d921adec47b49ac8f706f29cbc9",
+      "frameCount": 265,
+      "frameInterval": 0.0083333,
+      "title": "Take Short Stiff Steps with Side-to-Side Sway",
+      "actionDescription": "The performer alternates short steps with the arms held low, shifting the upper body over each foot. They remain in motion at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stiff walk",
+        "short steps",
+        "weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_03",
+      "sourceUUID": "16A62428-5277-5444-890D-9E6899111236",
+      "sourceDescription": "kick",
+      "sourceSHA256": "1fc940453860b15de51a6841a461d6ccd02b9edd7a5db07442de2a04fe13443c",
+      "frameCount": 396,
+      "frameInterval": 0.0083333,
+      "title": "Step into a Forward Kick",
+      "actionDescription": "The performer steps from standing, lifts one leg forward with the knee extending, then lowers it and takes a recovery step.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "forward kick",
+        "recovery step",
+        "single leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_04",
+      "sourceUUID": "F2C43A21-3544-5FB2-B339-9745D92885CE",
+      "sourceDescription": "kick",
+      "sourceSHA256": "f86b89d403c67cd5a50dd0a1a3366001787f9fa2b894b74c2269963ae76353a4",
+      "frameCount": 315,
+      "frameInterval": 0.0083333,
+      "title": "Turn through a High Knee Lift and Kick",
+      "actionDescription": "The performer turns while stepping, opens the arms for balance, lifts a knee and extends the leg, then returns upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "kick",
+        "knee lift",
+        "turn",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_05",
+      "sourceUUID": "337FCF46-9E2B-5943-9A7A-194F71A1D7E4",
+      "sourceDescription": "kick",
+      "sourceSHA256": "df5d35499a12d9449918702ec1001ee5da79670a913469cd5aa2fb29b55ff222",
+      "frameCount": 323,
+      "frameInterval": 0.0083333,
+      "title": "Lift a Knee into a Kick and Step Out",
+      "actionDescription": "The performer begins upright, lifts one knee during a short kicking motion, and steps out with both arms low.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "kick",
+        "knee lift",
+        "step out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_06",
+      "sourceUUID": "8B9B8CD4-A2E9-5183-B5FA-4C3BD5CBB77E",
+      "sourceDescription": "kick",
+      "sourceSHA256": "c86f3f81550c56af20a586efdc81ff75372f6554c37f6dcc230cbf16a2e49223",
+      "frameCount": 325,
+      "frameInterval": 0.0083333,
+      "title": "Kick Forward and Settle into Standing",
+      "actionDescription": "The performer winds up with a small weight shift, lifts and extends one leg forward, and returns it to a narrow standing stance.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "forward kick",
+        "weight shift",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_07",
+      "sourceUUID": "BE358A7E-EEC8-5935-9BA9-3075A74AA955",
+      "sourceDescription": "lifting up",
+      "sourceSHA256": "b1cefea2890f4e688c62e72caafd025a3852571ec9b15b1d9c53978f4b51c486",
+      "frameCount": 311,
+      "frameInterval": 0.0083333,
+      "title": "Rise from a Crouch with a Diagonal Arm Reach",
+      "actionDescription": "The performer starts with knees deeply bent and one hand near the head, then straightens and reaches diagonally upward with one leg extended behind.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "crouch",
+        "rise",
+        "diagonal reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_08",
+      "sourceUUID": "09971DE3-3FF5-5226-84DC-A985E51A1BF9",
+      "sourceDescription": "lifting up",
+      "sourceSHA256": "671111f53bba91727c63f58c947ac38c23b9e4aad1f6cb324f1f58d80b93b713",
+      "frameCount": 168,
+      "frameInterval": 0.0083333,
+      "title": "Rise from a Low Crouch and Hold a Side Reach",
+      "actionDescription": "The performer begins low with one arm near the head, straightens the legs into a side lean, and holds the raised-arm pose at the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "crouch",
+        "rise",
+        "side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_09",
+      "sourceUUID": "430E1D75-8CCB-5675-9414-97EDF1C75FBC",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "7e1f54aa05d92aa339a20f43b542450850ccbd90103c2ec7aec48a6f383164d6",
+      "frameCount": 199,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Bent-Knee Twisted Pose",
+      "actionDescription": "The performer stays in a bent-knee pose with the arms offset in front, changing little from the opening to the finish.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "held pose",
+        "bent knees",
+        "torso twist"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source description is Unknown. The front-quarter frames appear nearly static in a diagonal pose. Review the root path and side camera before choosing a more specific interpretation."
+    },
+    {
+      "takeID": "74_10",
+      "sourceUUID": "021DFD01-5071-5A25-A338-8404E6229499",
+      "sourceDescription": "peeping",
+      "sourceSHA256": "3a53d8c13edcfa8139e40172cf35910605f8049a5d0e1ef4035cf5f521f52248",
+      "frameCount": 335,
+      "frameInterval": 0.0083333,
+      "title": "Lean Forward to Peer and Hold",
+      "actionDescription": "The performer starts upright, then tilts the torso forward, extends one leg back, and pauses in the leaning position.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "peering",
+        "forward lean",
+        "held finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_11",
+      "sourceUUID": "83718CA5-B3F8-5B37-964D-889944293DBA",
+      "sourceDescription": "peeping",
+      "sourceSHA256": "b699f2c67520bb548bd0f7f081642b371dd333587bf79769f769f6cbb94bc98d",
+      "frameCount": 346,
+      "frameInterval": 0.0083333,
+      "title": "Step Wide and Hold an Outward Reach",
+      "actionDescription": "The performer begins with forearms close, steps into a wider stance, and extends one hand while the other stays near the body.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "peering",
+        "wide stance",
+        "outward reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_12",
+      "sourceUUID": "3FE9C577-9551-5B91-B34D-127CA62C652B",
+      "sourceDescription": "thinker",
+      "sourceSHA256": "b4119093cf951ebdd19e15d33a04854cb579f584f214cedb7fe3cdbb340bc38a",
+      "frameCount": 302,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Low Crouch and Lean Forward",
+      "actionDescription": "The performer stays in a deep crouch, then tilts the head and torso forward while keeping the arms close. The take ends low.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "thinker pose",
+        "crouch",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_13",
+      "sourceUUID": "9518AAF5-1986-58A9-AAB7-9DB5C20D0901",
+      "sourceDescription": "Range of motion",
+      "sourceSHA256": "fa87b16a6cf7967d1f4c121503d2b9e4cc0d43db73a2eb7d5d748e20e573beb7",
+      "frameCount": 2524,
+      "frameInterval": 0.0083333,
+      "title": "Move through a Full-Body Range-of-Motion Sequence",
+      "actionDescription": "The performer raises and lowers the arms, shifts weight through leg movements, and finishes with both arms extended to the sides.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "range of motion",
+        "calibration",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_14",
+      "sourceUUID": "E050BEC1-5BCF-537B-8C06-D68D088E8C05",
+      "sourceDescription": "slope 1",
+      "sourceSHA256": "c15361fb732ded75ff8ceda210e4b404659f9b1c5da3becdec8f0e277ad8ba10",
+      "frameCount": 447,
+      "frameInterval": 0.0083333,
+      "title": "Walk with a Slightly Forward Stance on a Slope",
+      "actionDescription": "The performer starts standing, takes several strides with a slight forward tilt, and returns to a narrow stance. The source identifies a slope.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "forward walk",
+        "narrow stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_15",
+      "sourceUUID": "FCE353B6-F82F-5FF5-9E6A-33F54960C708",
+      "sourceDescription": "slope1",
+      "sourceSHA256": "d07582aba0e52a041a3cddcb94e43f697a16589e0a872e0e21c0e386a0e1588f",
+      "frameCount": 439,
+      "frameInterval": 0.0083333,
+      "title": "Take Measured Steps along a Slope",
+      "actionDescription": "The performer takes a short series of measured steps with low arms, then settles upright. The source identifies a slope.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "measured steps",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_16",
+      "sourceUUID": "0AE779C8-228A-5689-94B4-EA21AE769A98",
+      "sourceDescription": "slope 2",
+      "sourceSHA256": "7574e1885090d3cf238d0c6c7dc46ccf368947535a44cc6d68145c08585b4879",
+      "frameCount": 493,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Brief High Steps on a Slope",
+      "actionDescription": "The performer walks with low arms and lifts the feet higher through the middle of the take before returning upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "high steps",
+        "low arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_17",
+      "sourceUUID": "C4D516E4-7CFB-5F8D-BD73-BD85F86FFD4D",
+      "sourceDescription": "slope 2",
+      "sourceSHA256": "c62512c620e77e46215d20bf02c2ee4c5c7506f2daceff914dba4aa3cbc15480",
+      "frameCount": 521,
+      "frameInterval": 0.0083333,
+      "title": "Walk with a Pronounced Knee Lift on a Slope",
+      "actionDescription": "The performer takes a few forward steps, adds a higher knee lift near the middle, and finishes in a narrow upright stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "high knee",
+        "forward walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_18",
+      "sourceUUID": "D9F6E66A-8E48-52DF-B115-C2C7A0F3D8CD",
+      "sourceDescription": "slope 3",
+      "sourceSHA256": "42116350b6dcfee0e765da49d4ea72ee3de3c88e921449f507bf2908d5ea6017",
+      "frameCount": 492,
+      "frameInterval": 0.0083333,
+      "title": "Take Short Uphill-Style Steps with Arms Low",
+      "actionDescription": "The performer leans slightly forward and takes a sequence of short steps, with the heels lifting visibly behind. The source identifies a slope.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "short steps",
+        "low arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_19",
+      "sourceUUID": "EE1B9BC8-519F-5344-A7AF-66E6C4FC2C7B",
+      "sourceDescription": "slope 3",
+      "sourceSHA256": "39d9e18a5934645c0c9695e6d9e53e3c92a937f9dca98904213c6dff05b8f91a",
+      "frameCount": 488,
+      "frameInterval": 0.0083333,
+      "title": "Walk with a Forward Tilt and High Heel Lifts",
+      "actionDescription": "The performer steps with a forward lean and alternates lifting the heels, then straightens into a narrow stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slope",
+        "heel lifts",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "74_20",
+      "sourceUUID": "CC577366-0FFD-59C2-AF9A-8190C499F8D9",
+      "sourceDescription": "stiff walk",
+      "sourceSHA256": "8a217a7290995d2f432e40845621b7f6ea87383033496c6a643895178edeb071",
+      "frameCount": 576,
+      "frameInterval": 0.0083333,
+      "title": "Walk Stiffly with Long, Wide Strides",
+      "actionDescription": "The performer walks with a relatively stiff upper body and several wide steps, with arms hanging low. The final pose is nearly upright with the feet closer.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stiff walk",
+        "wide steps",
+        "low arms"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
