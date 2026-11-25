@@ -164,6 +164,24 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_10",
+      "sourceUUID": "ECF9448C-FE7A-520D-9F33-CE730F268210",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "bbe99799dffca11c0f239bb5e288acb3075974f9a7afdfe1d36b648b546e1670",
+      "frameCount": 4239,
+      "frameInterval": 0.0083333,
+      "title": "Mime Window Washing with an Overhead Sweep",
+      "actionDescription": "The performer raises one hand to face height, alternates outward and overhead wiping arcs, and lowers the arm while straightening through the final step.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "overhead sweep",
+        "one-handed",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_11",
       "sourceUUID": "A623112D-1430-5722-8931-6B931D3C4C63",
       "sourceDescription": "wash windows",
@@ -199,6 +217,60 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_14",
+      "sourceUUID": "B4823FCF-9601-5B49-AB94-3907BB89121D",
+      "sourceDescription": "jumping jacks, jog, squats, side twists, stretches",
+      "sourceSHA256": "d73c71b652e09d133e06d7a0a71d27a53cbb5cc7bb16eb154a69e2cb1c3cd783",
+      "frameCount": 4653,
+      "frameInterval": 0.0083333,
+      "title": "Combine Quick Steps, Arm Raises, and Side Bends",
+      "actionDescription": "From standing, the performer jogs with lifted knees, raises both arms during wider steps, and bends the torso sideways before returning upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jogging",
+        "jumping jacks",
+        "raised arms",
+        "side bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_15",
+      "sourceUUID": "F2BF9793-1E7B-5572-AAA9-006B26EB8D5B",
+      "sourceDescription": "mop floor",
+      "sourceSHA256": "07bfb21288a5fe43fe6699f70c8173b6be2e0ecc38c8695354534b9c4cbe4918",
+      "frameCount": 4573,
+      "frameInterval": 0.0083333,
+      "title": "Mime Mopping with Repeated Small Strokes",
+      "actionDescription": "The performer starts bent forward and repeatedly sweeps low in front of the body while shifting stance. The head and shoulders stay pitched down at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "mopping",
+        "repeated",
+        "low strokes",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_16",
+      "sourceUUID": "7796747C-8D84-5580-8935-E7A2A06A6889",
+      "sourceDescription": "sweep floor",
+      "sourceSHA256": "ce0b1ce8c25d18962a75d2f386bad74859b810fd9b6bb08e3f74fb71c19f317a",
+      "frameCount": 5752,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sweeping with Alternating Low Arm Strokes",
+      "actionDescription": "The performer remains mostly bent at the waist, alternately bringing the hands closer and stretching one hand low and forward. The final pose holds the forward lean.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping",
+        "repeated",
+        "floor-level reach",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_17",
       "sourceUUID": "742B525F-0DF2-5367-A229-455B46F836C3",
       "sourceDescription": "laugh",
@@ -212,6 +284,24 @@
         "laughing mime",
         "forward bend",
         "one-handed gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_18",
+      "sourceUUID": "883AC35C-F5E3-580E-8808-88F120697F1D",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "11a75e582167b844952e761faf60c65e95faaec38746522f2c6362b9a82ca6bf",
+      "frameCount": 3175,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with a Two-Arm Lift",
+      "actionDescription": "The performer begins in a narrow stance, turns and opens both hands, raises both arms high, and lowers them before stepping into profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "arms raised",
+        "turn",
+        "side-facing finish"
       ],
       "reviewStatus": "described"
     },
@@ -230,6 +320,96 @@
         "step up",
         "turn",
         "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_22",
+      "sourceUUID": "B26F9E4A-747F-5FAE-97D4-3A90C5F3828D",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "52461d8a15f69cc5c4bb179a96e41681a9e96123c8be17ee2cfac55202a652f8",
+      "frameCount": 1217,
+      "frameInterval": 0.0083333,
+      "title": "Ascend and Descend in Short Side-Facing Steps",
+      "actionDescription": "The performer starts upright, turns into profile and steps upward with bent knees, then descends and returns to standing facing forward.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "step up",
+        "side-facing",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_25",
+      "sourceUUID": "C81AC936-8D5F-527B-AD8A-8BEFE85C451A",
+      "sourceDescription": "direct traffic, wave, point",
+      "sourceSHA256": "5377e9180188cad58b2ae73ce79c9c3e0f90dbd24b514bd3f07f674fd80150da",
+      "frameCount": 4437,
+      "frameInterval": 0.0083333,
+      "title": "Signal with One Arm High and a Turning Finish",
+      "actionDescription": "The performer begins standing, gives short chest-level gestures before lifting one arm diagonally up, and changes orientation between repeated signals. They finish in profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "overhead reach",
+        "turns",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_29",
+      "sourceUUID": "4669F0B1-4284-5384-B8F5-A8C6260CCA7E",
+      "sourceDescription": "sit on stepstool, stand up, swing legs",
+      "sourceSHA256": "08d9c1760b147076c5257509d9259d9056f73d70dcf71fbbee52e847cd92d8bb",
+      "frameCount": 2523,
+      "frameInterval": 0.0083333,
+      "title": "Sit Repeatedly and Swing the Lower Legs",
+      "actionDescription": "The performer approaches a low seated pose, draws up one knee and swings the lower legs, then rises and sits again. The final frame remains seated.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "sit",
+        "stand up",
+        "leg swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_33",
+      "sourceUUID": "A8518255-3CA2-5ECE-B947-1FE24EF0A314",
+      "sourceDescription": "climb ladder",
+      "sourceSHA256": "1ba780dde6fb0afb5defc8293d2c07cd7da7187a1090a04a2e805392ccb41f75",
+      "frameCount": 1387,
+      "frameInterval": 0.0083333,
+      "title": "Climb a Ladder and Step Away",
+      "actionDescription": "The performer starts upright, raises alternate knees and reaches forward, climbs and lowers, and finishes in a staggered standing stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder",
+        "alternate knees",
+        "forward reach",
+        "lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_37",
+      "sourceUUID": "97946661-0A2D-5542-B92F-F21D03E663A4",
+      "sourceDescription": "drink soda",
+      "sourceSHA256": "77ab7b6cb7df11c016da55281fde7e472a2a78a1acdbaa81410cd6efdea8453f",
+      "frameCount": 513,
+      "frameInterval": 0.0083333,
+      "title": "Mime One Standing Sip",
+      "actionDescription": "With feet staggered, the performer brings one hand to the mouth, tips the head back, and lowers the hand as they recover upright.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "hand to mouth",
+        "head tilt",
+        "staggered stance"
       ],
       "reviewStatus": "described"
     }
