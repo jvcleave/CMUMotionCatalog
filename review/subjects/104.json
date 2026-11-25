@@ -619,6 +619,365 @@
         " curved path"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_37",
+      "sourceUUID": "1A211146-D12F-51CD-9AD2-34F71C4141DD",
+      "sourceDescription": "RunThrough",
+      "sourceSHA256": "552327f321c2219e904f587e1babc9769846323fdeaced259e14cd3dd3c68bbc",
+      "frameCount": 150,
+      "frameInterval": 0.0083333,
+      "title": "Continuous run with compact arm drive",
+      "actionDescription": "The performer runs throughout the take, alternating quick knee drives and high heel recoveries with bent-arm swings.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "continuous run",
+        " heel recovery",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_38",
+      "sourceUUID": "26E132F6-DB47-5871-945C-05344470D215",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "b3f19fae3da78ff4cc8342e285967e4d6bdaf4ac81ac9fb449de4a059ac513d9",
+      "frameCount": 2669,
+      "frameInterval": 0.0083333,
+      "title": "Unhurried walk with several turns",
+      "actionDescription": "The performer walks at a measured pace with modest arm swing, changes facing several times, and ends side-on.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        " turning path",
+        " relaxed arms"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 4 all-zero captured frames. First usable motion is recorded at source frame 5.",
+      "firstUsableFrame": 5
+    },
+    {
+      "takeID": "104_39",
+      "sourceUUID": "EAE7A203-8DB0-5123-BC3C-350F6A55FABE",
+      "sourceDescription": "SlowWalkRightAngleTurns",
+      "sourceSHA256": "1bf22661e9d708538b616eb0cbcd7d2b5847f11034ec9f90cec6261da401dadb",
+      "frameCount": 3214,
+      "frameInterval": 0.0083333,
+      "title": "Slow walk with right-angle turns",
+      "actionDescription": "The performer keeps an even, unhurried pace through straight stretches and distinct corners, then comes to a stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        " right-angle turn",
+        " corners"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_40",
+      "sourceUUID": "20383B82-B995-5932-985F-29C91A996074",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "879e27b7bbf197a7046c41238ebce17605457b93c637dfb439d9563f7c07e643",
+      "frameCount": 3036,
+      "frameInterval": 0.0083333,
+      "title": "Walk through several corners after an open-arm setup",
+      "actionDescription": "The performer lowers both arms, walks with a long easy stride through changes of direction, and finishes with the feet planted.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "corner turns",
+        " open-arm setup",
+        " long stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_41",
+      "sourceUUID": "DC36DEBD-1349-549D-8BEA-A50A0F8F3789",
+      "sourceDescription": "ZombieWalk",
+      "sourceSHA256": "9fca640a52df03f4352256b21a73ba9b1c98b5bd6ef2404307f7e805181df56f",
+      "frameCount": 1558,
+      "frameInterval": 0.0083333,
+      "title": "Straight zombie walk",
+      "actionDescription": "The performer raises both forearms in front and advances with a stiff upper body and deliberate steps, then lowers the arms.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "zombie walk",
+        " forward arms",
+        " stiff gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_42",
+      "sourceUUID": "B0F5D202-7DD6-5453-8AA8-59677A2698FB",
+      "sourceDescription": "ZombieWalk8",
+      "sourceSHA256": "cf88343105edf1d90dce12578040bbf23ae7c401728bea31e8b0bea974d72b97",
+      "frameCount": 2613,
+      "frameInterval": 0.0083333,
+      "title": "Zombie walk through a figure eight",
+      "actionDescription": "The performer holds both arms forward while following successive curves, then releases the stiff stance and returns to a stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "zombie walk",
+        " figure eight",
+        " forward arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_43",
+      "sourceUUID": "81481080-E79B-5A99-A565-2BE574167252",
+      "sourceDescription": "ZombieWalkRightAngleTurns",
+      "sourceSHA256": "9fc1a2b441d33aaca9ddc9bed0f8e9eb74213c42ce95f787878bac79ed1a59df",
+      "frameCount": 3377,
+      "frameInterval": 0.0083333,
+      "title": "Zombie walk through corner turns",
+      "actionDescription": "The performer extends the arms forward and walks in stiff, deliberate steps, pivots through sharp direction changes, and lowers the arms to finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "zombie walk",
+        " right-angle turns",
+        " stiff gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_44",
+      "sourceUUID": "A59CD499-EC1D-54E7-85E7-791A529D62DF",
+      "sourceDescription": "AttitudeWalk",
+      "sourceSHA256": "9c248bf345f43a1a87492e07b6a81af10bb445607c0c662df118f62994a85451",
+      "frameCount": 1087,
+      "frameInterval": 0.0083333,
+      "title": "Stylized walk with shoulder sway",
+      "actionDescription": "The performer walks at a measured pace, letting the shoulder line tilt with each weight transfer, then settles into a quiet stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "attitude walk",
+        " shoulder sway",
+        " straight walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_45",
+      "sourceUUID": "1BFC1070-B937-5DD1-B812-ECF2C9F4C3D9",
+      "sourceDescription": "AttitudeWalk8",
+      "sourceSHA256": "f6a1e678e3ec49a7c5e59e5d5de24b42cb03915a17361e964313ce5b257f98f5",
+      "frameCount": 2207,
+      "frameInterval": 0.0083333,
+      "title": "Stylized figure-eight walk",
+      "actionDescription": "The performer follows curved paths in both directions with measured steps and a slight torso sway before coming upright at the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "attitude walk",
+        " figure eight",
+        " torso sway"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_46",
+      "sourceUUID": "A31DEE33-0660-534C-9124-B61045AECAC1",
+      "sourceDescription": "AttitudeWalkRightAngleTurns",
+      "sourceSHA256": "ad191ba74418ea64e7c31782bf33448ed37253310d9e41152fe238ac41b96fb7",
+      "frameCount": 2783,
+      "frameInterval": 0.0083333,
+      "title": "Stylized walk through right-angle turns",
+      "actionDescription": "The performer walks with a slight slouch and loose arms, changes direction at several corners, then stands with feet apart.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "attitude walk",
+        " right-angle turns",
+        " slouched gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_47",
+      "sourceUUID": "D41F51D5-4DEE-5497-83B1-A5AC6CED98E1",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "ecc3353b9d0728322b18dd33c229f1229139f0cb9be5c579de10550de1ed8af8",
+      "frameCount": 1694,
+      "frameInterval": 0.0083333,
+      "title": "Swaying walk after an open-arm setup",
+      "actionDescription": "The performer lowers the arms, then takes steps with alternating side leans and loose arms before coming to a stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "swaying walk",
+        " open-arm setup",
+        " side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_48",
+      "sourceUUID": "A96F6B3B-8F41-56DD-9FB0-566155A490C3",
+      "sourceDescription": "RunThrough",
+      "sourceSHA256": "d8afb66f1b6c8b606a0bf196f76856b11aa0b5c8305a2328f177b9f39dac412a",
+      "frameCount": 120,
+      "frameInterval": 0.0083333,
+      "title": "Short continuous run",
+      "actionDescription": "The performer stays in a running cadence through the brief take, driving the knees and swinging the bent arms in opposition.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "continuous run",
+        " knee drive",
+        " arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_49",
+      "sourceUUID": "EBA13F53-BF6B-5104-BBA3-56EE36CC05E2",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "2a1bb4ba1cee9bfdbf8ceee9020c68c49121510a78b2b0e4f6f0a38ee77335bd",
+      "frameCount": 2726,
+      "frameInterval": 0.0083333,
+      "title": "Forward-leaning walk with repeated turns",
+      "actionDescription": "The performer lowers an outstretched arm, walks with intermittent forward and side leans, then turns back to a quiet stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turning walk",
+        " forward lean",
+        " side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_50",
+      "sourceUUID": "63E47594-35BD-5770-A26C-B57B2D856828",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "d957dec35d80877cf0f38a799cde41b40cbf34bd350006e7a773cc68f88b332e",
+      "frameCount": 3205,
+      "frameInterval": 0.0083333,
+      "title": "Swaying walk with several direction changes",
+      "actionDescription": "The performer steps with a soft forward bend and occasional side tilt, changes direction several times, and comes upright at the stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "swaying walk",
+        " forward bend",
+        " direction changes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_51",
+      "sourceUUID": "6109595B-32D5-5C9A-AA21-935E72C1FF7D",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "f146b64aa6e8198f79ddb6879eb33df122970b50b18120a985b6cc3b034b7ad6",
+      "frameCount": 1382,
+      "frameInterval": 0.0083333,
+      "title": "Short walk with bent-arm shifts",
+      "actionDescription": "The performer lowers both arms from the opening pose, takes short brisk steps with changing elbow positions, and turns slightly at the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "brisk steps",
+        " bent arms",
+        " open-arm setup"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_52",
+      "sourceUUID": "801FBF81-A8F1-5E20-9522-FCBA34A11572",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "75fb76cb8130803ac150957628a3fc36e7558979f0f7dc6c74ce28152dd0856d",
+      "frameCount": 2708,
+      "frameInterval": 0.0083333,
+      "title": "Leaning walk with bends and turns",
+      "actionDescription": "The performer lowers one raised arm, walks into a series of forward and side bends while changing facing, then stops upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turning walk",
+        " forward bend",
+        " side bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_53",
+      "sourceUUID": "2B888637-79C4-5235-A8EC-55815E766661",
+      "sourceDescription": "StartRun",
+      "sourceSHA256": "5852ead4d43beb2748e5f78c0eb9b1acdbdfc41e4daf42eace5a02904277f522",
+      "frameCount": 299,
+      "frameInterval": 0.0083333,
+      "title": "Run start with a gradual forward lean",
+      "actionDescription": "The performer tips forward from standing, bends the elbows, and builds from the first steps into a full running stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run start",
+        " forward lean",
+        " acceleration"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_54",
+      "sourceUUID": "CA8F52DF-D9B6-50AC-A006-192AB7593385",
+      "sourceDescription": "StartRun",
+      "sourceSHA256": "a4b70526424ddf18cc0341f4689457a569b99e415925c5f7a8e9b5a5b8981b74",
+      "frameCount": 249,
+      "frameInterval": 0.0083333,
+      "title": "Quick run start from standing",
+      "actionDescription": "The performer leans sharply forward, pushes off and quickly drives the legs into a run, keeping the elbows close to the body.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run start",
+        " quick acceleration",
+        " arm drive"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_55",
+      "sourceUUID": "BAB9D219-D843-5E3D-A85A-58C8EC0A5E47",
+      "sourceDescription": "StartRun",
+      "sourceSHA256": "e3bfa65b82ecc54cd3376ddb1d3c65c4400cc4d1ce9f70fd795e4be662fc40d3",
+      "frameCount": 504,
+      "frameInterval": 0.0083333,
+      "title": "Run start after lowering one arm",
+      "actionDescription": "The performer lowers the outstretched arm, pauses upright, then pumps the arms and transitions into a fast running stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run start",
+        " arm lowering",
+        " acceleration"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_56",
+      "sourceUUID": "7B12717F-4DFD-534F-831F-65FF90A93AE8",
+      "sourceDescription": "RunStop",
+      "sourceSHA256": "a6ce9a6c822da5a1a767481718ca3f18e571ca44692d99ed4331b3e31471d848",
+      "frameCount": 368,
+      "frameInterval": 0.0083333,
+      "title": "Running stop with a wide plant",
+      "actionDescription": "The performer is already running, shortens the stride across several braking steps, then plants the feet apart and lets the arms relax.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop",
+        " braking steps",
+        " wide plant"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_57",
+      "sourceUUID": "E4CDAC18-6311-5896-A446-36F8D3521586",
+      "sourceDescription": "RunStop",
+      "sourceSHA256": "5bff7fc7246ec12e7ed08ce766347d94ce22e880be1a7690d01660afc158ed5f",
+      "frameCount": 384,
+      "frameInterval": 0.0083333,
+      "title": "Running stop with narrow final steps",
+      "actionDescription": "The performer comes in with a long running stride, takes progressively shorter steps, and settles upright with the arms at the sides.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop",
+        " deceleration",
+        " upright finish"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
