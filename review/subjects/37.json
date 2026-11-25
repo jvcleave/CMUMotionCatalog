@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "subject": "37",
+  "takes": [
+    {
+      "takeID": "37_01",
+      "sourceUUID": "94D59EC7-2806-5CB8-BE17-40F2C69EFE36",
+      "sourceDescription": "slow walk",
+      "sourceSHA256": "9103f9659627e54efd5cdc032185de5262571e9382ad5103da53d2d110ffe604",
+      "frameCount": 511,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward Slowly",
+      "actionDescription": "The performer takes measured forward steps with a small arm swing. The take starts and ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        "forward",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
