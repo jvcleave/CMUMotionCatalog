@@ -3,6 +3,24 @@
   "subject": "35",
   "takes": [
     {
+      "takeID": "35_01",
+      "sourceUUID": "BD6D91D2-4F5F-5D10-9771-9FAA4613BE59",
+      "sourceDescription": "walk",
+      "sourceSHA256": "91d947f840845d00054dd331cb7e5c6a0195ee56406dc43273dbdc26467bc066",
+      "frameCount": 358,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "35_02",
       "sourceUUID": "90EFA51A-81DF-5D8F-A9F0-A27F03D51602",
       "sourceDescription": "walk",
@@ -260,6 +278,275 @@
       "sourceDescription": "walk",
       "sourceSHA256": "a793917bd7905c50aab65b0bd1b422cf0ef46ebb0f51433a82c710c7b555cd31",
       "frameCount": 443,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_17",
+      "sourceUUID": "101A106C-5DA1-52B3-84B5-A0CF60EB9C8A",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "50c6469efea1edbba0f7acd46b1fa72e0b74b78e1698aa1b441990bd2a78d730",
+      "frameCount": 167,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_18",
+      "sourceUUID": "5D71FFA5-D052-5D0B-993B-C10EA1DCC9BC",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "e0a8b366b4cf33b6b97668541f5c8c6bbcaa9a99e14472e195c0939611737989",
+      "frameCount": 175,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_19",
+      "sourceUUID": "9F912FC9-9CAD-57E1-9F1F-A9CE7E75DE5C",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "5bd0b9ba5989adf696e0b3d67c3fdb8d394d1ace52eea4755d405fa344ffc8d5",
+      "frameCount": 160,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_20",
+      "sourceUUID": "4AD469E7-68B0-51D6-BCB2-D5592740C8EE",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "13265be48ff565f28af7679fa56a22698ac59c1004782e52562807317f660eb9",
+      "frameCount": 163,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_21",
+      "sourceUUID": "941AF6F0-BD89-5536-B8DA-0425E1D14DDA",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "9aabc697ac14fcde28212d5c79de1ece6cba6a9896aabb0b1cde97b350554b2d",
+      "frameCount": 161,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_22",
+      "sourceUUID": "ED229D32-A348-572E-96CB-79CE5085A3CA",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "335c86754e24df60f8d39c55c7d9d293768b55f628825f496e7f61fb07da9801",
+      "frameCount": 167,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_23",
+      "sourceUUID": "F4A9B2CD-92F7-5B8C-B468-47569436949E",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "906db684ac4f7d980dd11e9a993d4fa2af7e303eab562e15a1b2782a0cd9afac",
+      "frameCount": 162,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_24",
+      "sourceUUID": "14CF5C0A-C1C5-5DF0-8FBB-DE752C83BEBF",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "71a7811857caf22c8ae8bb700521a0b3aac350d4173185933ca7c95ad15ce081",
+      "frameCount": 150,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_25",
+      "sourceUUID": "CFB33E58-90BD-5004-B937-00AE6FB54BA5",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "3434ebb52f9f65a843f1670348cbb3bdc4e9af5083c0321a93f56eb1ba4cb9c2",
+      "frameCount": 165,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_26",
+      "sourceUUID": "3FEB701B-D8C8-57CF-B2B0-B69AAACCD80A",
+      "sourceDescription": "run/jog",
+      "sourceSHA256": "4080728a8030266c4c6844168afde02af879817efc8f747409f9aead61cc8da9",
+      "frameCount": 138,
+      "frameInterval": 0.0083333,
+      "title": "Jog Forward with Bent Arms",
+      "actionDescription": "The performer starts in motion, jogs forward with quick alternating strides and bent elbows, and finishes mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward",
+        "jog",
+        "bent arms",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_28",
+      "sourceUUID": "1D8AA8CA-D81A-5A1D-ACCC-66BDFE8E1773",
+      "sourceDescription": "walk",
+      "sourceSHA256": "eb115abf5eb09033e59d0ffc112b036c2d9a2169a1edbb3bcbeff8003c1a5b73",
+      "frameCount": 417,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_29",
+      "sourceUUID": "3DAF5A29-2EFB-52B9-891F-05A455B4690D",
+      "sourceDescription": "walk",
+      "sourceSHA256": "c6864e1ff43fb9a8e472847da0fe542fe7c67e8b140a381ae551801420905a86",
+      "frameCount": 497,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward at a Measured Pace",
+      "actionDescription": "The performer takes measured forward steps with low arm swings, beginning and ending in stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "measured pace",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_31",
+      "sourceUUID": "0245FBA8-222C-560E-90CA-428FA952BB7F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "465c48d38dd97fef4734e480d30d1b25ece27820944eb889b5e8fc28194e7ad6",
+      "frameCount": 421,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_32",
+      "sourceUUID": "2494CAA0-39BE-5DE1-9921-1B691E3E9FC2",
+      "sourceDescription": "walk",
+      "sourceSHA256": "62bc87c2b25bb382a031de9bdf65a095c82ddab15beb6ff1f47e5fb7676b2085",
+      "frameCount": 392,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_34",
+      "sourceUUID": "9D908E60-6937-55B7-833B-9C6E452BF864",
+      "sourceDescription": "walk",
+      "sourceSHA256": "af8fa8764f58f04b6a8ea7dedc9cb756e54741717abd24207f0a86fb2fa95c39",
+      "frameCount": 415,
       "frameInterval": 0.0083333,
       "title": "Walk Forward with Relaxed Arms",
       "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
