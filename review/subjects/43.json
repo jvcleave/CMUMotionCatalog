@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "subject": "43",
+  "takes": [
+    {
+      "takeID": "43_01",
+      "sourceUUID": "DA75F1B1-3AB3-544E-9B4A-B5333D7C21E5",
+      "sourceDescription": "walk",
+      "sourceSHA256": "b747ed4d227677a9b59ed49187571d29e320e4e1570ed69e29a62edbf615d35e",
+      "frameCount": 421,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arm Swings",
+      "actionDescription": "The performer starts mid-step and walks forward with relaxed, alternating arm swings through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "arm swing",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "43_02",
+      "sourceUUID": "1A4C32F6-6BD5-5F0E-86B8-7D6423502C85",
+      "sourceDescription": "playground - grip bar, swing body",
+      "sourceSHA256": "f1e446a30e46efbe2e35a35aa71cf7b6c90bcc4013e8c7ae65b584e6f4eee959",
+      "frameCount": 904,
+      "frameInterval": 0.0083333,
+      "title": "Swing with Arms Overhead and Step Away",
+      "actionDescription": "The performer starts with both arms raised, repeatedly bends the knees and swings the legs forward, then drops into bent knees and steps away. The CMU source identifies a playground bar.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "playground bar",
+        "overhead grip",
+        "leg swing",
+        "drop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "43_03",
+      "sourceUUID": "5F0D6891-378D-5704-9FBB-5BA308D0CC3A",
+      "sourceDescription": "playground - grip bar, swing body",
+      "sourceSHA256": "1932848779932e4298aa94f3b19332ef0b8316c642d3771fd4274bf31333e1d2",
+      "frameCount": 840,
+      "frameInterval": 0.0083333,
+      "title": "Step into an Overhead Swing and Land",
+      "actionDescription": "The performer takes a wide entry step, lifts both hands overhead, and alternates tucked knees and forward leg swings. They finish in a bent-knee landing stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "playground bar",
+        "overhead grip",
+        "leg swing",
+        "bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
