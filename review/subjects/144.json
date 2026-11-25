@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "subject": "144",
+  "takes": [
+    {
+      "takeID": "144_01",
+      "sourceUUID": "4F076B9A-2C43-518D-AE81-9C9D5F72CF46",
+      "sourceDescription": "Cartwheels",
+      "sourceSHA256": "063b553ef7bf84713d10a741f55528d99bc3e7e318ed379b19447cf70b5fe30a",
+      "frameCount": 2459,
+      "frameInterval": 0.0083333,
+      "title": "Repeated cartwheels with raised-arm resets",
+      "actionDescription": "The performer steps into several hand-supported turnovers with split legs overhead, rises and repositions between efforts, and finishes upright.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " split legs",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_02",
+      "sourceUUID": "DFC97FFD-0BAB-5A80-9871-E502AAF5AAC2",
+      "sourceDescription": "Cartwheels001",
+      "sourceSHA256": "85d7f0fcee6f0f9a5022148758144b2910b025a340b3e7824e22ab076f52d083",
+      "frameCount": 2324,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel sequence with a low final turnover",
+      "actionDescription": "The performer raises both arms, steps into repeated cartwheel movements, then folds low through a final turnover and stands again.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " overhead setup",
+        " repeat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_03",
+      "sourceUUID": "0E853F9B-0AEF-562A-8EDB-4996C783B85F",
+      "sourceDescription": "Figure8s",
+      "sourceSHA256": "f95c0ed9008d5fe5c6d551b15ca66f57ae169e2d0095099ebeaa6294a9d75776",
+      "frameCount": 4479,
+      "frameInterval": 0.0083333,
+      "title": "Repeated figure-eight walking route",
+      "actionDescription": "The performer walks steadily through successive loops, turning in opposite directions while keeping the arms relaxed throughout.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " looping walk",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_04",
+      "sourceUUID": "B14E87DD-1497-5DB9-9780-6F2BF6F6B72E",
+      "sourceDescription": "Figure8s001",
+      "sourceSHA256": "3e07f3ef2a412785bcc329620ae0c5e77354bf2b7c3f5f1934819e84bdace268",
+      "frameCount": 3874,
+      "frameInterval": 0.0083333,
+      "title": "Repeated figure-eight walking route",
+      "actionDescription": "The performer walks steadily through successive loops, turning in opposite directions while keeping the arms relaxed throughout.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " looping walk",
+        " turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_05",
+      "sourceUUID": "035E30D0-CB9A-579F-ACD5-C06067FAB0CE",
+      "sourceDescription": "Front_Kicking",
+      "sourceSHA256": "ff4cd70ec26ae9214d32874a1b6de353be94b20d832b965da76e819d8f0601f5",
+      "frameCount": 2786,
+      "frameInterval": 0.0083333,
+      "title": "Repeated front kicks with high knee chamber",
+      "actionDescription": "The performer holds both hands near the face, lifts a knee and extends the foot forward, then lowers and resets between kicks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "front kick",
+        " chamber",
+        " guard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_06",
+      "sourceUUID": "2E9D3412-A95D-5F30-94BC-6C53FFE4FB7D",
+      "sourceDescription": "Front_Kicking001",
+      "sourceSHA256": "eddcd0eaf0f32386c252c21d9c89a28c4b42819134a822d9b153e187eb251479",
+      "frameCount": 3633,
+      "frameInterval": 0.0083333,
+      "title": "Front kicks from a compact guard stance",
+      "actionDescription": "The performer cycles through short forward kicking actions from a narrow stance, returning the hands near the face between attempts.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "front kick",
+        " narrow stance",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_07",
+      "sourceUUID": "60D908C0-8F77-5C14-BFEC-ED70A814F48F",
+      "sourceDescription": "Left_Blocks",
+      "sourceSHA256": "f5861729e56fa5e98194a3f52e25a2e07f8760a3e8cb5d84ccadc1733f58b890",
+      "frameCount": 2448,
+      "frameInterval": 0.0083333,
+      "title": "Left-side blocks with high and low arm motions",
+      "actionDescription": "The performer repeatedly raises the left forearm near or above the head, brings it across the torso, and resets between motions.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left block",
+        " arm sweep",
+        " guard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_08",
+      "sourceUUID": "CF90E9C5-89BA-51D6-979C-5E5B27CF8454",
+      "sourceDescription": "Left_Blocks001",
+      "sourceSHA256": "a097767a7e6ed90999f1e4598a1c861c2f8110fc40aaf7ac61b6866e8aba7f9e",
+      "frameCount": 3001,
+      "frameInterval": 0.0083333,
+      "title": "Left-side blocks with high and low arm motions",
+      "actionDescription": "The performer repeatedly raises the left forearm near or above the head, brings it across the torso, and resets between motions.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left block",
+        " arm sweep",
+        " guard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_09",
+      "sourceUUID": "E9F960FE-B20F-5AC9-ACFB-7D5A77B739C8",
+      "sourceDescription": "Left_Front_Kicking",
+      "sourceSHA256": "86e287c4e77a0b596edc17458a6f7a0422df79b7b77fd1b10378f6cb405a31b1",
+      "frameCount": 3382,
+      "frameInterval": 0.0083333,
+      "title": "Left front kicks from a staggered stance",
+      "actionDescription": "The performer steps into guard, repeatedly raises the left knee and extends the foot forward, then returns to the staggered stance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left front kick",
+        " guard",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_10",
+      "sourceUUID": "72C97631-49AF-5B59-9304-7963A0FF85A6",
+      "sourceDescription": "Left_Front_Kicking001",
+      "sourceSHA256": "4514437f559c5360167cab067e89f31b9c93fce063b3e054a68e918a3c793189",
+      "frameCount": 3498,
+      "frameInterval": 0.0083333,
+      "title": "Left front kicks from a staggered stance",
+      "actionDescription": "The performer steps into guard, repeatedly raises the left knee and extends the foot forward, then returns to the staggered stance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left front kick",
+        " guard",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_11",
+      "sourceUUID": "97C8A160-2C1B-5A03-844C-F559B2EC6376",
+      "sourceDescription": "Left_Lunges",
+      "sourceSHA256": "78e8620c42b29d27e05b478e5b3c81763679e401e4d5b1538f477d54722505a9",
+      "frameCount": 3429,
+      "frameInterval": 0.0083333,
+      "title": "Left lunges with a forward arm extension",
+      "actionDescription": "The performer lowers into left-side lunges with an arm reaching forward, then returns to upright standing between repetitions.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "left lunge",
+        " forward reach",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_12",
+      "sourceUUID": "C445DECA-E39C-5FB5-A738-8F5336992618",
+      "sourceDescription": "Left_Lunges001",
+      "sourceSHA256": "d21fc56267c6466f46bc3a6bca13e530c38eae2fe79ff6658a9623d80de1c864",
+      "frameCount": 3319,
+      "frameInterval": 0.0083333,
+      "title": "Left lunges with a forward arm extension",
+      "actionDescription": "The performer lowers into left-side lunges with an arm reaching forward, then returns to upright standing between repetitions.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "left lunge",
+        " forward reach",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_13",
+      "sourceUUID": "C64D702A-5BCC-5C85-B51D-3E607F2E6DD5",
+      "sourceDescription": "Left_Punch_Sequence001",
+      "sourceSHA256": "0cc6d4bd771970fa1a07d33b8bf5e42f12e72e4ee9bd61afecd53ac09d07cbe3",
+      "frameCount": 1946,
+      "frameInterval": 0.0083333,
+      "title": "Left punch sequence with low and wide stances",
+      "actionDescription": "The performer maintains a raised guard while stepping into wide and lowered stances, briefly extending a fist and resetting.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left punch",
+        " guard",
+        " low stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_14",
+      "sourceUUID": "FF0A7DEC-6850-5B86-A0A5-CB7859005A92",
+      "sourceDescription": "Left_Punch_Sequence002",
+      "sourceSHA256": "f3d252fa5e21864031623cb674ad8b58864c80aaf3f7c4262cdba33d7628f3de",
+      "frameCount": 2055,
+      "frameInterval": 0.0083333,
+      "title": "Left punch sequence with a deep lunge",
+      "actionDescription": "The performer shifts through staggered stances, adds a lowered lunge during the punching phrase, and comes back upright between efforts.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "left punch",
+        " lunge",
+        " guard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_15",
+      "sourceUUID": "EC65AB98-4E77-57AF-95B6-9C6DCB7E7369",
+      "sourceDescription": "Left_Spin_reach001",
+      "sourceSHA256": "4c4b175e9d1f1f97f13ee7765ab106f61dd087fabe03519cc0f1d804301a2270",
+      "frameCount": 3302,
+      "frameInterval": 0.0083333,
+      "title": "Left spin and reach with a soft-knee turn",
+      "actionDescription": "The performer turns through several steps, extends an arm from the rotation, and bends the knees as the turn ends.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "left spin",
+        " turning reach",
+        " soft knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_16",
+      "sourceUUID": "4942A4AE-CAD3-5708-9DE6-5131F5F4BB2A",
+      "sourceDescription": "Left_Spin_reach002",
+      "sourceSHA256": "85cb043fe53fc798c1fd24a00b2be3ca2f037c4a6f3264f32e5ff6ca8f046f1c",
+      "frameCount": 3088,
+      "frameInterval": 0.0083333,
+      "title": "Left spin and reach with a low finish",
+      "actionDescription": "The performer alternates turning reaches and upright resets, including a deep low reach before straightening at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "left spin",
+        " low reach",
+        " standing reset"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_17",
+      "sourceUUID": "75FB6578-82EB-525F-A44C-F6871DF606C4",
+      "sourceDescription": "Lunges",
+      "sourceSHA256": "3fd710ece753116ba23ee6709cc24dc526de268842da5942a6925a02a15d2dc3",
+      "frameCount": 2820,
+      "frameInterval": 0.0083333,
+      "title": "Forward lunges with short arm extensions",
+      "actionDescription": "The performer practices stepping into a forward lunge, extends an arm during the lower portion, and returns to an upright stance.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "forward lunge",
+        " arm extension",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_18",
+      "sourceUUID": "20899563-7430-512B-A721-F2FE7892BD3A",
+      "sourceDescription": "Lunges001",
+      "sourceSHA256": "04363e94863490bee009f96b666df8e16c4b68b6ffe68bfa3c3dce9656a55a57",
+      "frameCount": 3096,
+      "frameInterval": 0.0083333,
+      "title": "Deep forward lunges with raised forearms",
+      "actionDescription": "The performer lowers into staggered lunges with one forearm raised near the head, then pushes back up and resets.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "forward lunge",
+        " deep lunge",
+        " raised forearm"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_19",
+      "sourceUUID": "BCFD38B6-9515-57F7-8D4D-B3063874EE06",
+      "sourceDescription": "motorcycle pose",
+      "sourceSHA256": "977fd16147a666d4864ff0ae79bd812e0057a357381cbcb8662e71f8af2a798b",
+      "frameCount": 347,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle reference pose with hands lifted",
+      "actionDescription": "The performer holds the knees flexed and the feet offset, with both hands raised in front as if at handlebars.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " handlebars",
+        " staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_20",
+      "sourceUUID": "DD5BD7A4-F619-5D52-82FF-76458F22B9F8",
+      "sourceDescription": "Punch_Sequence",
+      "sourceSHA256": "d8e4025891f8ffc94ff53839525b0e71cfacd2cbec30a181bd738ec8220cbfce",
+      "frameCount": 2270,
+      "frameInterval": 0.0083333,
+      "title": "Punch sequence with guard and a low dip",
+      "actionDescription": "The performer changes between brief arm extensions and a raised guard, drops into a small crouch, then returns upright.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "punch sequence",
+        " guard",
+        " crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_21",
+      "sourceUUID": "06906D40-B445-5BDF-ADF3-FECF106771A4",
+      "sourceDescription": "Punch_Sequence001",
+      "sourceSHA256": "7f68c6c5b62e3b56821ee4b289845451d6fcba30583ec6ecf05087ab8eb6ac46",
+      "frameCount": 1930,
+      "frameInterval": 0.0083333,
+      "title": "Punch sequence with a deep squat reset",
+      "actionDescription": "The performer moves through short punches and raised forearms, briefly sinks into a wide low squat, then stands again.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "punch sequence",
+        " guard",
+        " deep squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_22",
+      "sourceUUID": "58E7A3C9-16FE-5B1A-8530-658E8C6008B4",
+      "sourceDescription": "Reach_Left001",
+      "sourceSHA256": "8c766beea73f9db900d0f7ec2494078882edc611036c781e4722565bbf46a85b",
+      "frameCount": 3339,
+      "frameInterval": 0.0083333,
+      "title": "Repeated left reach from standing",
+      "actionDescription": "The performer extends an arm leftward at shoulder or chest height, retracts it and returns to a neutral stance between reaches.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "left reach",
+        " standing",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_23",
+      "sourceUUID": "5CD1CFB7-FDDB-5E1F-81A3-8046321F18EA",
+      "sourceDescription": "Reach_Left002",
+      "sourceSHA256": "be37181b52036c4a601ec677629bb1c67a77bb63b25c8f3be59b69e59d7f49a6",
+      "frameCount": 3409,
+      "frameInterval": 0.0083333,
+      "title": "Left reach sequence including a low reach",
+      "actionDescription": "The performer repeats leftward arm extensions at different heights, then bends low into a squat and rises again.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "left reach",
+        " low reach",
+        " squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_24",
+      "sourceUUID": "FAE572D5-AB49-5C07-9029-32D60655E977",
+      "sourceDescription": "Reach_Right",
+      "sourceSHA256": "843d3b643c4c2e6e362a5719601fb992a753c35ed499cd30bfa8eafb8f247791",
+      "frameCount": 4701,
+      "frameInterval": 0.0083333,
+      "title": "Right reach sequence with a deep side crouch",
+      "actionDescription": "The performer varies rightward reaching height, drops into a wide low crouch for one reach, and returns to standing.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "right reach",
+        " side crouch",
+        " varied height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_25",
+      "sourceUUID": "78FEF6E0-784B-5410-B231-89E629BC38AA",
+      "sourceDescription": "Reach_Right001",
+      "sourceSHA256": "63358f1137098ddb3583f13c9808db476c3021d41344bd7077fcc7bca8d2caa6",
+      "frameCount": 3335,
+      "frameInterval": 0.0083333,
+      "title": "Repeated right reach in standing",
+      "actionDescription": "The performer opens one arm to the right, brings it back to rest, and repeats with small shifts of the torso and feet.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "right reach",
+        " standing",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_26",
+      "sourceUUID": "8AB495A0-B6A7-554A-A060-A339641B9C64",
+      "sourceDescription": "Right_Blocks",
+      "sourceSHA256": "f567566f023914c566b6dd8a39234a61bf9b82f111e98e388ca76ea3adb614f1",
+      "frameCount": 3347,
+      "frameInterval": 0.0083333,
+      "title": "Right-side blocks with an overhead lift",
+      "actionDescription": "The performer alternates short right arm sweeps and a raised forearm near the head, resetting upright between efforts.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "right block",
+        " overhead forearm",
+        " arm sweep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_27",
+      "sourceUUID": "6529560E-E8FF-5DF8-B493-4B0D35B717BC",
+      "sourceDescription": "Right_Blocks001",
+      "sourceSHA256": "615b299789fee63abbcbbd466613afc2d734db0a0a2d476889fd0d03063368c9",
+      "frameCount": 2655,
+      "frameInterval": 0.0083333,
+      "title": "Right-side blocks with a wide step",
+      "actionDescription": "The performer raises a forearm across the face and changes between narrow and wide stances while cycling through right-side blocks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "right block",
+        " wide step",
+        " guard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_28",
+      "sourceUUID": "D43CDF4E-9FC6-5A71-B4D1-842E044ACFFA",
+      "sourceDescription": "Right_Spin_reach",
+      "sourceSHA256": "369aa792e933e39863a525aa8beb7f7574d5893ee11885593738eddc779a1576",
+      "frameCount": 2286,
+      "frameInterval": 0.0083333,
+      "title": "Right spin and outward reach",
+      "actionDescription": "The performer steps into a rightward turn, extends one arm and lets the trailing leg lift slightly, then returns to standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "right spin",
+        " outward reach",
+        " trailing leg lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_29",
+      "sourceUUID": "666B6600-70D9-5813-9AE1-BE0EADCF7EAA",
+      "sourceDescription": "Right_Spin_reach001",
+      "sourceSHA256": "c7d06c7ed6f7899a9584ee001eab5fbc73b307e88111a95b85c21a01a1f80782",
+      "frameCount": 3083,
+      "frameInterval": 0.0083333,
+      "title": "Repeated right spin and upward reach",
+      "actionDescription": "The performer repeats a turning step into forward and diagonal reaches with one leg trailing and resets with both feet down.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "right spin",
+        " diagonal reach",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_30",
+      "sourceUUID": "592BB08F-0C59-50F1-A530-361237280C7E",
+      "sourceDescription": "Sun Salutation",
+      "sourceSHA256": "1ed9aa4d8ceaec05b8a2a3b1c73676ef32d5ef577714ebe4e33ee1fe2bc0eaab",
+      "frameCount": 4955,
+      "frameInterval": 0.0083333,
+      "title": "Repeated yoga sun salutations",
+      "actionDescription": "The performer sweeps the arms up, folds forward, passes through low hand-supported poses, and rises to repeat the sequence.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        " sun salutation",
+        " forward fold",
+        " hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_31",
+      "sourceUUID": "67E5EFA9-FCDF-53A6-9A18-2179D2DBB5FF",
+      "sourceDescription": "Sun Salutation001",
+      "sourceSHA256": "daeff0c91fa6a8bea2baa380ed1f17fb424de2b3146f8bf179099b3575d3410b",
+      "frameCount": 4833,
+      "frameInterval": 0.0083333,
+      "title": "Repeated yoga sun salutations",
+      "actionDescription": "The performer sweeps the arms up, folds forward, passes through low hand-supported poses, and rises to repeat the sequence.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        " sun salutation",
+        " forward fold",
+        " hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_32",
+      "sourceUUID": "D4E2B8E4-A635-5A76-86A2-D9449E9C8DD6",
+      "sourceDescription": "Sun Salutation002",
+      "sourceSHA256": "94b54b6fb416b8d9b161eef016c2ef4418770549b895f579a88006bc0df94c18",
+      "frameCount": 5202,
+      "frameInterval": 0.0083333,
+      "title": "Sun salutation with a lifted-chest floor pose",
+      "actionDescription": "The performer folds from standing, moves through hand support and a lifted chest near the floor, then folds again and returns upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "yoga",
+        " sun salutation",
+        " lifted chest",
+        " forward fold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_33",
+      "sourceUUID": "45D511AC-627B-5ED3-92BC-B402BDDE1959",
+      "sourceDescription": "Walking",
+      "sourceSHA256": "a3a0617536b8eedfaac3cdd23b34539c1488f77b1fc7bf9d6375752550e9cae9",
+      "frameCount": 5014,
+      "frameInterval": 0.0083333,
+      "title": "Neutral walk with repeated changes of facing",
+      "actionDescription": "The performer takes relaxed strides through several turns, keeping the arms low and briefly settling between stretches.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "neutral walk",
+        " turns",
+        " relaxed arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "144_34",
+      "sourceUUID": "416AEFEA-6331-5FDC-9606-D6A25EC6ED14",
+      "sourceDescription": "Walking001",
+      "sourceSHA256": "a10ebb56b49ddbd2de3bed6ccfe8a2aa2a6d9a778307a204985e45cbb4506e44",
+      "frameCount": 4688,
+      "frameInterval": 0.0083333,
+      "title": "Neutral walk with repeated changes of facing",
+      "actionDescription": "The performer takes relaxed strides through several turns, keeping the arms low and briefly settling between stretches.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "neutral walk",
+        " turns",
+        " relaxed arm swing"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
