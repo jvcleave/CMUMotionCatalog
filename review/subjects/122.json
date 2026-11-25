@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "subject": "122",
+  "takes": [
+    {
+      "takeID": "122_19",
+      "sourceUUID": "87FF7C47-E84A-5989-B6C3-83FC8C713BFC",
+      "sourceDescription": "clean",
+      "sourceSHA256": "5a58da9b279285999f5be04d589d7821130bc6343ca4e9c8aa01c27e0e465194",
+      "frameCount": 509,
+      "frameInterval": 0.0083333,
+      "title": "Take a Side Step Left",
+      "actionDescription": "From standing, the performer moves one foot left into a wide stance, shifts weight over it, and brings the other foot in. The performer finishes upright with feet close together.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left",
+        "sidestep",
+        "weight shift",
+        "from standstill"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "122_47",
+      "sourceUUID": "0ACBC593-BF85-5E06-A56D-E8EA0F3351A6",
+      "sourceDescription": "clean",
+      "sourceSHA256": "cacf421d009625c4cc0741acda49082814939fc45945c47e13d8213d453e451d",
+      "frameCount": 622,
+      "frameInterval": 0.0083333,
+      "title": "Long Jump Forward",
+      "actionDescription": "From standing, the performer dips and swings the arms, leaps forward, and lands in a deep crouch. They straighten and settle into standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "forward",
+        "two-foot takeoff",
+        "deep landing"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
