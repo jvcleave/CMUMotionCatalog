@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "subject": "49",
+  "takes": [
+    {
+      "takeID": "49_01",
+      "sourceUUID": "DE007B46-1DBD-5C60-9B49-7320C592C78B",
+      "sourceDescription": "walk",
+      "sourceSHA256": "fadb2e2dcb715da96c766cd127987cedbe626b6943d6835189cd40c8ba9a2a92",
+      "frameCount": 652,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Easy Arm Swings",
+      "actionDescription": "The performer begins in a stride, takes even forward steps with relaxed arms, and slows slightly near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even steps",
+        "arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_02",
+      "sourceUUID": "0C2B06C5-1807-5AAE-B1E9-51854EEC9DB4",
+      "sourceDescription": "jump up and down, hop on one foot",
+      "sourceSHA256": "cf201c93b7cf1337c8a41d74c96d2062a51b621a9b1e272961e1fe4dd6590924",
+      "frameCount": 2085,
+      "frameInterval": 0.0083333,
+      "title": "Repeat Vertical Jumps and One-Foot Hops",
+      "actionDescription": "The performer alternates upright jumps, knee lifts, and short one-foot hops. The take ends in a very low wide squat.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "one-foot hop",
+        "deep squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_03",
+      "sourceUUID": "098BBA0A-F5AC-5E3E-9D59-1F60FD0E4B07",
+      "sourceDescription": "jump up and down, hop on one foot",
+      "sourceSHA256": "2ca4a9847dd3fb97ed3f4b43b33f9a13cc7201e856c219e7523da92c528c5def",
+      "frameCount": 1504,
+      "frameInterval": 0.0083333,
+      "title": "Jump and Hop, Then Walk Out",
+      "actionDescription": "The performer starts upright, repeats jumps and high-knee hops, and returns to regular steps before the end.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        "one-foot hop",
+        "walk out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_04",
+      "sourceUUID": "A5A9C317-A314-5D63-9210-99C65E55A4B6",
+      "sourceDescription": "run, leap",
+      "sourceSHA256": "471a7a929f669ed68fad4e592369f4122e09f0ce7639ea7529dc4388795cfc5f",
+      "frameCount": 251,
+      "frameInterval": 0.0083333,
+      "title": "Run into a Broad Leap",
+      "actionDescription": "The performer takes several running steps, stretches both arms outward during a long airborne stride, and lands into another running step.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "running approach",
+        "leap",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_05",
+      "sourceUUID": "63577A2B-FDA9-5B43-8870-E96F137F069A",
+      "sourceDescription": "run, leap",
+      "sourceSHA256": "d06893bc481be447eeb813d7a0c48add50c840b3d46debff7200238618f182ca",
+      "frameCount": 164,
+      "frameInterval": 0.0083333,
+      "title": "Leap with Both Arms Spread and Resume Running",
+      "actionDescription": "The performer runs into a quick leap with the arms out and legs apart, then lands and runs through the final frame.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "running approach",
+        "leap",
+        "running finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_06",
+      "sourceUUID": "13B8E279-70EF-5AB1-B299-CA074DDFD338",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "96c742ccc9f412d0d2b3f9d7bb11e6672d99db6c35b093f875fb4b82efa476ce",
+      "frameCount": 481,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel and Return to Standing",
+      "actionDescription": "The performer opens both arms, tips sideways to bring the hands down, and passes through an inverted split-leg position. They recover upright in a narrow stance.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        "inversion",
+        "hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_08",
+      "sourceUUID": "58B0FA26-A521-5113-8031-B7A9C78C4900",
+      "sourceDescription": "cartwheels",
+      "sourceSHA256": "5a819e5569ebe55623b6ff64b56bcb01a27a21d1260898be02b5116bce8a85dc",
+      "frameCount": 575,
+      "frameInterval": 0.0083333,
+      "title": "Perform Two Cartwheels",
+      "actionDescription": "The performer tips sideways into a cartwheel, returns briefly to standing, and repeats the inversion. They finish upright with arms low.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        "repeated",
+        "inversion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_10",
+      "sourceUUID": "BCF13E0C-7E81-54E8-8A21-0DB4AB7A7E25",
+      "sourceDescription": "dance - fold in from side arabesque, curl inwards",
+      "sourceSHA256": "888af4926600e4fbbafbce1f5fb3a505fc00ade78a3686be1f5d56714e9816b6",
+      "frameCount": 1424,
+      "frameInterval": 0.0083333,
+      "title": "Fold Inward from a Raised-Arm Dance Pose",
+      "actionDescription": "The performer opens with the arms raised and one foot out, then curls the chest and head forward, bringing the arms in. They hold the folded shape through the end.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "arabesque",
+        "inward curl",
+        "folded finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_14",
+      "sourceUUID": "975C1204-02F0-5561-9B22-1D08FA4385ED",
+      "sourceDescription": "dance - lean forward, bring back leg forward, arching arms",
+      "sourceSHA256": "5da693f565ac4cc54ad8a2bd30b5805ed06ce1d686b5cedc97c3fa3c272a0f88",
+      "frameCount": 619,
+      "frameInterval": 0.0083333,
+      "title": "Bring the Back Leg Forward with Arcing Arms",
+      "actionDescription": "The performer holds both arms high, then lowers the arms as the torso leans and the lifted leg moves forward. The take ends leaning forward with both elbows open.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "leg sweep",
+        "arcing arms",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
