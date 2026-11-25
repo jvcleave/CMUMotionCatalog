@@ -68,7 +68,7 @@ async function toggleSkeletonPreview() {
   };
   const motion = activeTake.motion;
   try {
-    const [{ showSkeleton }, text] = await Promise.all([
+    const [{ showMotion }, text] = await Promise.all([
       import("./skeleton-viewer.js"),
       fetch(motion.url, { signal }).then((response) => {
         if (!response.ok) throw new Error(`BVH request failed (${response.status})`);
@@ -77,12 +77,14 @@ async function toggleSkeletonPreview() {
     ]);
     if (signal.aborted || !dialog.open) return;
     skeletonPlayer.hidden = false;
-    releaseSkeleton = showSkeleton(text, motion, {
+    releaseSkeleton = showMotion(text, motion, {
       viewport: byID("skeleton-viewport"),
       play: byID("skeleton-play"),
       scrubber: byID("skeleton-time"),
       timestamp: byID("skeleton-timestamp"),
       reset: byID("skeleton-reset"),
+      view: byID("preview-view"),
+      viewStatus: byID("preview-view-status"),
       onUnavailable: showUnavailable,
     });
     playing = false;

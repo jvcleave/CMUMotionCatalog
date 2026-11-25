@@ -61,7 +61,9 @@ def build(output):
         raise ValueError("The Pages catalog requires an annotation for every take.")
 
     output.mkdir(parents=True, exist_ok=True)
-    for filename in ("index.html", "catalog.css", "catalog.js", "skeleton-viewer.js"):
+    for filename in (
+        "index.html", "catalog.css", "catalog.js", "skeleton-viewer.js", "character-view.js", "model.glb",
+    ):
         shutil.copyfile(ROOT / "site" / filename, output / filename)
 
     takes = []

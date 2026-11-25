@@ -56,8 +56,8 @@ dialog::backdrop { background: #080d0bd9; }
 dialog h2 { margin-bottom: .25rem; }
 #detail-meta { margin-top: 0; }
 #preview { display: block; max-width: 100%; height: auto; border-radius: 7px; background: #2c323b; }
-.preview-actions, .skeleton-controls { display: flex; align-items: center; flex-wrap: wrap; gap: .55rem; margin-top: .65rem; }
-#skeleton-status { color: var(--muted); }
+.preview-actions, .skeleton-controls, .skeleton-view-options { display: flex; align-items: center; flex-wrap: wrap; gap: .55rem; margin-top: .65rem; }
+#skeleton-status, #preview-view-status { color: var(--muted); }
 #skeleton-viewport { height: clamp(14rem, 45vh, 22rem); margin-top: .65rem; background: #17221e; border-radius: 7px; }
 #skeleton-viewport canvas { display: block; width: 100%; height: 100%; border-radius: inherit; }
 #skeleton-time { flex: 1 1 8rem; min-width: 0; accent-color: var(--accent); }

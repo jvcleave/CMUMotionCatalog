@@ -77,6 +77,14 @@
     <div id="skeleton-preview" hidden>
       <p id="skeleton-status" role="status" hidden></p>
       <div id="skeleton-player" hidden>
+        <div class="skeleton-view-options">
+          <label for="preview-view">View</label>
+          <select id="preview-view">
+            <option value="character" selected>Character</option>
+            <option value="skeleton">Source skeleton</option>
+          </select>
+          <span id="preview-view-status" role="status" hidden></span>
+        </div>
         <div id="skeleton-viewport"></div>
         <div class="skeleton-controls">
           <button id="skeleton-play" type="button">Play</button>
