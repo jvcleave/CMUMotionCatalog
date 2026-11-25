@@ -1182,6 +1182,96 @@
         "object"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_71",
+      "sourceUUID": "036C006E-DC72-5D39-9963-F4F64B515973",
+      "sourceDescription": "walk up to object, squat, pick up object, set down in another place",
+      "sourceSHA256": "06477a0e0f0a72ccfa63f7e2d8c48b090a96ac3cd1845d3a34d7115ab454edfc",
+      "frameCount": 1318,
+      "frameInterval": 0.0083333,
+      "title": "Squat, carry and set down",
+      "actionDescription": "Walks forward, squats and reaches down, rises with hands together, walks away, then squats again before standing.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "carry",
+        "set down"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_72",
+      "sourceUUID": "993D7576-1C6E-5D24-A113-22A2A9E136D9",
+      "sourceDescription": "walk up to object, pick up object, set down in another place",
+      "sourceSHA256": "eb8f3dac81b6a1ac38a31763803ec9c175692b6a02c4ce62052955d2eae7209f",
+      "frameCount": 1133,
+      "frameInterval": 0.0083333,
+      "title": "Bend, carry and set down",
+      "actionDescription": "Walks forward, bends to reach down, rises with hands together, steps away, then bends down again and straightens.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "carry",
+        "set down"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_73",
+      "sourceUUID": "2201CE19-A853-5314-B502-CC7A0237C113",
+      "sourceDescription": "walk up to object, lean over, pick up object, set down in another place",
+      "sourceSHA256": "169f2b45af9b1887fa276c0242efd513581c2854d56ee9132b73b86955f9c338",
+      "frameCount": 1091,
+      "frameInterval": 0.0083333,
+      "title": "Bend, carry and set down",
+      "actionDescription": "Walks forward and bends to reach down, rises and walks with hands together, then bends again with one leg extended behind before standing.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "carry",
+        "set down"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_74",
+      "sourceUUID": "DD6A0145-B087-59BA-A3ED-2B46B8F96FEF",
+      "sourceDescription": "walk up to object, lean over, pick up object, set down in another place",
+      "sourceSHA256": "6b7d005ada37aa3c9abfba3fc300a222d604333d91de54aabb4e9f92b1fc1819",
+      "frameCount": 982,
+      "frameInterval": 0.0083333,
+      "title": "Bend, carry and set down",
+      "actionDescription": "Walks forward, bends to reach down, rises with hands together, walks away, then bends forward to reach down again and straightens.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "carry",
+        "set down"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_75",
+      "sourceUUID": "A4F52244-BEC2-5146-873E-E56E56861841",
+      "sourceDescription": "walk up to object, squat, pick up object, set down in another place",
+      "sourceSHA256": "8b09a8fcc5b00c5c51299bedb13b4ad92f87e84549149fd8b831bbc931f2729c",
+      "frameCount": 1101,
+      "frameInterval": 0.0083333,
+      "title": "Squat, carry and set down",
+      "actionDescription": "Walks forward and squats to reach down, rises with hands together, walks away, then squats again and stands.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "carry",
+        "set down"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
