@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "subject": "23",
+  "takes": [
+    {
+      "takeID": "23_01",
+      "sourceUUID": "9EDC7C6B-5B9F-5DD1-984F-CCBED32C737B",
+      "sourceDescription": "B sits; A pulls up B (subjects - subject B)",
+      "sourceSHA256": "52cd2cbf3604cbb27f40b39afa88e1044f67c44757be9eb12eb1d73a138d9231",
+      "frameCount": 782,
+      "frameInterval": 0.0083333,
+      "title": "Rise with partner's help, participant B",
+      "actionDescription": "Participant B starts seated with a leg extended, reaches out and rises with a forward lean, then settles standing.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "sit",
+        "stand",
+        "assisted",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_02",
+      "sourceUUID": "7B4F8327-3DD8-5430-AD84-FD99F5892D40",
+      "sourceDescription": "A sits; B pulls up A (subjects - subject B)",
+      "sourceSHA256": "3b92576853ea6ebc63bc888bba34375b03716a52dafd33e8fc9e637ca200c666",
+      "frameCount": 472,
+      "frameInterval": 0.0083333,
+      "title": "Pull seated partner up, participant B",
+      "actionDescription": "Participant B walks forward, reaches down and draws the hands toward the body while stepping and turning, then lowers the arms.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull up",
+        "seated partner",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_03",
+      "sourceUUID": "78215FA8-58BC-5927-A04F-D3F907312273",
+      "sourceDescription": "A sits, holds face in hands; B kneels, comforts A (2 subjects - subject B)",
+      "sourceSHA256": "eaa0a560e6023beaf33de4c629d198ceb93f3faf02e65f7d4a2c34e7a3cc6dec",
+      "frameCount": 812,
+      "frameInterval": 0.0083333,
+      "title": "Kneel and comfort, participant B",
+      "actionDescription": "Participant B reaches forward, lowers onto one knee with a hand extended, then rises and steps back.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "kneel",
+        "comfort",
+        "reach",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_04",
+      "sourceUUID": "8FF0044C-3065-51E1-9B10-E14EF2A107D4",
+      "sourceDescription": "B comforts A, puts one hand on A's shoulder (2 subjects - subject B)",
+      "sourceSHA256": "fde8b37170e4f7576a374818682c9b9b1d8928dc03578ca3ad846e1a4988860c",
+      "frameCount": 520,
+      "frameInterval": 0.0083333,
+      "title": "Comfort partner at shoulder, participant B",
+      "actionDescription": "Participant B steps, raises one hand and leans to the side with the arm extended, then straightens slightly.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "comfort",
+        "shoulder",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_05",
+      "sourceUUID": "96F045F2-75D1-5394-96DB-B868737950F9",
+      "sourceDescription": "A comforts B, puts both hands on B's shoulders (2 subjects - subject B)",
+      "sourceSHA256": "4e11a31fefb9fc388231eb5e87bc166afa99ef48b53cb27f848080821d829674",
+      "frameCount": 524,
+      "frameInterval": 0.0083333,
+      "title": "Receive two-handed comfort, participant B",
+      "actionDescription": "Participant B starts upright, lowers the head and shoulders, then gradually raises the head while standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "comfort",
+        "shoulders",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_06",
+      "sourceUUID": "8243948A-FACD-5545-8B0A-8A7191816D32",
+      "sourceDescription": "B comforts A, puts both hands on A's shoulders (2 subjects - subject B)",
+      "sourceSHA256": "abe560451e7c107c281c5e10331167a4fcc20c1b5ea0c1800fffce413ecd8670",
+      "frameCount": 503,
+      "frameInterval": 0.0083333,
+      "title": "Comfort partner at shoulders, participant B",
+      "actionDescription": "Participant B steps and raises both hands forward at shoulder level, holds the reach and then lowers the arms.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "comfort",
+        "shoulders",
+        "reach",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_07",
+      "sourceUUID": "89BE7107-69D9-5071-9FB2-8632890616FF",
+      "sourceDescription": "A comforts B, puts one hand on B's shoulder (2 subjects - subject B)",
+      "sourceSHA256": "ccbd6c6282a9580a7cedc5b3323854cc973a2c1ee2d0fb7d17f88f58ca747f74",
+      "frameCount": 303,
+      "frameInterval": 0.0083333,
+      "title": "Receive shoulder comfort, participant B",
+      "actionDescription": "Participant B stands with arms lowered and head tilted down, making small posture shifts.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "comfort",
+        "shoulder",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_08",
+      "sourceUUID": "CD2A9BB7-CF8D-540F-A4A0-EBAC482B148A",
+      "sourceDescription": "hold hands, swing arms, walk (2 subjects - subject B)",
+      "sourceSHA256": "e945fb6d3ba45f1e3927511eb64fabb10896c680e005790f7680c3e859b76c8d",
+      "frameCount": 226,
+      "frameInterval": 0.0083333,
+      "title": "Hold hands and walk, participant B",
+      "actionDescription": "Participant B walks with one arm swinging outward and across the body, continuing alternating steps through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "hold hands",
+        "walk",
+        "arm swing",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_09",
+      "sourceUUID": "39E0E8D6-F153-54BE-B025-D302AAC6AAB5",
+      "sourceDescription": "A gives B a shoulder rub; B sits, A stands (subjects - subject B)",
+      "sourceSHA256": "d83bb662bbf5b431c6060a439b5c62f64dfcea59a917c855c85d3947245ff649",
+      "frameCount": 538,
+      "frameInterval": 0.0083333,
+      "title": "Receive shoulder rub, participant B",
+      "actionDescription": "Participant B sits with hands near the lap, inclines the head and torso, then lifts slightly while remaining seated.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "shoulder rub",
+        "massage",
+        "sit",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_10",
+      "sourceUUID": "782696B4-228A-58B1-880A-AB6DDD15D61D",
+      "sourceDescription": "A shelters B, a younger child, from harm (2 subjects - subject B)",
+      "sourceSHA256": "f758404186eddcd34897f68fc746aeaa0bd0aaa31a5de9c762dde0400dd1e467",
+      "frameCount": 517,
+      "frameInterval": 0.0083333,
+      "title": "Sheltered child, participant B",
+      "actionDescription": "Participant B starts standing, bends the knees and leans forward with arms held out, then straightens near the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "shelter",
+        "child",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_11",
+      "sourceUUID": "55EBB46C-F22F-55C1-94AA-60B888ED5A17",
+      "sourceDescription": "B shelters A, a younger child, from harm (2 subjects - subject B)",
+      "sourceSHA256": "f5203b9a341288a7c89d7acbfc5843f7dd2061ddf292705c8f89bc37f418f515",
+      "frameCount": 541,
+      "frameInterval": 0.0083333,
+      "title": "Shelter a child, participant B",
+      "actionDescription": "Participant B widens the stance, spreads the arms and leans sideways, then shifts back toward upright with arms still out.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "shelter",
+        "protect",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_12",
+      "sourceUUID": "1B86781D-CBAC-57B2-95C2-6343C1F452BD",
+      "sourceDescription": "A stumbles into B (2 subjects - subject B)",
+      "sourceSHA256": "e8fff3de8e6baa3df6db5b54e0a3aa98efd0d4b630f4ba60592c2cfb57ade688",
+      "frameCount": 304,
+      "frameInterval": 0.0083333,
+      "title": "Partner stumbles into participant B",
+      "actionDescription": "Participant B takes small walking steps, turns the head and shoulders and remains upright through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stumble",
+        "partner",
+        "walk",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_13",
+      "sourceUUID": "C15E8EE8-41E8-594C-9635-3019DB3484DE",
+      "sourceDescription": "A passes soda to B; both drink (2 subjects - subject B)",
+      "sourceSHA256": "4bb71b972baf70b3c37588a4a7e19f740b88094bfd952d105f869f6ab92c2744",
+      "frameCount": 919,
+      "frameInterval": 0.0083333,
+      "title": "Receive soda and drink, participant B",
+      "actionDescription": "Participant B extends a hand, brings both hands toward the chest and raises a hand to the mouth, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "soda",
+        "receive",
+        "drink",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Soda is identified by the source and is not rendered."
+    }
+  ]
+}
