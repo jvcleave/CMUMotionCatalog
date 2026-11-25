@@ -488,6 +488,71 @@
         "cautious"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_31",
+      "sourceUUID": "ACCB1D19-F393-52A7-9721-F9B4190161EC",
+      "sourceDescription": "silent walk",
+      "sourceSHA256": "c70d1898c752d7ecd032c2e0f1f6272ae00eab13fda064d25c91f56e5bee7ef6",
+      "frameCount": 2106,
+      "frameInterval": 0.0083333,
+      "title": "Silent creeping walk",
+      "actionDescription": "Leans forward and walks in small bent-knee steps, turning and continuing in a low stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_32",
+      "sourceUUID": "16723A00-D0DA-5B81-B6A2-B0F6B26F97AF",
+      "sourceDescription": "creeping walk",
+      "sourceSHA256": "aceb66ecff1c5f46c02ef01866b5522541d93567ba54b9e021bad881c58c9931",
+      "frameCount": 1894,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Moves cautiously in a low, forward-leaning stance, taking small steps and turning before rising.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_33",
+      "sourceUUID": "2E6757D3-B809-554E-992E-49426F60B7B4",
+      "sourceDescription": "creeping with limp",
+      "sourceSHA256": "c33e4cc8c56c2a887a05a662a68875808efce7019c5aa11827b71fe4591d2cc5",
+      "frameCount": 2997,
+      "frameInterval": 0.0083333,
+      "title": "Creeping with a limp",
+      "actionDescription": "Moves with uneven, bent-knee steps and a forward lean, turning and continuing to creep.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep",
+        "limp"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_34",
+      "sourceUUID": "F7C9C9D2-6353-568C-81F1-A80974CB0096",
+      "sourceDescription": "creep and pause, repeat",
+      "sourceSHA256": "300f0d4da1349220634d77f490b58a65c845e103796b79b79261eff09c23aa17",
+      "frameCount": 1122,
+      "frameInterval": 0.0083333,
+      "title": "Creep and pause",
+      "actionDescription": "Takes slow bent-knee steps, pauses in the low stance, then resumes creeping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
