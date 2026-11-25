@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "subject": "81",
+  "takes": [
+    {
+      "takeID": "81_01",
+      "sourceUUID": "E9C6BA44-F568-516C-B959-308ADD001C16",
+      "sourceDescription": "fix hair and walk forward",
+      "sourceSHA256": "af6ef168c2a87ed670a1855b6aa26584c4d1ec023631283c290fc08d227a3327",
+      "frameCount": 1252,
+      "frameInterval": 0.0083333,
+      "title": "Adjust Hair and Walk Forward",
+      "actionDescription": "The performer starts standing, brings a hand to the head several times, lowers the arm, and walks forward with a relaxed arm swing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "hair adjustment",
+        "forward",
+        "hand near head"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_02",
+      "sourceUUID": "7D51179D-37E4-5E93-8208-87F78F09FCAD",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "682c228c5a9918763294d7325b6d918aabb2befbb9ab959cfaeae5b068725664",
+      "frameCount": 544,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Alternating Arm Swings",
+      "actionDescription": "The performer steps forward with a relaxed alternating arm swing and continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "relaxed arms",
+        "mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_03",
+      "sourceUUID": "8AC9E093-1330-59DC-9414-B6EBF6AA3E5C",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ac361a74672293d91c8c338a63d5cc56995b7f5e3c1168700fc8ab1c0dc609a9",
+      "frameCount": 1076,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Ease into a Side-Facing Stand",
+      "actionDescription": "The performer walks with low arms, shortens the final steps, and settles upright facing to one side.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "slows",
+        "profile finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_04",
+      "sourceUUID": "7EAF6C71-AA3C-555B-AEA0-6492D3D1A4E4",
+      "sourceDescription": "walk at a brisk pace",
+      "sourceSHA256": "66911c8710b421843e00ed432e3cac5dc1c4051171622db8b68bda8cce429600",
+      "frameCount": 961,
+      "frameInterval": 0.0083333,
+      "title": "Walk Briskly after a Brief Hand Lift",
+      "actionDescription": "The performer raises a hand near the face before taking a series of brisk steps, then slows into a side-facing stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "brisk walk",
+        "hand near face",
+        "slows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_05",
+      "sourceUUID": "22762032-9C8E-5154-B649-05EC4D8397A9",
+      "sourceDescription": "push heavy object",
+      "sourceSHA256": "de960294dea18c5b3d63dc3e9c7a38abe47323ce99bce573cc3abdc2c940c194",
+      "frameCount": 1364,
+      "frameInterval": 0.0083333,
+      "title": "Lean Low into a Heavy Push and Release",
+      "actionDescription": "The performer bends forward with both hands low and takes braced steps, then eases out of the lean and straightens.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "heavy object",
+        "braced steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_06",
+      "sourceUUID": "AB30EA1B-8EBC-521E-BF05-5FA1D8067204",
+      "sourceDescription": "push heavy box",
+      "sourceSHA256": "c46a4e52f1642a87792a2a256416fe530529df20d8445b80aeb5aad413bb8b5e",
+      "frameCount": 1274,
+      "frameInterval": 0.0083333,
+      "title": "Push a Heavy Box from a Low Stance",
+      "actionDescription": "The performer sinks into bent knees, leans over both hands, and advances with short braced steps. The final pose remains pitched forward.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "box",
+        "push",
+        "braced steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_07",
+      "sourceUUID": "653578E3-EBC8-56D3-AE13-FC146C55874B",
+      "sourceDescription": "pull heavy object",
+      "sourceSHA256": "5e966204fdeaa6ddb2ade0fdcd2aafefb5d82962df7df161ee899a6ee0a1d056",
+      "frameCount": 1210,
+      "frameInterval": 0.0083333,
+      "title": "Crouch and Pull a Heavy Object",
+      "actionDescription": "The performer drops into a deep crouch, gathers both hands near the floor, and backs away with bent knees and the arms in front.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pull",
+        "heavy object",
+        "deep crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_08",
+      "sourceUUID": "35EEA66D-7342-500F-8F52-DEB3BB25B443",
+      "sourceDescription": "drag heavy object",
+      "sourceSHA256": "661b493300d4b1dfc9768733a24e55fd92cfd42670ccfe06193fc94e45d9b3da",
+      "frameCount": 1380,
+      "frameInterval": 0.0083333,
+      "title": "Drag a Heavy Object with Repeated Low Steps",
+      "actionDescription": "The performer reaches down in a crouch, then takes short backward steps while remaining bent over with both hands low.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "drag",
+        "heavy object",
+        "backward steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_09",
+      "sourceUUID": "4A888307-D3FD-5BA2-99D4-0906EB51F498",
+      "sourceDescription": "drag heavy object",
+      "sourceSHA256": "bb1ca40f8fc1594bccd9229716df9b0e3dbe061b08c5ee6a18d9f7753b81d130",
+      "frameCount": 1397,
+      "frameInterval": 0.0083333,
+      "title": "Bend to Grip and Drag a Heavy Object",
+      "actionDescription": "The performer folds at the waist, straightens partway, and repeatedly steps back with the arms drawn in. They turn into profile near the end.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "drag",
+        "heavy object",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_10",
+      "sourceUUID": "A0804B02-9626-5896-B1A7-31EA0150445E",
+      "sourceDescription": "push object that is high in air",
+      "sourceSHA256": "3bab4483337f2e2beb45fce362179f3ed03caf1e09bdeba43702a782e0d39ccf",
+      "frameCount": 1782,
+      "frameInterval": 0.0083333,
+      "title": "Push High with Both Arms and Lower Them",
+      "actionDescription": "The performer raises both hands near head level, maintains a high forward reach while shifting stance, and lowers the arms to finish.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "high reach",
+        "both hands"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_11",
+      "sourceUUID": "6A124622-FF52-5A8B-8349-802DF34F8A9F",
+      "sourceDescription": "push object that is high in air",
+      "sourceSHA256": "5dd5b613672c3f633e9d0126c13ab187f97941bbc0e0046ff97124acad58a83c",
+      "frameCount": 1689,
+      "frameInterval": 0.0083333,
+      "title": "Reach Up and Push with Changing Foot Position",
+      "actionDescription": "The performer steps into an elevated two-handed push, alternates the reach with one arm stretched farther, and returns to standing with arms down.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "elevated reach",
+        "weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_12",
+      "sourceUUID": "C47CB359-2016-54D7-B11F-37112E19760D",
+      "sourceDescription": "jump backwards off ledge",
+      "sourceSHA256": "3f22f19dcd1a4b65ac9557a6cf6cd0fb1bdfb9d173ae319a6466737ad65fba26",
+      "frameCount": 502,
+      "frameInterval": 0.0083333,
+      "title": "Jump Backward off a Ledge and Land Low",
+      "actionDescription": "The performer raises both arms, leaves the ledge backward, and catches the landing in a deep bend before walking out.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "ledge",
+        "backward jump",
+        "deep landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_13",
+      "sourceUUID": "6438BDD6-58D3-5BEC-82AE-8D8B4FA42F62",
+      "sourceDescription": "jump backwards off ledge",
+      "sourceSHA256": "93294e99b1663cecdc9c2dfe3bb9178f7083116aecb08e259b8479c0a036bfe5",
+      "frameCount": 644,
+      "frameInterval": 0.0083333,
+      "title": "Jump Backward off a Ledge with Arms Out",
+      "actionDescription": "The performer lifts the arms, jumps backward, and opens them while bending the knees on landing. They continue into short steps afterward.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "ledge",
+        "backward jump",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_14",
+      "sourceUUID": "55D8D756-25AC-50A0-ABAF-D10C23ABCC28",
+      "sourceDescription": "climb backwards off ledge",
+      "sourceSHA256": "dd03d61009d12770767f3470de1ba4b813bdb7b8d2a0f97a7293a3e80f1aab75",
+      "frameCount": 2090,
+      "frameInterval": 0.0083333,
+      "title": "Climb Backward Down a Ledge",
+      "actionDescription": "The performer raises the hands, turns and lowers into a hands-down position, then brings the feet under the body and stands.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ledge",
+        "backward descent",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_15",
+      "sourceUUID": "A2AB8AAB-A52B-537F-8830-7B18D5A31145",
+      "sourceDescription": "climb backwards off ledge",
+      "sourceSHA256": "7a0cc582208a88d49acf1f23b1ff5339287221f15e6c4f604062455f32b44336",
+      "frameCount": 2027,
+      "frameInterval": 0.0083333,
+      "title": "Lower Backward off a Ledge and Stand",
+      "actionDescription": "The performer makes several preparatory arm motions, turns away, lowers to a near-horizontal supported position, then steps down and straightens.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ledge",
+        "backward descent",
+        "supported lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_16",
+      "sourceUUID": "2A93B0CB-6926-5560-8C1E-702900C15C83",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "79a1fcde31eb4ee1c235f48ae433e1f442b26d311e73c9599aceda568b34aa97",
+      "frameCount": 10,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Brief Bent-Knee Pose with Hands Raised",
+      "actionDescription": "The performer holds a staggered stance with both hands raised in front and knees slightly bent. The captured motion is nearly static.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "short take",
+        "hands raised",
+        "staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_17",
+      "sourceUUID": "F88F95C6-9ECB-5E77-89DD-CDFA500C4276",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "dc34a795abc156d268109ac9701756e1929ebf23e3bb321afb9ced9153c8aa13",
+      "frameCount": 916,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Short Even Steps",
+      "actionDescription": "The performer takes short forward steps with arms low and continues through the final frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "81_18",
+      "sourceUUID": "E0CC60FD-3074-5B92-B4EE-B8C7A5DC9B4A",
+      "sourceDescription": "adjust hair walk forward",
+      "sourceSHA256": "d016a6352b7840a576d49a650f4845fd2885d26a6cab40d7c60a2bb92bab0260",
+      "frameCount": 1150,
+      "frameInterval": 0.0083333,
+      "title": "Bring a Hand to the Head and Walk Out",
+      "actionDescription": "The performer raises a hand to the head twice, lowers it, and walks away in profile with a relaxed arm swing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "hair adjustment",
+        "hand near head",
+        "walk out"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
