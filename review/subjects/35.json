@@ -471,6 +471,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "35_27",
+      "sourceUUID": "29B14E04-1034-54DC-93BC-B7DA759D7BC5",
+      "sourceDescription": "navigate around obstacles",
+      "sourceSHA256": "be4f3ce88e3d60db78c985e690a8a67fba9e1571581073374fb19be95641f200",
+      "frameCount": 9807,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Change Direction Around Obstacles",
+      "actionDescription": "The performer takes short steps, slows or leans slightly at turns, and changes direction repeatedly while continuing to walk. The CMU source identifies an obstacle course.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "obstacle navigation",
+        "turns",
+        "short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "35_28",
       "sourceUUID": "1D8AA8CA-D81A-5A1D-ACCC-66BDFE8E1773",
       "sourceDescription": "walk",
@@ -501,6 +518,23 @@
       "searchTags": [
         "forward",
         "measured pace",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_30",
+      "sourceUUID": "3EAE3963-37FE-57B3-B15B-E20FEC27A12E",
+      "sourceDescription": "walk",
+      "sourceSHA256": "f1e13fdeda145cdd20e0acf6a542ffdf78367bd26c30a0da95d92437d5020915",
+      "frameCount": 412,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride, walks forward with low arm swings, and remains in motion at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "relaxed arms",
         "ends mid-stride"
       ],
       "reviewStatus": "described"
@@ -537,6 +571,23 @@
         "forward",
         "even pace",
         "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_33",
+      "sourceUUID": "89FEFDC3-AFCA-5853-B1F8-FBCFB806C73B",
+      "sourceDescription": "walk",
+      "sourceSHA256": "b9d2eee77c1d9393c5ae6e599e4efdad459a5d42c0833cd186e3170e9a14497a",
+      "frameCount": 421,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride, walks forward with low arm swings, and remains in motion at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "relaxed arms",
         "ends mid-stride"
       ],
       "reviewStatus": "described"
