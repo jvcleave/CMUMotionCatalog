@@ -3,6 +3,142 @@
   "subject": "90",
   "takes": [
     {
+      "takeID": "90_01",
+      "sourceUUID": "49E5FE38-2746-5E47-AA1A-3A12B591B7D1",
+      "sourceDescription": "bkwd summersult",
+      "sourceSHA256": "5154e1fe2038f972c096f217291b9b479a96822eb682a45b47d25751e92d1430",
+      "frameCount": 789,
+      "frameInterval": 0.0083333,
+      "title": "Backward somersault from a squat",
+      "actionDescription": "The performer lowers from standing into a hand-assisted squat, rolls backward in a tuck, and pushes back up to standing.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "backward roll",
+        " somersault",
+        " squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_02",
+      "sourceUUID": "0CE37404-3963-53DB-99C0-45E536E03B11",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "075f20e080f4ca6b197a0142bc39c772e6051345cab89169e3ce9b19b270f0bd",
+      "frameCount": 781,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel from an open-arm stance",
+      "actionDescription": "The performer holds both arms out, reaches down to swing the legs overhead into a split, then lands and reopens the arms.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " split inversion",
+        " open arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_03",
+      "sourceUUID": "00845875-C82B-581C-817F-6DD18B8F7379",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "8aae7f873b69413e48801fdf5d6248cbbb85cb7572964e8d8bbfd812202fdea9",
+      "frameCount": 884,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel with a wide setup",
+      "actionDescription": "The performer waits with feet and arms spread, tilts sideways to put a hand down and bring the legs over, and returns to the starting stance.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " wide stance",
+        " side inversion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_05",
+      "sourceUUID": "1DBCA3B3-9E94-5D5E-88AC-25F2905D4138",
+      "sourceDescription": "jump kick",
+      "sourceSHA256": "8de04bdcb91579538e37ce123faa076fdf16d898aab3f69b99a18204fe5a2319",
+      "frameCount": 513,
+      "frameInterval": 0.0083333,
+      "title": "Jump kick with high leg extension",
+      "actionDescription": "The performer takes quick approach steps, swings one leg up into a high kick with the arms spread, then steps through the landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump kick",
+        " high kick",
+        " approach steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_06",
+      "sourceUUID": "25C205BE-E8EF-51A9-9608-91905BD66FB4",
+      "sourceDescription": "jump kick",
+      "sourceSHA256": "690874fad8f1c76552f816a38249177a2cf61d8e91c8eed5246124e19c2387dc",
+      "frameCount": 624,
+      "frameInterval": 0.0083333,
+      "title": "Jump kick with both arms lifted",
+      "actionDescription": "The performer waits in a wide stance, steps into a jump kick with a high leg and both arms raised, then turns out of the landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump kick",
+        " overhead arms",
+        " landing turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_07",
+      "sourceUUID": "29D86930-F87B-5D37-9F3A-9E23AB7EEED4",
+      "sourceDescription": "jump kick",
+      "sourceSHA256": "90f349519b5794f1d0d1aa87ce4307e12a8a2b10b1846f4f1f66507db18177c0",
+      "frameCount": 895,
+      "frameInterval": 0.0083333,
+      "title": "Jump kick with a forward-leaning exit",
+      "actionDescription": "The performer pauses in a wide stance, steps into the kick described by the source, then pitches forward with one arm reaching down and steps upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump kick",
+        " forward lean",
+        " recovery steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_08",
+      "sourceUUID": "46CD23BE-3CF8-5133-BCD6-75CF77F076DB",
+      "sourceDescription": "side flip",
+      "sourceSHA256": "70f23145641083906f4a7f3d228ee19eb336a7152259718e5f6b7c47e2070b95",
+      "frameCount": 337,
+      "frameInterval": 0.0083333,
+      "title": "Side flip into a crouched landing",
+      "actionDescription": "The performer dips from standing, lifts off into a sideways tucked turnover, then lands low and straightens.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "side flip",
+        " tuck",
+        " crouch landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_09",
+      "sourceUUID": "C8EB01F9-A185-5A6C-AEC6-FB655051E140",
+      "sourceDescription": "Flip forward onto hands and back again",
+      "sourceSHA256": "54a9077373a6823afddb944fc894c3862afb76c16651e587931951244d93a999",
+      "frameCount": 305,
+      "frameInterval": 0.0083333,
+      "title": "Forward inversion onto both hands",
+      "actionDescription": "The performer sets the arms, kicks into a near-vertical hand-supported position, then brings the feet back down and stands.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "forward inversion",
+        " hand support",
+        " handstand"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "90_10",
       "sourceUUID": "ED475B50-C47A-52C1-AAF6-202647FB955F",
       "sourceDescription": "90_10.amc",
@@ -17,6 +153,176 @@
         "bent knees",
         "arms raised",
         "two frames"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_11",
+      "sourceUUID": "8FB6C870-5723-533C-B0E9-4E5671C3F6D3",
+      "sourceDescription": "hand spring",
+      "sourceSHA256": "8b623a18d9b51abda39e3ee981ec8b3508c0cf6c47ac7f105181efc09020e17d",
+      "frameCount": 180,
+      "frameInterval": 0.0083333,
+      "title": "Handspring into a step-out",
+      "actionDescription": "The performer enters quickly, passes through a split-leg inversion on both hands, springs back to the feet, and steadies with the arms open.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "handspring",
+        " split legs",
+        " step-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_12",
+      "sourceUUID": "A966AA65-3A02-52D5-9409-EEBC4E4F6C3E",
+      "sourceDescription": "bck flp twst fall",
+      "sourceSHA256": "114bdf331efd05415ebf60bd2b6abfe91a14677db581330ff4684b4ca2807ea3",
+      "frameCount": 826,
+      "frameInterval": 0.0083333,
+      "title": "Twisting backflip ending flat on the back",
+      "actionDescription": "The performer raises both arms, jumps into a twisting backward turnover, drops onto the back, and stays down.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "twisting backflip",
+        " back fall",
+        " supine finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_13",
+      "sourceUUID": "49D11F9E-63B0-576A-B91D-47859B539212",
+      "sourceDescription": "bck flp twst fall",
+      "sourceSHA256": "1ec649c05d3b5914d73e068d3928f9042415e363f2a203e4965c5e8ca0e5e5a0",
+      "frameCount": 929,
+      "frameInterval": 0.0083333,
+      "title": "Twisting backflip with a sideways floor recovery",
+      "actionDescription": "The performer raises the arms, arches and rotates backward in the air, then lands on the floor and shifts through several low positions.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "twisting backflip",
+        " fall",
+        " floor recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_14",
+      "sourceUUID": "BFA3E43B-296D-54F3-8405-F7367A35A9C0",
+      "sourceDescription": "front hand flip",
+      "sourceSHA256": "70a649bf582b53cc3089bf344683cb731f59f3f850c730be38069eb3e7e65190",
+      "frameCount": 838,
+      "frameInterval": 0.0083333,
+      "title": "Forward handspring into an overhead finish",
+      "actionDescription": "The performer raises both arms, folds forward onto the hands, comes back onto the feet with bent knees, and holds both arms overhead.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "front handspring",
+        " overhead finish",
+        " bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_15",
+      "sourceUUID": "C3B61B70-0868-5A96-85D8-E16597606C80",
+      "sourceDescription": "front hand flip",
+      "sourceSHA256": "d58a19450e18c8a4f3384d67db26457db818bbc3b826b0a4abbf0920b4605de8",
+      "frameCount": 1189,
+      "frameInterval": 0.0083333,
+      "title": "Forward handspring and walk away",
+      "actionDescription": "The performer holds both arms overhead, turns over through a two-hand support, lands with the arms raised again, and steps away at the end.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "front handspring",
+        " hand support",
+        " walk away"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_16",
+      "sourceUUID": "48E99ADD-B303-5534-AE6D-16F922133AE3",
+      "sourceDescription": "fall on face",
+      "sourceSHA256": "ebc45afc7082ae62c361275599ba3182ce2380de2386cfdd564447410766e6d9",
+      "frameCount": 724,
+      "frameInterval": 0.0083333,
+      "title": "Forward fall to a prone hold",
+      "actionDescription": "The performer crouches, pitches forward with the body extended, descends toward the floor, and remains face down.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "forward fall",
+        " prone finish",
+        " face-first fall"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_17",
+      "sourceUUID": "E09F17A8-3382-5C31-84B2-E50096F17010",
+      "sourceDescription": "BannanaPeelSlip",
+      "sourceSHA256": "749a60f2458e64a8c440195cf2d79ed0ea5c6dcceab066b34465f7007b03a15c",
+      "frameCount": 605,
+      "frameInterval": 0.0083333,
+      "title": "Slip backward with legs in the air",
+      "actionDescription": "The performer walks into a slip, flings the arms out and falls backward with both feet swinging up. The source labels it a banana-peel slip.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "slip",
+        " backward fall",
+        " banana peel"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_18",
+      "sourceUUID": "CA666271-1B82-505D-B3A9-869780EB55E8",
+      "sourceDescription": "RugPullFall",
+      "sourceSHA256": "32a6bcf85820af466fb141f7e05a7131fbb7d0b76a4f7d407379c6f9457cac10",
+      "frameCount": 394,
+      "frameInterval": 0.0083333,
+      "title": "Sudden fall onto the back",
+      "actionDescription": "The performer drops abruptly from standing, passes through a seated position with the legs out, and rolls flat on the back. The source calls it a rug-pull fall.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "rug pull",
+        " backward fall",
+        " supine finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_19",
+      "sourceUUID": "5BA7D12F-F854-5F33-A5FD-C669B0ED1CD0",
+      "sourceDescription": "monkey backflip",
+      "sourceSHA256": "8e0bb1f76c58c8c513dae6e1626894663412d07a2c588dea253925c10bd6b02b",
+      "frameCount": 1040,
+      "frameInterval": 0.0083333,
+      "title": "Monkey-style backflip and low balance",
+      "actionDescription": "The performer lowers toward all fours, turns backward through a hand-supported position, and ends low with one leg extended. The source calls it a monkey backflip.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "monkey movement",
+        " backflip",
+        " floor balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_20",
+      "sourceUUID": "DFBE4F84-48D6-51D5-9779-332390110DC6",
+      "sourceDescription": "monkey sequence",
+      "sourceSHA256": "2ed1bdb9fc4855040fd3ef4cc3a6d794a62ca1817ece1aafc378406e9d6e7112",
+      "frameCount": 1779,
+      "frameInterval": 0.0083333,
+      "title": "Monkey-style floor sequence with a jump",
+      "actionDescription": "The performer folds close to the floor and alternates low hand-supported travel with a wide jump and raised arms, ending in a compact floor pose.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "monkey movement",
+        " floor travel",
+        " wide jump"
       ],
       "reviewStatus": "described"
     }
