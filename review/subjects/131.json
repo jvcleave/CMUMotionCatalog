@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "subject": "131",
+  "takes": [
+    {
+      "takeID": "131_01",
+      "sourceUUID": "BC4C6F34-B37A-557E-894D-EDBFC5772913",
+      "sourceDescription": "Start Walk Stop",
+      "sourceSHA256": "e47227654ec5d4d909ddcf6d42adf9bce70a41a35a54e66d83f413c69c350a9c",
+      "frameCount": 994,
+      "frameInterval": 0.0083333,
+      "title": "Walking starts and stops with raised-arm accents",
+      "actionDescription": "The performer repeatedly starts into high stepping, checks the motion, and settles in a wide stance with one arm extended diagonally.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk start",
+        " walk stop",
+        " raised arm"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_02",
+      "sourceUUID": "C682B4E5-0B33-5F8A-A579-266B34E159DE",
+      "sourceDescription": "Start Walk Stop",
+      "sourceSHA256": "dedf418163eba0e747310caf07ed7b65a534b5d6744459271b4882f754af6911",
+      "frameCount": 1247,
+      "frameInterval": 0.0083333,
+      "title": "Repeated short walking starts and stops",
+      "actionDescription": "The performer alternates small walking starts with pauses, adds a high knee near the end, then braces wide with an arm overhead.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk start",
+        " walk stop",
+        " high knee"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_03",
+      "sourceUUID": "B9198A9F-B4F3-5E91-8552-CE4372D51A71",
+      "sourceDescription": "Start Hop Stop",
+      "sourceSHA256": "2256ffdeb87fba50b8edfd58545d87b52534c71fa98a74e97c91c636f1b46402",
+      "frameCount": 1102,
+      "frameInterval": 0.0083333,
+      "title": "Repeated high-knee hops into a stop",
+      "actionDescription": "The performer alternates raised-knee hops and quick resets, then stops with a wide foot plant and one arm diagonally upward.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "high-knee hop",
+        " repeated hop",
+        " wide stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_04",
+      "sourceUUID": "D892F8A2-5060-55DF-8854-6B766D8C202F",
+      "sourceDescription": "Start Hop Stop",
+      "sourceSHA256": "0bd928f1a7a7f8b3386e5522f83c2b9ff1b92a163bfb884a14036b05fdce1b0a",
+      "frameCount": 1086,
+      "frameInterval": 0.0083333,
+      "title": "Hopping starts into a held wide stance",
+      "actionDescription": "The performer repeats high-knee starts and small hopping steps, then holds a wide stance with one arm extended.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        " high knee",
+        " held finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_05",
+      "sourceUUID": "7F7D9BC1-11F2-5270-AFA6-44E8FE44320F",
+      "sourceDescription": "Start Duck Underneath Stop",
+      "sourceSHA256": "cbf7b5b379a0953ed7a85855a07bc5100cac2b81535403f35d4ff83da61d00f0",
+      "frameCount": 1264,
+      "frameInterval": 0.0083333,
+      "title": "Step off, duck low, and stop",
+      "actionDescription": "The performer takes raised steps, bends forward with the knees flexed beneath an implied obstacle, then opens into a wide stance with one arm out.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "duck under",
+        " wide stop",
+        " forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_06",
+      "sourceUUID": "83682223-4577-58E9-A188-87C03C846E1F",
+      "sourceDescription": "Start Duck Underneath Stop",
+      "sourceSHA256": "d9eb2df2b8467499bcef2bfc459a3f1cbca22f358a5a9e652fca912b75586373",
+      "frameCount": 1184,
+      "frameInterval": 0.0083333,
+      "title": "Duck-under steps into a diagonal-arm stop",
+      "actionDescription": "The performer steps forward and lowers through the hips for several ducked steps, then straightens into a wide one-arm finish.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "duck under",
+        " low steps",
+        " diagonal arm"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_07",
+      "sourceUUID": "AA460CBE-7083-5234-84CB-933E81B2461F",
+      "sourceDescription": "Jump Stop",
+      "sourceSHA256": "fb02dff546f222b1782be7d41aa91a482ba0ce6eb7edca5d9d60fc30b9b35bc6",
+      "frameCount": 691,
+      "frameInterval": 0.0083333,
+      "title": "Open-arm jump into a wide stop",
+      "actionDescription": "The performer crouches, springs up with both arms open, then takes quick landing steps and freezes with one arm extended diagonally.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " open arms",
+        " wide stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_08",
+      "sourceUUID": "C12812F1-D6C9-514C-8EAB-3FC2DF4D59E2",
+      "sourceDescription": "Jump Stop",
+      "sourceSHA256": "f38a7d170ad06b7d64cc95e5a72393eccf8a32a51f936b243391f42abf7139e0",
+      "frameCount": 784,
+      "frameInterval": 0.0083333,
+      "title": "Traveling jump with an extended leg",
+      "actionDescription": "The performer jumps with both arms open and one leg extended, collects the landing with several steps, then takes a wide stop pose.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "traveling jump",
+        " leg extension",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_09",
+      "sourceUUID": "B9C6B62A-98AE-56C7-A455-D2A85F0199DB",
+      "sourceDescription": "Start Walk Left",
+      "sourceSHA256": "d4afb8a71cf4278113bbfddcbc1d3b385efb76cdaa99fb4b8bce8d7049796bc4",
+      "frameCount": 2293,
+      "frameInterval": 0.0083333,
+      "title": "Repeated leftward walking starts",
+      "actionDescription": "The performer repeatedly starts with a raised knee and turns left into short walks, then stops with one arm lifted diagonally.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left start",
+        " high knee",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_10",
+      "sourceUUID": "0A3842EA-52BD-5507-A80D-D12A5C8A7CA2",
+      "sourceDescription": "Start Walk Left",
+      "sourceSHA256": "a1771f0b3ac06bd11d59a4b7a0cbe3f60e569e791f78280ce23b6bd1537284ab",
+      "frameCount": 1777,
+      "frameInterval": 0.0083333,
+      "title": "Left walking starts with arm accents",
+      "actionDescription": "The performer practices leftward step-offs with short knee lifts and bent-arm accents, ending in a wide stance with one arm out.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left start",
+        " high knee",
+        " arm accent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_11",
+      "sourceUUID": "66D2AE88-EAB0-500F-BAFD-70563F9C8871",
+      "sourceDescription": "Start Walk Left",
+      "sourceSHA256": "9a02f2cffe29871d28fd2f0d97a4570d5d7915d16578e5aa176dbf03649a309f",
+      "frameCount": 1168,
+      "frameInterval": 0.0083333,
+      "title": "Left walking starts with an outward leg reach",
+      "actionDescription": "The performer extends one leg outward and cycles through leftward starts and resets before holding the final raised-arm stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left start",
+        " leg reach",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_12",
+      "sourceUUID": "5F01DEB2-3AAF-5F33-9C55-77A0B99C0756",
+      "sourceDescription": "Start Walk Right",
+      "sourceSHA256": "452948c2699f259cc30553f5e241d1442cabc5e4f2ac69b8938268d3cfdc1975",
+      "frameCount": 767,
+      "frameInterval": 0.0083333,
+      "title": "Rightward walking start with crossing steps",
+      "actionDescription": "The performer crosses the feet into a rightward start, changes facing through several steps, then plants wide and extends one arm.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right start",
+        " crossing steps",
+        " wide stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_13",
+      "sourceUUID": "DABD1F1A-F91E-5BD5-9627-5C85C35D4BAB",
+      "sourceDescription": "Start Walk Right",
+      "sourceSHA256": "494c34d171ca4864b84e44cb4ae713f9dae1498318b6fe2ef0184e8ebcafd542",
+      "frameCount": 1316,
+      "frameInterval": 0.0083333,
+      "title": "Rightward step-offs with a high knee",
+      "actionDescription": "The performer starts rightward several times, raising or extending one leg during the setup, and finishes with a small hand gesture.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right start",
+        " high knee",
+        " repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "131_14",
+      "sourceUUID": "E898944B-8869-5A6B-8FE2-520C5ACDF5DB",
+      "sourceDescription": "Start Walk Right",
+      "sourceSHA256": "37d7eb09b2fac5112a84b8d6a88d1aad4cf052abf274521dbe17c3cafd4e19ca",
+      "frameCount": 1932,
+      "frameInterval": 0.0083333,
+      "title": "Repeated right starts with a wide finish",
+      "actionDescription": "The performer alternates high-knee starts and turning steps to the right, then stops with one arm reaching diagonally.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right start",
+        " turning steps",
+        " diagonal arm"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
