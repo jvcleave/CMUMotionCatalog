@@ -1366,6 +1366,96 @@
         "washing"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_91",
+      "sourceUUID": "89B55F3E-1C36-5CDD-BFD0-81A1493E67B2",
+      "sourceDescription": "football",
+      "sourceSHA256": "4f4cf048cf9ebed3079484b6278d1e658e94894052ea848a8d938b826e4f52b6",
+      "frameCount": 498,
+      "frameInterval": 0.0083333,
+      "title": "Football throw mime",
+      "actionDescription": "Brings the hands together, draws one arm back near the head and throws forward, following through before relaxing.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "football throw"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_92",
+      "sourceUUID": "668DE6BF-CA0E-5785-8338-D367FA2892B5",
+      "sourceDescription": "frisbee",
+      "sourceSHA256": "a822f9a6cb7bc78b5c2295ee96a10081190db18c64202edee0ae5df87f023e29",
+      "frameCount": 638,
+      "frameInterval": 0.0083333,
+      "title": "Frisbee mime",
+      "actionDescription": "Bends and sweeps one arm outward and upward in repeated throwing gestures, then lowers the arms.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "frisbee"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_93",
+      "sourceUUID": "E49C6D83-3482-5051-988E-ABC05FFAC703",
+      "sourceDescription": "weight lifting",
+      "sourceSHA256": "362d6677c12ad1250871323f1e8ad29898c5283f206f87541b9b97a6f6c357e7",
+      "frameCount": 1138,
+      "frameInterval": 0.0083333,
+      "title": "Weightlifting mime",
+      "actionDescription": "Raises both bent arms from shoulder height overhead repeatedly, then lowers them.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "weightlifting"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_94",
+      "sourceUUID": "FB6A4F67-44C8-51CF-8EF4-4A60278FA9D0",
+      "sourceDescription": "flexing",
+      "sourceSHA256": "8c5491728c26807396027a9521d867a082a028aa456bb90087c46c737004d982",
+      "frameCount": 935,
+      "frameInterval": 0.0083333,
+      "title": "Flexing mime",
+      "actionDescription": "Raises and extends the arms, turns and shifts the torso through several poses, then relaxes.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "flexing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_95",
+      "sourceUUID": "9460A768-431E-5AB7-B0C7-B5EB61DCAE17",
+      "sourceDescription": "rowing",
+      "sourceSHA256": "a1b1a7b90bdaab7ab948da12a10a2c84562f8c6af94c1f501431d5687bb55e7d",
+      "frameCount": 945,
+      "frameInterval": 0.0083333,
+      "title": "Rowing mime",
+      "actionDescription": "Repeatedly reaches forward and pulls both arms back toward the chest while shifting the torso.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "rowing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_96",
+      "sourceUUID": "6F20F7EA-F113-577A-9533-9D0952820555",
+      "sourceDescription": "shooting a gun",
+      "sourceSHA256": "e2313880dda264137f9e592777149e09de438ec24a87d9bc936756c622511fee",
+      "frameCount": 559,
+      "frameInterval": 0.0083333,
+      "title": "Shoot a gun mime",
+      "actionDescription": "Raises the hands to the face and extends them forward as if aiming a gun, holds the pose, then lowers the arms.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "shoot a gun"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
