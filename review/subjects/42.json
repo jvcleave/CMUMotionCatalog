@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "subject": "42",
+  "takes": [
+    {
+      "takeID": "42_01",
+      "sourceUUID": "A60F126D-1E1F-5488-936A-35050840330B",
+      "sourceDescription": "stretch - rotate head, shoulders, arms, legs",
+      "sourceSHA256": "a4782bb573a09bf5aa1797d416b4ec96df70b46e71287d95e9586158b79f4b82",
+      "frameCount": 1134,
+      "frameInterval": 0.0083333,
+      "title": "Stretch the Upper Body and Lift Each Leg",
+      "actionDescription": "The performer starts with small head and shoulder motions, opens the arms, then raises each leg in turn while balancing. The take ends upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "stretch",
+        "shoulder rotation",
+        "leg lift",
+        "balance"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
