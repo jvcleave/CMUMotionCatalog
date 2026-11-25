@@ -19,6 +19,7 @@ let categories = new Map();
 let takesByID = new Map();
 let page = 0;
 let activeTake;
+let detailOpener;
 let playing = false;
 let stopCardPreview;
 let skeletonRequest;
@@ -113,6 +114,7 @@ function syncDetail() {
   stopCardPreview?.();
   hideSkeletonPreview();
   activeTake = take;
+  detailOpener = undefined;
   toggle3D.hidden = !take.motion;
   playing = false;
   byID("detail-id").textContent = take.id;
@@ -163,7 +165,6 @@ function cardFor(take) {
   detailLink.append(image, copy);
 
   const button = document.createElement("button");
-  button.className = "card-preview";
   button.type = "button";
   button.setAttribute("aria-label", "Quick preview for " + take.id);
   button.setAttribute("aria-pressed", "false");
@@ -186,7 +187,24 @@ function cardFor(take) {
     stopCardPreview = stop;
   });
 
-  card.append(detailLink, button);
+  const actions = document.createElement("div");
+  actions.className = "card-actions";
+  actions.append(button);
+  if (take.motion) {
+    const preview3D = document.createElement("button");
+    preview3D.type = "button";
+    preview3D.textContent = "3D Preview";
+    preview3D.setAttribute("aria-label", "3D Preview for " + take.id);
+    preview3D.setAttribute("aria-haspopup", "dialog");
+    preview3D.addEventListener("click", () => {
+      location.hash = take.id;
+      syncDetail();
+      detailOpener = preview3D;
+      toggleSkeletonPreview();
+    });
+    actions.append(preview3D);
+  }
+  card.append(detailLink, actions);
   return card;
 }
 
@@ -256,6 +274,8 @@ async function initialize() {
     }
     activeTake = undefined;
     preview.removeAttribute("src");
+    if (detailOpener?.isConnected) detailOpener.focus();
+    detailOpener = undefined;
   });
   play.addEventListener("click", () => {
     playing = !playing;
