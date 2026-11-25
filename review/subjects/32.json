@@ -156,6 +156,40 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "32_11",
+      "sourceUUID": "037C7FFE-C874-515C-874C-92AB82010EE4",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "eab4cd119d97d5feba0859938150f5a2870aa1d40ee640b8f97633ce0dc021c5",
+      "frameCount": 14684,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Hand-to-Head Gestures with Side Leans",
+      "actionDescription": "The performer starts upright, repeatedly brings one hand near the head, opens the arms, and reaches up while leaning. Both arms lower before the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "long take",
+        "hand near head",
+        "side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_12",
+      "sourceUUID": "5C76CE9B-F52A-5DA5-9AF5-DD5F4E3F0C90",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "20d17c08a331a8fecaa754b34b8fe1737d49ae4f3df0e7d2fc5b0e38ee5932fd",
+      "frameCount": 14704,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Overhead Reaches and Compact Gestures",
+      "actionDescription": "The performer lifts both arms overhead, alternates with one-handed reaches and gestures near the chest, and finishes standing with one hand drawn in.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "long take",
+        "overhead reach",
+        "chest height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "32_13",
       "sourceUUID": "56CD819C-5BEB-5B3E-9793-35708810162D",
       "sourceDescription": "prairie dog (human subject)",
@@ -169,6 +203,159 @@
         "animal mime",
         "prairie dog",
         "knee bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_14",
+      "sourceUUID": "9EBE73ED-B00C-51EC-AC0F-CB0723F7BCFA",
+      "sourceDescription": "bear (human subject)",
+      "sourceSHA256": "d83b338580a7f34b9e3c94d5b8a41dc52de18b96557e28a891bf68447292aae9",
+      "frameCount": 2667,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Bear with Alternating High Arm Sweeps",
+      "actionDescription": "The performer opens the arms, repeatedly lifts one forearm and leans sideways, then returns to an upright stance with the arms lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "bear",
+        "side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_15",
+      "sourceUUID": "CD859B93-4AB4-5DA4-BE88-33688B284E53",
+      "sourceDescription": "dog (human subject)",
+      "sourceSHA256": "7779db4d4a9d41e9401ffe26c19bf11a7218275ad869b007ffefbfa096738f8e",
+      "frameCount": 3627,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dog with Repeated Forward Dips",
+      "actionDescription": "The performer bends and straightens repeatedly with the elbows close and hands near the torso, then finishes upright with arms down.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "dog",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_16",
+      "sourceUUID": "2A8970B6-0715-58DD-A70D-5F6253101449",
+      "sourceDescription": "cat (human subject)",
+      "sourceSHA256": "3f7b4586acf9695c12823ce8b5b4a672e66529f02653bc215db4669b8c9d3997",
+      "frameCount": 4390,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Cat with Side Leans and Face-Level Reaches",
+      "actionDescription": "The performer brings a hand near the head, alternates side bends and forward reaches, and finishes with a hand raised near the head.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "cat",
+        "hand near head"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_17",
+      "sourceUUID": "6DAC5825-F343-535D-AFA5-9E039B740262",
+      "sourceDescription": "elephant (human subject)",
+      "sourceSHA256": "f696025a484109070aa9c31c01ddb8962ed8e3eb85e5b4cb16d1726ac7b6517c",
+      "frameCount": 3312,
+      "frameInterval": 0.0083333,
+      "title": "Mime an Elephant with Low and Overhead Reaches",
+      "actionDescription": "The performer alternates deep forward leans with both hands stretched out and upright overhead lifts. They finish upright with the arms drawn in.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "elephant",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_18",
+      "sourceUUID": "27FAA945-6958-59C5-8938-13DB8475BC74",
+      "sourceDescription": "mouse (human subject)",
+      "sourceSHA256": "1d65cb7483e9c41ac87f55904d42833a886506d4005960627e708a5b09053ae0",
+      "frameCount": 3032,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Mouse with Small Forward Bows",
+      "actionDescription": "The performer repeats compact hand gestures near the chest while leaning forward, then straightens and lowers the arms near the sides.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "mouse",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_19",
+      "sourceUUID": "DE8293B6-9935-5D34-80F1-9E8CBF25E4D0",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "cb5aabd6bfff014c3668a787c04a4a4ba4407f31583ecae783ef51af2e58c73c",
+      "frameCount": 2311,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Elbows Out and Knee Dips",
+      "actionDescription": "The performer keeps the elbows away from the torso while shifting weight and making shallow knee bends. They finish upright with one hand raised.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "elbows out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_20",
+      "sourceUUID": "9DCD7DC8-BDFD-5C16-B9E3-71F15A100B8E",
+      "sourceDescription": "Tyrannosaurus rex (human subject)",
+      "sourceSHA256": "14fa42adc22521d639959c5a2778f7f5e82873e95fec7a27828f0c72cb30f0e5",
+      "frameCount": 3555,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dinosaur with Raised Forearms and a Deep Fold",
+      "actionDescription": "The performer alternates forward and raised-arm gestures, bends sharply toward the floor, then returns to standing with one hand near the face.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "dinosaur",
+        "forward fold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_21",
+      "sourceUUID": "AFA99521-1078-57AA-A86C-5DCF01BA80AE",
+      "sourceDescription": "snake (human subject)",
+      "sourceSHA256": "aba1f63137e6f10f90c8ad123bba4b30db134eaf7637d431dd53240428219255",
+      "frameCount": 2038,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Snake with Forward Folds and an Overhead Arc",
+      "actionDescription": "The performer opens bent forward, alternates low folds with an overhead reach, and finishes upright with the arms lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "snake",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_22",
+      "sourceUUID": "A4596DAB-F86A-5944-8164-2470AAF60F41",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "018957a7f46dc2a3f47e36aaf0dafbd87925462c95c212822d4020f0cd919d57",
+      "frameCount": 2847,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with Alternating Arm Lifts and Side Bends",
+      "actionDescription": "The performer repeatedly leans to one side and lifts an arm beside or above the head. The take ends upright with both arms down.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "side bend"
       ],
       "reviewStatus": "described"
     }
