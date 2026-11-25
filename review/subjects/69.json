@@ -332,6 +332,176 @@
         "right"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_21",
+      "sourceUUID": "A2DB5E82-3740-5BAC-8930-3FEB36F48E02",
+      "sourceDescription": "walk forward 90 degree right turn",
+      "sourceSHA256": "f071874f4b77fc8de46b91086fcefb33e12d34afc7c1db3d1a894e01fbc062d1",
+      "frameCount": 608,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "Walks forward, turns right, continues in the new direction, and comes to a stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_22",
+      "sourceUUID": "4A3A55B3-8341-5502-B424-FC22B13536A8",
+      "sourceDescription": "walk forward 90 degree right turn",
+      "sourceSHA256": "a91ec486e193d1f37bb31c863e074d01922dd753dcb59fa984a58fbe794edea4",
+      "frameCount": 497,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "Walks forward and turns right, taking several more steps before stopping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_23",
+      "sourceUUID": "E141F75A-5913-5D83-86C9-656DBFBA3C23",
+      "sourceDescription": "walk forward 90 degree right turn",
+      "sourceSHA256": "f8703319b529a181c2a633171bf9fa39870af0db18e72bb98ff20adcbe6efc24",
+      "frameCount": 560,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "Walks forward, turns right, and continues stepping in the new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_24",
+      "sourceUUID": "A7C6501D-DCF5-5E0B-A08E-7784ECCAB19A",
+      "sourceDescription": "walk forward 90 degree left turn",
+      "sourceSHA256": "2d458760199178370f6f34b949659d7daf458b2801abc7041597aa968ddc1046",
+      "frameCount": 427,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "Walks forward, turns left, and continues walking through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_25",
+      "sourceUUID": "5419A1DF-764C-57E7-AEE5-604D0EC88AC0",
+      "sourceDescription": "walk forward 90 degree left turn",
+      "sourceSHA256": "5bbe5cc6f5df00af5e1015478ffa3ca2734928ca62f82afa2d045cf04fc79bc7",
+      "frameCount": 463,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "Walks forward, makes a left turn, and continues in the new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_26",
+      "sourceUUID": "75525375-124C-56EC-91D2-0847420820F0",
+      "sourceDescription": "walk forward 90 degree left turn",
+      "sourceSHA256": "f9e29e71a8822dac0113af230f0893bc2daf53c31a2b704f0c46e821d551a592",
+      "frameCount": 427,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "Walks forward and turns left while continuing to step.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_27",
+      "sourceUUID": "AB4976EB-70F6-5651-B6B4-12AADD6BBB1F",
+      "sourceDescription": "walk forward 90 degree left turn",
+      "sourceSHA256": "e3067cfead795d851a03682c553c7eec6efc4dea46039caafc30f6520cee3857",
+      "frameCount": 424,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn left",
+      "actionDescription": "Takes forward steps, turns left, and continues walking in the new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_28",
+      "sourceUUID": "E691813D-774C-5D4C-879C-50EDAC5DFC1B",
+      "sourceDescription": "walk forward 90 degree smooth right turn",
+      "sourceSHA256": "728ac30f1ce256aacc8f0846c4d539cdacbb570bbb735db1c3ef216a7b7c4e96",
+      "frameCount": 464,
+      "frameInterval": 0.0083333,
+      "title": "Walk with smooth right turn",
+      "actionDescription": "Walks forward through a smooth right turn and continues stepping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_29",
+      "sourceUUID": "72C6FF80-1BC1-5306-AA37-5519E435DE6A",
+      "sourceDescription": "walk forward 90 degree smooth right turn",
+      "sourceSHA256": "a5a0b1d51d5438c45c80d9ed1903fdebe053236b307118056b8e1ef6333d1550",
+      "frameCount": 391,
+      "frameInterval": 0.0083333,
+      "title": "Walk with smooth right turn",
+      "actionDescription": "Walks through a right turn without stopping and continues in the new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_30",
+      "sourceUUID": "2DDD6557-CC93-5897-A74D-4E03E7C448C3",
+      "sourceDescription": "walk forward 90 degree smooth right turn",
+      "sourceSHA256": "1292ddde8cf42d3955488dd3ee97b256b6b25d13867f8f466076c1b1d8759478",
+      "frameCount": 389,
+      "frameInterval": 0.0083333,
+      "title": "Walk with smooth right turn",
+      "actionDescription": "Steps forward into a smooth right turn and keeps walking.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
