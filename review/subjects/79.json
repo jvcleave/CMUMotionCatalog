@@ -462,6 +462,156 @@
         "push a swing"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_31",
+      "sourceUUID": "8EEFA194-43B7-57A9-A15B-2165CC600EFD",
+      "sourceDescription": "writing on a chalkboard",
+      "sourceSHA256": "2f2add69fe58ac29828419ce2f733c28f81e610a3fcf0eae9a6c298583a2c9eb",
+      "frameCount": 578,
+      "frameInterval": 0.0083333,
+      "title": "Write on a chalkboard mime",
+      "actionDescription": "Raises one hand and makes small writing motions at head height, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "write on a chalkboard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_32",
+      "sourceUUID": "D5A7A6DC-D541-58D0-9CCD-50EC88D34F35",
+      "sourceDescription": "writing on a chalkboard",
+      "sourceSHA256": "9c352e774b2f18b57361c7a1a183256080771109accc6d90ebd35330ec9c5fa7",
+      "frameCount": 964,
+      "frameInterval": 0.0083333,
+      "title": "Write on a chalkboard mime",
+      "actionDescription": "Raises one hand and traces repeated marks at head height, briefly shifts the other arm, then lowers both.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "write on a chalkboard"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_33",
+      "sourceUUID": "103495C2-0F2E-59F0-839F-771771937009",
+      "sourceDescription": "chug a beer",
+      "sourceSHA256": "ef5246d52c3cb97f31ad3a41b5a042d406b69f0d0353a0453707165ace5f2b74",
+      "frameCount": 581,
+      "frameInterval": 0.0083333,
+      "title": "Chug a beer mime",
+      "actionDescription": "Raises one hand to the mouth, tips the head back as if drinking, then lowers the hand.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "chug a beer"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_34",
+      "sourceUUID": "6394558E-3970-5DD3-903C-FBBFE9E0A987",
+      "sourceDescription": "fishing",
+      "sourceSHA256": "3344f2bffe646626ebbae680a60b39f49f14d1509578b1c495d528b34ac28fbc",
+      "frameCount": 748,
+      "frameInterval": 0.0083333,
+      "title": "Fishing mime",
+      "actionDescription": "Raises both hands as if casting, then makes small reeling motions in front of the chest and lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "fishing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_35",
+      "sourceUUID": "857533B3-D7A8-517E-83F4-A6BB2621D121",
+      "sourceDescription": "fishing",
+      "sourceSHA256": "35a2f08a6569582fb8ef3e55d09fbffc6c8592413a48cb8b751afea450133007",
+      "frameCount": 1194,
+      "frameInterval": 0.0083333,
+      "title": "Fishing mime",
+      "actionDescription": "Raises an arm and casts, then works both hands in front of the chest as if reeling before relaxing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "fishing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_36",
+      "sourceUUID": "4A203FB4-4D47-5E28-B22D-BC9975919D28",
+      "sourceDescription": "answering the phone",
+      "sourceSHA256": "b723e28a1c622496030027a38452287b5c8f5c362ad37c9fe5d32f5b968560bf",
+      "frameCount": 518,
+      "frameInterval": 0.0083333,
+      "title": "Answer a phone mime",
+      "actionDescription": "Reaches out, brings a hand to the ear, holds it there, then extends and lowers the hand.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "answer a phone"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_37",
+      "sourceUUID": "12258838-3507-5052-8887-2AE04790EBF4",
+      "sourceDescription": "dialing phone",
+      "sourceSHA256": "306f2d06fba453029ef8facc5f205382fe4813cab356d6dd1b620c4b486f17d6",
+      "frameCount": 602,
+      "frameInterval": 0.0083333,
+      "title": "Dial a phone mime",
+      "actionDescription": "Works the hands together near the chest as if dialing, lifts one hand to the ear, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "dial a phone"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_38",
+      "sourceUUID": "9DDCFC72-D51E-5D3D-8FD9-E38E86351779",
+      "sourceDescription": "drinking water",
+      "sourceSHA256": "ba49954cb42ff35be0589f7f1d459717e6aad1cb886ed0f1ca4db30d68a47a6d",
+      "frameCount": 541,
+      "frameInterval": 0.0083333,
+      "title": "Drink water mime",
+      "actionDescription": "Raises a hand to the mouth, tilts the head back to drink, and lowers the hand.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drink water"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_39",
+      "sourceUUID": "65DFC9FD-F542-56BB-94A3-B5169D4EEF35",
+      "sourceDescription": "sipping martinee",
+      "sourceSHA256": "364438b5c46756d893889fe6594b5391a4442b8fb9183c69de72236fe82c8b00",
+      "frameCount": 808,
+      "frameInterval": 0.0083333,
+      "title": "Sip a martini mime",
+      "actionDescription": "Brings a hand to the mouth for repeated sips, lowering and raising it between them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sip a martini"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_40",
+      "sourceUUID": "63317622-1B4F-5C34-A02A-1795F1EAD306",
+      "sourceDescription": "drinking a soda",
+      "sourceSHA256": "504503d2e87e16c439a141516e588756ba784e569c68935dc0f66a383f8eae64",
+      "frameCount": 866,
+      "frameInterval": 0.0083333,
+      "title": "Drink a soda mime",
+      "actionDescription": "Works both hands near the waist, raises one to the mouth as if drinking, and lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drink a soda"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
