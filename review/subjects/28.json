@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "subject": "28",
+  "takes": [
+    {
+      "takeID": "28_01",
+      "sourceUUID": "6A710C3A-A8A5-529C-B509-C7B66A090393",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "02daf552d61e1e8d5bbe476b9435b5421490da899798ef27c38a4d7f9a35cae9",
+      "frameCount": 3205,
+      "frameInterval": 0.0083333,
+      "title": "Basketball signals in profile",
+      "actionDescription": "After an initial arms-out frame, the performer stands side-on and alternates chest-level, forward and overhead arm signals with pauses, ending standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "standing",
+        "hand signals"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 48 all-zero captured frames. First usable motion is recorded at source frame 49.",
+      "firstUsableFrame": 49
+    },
+    {
+      "takeID": "28_02",
+      "sourceUUID": "9FA3C475-4F05-5553-A128-C08FF640F138",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "04abd0e8de96f4e9b38b176784164383a95186ef21633b34216cc39d27da17de",
+      "frameCount": 2136,
+      "frameInterval": 0.0083333,
+      "title": "I'm a Little Teapot gestures",
+      "actionDescription": "The performer starts standing and acts out the rhyme with hands near the chest and hips, raised arms, a deep sideways bend and a return to standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "teapot",
+        "pantomime",
+        "side bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_03",
+      "sourceUUID": "D1D36FFC-9C3C-5A0A-9F0A-BE05B9569C1F",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "8e3f03dae803012aadee1980ee41496e8829a1a258021984ae2c87fbc2b001aa",
+      "frameCount": 3772,
+      "frameInterval": 0.0083333,
+      "title": "Alaskan vacation pantomime",
+      "actionDescription": "The performer starts standing and performs a sequence of wide arm sweeps, raised hands, head-level gestures and reaches, then lowers the arms and finishes upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "Alaskan vacation",
+        "pantomime",
+        "arm gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_04",
+      "sourceUUID": "6A8EB393-F859-59B1-B59F-5BD78EC65BAA",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "31ec11e0e96f2d6e44638dd5f782ff76eb19b5aa44436342ba4657830544d5d9",
+      "frameCount": 7898,
+      "frameInterval": 0.0083333,
+      "title": "Cock Robin rhyme gestures",
+      "actionDescription": "The performer starts with a hand raised and performs a long series of chest and head-level gestures, overhead reaches and forward bends, finishing with hands near the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "Cock Robin",
+        "nursery rhyme",
+        "pantomime",
+        "gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_05",
+      "sourceUUID": "06F73C14-3198-5C81-B02B-97E23582A891",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "3073cc5a9c29c805b85c98313474fe3804935feac24f8a16d7234e39bb367ae1",
+      "frameCount": 3243,
+      "frameInterval": 0.0083333,
+      "title": "Basketball signals with wide stance",
+      "actionDescription": "The performer starts in a wide stance with arms crossed in front, alternates chest-level, outward and overhead signals with pauses, then finishes standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "hand signals",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_06",
+      "sourceUUID": "BEEF27DC-DBE2-5A0B-B94A-970A6E05E790",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "22c0cec7e393d2de5cd7913953ec44c2b9cfcbcebe4ffbd5e1632e876e9c3b2c",
+      "frameCount": 2213,
+      "frameInterval": 0.0083333,
+      "title": "I'm a Little Teapot gestures and bend",
+      "actionDescription": "The performer starts with arms open, gestures around the head and chest, lifts the arms, bends sideways, and returns upright with hands near the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "teapot",
+        "pantomime",
+        "side bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_08",
+      "sourceUUID": "75BC6DA4-A762-5E9D-9865-66CDB71B6F41",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "9cc725fabf5c25052ee403eabc81a24263ffa0f7f76fcdb1ebf3c6ccd3610ced",
+      "frameCount": 7940,
+      "frameInterval": 0.0083333,
+      "title": "Cock Robin rhyme pantomime",
+      "actionDescription": "The performer starts with hands near the face, performs a long sequence of sweeping, head-level and overhead gestures with occasional bends, and finishes with hands together near the chest.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "Cock Robin",
+        "nursery rhyme",
+        "pantomime",
+        "gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_09",
+      "sourceUUID": "B084C8CF-2407-5E02-A44E-0C6FBE02041C",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "92787bb3078a4af2a9bc7d6a081db05170fd03d24290596d334839d30d77f4b8",
+      "frameCount": 1713,
+      "frameInterval": 0.0083333,
+      "title": "Prairie dog pantomime",
+      "actionDescription": "The performer starts standing with hands near the chest, repeatedly crouches low and rises with hands held close, ending in another knee bend.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "prairie dog",
+        "animal pantomime",
+        "crouch",
+        "rise"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "28_10",
+      "sourceUUID": "9A092825-54D5-5A2B-893F-A46D6B3D52B1",
+      "sourceDescription": "whale (human subject)",
+      "sourceSHA256": "1af01850249008809ff337edf1ae6c0fac3a6c00e035d140c0bf53e1cb73e889",
+      "frameCount": 2075,
+      "frameInterval": 0.0083333,
+      "title": "Whale pantomime",
+      "actionDescription": "The performer starts standing, repeatedly folds forward with hands near the hips or thighs and rises, finishing in a forward lean.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "whale",
+        "animal pantomime",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
