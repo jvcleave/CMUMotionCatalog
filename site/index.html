@@ -74,7 +74,13 @@
       </div>
     </div>
     <input id="tag-search" type="search" aria-label="Find tags" placeholder="Find tags" autocomplete="off">
-    <p id="tag-results" role="status"></p>
+    <div class="tag-filter-summary">
+      <fieldset id="tag-match" aria-label="How to match selected tags">
+        <label><input id="tag-match-all" type="radio" name="tag-match" value="all" checked> Match all</label>
+        <label><input id="tag-match-any" type="radio" name="tag-match" value="any"> Match any</label>
+      </fieldset>
+      <p id="tag-results" role="status"></p>
+    </div>
     <div class="tag-options" id="tag-options"></div>
     <p id="no-tags" hidden>No tags match.</p>
   </dialog>

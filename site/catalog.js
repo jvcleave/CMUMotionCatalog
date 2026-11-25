@@ -9,6 +9,7 @@ const tagFilter = byID("tag-filter");
 const tagDialog = byID("tag-dialog");
 const tagSearch = byID("tag-search");
 const tagList = byID("tag-options");
+const matchAnyTags = byID("tag-match-any");
 const clearTags = byID("clear-tags");
 const availableTags = new Map();
 const selectedTags = new Set();
@@ -263,7 +264,11 @@ function render() {
   stopCardPreview?.();
   const category = categories.get(categorySelect.value);
   const tags = [...selectedTags];
-  const matches = takesMatchingFilters().filter((take) => tags.every((tag) => take.tagKeys.has(tag)));
+  const filteredTakes = takesMatchingFilters();
+  const matchAny = matchAnyTags.checked;
+  const matches = tags.length === 0 ? filteredTakes : filteredTakes.filter((take) =>
+    matchAny ? tags.some((tag) => take.tagKeys.has(tag)) : tags.every((tag) => take.tagKeys.has(tag))
+  );
   const count = matches.length;
   const pageSize = pageSizeSelect.value === "all" ? Math.max(1, count) : Number(pageSizeSelect.value);
   const pages = Math.ceil(count / pageSize);
@@ -314,6 +319,7 @@ async function initialize() {
   tagFilter.addEventListener("click", openTagFilter);
   byID("close-tags").addEventListener("click", () => tagDialog.close());
   tagSearch.addEventListener("input", renderTagOptions);
+  byID("tag-match").addEventListener("change", updateTagSelection);
   tagList.addEventListener("click", (event) => {
     const button = event.target.closest("button[data-tag]");
     if (!button) return;
