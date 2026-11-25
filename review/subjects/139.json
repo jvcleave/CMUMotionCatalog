@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "subject": "139",
+  "takes": [
+    {
+      "takeID": "139_01",
+      "sourceUUID": "E8134CDA-002B-55F0-8A6C-DA8D11FA4C3E",
+      "sourceDescription": "Looking Around",
+      "sourceSHA256": "12ac3c51f3c5d3411c7a31c1f53789579723a843c00679541521d07a8be85949",
+      "frameCount": 1090,
+      "frameInterval": 0.0083333,
+      "title": "Crouched looking around",
+      "actionDescription": "Lowers into a crouch, shifts and turns the head and torso while looking around, and remains low at the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "crouch",
+        "look around"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_02",
+      "sourceUUID": "A6407022-8346-5608-B34C-ADB9DE25436C",
+      "sourceDescription": "Shifting Weight",
+      "sourceSHA256": "d6eef8f4ab182bef1bb5db0c46cbec0261b81a63ce1720b8a19777b7e79887a9",
+      "frameCount": 937,
+      "frameInterval": 0.0083333,
+      "title": "Standing with weight shifts",
+      "actionDescription": "Stands with arms down, subtly shifts weight, and moves the head.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "stand",
+        "weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_03",
+      "sourceUUID": "E45DC5B4-8783-565B-BBF5-9596B4948547",
+      "sourceDescription": "Looking Around",
+      "sourceSHA256": "c639c5515f8b0c976ee760ff8854cee51598f14eeb1b8cacfe42c0d01885ef83",
+      "frameCount": 984,
+      "frameInterval": 0.0083333,
+      "title": "Cautious ready stance",
+      "actionDescription": "Widens the stance and bends the knees, holding the hands low in front while shifting weight.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "ready stance",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_04",
+      "sourceUUID": "C5E5BFB7-810F-5352-B009-BEA13A2386EE",
+      "sourceDescription": "Looking Around",
+      "sourceSHA256": "7d93254818acbc4926875eb313437f2b561ddab4f8f6490e14011948dfc58b7f",
+      "frameCount": 883,
+      "frameInterval": 0.0083333,
+      "title": "Look around in a ready stance",
+      "actionDescription": "Shifts and turns in a bent-knee stance, looking from side to side with hands held low.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "look around",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_05",
+      "sourceUUID": "7B99D8B6-6428-5753-B1F4-57520D9D4D38",
+      "sourceDescription": "Pulling a Gun",
+      "sourceSHA256": "767a9a7937c8b7631197d68316e92447246f726bf8050394311c167f87516d29",
+      "frameCount": 511,
+      "frameInterval": 0.0083333,
+      "title": "Raise a hand toward the face and look around",
+      "actionDescription": "Holds a bent-knee stance, lifts one hand toward the face, looks around, then lowers it.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "hand raise",
+        "searching gesture",
+        "bent knees"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "This take is labeled Pulling a Gun. Its byte-identical match 77_05 is labeled as a flashlight search. The performer raises a hand toward the face, so the object and intended action need a second look."
+    },
+    {
+      "takeID": "139_06",
+      "sourceUUID": "8B5172E2-3467-5A34-80E7-6646CCC602DD",
+      "sourceDescription": "Poking Around On The Ground",
+      "sourceSHA256": "177c0be505af13e40d787a948e19e85dc38b9d51d562ab7a29923072d50ecea8",
+      "frameCount": 1352,
+      "frameInterval": 0.0083333,
+      "title": "Search the ground",
+      "actionDescription": "Crouches low, leans and reaches toward the ground in several directions, then rises.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "search",
+        "ground",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_07",
+      "sourceUUID": "3D36B392-8DB7-50AE-9A8D-C76885DC72F0",
+      "sourceDescription": "Poking Around On The Ground",
+      "sourceSHA256": "a03bcee056563ff6765304c7ee250af7146a84b5efb602d72abf03f58cafb3ef",
+      "frameCount": 505,
+      "frameInterval": 0.0083333,
+      "title": "Poke the ground",
+      "actionDescription": "Crouches and makes small downward reaching motions toward the ground, then rises to stand.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "poke",
+        "ground",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_08",
+      "sourceUUID": "F61DE066-71A9-5EA2-994A-C2A1581BE264",
+      "sourceDescription": "Poking Around On The Ground",
+      "sourceSHA256": "d7868a2679bb4c6fa4f22a8e30b582f829535f7326d1e30d5ef2322e3810aac9",
+      "frameCount": 1008,
+      "frameInterval": 0.0083333,
+      "title": "Investigate the ground",
+      "actionDescription": "Crouches and leans repeatedly, reaching toward the ground with the hands, then rises.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "investigate",
+        "ground",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_09",
+      "sourceUUID": "C37C2933-B35B-5F9F-B84E-F316F60C7571",
+      "sourceDescription": "Ducking",
+      "sourceSHA256": "6e71a29196ca8de2260287b6e5c815bcc8800235afa85ee2fed42e7ed8fdfca3",
+      "frameCount": 988,
+      "frameInterval": 0.0083333,
+      "title": "Duck twice",
+      "actionDescription": "Drops into a deep crouch with the torso folded forward, rises, then ducks again before standing.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "duck",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_10",
+      "sourceUUID": "6FCA9060-26D3-5259-B8E7-11637E2AC959",
+      "sourceDescription": "Run",
+      "sourceSHA256": "6662bd2269da1e8416d5df1852a3b30146229db4afc4fb38110c8d61629aed05",
+      "frameCount": 690,
+      "frameInterval": 0.0083333,
+      "title": "Cautious run",
+      "actionDescription": "Moves in low, bent-knee running steps, turns, and lifts the arms toward the head near the end.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "cautious",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_11",
+      "sourceUUID": "1057E782-D6F3-5EE8-A4FE-75B4C051BDE6",
+      "sourceDescription": "Run To Sneak",
+      "sourceSHA256": "d27fc38525bdb633d087313a045426b59dfab4315648d40e8a9f1a45dd45cccb",
+      "frameCount": 320,
+      "frameInterval": 0.0083333,
+      "title": "Short cautious run",
+      "actionDescription": "The performer starts standing, runs a few quick steps, then slows into a bent-knee ready stance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_12",
+      "sourceUUID": "A33EFFD5-F49C-53EA-9086-2CAE7A5D9DC6",
+      "sourceDescription": "Run in Circles",
+      "sourceSHA256": "c2faa180e04f3e3e065de29d673b5fcb37780a1c6c1583b61adea11639503530",
+      "frameCount": 978,
+      "frameInterval": 0.0083333,
+      "title": "Cautious run in a circle",
+      "actionDescription": "Runs along a curving path with bent arms, slows and comes to a stand.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "circle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_13",
+      "sourceUUID": "485F74EF-7226-5F5A-8043-BB63EDE8E156",
+      "sourceDescription": "Run in Circles",
+      "sourceSHA256": "90768329492e7f83e9354cac4a21c2a79b0c00af54988232c64d477b96435cae",
+      "frameCount": 1387,
+      "frameInterval": 0.0083333,
+      "title": "Cautious run in a figure eight",
+      "actionDescription": "Runs along a changing curved path, leaning into turns, then slows to a stand.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "figure eight"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_14",
+      "sourceUUID": "4457D1D5-71E6-5818-B258-E00147D4A404",
+      "sourceDescription": "Sneak Sideways",
+      "sourceSHA256": "52edb8ed5e6e51d7eda5df39caadca0e316001e7c5d6b261cecf96466eac11ee",
+      "frameCount": 990,
+      "frameInterval": 0.0083333,
+      "title": "Cautious creeping",
+      "actionDescription": "Moves in small bent-knee steps with the torso leaning forward and hands held low.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "creep",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_15",
+      "sourceUUID": "619DF2A5-6462-58D0-9B29-FA5B89BBDBB7",
+      "sourceDescription": "Sneak Sideways",
+      "sourceSHA256": "ec07b8c4c8831a70dcc661ce63c83476aeebb43094d5cd1c81fa382d9b6aa1dd",
+      "frameCount": 1078,
+      "frameInterval": 0.0083333,
+      "title": "Cautious creeping",
+      "actionDescription": "Takes small careful steps in a low stance, shifting side to side with hands forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "creep",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_16",
+      "sourceUUID": "994EF70A-3AB3-5E50-9181-DCFA12E9C4B4",
+      "sourceDescription": "Get Up From Ground",
+      "sourceSHA256": "ed3b10df446bc12caa2666f625f1fdb190f63b12c0caae9daaddfa7748fb135e",
+      "frameCount": 653,
+      "frameInterval": 0.0083333,
+      "title": "Rise from floor to ready stance",
+      "actionDescription": "The performer starts lying on the floor, pushes up through hands and feet into a squat, then rises into a wide ready stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "floor",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_17",
+      "sourceUUID": "9DF84EE7-3105-5B34-914B-23BE61B908A9",
+      "sourceDescription": "Get Up From Ground",
+      "sourceSHA256": "daa113458112ea6cd9e33ddf85c4d7cf89af5105c981ed9f913d014ec789a727",
+      "frameCount": 719,
+      "frameInterval": 0.0083333,
+      "title": "Rise from floor to ready stance",
+      "actionDescription": "Pushes up from lying on the floor, brings the feet under the body, and rises into a wide bent-knee stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "floor",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_18",
+      "sourceUUID": "A0CEF874-94C3-56DA-AFCD-129EEE9DF58F",
+      "sourceDescription": "Get Up From Ground Laying on Back",
+      "sourceSHA256": "32bda531c094690b86e7aad23312a2e839afe2a621452d2bab2c99fdbe2a553d",
+      "frameCount": 854,
+      "frameInterval": 0.0083333,
+      "title": "Rise from back to ready stance",
+      "actionDescription": "The performer starts lying on the back, curls up to sitting, plants the hands and feet, then rises into a cautious bent-knee stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "lying on back",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_19",
+      "sourceUUID": "63316707-909D-5E32-BC7E-842108D2979E",
+      "sourceDescription": "Walk Wounded Leg",
+      "sourceSHA256": "a207c66613bbd1651ed23c0a6d21788d0a43a1f716f53da94016d7d2a3826470",
+      "frameCount": 1000,
+      "frameInterval": 0.0083333,
+      "title": "Limp with hands near leg",
+      "actionDescription": "Moves in low uneven steps, leaning forward and holding hands near the right leg, then bends farther over it.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_20",
+      "sourceUUID": "AFCAF179-A8B5-5CB6-A2A0-ED7F6E9F6093",
+      "sourceDescription": "Walk Wounded Leg",
+      "sourceSHA256": "84d66c93e09861e2f94fdbbaddf7960bc760223feab43732fbfe09cb69ef46b7",
+      "frameCount": 1570,
+      "frameInterval": 0.0083333,
+      "title": "Limp with bent posture",
+      "actionDescription": "Moves with uneven bent-knee steps, holds hands near the leg and bends forward before straightening.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_21",
+      "sourceUUID": "BA180316-B6EE-55D9-8430-A29810FA6158",
+      "sourceDescription": "Range Of Motion",
+      "sourceSHA256": "65d37c539be7dca4fa8eeb0064b648150940cf4828f887be5dab2dbe561cac42",
+      "frameCount": 1310,
+      "frameInterval": 0.0083333,
+      "title": "Stretch and squat",
+      "actionDescription": "Lifts a knee and leg with arms spread for balance, opens both arms wide, drops into a deep squat and rises.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "stretch",
+        "squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_22",
+      "sourceUUID": "F8F404C8-607E-5BC1-B37C-C8A1C569642C",
+      "sourceDescription": "Walk Wounded Leg",
+      "sourceSHA256": "32fa332ab0accc4b08d3407a033fb3804d3eab7d2986669e02811a53e657a430",
+      "frameCount": 1425,
+      "frameInterval": 0.0083333,
+      "title": "Limp with bent posture",
+      "actionDescription": "Moves in uneven bent-knee steps, leaning forward and holding hands near the right leg, then stands.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_23",
+      "sourceUUID": "18E6A2B6-510C-5657-BF81-3A852EA8F0D7",
+      "sourceDescription": "Walk Wounded Leg",
+      "sourceSHA256": "98b87efa9ba508a6de5b50a0f208e39fc15203c6dfbeacded5741ad87db493f6",
+      "frameCount": 1592,
+      "frameInterval": 0.0083333,
+      "title": "Limp with hands near leg",
+      "actionDescription": "Leans forward, keeps hands near the right leg, and moves through uneven crouched steps and turns.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_24",
+      "sourceUUID": "8AFBB6CB-7FEB-5C45-9B51-AD7DDF24C06C",
+      "sourceDescription": "Walk Wounded Leg",
+      "sourceSHA256": "b5d1c781d8961f6df9071b24ad32dce6530cb91ceb22e5e9acbfcd3a01386f13",
+      "frameCount": 716,
+      "frameInterval": 0.0083333,
+      "title": "Short limp and recovery",
+      "actionDescription": "Bends forward with hands near the right leg, makes several uneven low steps, then straightens.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_25",
+      "sourceUUID": "08BB2CA5-3FD2-553D-889C-1FAD6DE575C2",
+      "sourceDescription": "Giving Directions",
+      "sourceSHA256": "913edf36c461c7011afe42e190b4884ead885b1ceb7fb461aa4f63272039fad7",
+      "frameCount": 663,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Lowers into a crouch, steps carefully and extends an arm, then brings a hand to the brow as if looking.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_26",
+      "sourceUUID": "117C10C1-1198-5C38-BD0D-065834D1B040",
+      "sourceDescription": "Looking Around",
+      "sourceSHA256": "f108d5f8b268e01e3e9891de014d4158e40f3a50a590a0f3bedc7e91ea7b135c",
+      "frameCount": 651,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Crouches and moves in small steps, repeatedly lifting a hand to the brow to look around before rising.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_27",
+      "sourceUUID": "50AEE2EA-629D-50E0-A678-1E2346B206FF",
+      "sourceDescription": "Looking Around",
+      "sourceSHA256": "90cb573f41df69f59330fe95b438026f4f01bf563fdec32d31527137e9a65544",
+      "frameCount": 727,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Steps and turns in a low stance, lifts a hand near the face to look, then straightens.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_28",
+      "sourceUUID": "EC1A4D34-E981-5B08-BC7D-98909C0F9A73",
+      "sourceDescription": "Walking",
+      "sourceSHA256": "33518938c33f34c188c0e0e937b28f33db50033222ae6967f2b90d9d16625984",
+      "frameCount": 2970,
+      "frameInterval": 0.0083333,
+      "title": "Careful walk with turns",
+      "actionDescription": "Walks slowly in small steps, repeatedly changing direction while keeping arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_29",
+      "sourceUUID": "F03094F7-35BC-5A07-A00F-A827CB10D096",
+      "sourceDescription": "Sneaking",
+      "sourceSHA256": "cc9890bed61e690fc80e4d6663d049037ce7526f9200079415de04834fe6a10f",
+      "frameCount": 2104,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Lowers the torso and takes slow bent-knee steps, turning before standing upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_30",
+      "sourceUUID": "14F8E5E5-CDEE-5AE7-8888-762270848A75",
+      "sourceDescription": "Walking",
+      "sourceSHA256": "8fa587d5a6758d0d4a818b3da0073855b048f43503e873fdafeb495b4cf83ae5",
+      "frameCount": 1261,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Walks in cautious small steps with bent knees and a forward lean, turning as the sequence continues.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_31",
+      "sourceUUID": "D0CB64FE-B076-50E8-A3ED-BD007037434A",
+      "sourceDescription": "Sneaking",
+      "sourceSHA256": "c70d1898c752d7ecd032c2e0f1f6272ae00eab13fda064d25c91f56e5bee7ef6",
+      "frameCount": 2106,
+      "frameInterval": 0.0083333,
+      "title": "Silent creeping walk",
+      "actionDescription": "Leans forward and walks in small bent-knee steps, turning and continuing in a low stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_32",
+      "sourceUUID": "75CDC089-7BD4-594E-B1BD-65112985D47B",
+      "sourceDescription": "Sneaking",
+      "sourceSHA256": "aceb66ecff1c5f46c02ef01866b5522541d93567ba54b9e021bad881c58c9931",
+      "frameCount": 1894,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Moves cautiously in a low, forward-leaning stance, taking small steps and turning before rising.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_33",
+      "sourceUUID": "1D6941D5-C6D2-5BD1-AF94-B046AE47F757",
+      "sourceDescription": "Sneaking",
+      "sourceSHA256": "c33e4cc8c56c2a887a05a662a68875808efce7019c5aa11827b71fe4591d2cc5",
+      "frameCount": 2997,
+      "frameInterval": 0.0083333,
+      "title": "Creeping with a limp",
+      "actionDescription": "Moves with uneven, bent-knee steps and a forward lean, turning and continuing to creep.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep",
+        "limp"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "139_34",
+      "sourceUUID": "7A7642D1-69F2-50A6-AADB-FEB22C149971",
+      "sourceDescription": "Sneaking",
+      "sourceSHA256": "300f0d4da1349220634d77f490b58a65c845e103796b79b79261eff09c23aa17",
+      "frameCount": 1122,
+      "frameInterval": 0.0083333,
+      "title": "Creep and pause",
+      "actionDescription": "Takes slow bent-knee steps, pauses in the low stance, then resumes creeping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "creep"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
