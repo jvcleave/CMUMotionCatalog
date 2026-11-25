@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "subject": "55",
+  "takes": [
+    {
+      "takeID": "55_01",
+      "sourceUUID": "01A1E590-7E04-5966-AF35-29C02AAEE813",
+      "sourceDescription": "dance, whirl",
+      "sourceSHA256": "e04e3de8a87d04fd50ae861dec6e6eab8d52c2f16e55e1e11e3f42b60b8786d6",
+      "frameCount": 1806,
+      "frameInterval": 0.0083333,
+      "title": "Dance with Repeated Turns and Alternating High Reaches",
+      "actionDescription": "The performer steps and turns repeatedly, extending one arm upward while the other sweeps across or outward. They finish with the knees bent and one hand still raised.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "turns",
+        "alternating arms",
+        "high reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_02",
+      "sourceUUID": "DBC89705-F173-5CC5-A9AF-8A10C680B695",
+      "sourceDescription": "lambada dance",
+      "sourceSHA256": "4584fc44ca56839e559c262eb9c33b196ed7d261f2969939da1dfd54d395589c",
+      "frameCount": 2180,
+      "frameInterval": 0.0083333,
+      "title": "Dance Lambada Steps with a Raised Hand",
+      "actionDescription": "The performer repeats narrow side-to-side steps with bent knees and one hand near the head. The final step carries the weight outward with both forearms still lifted.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "lambada",
+        "side steps",
+        "hand near head"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_03",
+      "sourceUUID": "A08753E3-E30E-5775-864F-2145542DEF62",
+      "sourceDescription": "genie (human subject)",
+      "sourceSHA256": "93847c513be15dc81d98c6de7c961988c00c257aa8bd5b1d55a02508fb085377",
+      "frameCount": 4530,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Genie with Broad Arm Sweeps and Bows",
+      "actionDescription": "The performer opens both arms, alternates raised elbows and wide reaches, and folds forward several times. They finish upright with the hands lifted beside the shoulders.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "genie mime",
+        "arm sweeps",
+        "forward bow"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_04",
+      "sourceUUID": "2BBBDCCC-FEB5-5B21-8BC2-C8F5C1B076F6",
+      "sourceDescription": "walk",
+      "sourceSHA256": "7fe42de4732e99c7685eba09307f01cccc98b68af7a16d3430edeb2b6b630c5c",
+      "frameCount": 530,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts in a narrow stance, takes even forward steps with relaxed arm swings, and continues through the final frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_05",
+      "sourceUUID": "16A18758-7980-5AEE-A059-138AABA7E210",
+      "sourceDescription": "hummingbird (human subject)",
+      "sourceSHA256": "a40ad3a70acfca33af84a3f899011f28a609c154548221b79683579e1b805801",
+      "frameCount": 2812,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Hummingbird with Compact Elbow Motions",
+      "actionDescription": "The performer holds the elbows away from the torso and repeats compact forearm motions with small weight shifts. They lower the arms to finish.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "hummingbird",
+        "elbows out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_08",
+      "sourceUUID": "8F43347B-097E-571C-9CA7-1B01CAE1F178",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "fb7cc133ee5e90b753d2fac43b157922ce218ae19ce43c81d0685671f00065c0",
+      "frameCount": 5340,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with Wide Steps and Low Reaches",
+      "actionDescription": "The performer makes repeated wide, bent-knee steps, alternating downward reaches and a hand near the head. They rise into a wide stance at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "wide steps"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
