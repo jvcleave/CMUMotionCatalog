@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "subject": "88",
+  "takes": [
+    {
+      "takeID": "88_01",
+      "sourceUUID": "B9756E4D-46A4-539B-BEDF-2F10936349B6",
+      "sourceDescription": "backflip",
+      "sourceSHA256": "7216c2e78f2e2a082f22262120c9cd1c91550eed8cfdba4a44cdfa5e4c0eb186",
+      "frameCount": 202,
+      "frameInterval": 0.0083333,
+      "title": "Standing tucked backflip",
+      "actionDescription": "The performer swings the arms back and crouches, tucks tightly through a backward flip, and lands bent forward before standing.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "backflip",
+        " tuck",
+        " standing takeoff"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_02",
+      "sourceUUID": "8EF68328-504B-58BF-B7B1-1815EB0841A2",
+      "sourceDescription": "backflips, jump onto platform, handstands, vertical pushups",
+      "sourceSHA256": "db8d6fa627e5594da394a9340577833eb1b82885fb908799a45591f55af7f687",
+      "frameCount": 3328,
+      "frameInterval": 0.0083333,
+      "title": "Backflips and handstand push-ups",
+      "actionDescription": "The performer alternates standing resets and jumps with backward flips and upright handstands. The source identifies a platform jump and vertical push-ups in the sequence.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "backflip",
+        " platform jump",
+        " handstand push-up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_03",
+      "sourceUUID": "6B1170A3-5D09-51FB-9704-6B4BD3DC862F",
+      "sourceDescription": "motorcycle pose",
+      "sourceSHA256": "c8233b09b5e6d949fac8fe49ac12d2e1828c0b01bcf6cf6c37ee8a45b1242f28",
+      "frameCount": 354,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle stance with arms forward",
+      "actionDescription": "The performer holds a staggered, slightly bent-knee stance with both arms extended forward at shoulder height, as if reaching for handlebars.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " handlebars",
+        " staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_04",
+      "sourceUUID": "F6507853-0855-5C8A-BB6F-3C7BE75E8EF0",
+      "sourceDescription": "stretches, cartwheels, flips, spin kicks, spins, and fall",
+      "sourceSHA256": "31270d91aa40b5ae71552605519e5797d086470e50f0d1e285da967a86c9f664",
+      "frameCount": 1240,
+      "frameInterval": 0.0083333,
+      "title": "Acrobatics sequence ending in a fall",
+      "actionDescription": "The performer moves through lunges, turns, flips, and spinning kicks, drops backward to a sitting position, and rises again.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "spin kick",
+        " flip",
+        " seated fall"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_05",
+      "sourceUUID": "1049C53A-75DD-50AC-9B9B-3B1126DC9A8F",
+      "sourceDescription": "cartwheel into backflip",
+      "sourceSHA256": "759e65060349c2145d30c1109f45e04f73f005e1fb1b790702af40178a38ad6a",
+      "frameCount": 149,
+      "frameInterval": 0.0083333,
+      "title": "Cartwheel straight into a backflip",
+      "actionDescription": "The take starts in a cartwheel-like turnover. The performer comes onto the feet, immediately jumps into a tucked backflip, and lands in a crouch.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " backflip",
+        " connected tumbling"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_06",
+      "sourceUUID": "85DCDC67-25CD-51B1-A75E-B2DBEFBB6884",
+      "sourceDescription": "jump and spin kick",
+      "sourceSHA256": "ffb8132848778af3c6d20c6e5d7f0878b92eca5240c534c9a97cb1190eb65f98",
+      "frameCount": 230,
+      "frameInterval": 0.0083333,
+      "title": "Jumping spin kick",
+      "actionDescription": "The performer winds up, jumps and turns with one leg extended sideways and the other bent, then lands and takes small recovery steps.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "jumping kick",
+        " spin kick",
+        " aerial kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_07",
+      "sourceUUID": "3734F8DE-4277-5D3F-80CF-454A6BC262F4",
+      "sourceDescription": "cartwheel",
+      "sourceSHA256": "24620b7a47cddc622d69254fe6fefa901411a32e49cd5c119e893b26b86803cd",
+      "frameCount": 156,
+      "frameInterval": 0.0083333,
+      "title": "Wide-leg cartwheel",
+      "actionDescription": "The performer leans sideways, sweeps the legs overhead in a wide split, and lands one foot at a time before lifting both arms.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " split legs",
+        " side inversion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_08",
+      "sourceUUID": "9AD804B5-717B-5517-A138-8D8CA617C649",
+      "sourceDescription": "crouch and flip backward on hands",
+      "sourceSHA256": "c09ca52ae671d90f5c3086f7a5841e6a73dc8e07731a98e127171da1fb19c693",
+      "frameCount": 289,
+      "frameInterval": 0.0083333,
+      "title": "Crouch into a back handspring",
+      "actionDescription": "The performer dips into a crouch, springs backward onto both hands with the legs overhead, then returns to the feet and straightens.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "back handspring",
+        " crouch",
+        " two-hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_09",
+      "sourceUUID": "803C1850-44BB-5048-BEE1-319C0C98094F",
+      "sourceDescription": "stretch and cartwheel",
+      "sourceSHA256": "184fc431ba4fd1e50bd0032fd865abb68bd74131b1bd973c3aa31138c63cc326",
+      "frameCount": 376,
+      "frameInterval": 0.0083333,
+      "title": "Low stretch into an inversion",
+      "actionDescription": "The performer steps into a low bend with one arm lifted, kicks the legs overhead through a hand-supported turnover, and steps out of the landing.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "stretch",
+        " cartwheel",
+        " inversion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_10",
+      "sourceUUID": "7E148EAC-D990-503E-BD92-6CDB0D76C7EB",
+      "sourceDescription": "stretch and spin",
+      "sourceSHA256": "1f64fe100952555cadace38960d5bf7cd61060cea0eac667e21c88ac1abfc0da",
+      "frameCount": 467,
+      "frameInterval": 0.0083333,
+      "title": "Open-arm stretch and spin",
+      "actionDescription": "The performer opens both arms, steps through an upright turn with crossing feet, and settles with the hands near the waist.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "upright spin",
+        " open arms",
+        " cross step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "88_11",
+      "sourceUUID": "3DFD3425-5002-53DD-AA04-07B79484ACF8",
+      "sourceDescription": "stretches and jumps",
+      "sourceSHA256": "a1bb781576a21fe09114358d65f8e8d53b607cd389313a33cc0732935d5d2193",
+      "frameCount": 2027,
+      "frameInterval": 0.0083333,
+      "title": "Stretch and repeat jumps",
+      "actionDescription": "The performer bends and reaches toward the floor, then springs up repeatedly with changing arm positions and steps out at the end.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "repeated jumps",
+        " overhead reach",
+        " forward bend"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
