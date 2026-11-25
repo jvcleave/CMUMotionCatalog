@@ -1012,6 +1012,176 @@
         "sideways"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_61",
+      "sourceUUID": "7451490B-FDCA-5056-BAC6-1368404DDB0E",
+      "sourceDescription": "walk sideways and turn",
+      "sourceSHA256": "3ceb6b1857d74edb415ca24d66f7387b6db07bbec2b8c9543dd509403b5f129a",
+      "frameCount": 631,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn",
+      "actionDescription": "Takes lateral steps, turns, and continues stepping with arms down.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_62",
+      "sourceUUID": "FDFCC15A-5923-5A5A-918C-8D5A21CD67B8",
+      "sourceDescription": "walk sideways and turn (opposite direction)",
+      "sourceSHA256": "8865e902defaf173d8334e42d128c7c6f153ec6d27d66b18f091fef153307cad",
+      "frameCount": 656,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn, opposite direction",
+      "actionDescription": "Steps sideways, turns to a new facing, then continues stepping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_63",
+      "sourceUUID": "97BA9411-EA82-55AB-A320-32238858AE3F",
+      "sourceDescription": "walk sideways and turn (opposite direction)",
+      "sourceSHA256": "876685d50153d1338d31a6e1cd3b320f92010b5d3a78e8c4016f437fcf0de197",
+      "frameCount": 545,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn, opposite direction",
+      "actionDescription": "Takes several sideways steps, turns, and continues with small steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_64",
+      "sourceUUID": "0043D8DF-0E39-5651-85D2-E267361CB8B4",
+      "sourceDescription": "walk sideways and turn (opposite direction)",
+      "sourceSHA256": "e2ecc9b4ed888bc6da854d7e114029d5f1b0c457d1d26bdd0990915df358886c",
+      "frameCount": 550,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn, opposite direction",
+      "actionDescription": "Alternates lateral steps, turns, and continues stepping in a new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_65",
+      "sourceUUID": "B7F41DA9-CB58-5085-82D8-EDACEB1167B9",
+      "sourceDescription": "walk sideways and turn",
+      "sourceSHA256": "66f17eb87a251e1c5e0d1984c0b3ce610de70e6a72e311986afc501be92f805a",
+      "frameCount": 665,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn",
+      "actionDescription": "Steps sideways and turns, continuing with short steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_66",
+      "sourceUUID": "5523B3B9-45C4-5D7D-9476-74BC354C461E",
+      "sourceDescription": "walk sideways and turn",
+      "sourceSHA256": "59537bce8adb141a7becc6f9900d4b7566382067b0d2869cdfc78adcb288e17b",
+      "frameCount": 583,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn",
+      "actionDescription": "Takes sideways steps, turns, and continues stepping with arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_67",
+      "sourceUUID": "D2BC0A7D-2F00-51F5-A4AB-C864F2F62075",
+      "sourceDescription": "walk sideways and turn",
+      "sourceSHA256": "6ab1084d8ade9f49fdaf78587445c485cf81ffffb18734255d29149276be8519",
+      "frameCount": 636,
+      "frameInterval": 0.0083333,
+      "title": "Side steps and turn",
+      "actionDescription": "Steps laterally, turns, and continues taking short steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_68",
+      "sourceUUID": "0BBABEBD-F6C8-56B9-BDAA-18F448738C33",
+      "sourceDescription": "walk forward and pick up object, set down object",
+      "sourceSHA256": "4ca664afc3023d4e39741f6847cf99fa89046821b8e927f4285bbb1993c7bdfc",
+      "frameCount": 824,
+      "frameInterval": 0.0083333,
+      "title": "Pick up and set down",
+      "actionDescription": "Walks forward, crouches and reaches down, rises with hands together, then bends to set down an implied object and straightens.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "object"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_69",
+      "sourceUUID": "65160CEE-7B34-5443-83C5-77EB29EF45B4",
+      "sourceDescription": "walk forward and pick up object, carry back object",
+      "sourceSHA256": "bd90a1d3e88da9ccbacc974fa92a9f6c7d0bcc697202819812e39134a450169e",
+      "frameCount": 801,
+      "frameInterval": 0.0083333,
+      "title": "Pick up and carry back",
+      "actionDescription": "Walks forward, bends to reach down, rises with hands together, turns, and walks back holding an implied object.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "object"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_70",
+      "sourceUUID": "EE693054-43BC-542E-847C-424FD18B29D8",
+      "sourceDescription": "walk up to object, squat, pick up object, set down in another place.",
+      "sourceSHA256": "fac827b41e02faeaa68ed6b24b6470e00db22be252805d9b3724c0cc97cfffb5",
+      "frameCount": 1044,
+      "frameInterval": 0.0083333,
+      "title": "Squat, carry and set down",
+      "actionDescription": "Walks forward, squats and reaches down, rises with hands together, walks away, then squats again and stands.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "walk",
+        "pick up",
+        "object"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
