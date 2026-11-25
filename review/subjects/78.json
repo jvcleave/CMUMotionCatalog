@@ -333,6 +333,165 @@
         "right"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_21",
+      "sourceUUID": "BE035308-70E0-5325-A9DA-A81CE0DC02B6",
+      "sourceDescription": "FeintRightMoveLeft      CleanedGRS",
+      "sourceSHA256": "761e135f22fa428962a7e57f63ac03caf33443493bf26fff9e4952c084e2d4fd",
+      "frameCount": 226,
+      "frameInterval": 0.0083333,
+      "title": "Feint right and move left",
+      "actionDescription": "Raises the hands, shifts right into a wide stance, then pushes off left into quick steps.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "feint"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_22",
+      "sourceUUID": "D26BFB50-C1B5-5B2D-9917-C523B82923FF",
+      "sourceDescription": "FakeShotBreakRight     CleanedGRs",
+      "sourceSHA256": "0e5d11f2802851d75f15b1590d3d33bfaab2808e5ae16706f466b8e8b6ddff1e",
+      "frameCount": 606,
+      "frameInterval": 0.0083333,
+      "title": "Fake shot and break right",
+      "actionDescription": "Raises both hands above the head as if shooting, lowers them, then pushes off and runs right.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "fake shot",
+        "break"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_23",
+      "sourceUUID": "01921942-F34E-59D6-B32C-A91B6648D94A",
+      "sourceDescription": "FakeShotBreakLeft            CleanedGRS",
+      "sourceSHA256": "e2d03f09172680803241c15ce59a78f0f2e786f2b0b9218fb3bc2d87155625d6",
+      "frameCount": 519,
+      "frameInterval": 0.0083333,
+      "title": "Fake shot and break left",
+      "actionDescription": "Raises both hands as if shooting, brings them down, then pushes off and runs left.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "fake shot",
+        "break"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_24",
+      "sourceUUID": "5803BE77-63C7-5489-A66E-A5BEE37C30F8",
+      "sourceDescription": "DefensiveStraightNoStop          CleanedGRS",
+      "sourceSHA256": "95b5e412ce55e1d729233ac2f1d0f265cfefee083c1d2dfd99bddef490bdf853",
+      "frameCount": 246,
+      "frameInterval": 0.0083333,
+      "title": "Defensive move straight",
+      "actionDescription": "Drops into a low stance and advances with an arm extended, continuing to step through the end.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_25",
+      "sourceUUID": "4950353A-B6E5-572D-BC87-A5CAC20E565D",
+      "sourceDescription": "DefensiveStraightWithStop          CleanedGRS",
+      "sourceSHA256": "cc4a64b95041ad4c697a85cb33002f3444ac9b4decaf66bbfe28db7a335c9a42",
+      "frameCount": 356,
+      "frameInterval": 0.0083333,
+      "title": "Defensive move straight with stop",
+      "actionDescription": "Lowers into a defensive crouch, advances with an arm extended, then stops low and rises slightly.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_26",
+      "sourceUUID": "EC77D569-2625-512A-8F33-7F9858717F05",
+      "sourceDescription": "DefensiveRightStopToStop           CleanedGRS",
+      "sourceSHA256": "810fcba67fbf159bd98ac19335662345d1fd75e82f4ee4b1bc13381d2746bd7c",
+      "frameCount": 326,
+      "frameInterval": 0.0083333,
+      "title": "Defensive move right and stop",
+      "actionDescription": "Drops low, steps right with an arm out and settles into a crouched stop.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_27",
+      "sourceUUID": "3F7CFFBA-65D6-5ACC-B016-60F1E50069DD",
+      "sourceDescription": "DefensiveLeftStopToStop              CleanedGRS",
+      "sourceSHA256": "86d5a52ed2d6b520ddd38a76c962e39d66045f56d2d6bf352bc943485d23d9b8",
+      "frameCount": 296,
+      "frameInterval": 0.0083333,
+      "title": "Defensive move left and stop",
+      "actionDescription": "Moves left in a wide low defensive stance with an arm extended, then stops in a crouch.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_28",
+      "sourceUUID": "BD9E8BA6-7818-53BE-9A43-F3E228E5CCEC",
+      "sourceDescription": "DefensiveMoveZigZag           CleanedGRS",
+      "sourceSHA256": "4513edcaf32f200e55501a56f04967704b7a4f5d5493171b05f4b31c677b7f88",
+      "frameCount": 448,
+      "frameInterval": 0.0083333,
+      "title": "Defensive zigzag",
+      "actionDescription": "Shuffles in a low stance through changes of direction, extending an arm while moving.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_29",
+      "sourceUUID": "9E979AFA-BEB6-5EE3-9FC1-CB2DC51BF378",
+      "sourceDescription": "DefensiveMoveSideToSide           CleanedGRS",
+      "sourceSHA256": "e290d70ef33f028502ef057bcc0c9f84357a8ce9d923bf0b8bb211ce59300134",
+      "frameCount": 171,
+      "frameInterval": 0.0083333,
+      "title": "Defensive side-to-side shuffle",
+      "actionDescription": "Shuffles laterally in a low stance, extending one arm while shifting weight from side to side.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_30",
+      "sourceUUID": "5D122C94-A419-5D45-B0F9-EA2671E4E617",
+      "sourceDescription": "DefensiveMoveSideToSide           CleanedGRS",
+      "sourceSHA256": "455ccef9efad173482ddb66ea622cc5f089269107bf1e1b3573fe164f367480d",
+      "frameCount": 703,
+      "frameInterval": 0.0083333,
+      "title": "Defensive side-to-side shuffle",
+      "actionDescription": "Repeatedly shifts side to side in a low, wide stance with one arm extended, then rises.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "defense",
+        "shuffle"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
