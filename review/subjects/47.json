@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "subject": "47",
+  "takes": [
+    {
+      "takeID": "47_01",
+      "sourceUUID": "7EEB408D-D54E-5FC7-9C83-B848AA8767F9",
+      "sourceDescription": "walk forward, turn around, walk back",
+      "sourceSHA256": "59ed6f9b0511de3c8cf64833048e210c1cc4dc072f9cb71be7a5ea46c227de85",
+      "frameCount": 1319,
+      "frameInterval": 0.0083333,
+      "title": "Walk Out, Turn, and Walk Back",
+      "actionDescription": "The performer walks forward, turns to head back, then continues through several more strides with the arms swinging. The take ends while walking away.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turnaround",
+        "walk back"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
