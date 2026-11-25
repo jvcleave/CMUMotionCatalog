@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "subject": "86",
+  "takes": [
+    {
+      "takeID": "86_01",
+      "sourceUUID": "59C8A22E-6AFE-5B66-8F22-95312B631C2D",
+      "sourceDescription": "jumps kicks and punches",
+      "sourceSHA256": "b8da3c3efed50b1cd6afe64ad0fc562592a9682736a20b36fd92bb8e2fb7a301",
+      "frameCount": 4579,
+      "frameInterval": 0.0083333,
+      "title": "Jumps, kicks, and punches",
+      "actionDescription": "The performer crouches into jumps, takes short repositioning steps, and alternates kicks and punching arm actions.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "jump",
+        " kick",
+        " punch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_02",
+      "sourceUUID": "011E9B82-99C8-54B1-A02B-BCB02E746DC8",
+      "sourceDescription": "walk, squats, run, stretch, jumps, punches, and drinking",
+      "sourceSHA256": "3d2153c2e30132996fcfb44553aca054d3854aa2af35e52e47db626cd6cb6108",
+      "frameCount": 10617,
+      "frameInterval": 0.0083333,
+      "title": "Squats, running, and upper-body actions",
+      "actionDescription": "The performer moves through walking, squats, and running, then mixes overhead stretches and jumps with punches and a hand-to-mouth gesture.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "squat",
+        " run",
+        " overhead reach",
+        " drinking mime"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_03",
+      "sourceUUID": "3C40B6FD-5647-5EF7-BED1-DE094E2F5BD0",
+      "sourceDescription": "walking, running, jumping, kicking, and stretching",
+      "sourceSHA256": "deea4f160a0c2b19edd2c1a04b5ba4665c69a9323b306f8beaa26de9d14ec83d",
+      "frameCount": 8401,
+      "frameInterval": 0.0083333,
+      "title": "Run, jump, kick, and stretch sequence",
+      "actionDescription": "The performer alternates walking and running with jumps and raised-leg kicks, then stretches and walks away.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "run",
+        " jump",
+        " kick",
+        " stretch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_04",
+      "sourceUUID": "742701A9-5EE2-5BDB-AB80-2FD0392AB89C",
+      "sourceDescription": "walking, stretching, punching, chopping, and drinking",
+      "sourceSHA256": "7e6030df0eb3578dd6ba4cd2d04246a3abb4a9e99b26b9c37c5b7a97b8c9ca16",
+      "frameCount": 10078,
+      "frameInterval": 0.0083333,
+      "title": "Stretching and upper-body mime",
+      "actionDescription": "The performer walks and reaches overhead, then alternates forward punches, downward chopping motions, and a hand-to-mouth gesture.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "stretch",
+        " punch",
+        " chop",
+        " drinking mime"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_05",
+      "sourceUUID": "186EACC2-1412-531B-B912-28D1DF99E6B6",
+      "sourceDescription": "walking, jumping, jumping jacks,  jumping on one foot, punching, chopping,",
+      "sourceSHA256": "85f3114d2578ad69e74357ef6a18656cfd48f39c35f6ef324e88bf78d38668b1",
+      "frameCount": 8340,
+      "frameInterval": 0.0083333,
+      "title": "Jumping jacks and arm strikes",
+      "actionDescription": "The performer walks between jumps and jumping jacks, balances briefly on one leg, and follows with punches and chopping arm motions.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "jumping jack",
+        " one-leg jump",
+        " punch",
+        " chop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_06",
+      "sourceUUID": "8B1E0B32-845C-5EF3-BA5E-FC242B6EBB13",
+      "sourceDescription": "walking, running, kicking, punching, knee kicking, and stretching",
+      "sourceSHA256": "6b41cec926d5946bcb733247aeecbdca8ffff8b518b5d8e315d9148742aac420",
+      "frameCount": 9939,
+      "frameInterval": 0.0083333,
+      "title": "Running, kicking, and knee lifts",
+      "actionDescription": "The performer switches between walking and running, adds kicks, punches, and driving knee lifts, and stretches between efforts.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "run",
+        " kick",
+        " punch",
+        " knee lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_07",
+      "sourceUUID": "2D397ACC-1A38-5433-B5FD-B44C14791FF2",
+      "sourceDescription": "walking, swinging arms, stretching, jumping on one leg, and jumping",
+      "sourceSHA256": "920c0109e84f722fb304e78e012ae3d325d375e7a1916b69af5306076e62edff",
+      "frameCount": 8702,
+      "frameInterval": 0.0083333,
+      "title": "Arm swings and single-leg jumps",
+      "actionDescription": "The performer steps and turns while swinging and lifting the arms, then adds a series of one-leg and two-leg jumps.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "arm swing",
+        " stretch",
+        " single-leg jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_08",
+      "sourceUUID": "62835611-2984-5B57-AA64-C4360F7C63FF",
+      "sourceDescription": "walking, squats, stretching, kicking, and punching",
+      "sourceSHA256": "4451bbe16e6c8e55897a9cb0fee887b02167a1b5b1001f248ff4c852559114cc",
+      "frameCount": 9206,
+      "frameInterval": 0.0083333,
+      "title": "Squats, stretches, and strikes",
+      "actionDescription": "The performer walks between squats and stretches, including an overhead reach, then mixes kicks and punching arm movements into the sequence.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "squat",
+        " overhead reach",
+        " kick",
+        " punch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_09",
+      "sourceUUID": "1E72A229-309C-57DC-BFCC-3F12C498D071",
+      "sourceDescription": "walking, sitting, looking, stand up",
+      "sourceSHA256": "9c4138c29a481dd3ac87eeaf827c5c8e403351a16a0c2644cca367f8847df4b4",
+      "frameCount": 4794,
+      "frameInterval": 0.0083333,
+      "title": "Walk, sit, look, and stand",
+      "actionDescription": "The performer walks into position, lowers into a seated posture, changes head and arm position, and rises into a walk.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "walk to sit",
+        " seated look",
+        " stand up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_11",
+      "sourceUUID": "C9A2B160-83F8-58F2-A59F-23BDEDC86730",
+      "sourceDescription": "walking, stretching, walking and turning",
+      "sourceSHA256": "751d878b436554033eca612c1da35223f9a59723388e52306fbac689472b2848",
+      "frameCount": 5674,
+      "frameInterval": 0.0083333,
+      "title": "Walking with an upper-body stretch",
+      "actionDescription": "The performer walks in, raises both arms and reaches to either side while standing, then lowers the arms and walks through a turn.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "arm stretch",
+        " overhead reach",
+        " walk and turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_13",
+      "sourceUUID": "52D24442-F396-5F51-8123-F17D7B77B2B7",
+      "sourceDescription": "walking around, walk up ladder, step down ladder",
+      "sourceSHA256": "007b55619e94d23884dbc1dae8f995443fa6342e63ea879b2069996fa37c8f7e",
+      "frameCount": 6221,
+      "frameInterval": 0.0083333,
+      "title": "Walk and mime a ladder climb",
+      "actionDescription": "The performer walks into position, alternates raised hands and stepping motions as if climbing a ladder, then steps back down and walks away.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder climb",
+        " step down",
+        " pantomime"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_14",
+      "sourceUUID": "EF013D8F-73F1-58AC-BE1B-0C78F03F31DA",
+      "sourceDescription": "bouncing basketball, shooting basketball, dribble basketball, two handed dribble",
+      "sourceSHA256": "a310a48c9e508618f4767263601adf9c9df826a2db0f9a161f0de8235c9d12fe",
+      "frameCount": 6055,
+      "frameInterval": 0.0083333,
+      "title": "Basketball handling and shooting",
+      "actionDescription": "The performer shifts between basketball dribbling and shooting motions, varying the hand position and bending through the knees before releasing upward.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "basketball",
+        " dribble",
+        " basketball shot"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "86_15",
+      "sourceUUID": "AB61182F-92EF-5D2F-A02A-3B4D4E859DA3",
+      "sourceDescription": "walking, sitting, hand motions",
+      "sourceSHA256": "fa86202e17ee0c6b14f242ffc0a4fe3dc9d70f03b88960c9ddda88a47f0f41c5",
+      "frameCount": 7092,
+      "frameInterval": 0.0083333,
+      "title": "Walk, sit, and gesture",
+      "actionDescription": "The performer walks into position and sits, makes a series of one- and two-handed gestures including a hand near the head, then stands again.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "walk to sit",
+        " seated gestures",
+        " stand up"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
