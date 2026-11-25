@@ -1,0 +1,1116 @@
+{
+  "schemaVersion": 1,
+  "subject": "83",
+  "takes": [
+    {
+      "takeID": "83_02",
+      "sourceUUID": "8D01ED95-809C-5695-96DE-7DD39692884D",
+      "sourceDescription": "sidestep to the right and up a ledge",
+      "sourceSHA256": "1b5a92c6a919ca838caf335f5535bf43ca7a3fb96f925df0f12ff760fe6800ba",
+      "frameCount": 364,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, steps to the right onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_03",
+      "sourceUUID": "83B3C9EA-AA02-5F56-8C8B-8CE289A844AD",
+      "sourceDescription": "large step to a short ledge",
+      "sourceSHA256": "2941d67ea6c48971a8dbd451805a1fb20666773f181a04ff1c7abfcbe663040a",
+      "frameCount": 669,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, takes a wide step forward onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "forward",
+        "large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_04",
+      "sourceUUID": "CF8A1727-ED9C-5F76-B42E-9D24B3BBD413",
+      "sourceDescription": "large sidestep to right",
+      "sourceSHA256": "125955de194ebe6aaad807b287026c89dfb2ec21796043e5f4729c6e1c9f2669",
+      "frameCount": 467,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Bring The Feet Together",
+      "actionDescription": "The performer takes a wide step to the right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_05",
+      "sourceUUID": "683EE75A-DDB0-5F6D-96EF-FE036846FAC5",
+      "sourceDescription": "very large sidestep to right",
+      "sourceSHA256": "b3ff4677562095f4c476ba090a48e7726723d2892300c71a7ee8435bd1496d06",
+      "frameCount": 486,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Right And Bring The Feet Together",
+      "actionDescription": "The performer takes a wide step diagonally right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "very large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_06",
+      "sourceUUID": "D586CEAC-3DFB-5EF2-B589-C8D8AAC4746F",
+      "sourceDescription": "very large sidestep to right and down",
+      "sourceSHA256": "dd98935be2b0aff91a6af41a0804ff2124d805ef266b9703356a5b9abdb08cc0",
+      "frameCount": 401,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Right And Down",
+      "actionDescription": "The performer starts with feet close, takes a wide step diagonally right onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "right",
+        "very large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_07",
+      "sourceUUID": "0F9537AD-8C96-5903-BAC8-32CCE93F4167",
+      "sourceDescription": "short sidestep to right and down",
+      "sourceSHA256": "1618dee4b9a4878f781b8b8b5aac55b5e423ae345ba763f4c92c958fe4ee06a9",
+      "frameCount": 422,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Down",
+      "actionDescription": "The performer starts with feet close, steps to the right onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "right",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_08",
+      "sourceUUID": "956BDDF7-F2AF-593C-866B-B3405AE67913",
+      "sourceDescription": "medium step forward and down",
+      "sourceSHA256": "6d145f3920b8e0217735674131b6f82320381bc61b0ad6431f230b2464504407",
+      "frameCount": 462,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Down",
+      "actionDescription": "The performer starts with feet close, steps forward onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "forward",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_09",
+      "sourceUUID": "127BBB56-F7F9-53AD-B448-08F57DCD3745",
+      "sourceDescription": "short step forward and down",
+      "sourceSHA256": "9fd1c290f848d471bde3c1eec0b5720a65b0d4a2d666a0cdadab755ee5adee4f",
+      "frameCount": 451,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Down",
+      "actionDescription": "The performer starts with feet close, steps forward onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "forward",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_10",
+      "sourceUUID": "35D7C510-1922-5732-9237-D392B51482C6",
+      "sourceDescription": "medium step forward and down",
+      "sourceSHA256": "4ac76142d6f584f39ceeb401bdd7a8a28694b7bf9af77f8992cf2ec62562ef02",
+      "frameCount": 479,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Down",
+      "actionDescription": "The performer starts with feet close, steps forward onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "forward",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_11",
+      "sourceUUID": "DD2F8AAB-28F5-5580-9170-3491EA7E5B56",
+      "sourceDescription": "static pose",
+      "sourceSHA256": "56dc7dcb61ca86e3c68767d327ed3bb5d7c7da2a34146b1fe20839e52a7688d7",
+      "frameCount": 99,
+      "frameInterval": 0.0083333,
+      "title": "Hold an Arms-Out Bent-Leg Pose",
+      "actionDescription": "The performer holds both arms extended sideways with the legs angled forward and knees bent. The pose is nearly unchanged throughout.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "held pose",
+        "arms out",
+        "bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_12",
+      "sourceUUID": "968CACAE-E016-511C-986B-1BA2904F1DF2",
+      "sourceDescription": "medium sidestep to right and down",
+      "sourceSHA256": "b906d49678438f8efc99ad4c13d4d502618bb72a14bb8f1a4045514e4dda1d9e",
+      "frameCount": 508,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Down",
+      "actionDescription": "The performer starts with feet close, steps to the right onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "right",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_13",
+      "sourceUUID": "22FCCDD5-201B-5396-AA41-14BA852B222A",
+      "sourceDescription": "large sidestep to right",
+      "sourceSHA256": "34d6c1b5627f46843a539c21ffd4b2268474570b1179a0934b0b6a30b0199577",
+      "frameCount": 507,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Right And Bring The Feet Together",
+      "actionDescription": "The performer takes a wide step diagonally right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_14",
+      "sourceUUID": "78DD3489-C990-5593-B305-A89030A6CBC2",
+      "sourceDescription": "short sidestep to left and down",
+      "sourceSHA256": "507270f4149b69cff2c93b8908dccf6e8a0e68d9699504be82e6c57e87610a02",
+      "frameCount": 429,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Left And Down",
+      "actionDescription": "The performer starts with feet close, steps to the left onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "left",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_15",
+      "sourceUUID": "63F38BD8-3D78-5CD4-B30B-326469C99D15",
+      "sourceDescription": "short step forward",
+      "sourceSHA256": "d1c829af17a4f79db908190e9c5eb7a8f6ead0484c10d7fc37dd9cc76bdb9b6f",
+      "frameCount": 522,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Bring The Feet Together",
+      "actionDescription": "The performer steps forward, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "forward",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_16",
+      "sourceUUID": "C4B7BB5B-BFEE-5EBA-B56F-887EDBBF86E3",
+      "sourceDescription": "medium sidestep to left and down",
+      "sourceSHA256": "4f03005bdc1496988ca43f4a918c75ca52cd9804b719d192098ddd36818b9191",
+      "frameCount": 510,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Left And Down",
+      "actionDescription": "The performer starts with feet close, steps to the left onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "left",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_17",
+      "sourceUUID": "9834107B-A581-5A57-AE85-78E3BF8FB1D9",
+      "sourceDescription": "medium step to left and down",
+      "sourceSHA256": "4a99f802b800e51c184548f7b51d4e437768acdb2e69f2c4df62820ef3dcefe5",
+      "frameCount": 524,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Left And Down",
+      "actionDescription": "The performer starts with feet close, steps diagonally left onto a lower level, and brings the trailing foot in before returning upright.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step down",
+        "left",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_18",
+      "sourceUUID": "9C1EC6B7-BFA9-56F6-94B9-39FF11F9F650",
+      "sourceDescription": "short step to left and forward",
+      "sourceSHA256": "147c1e505c8ffdcf1584076736f8bae65c1126ce9d20664fd0494341b61578c6",
+      "frameCount": 466,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Left And Bring The Feet Together",
+      "actionDescription": "The performer steps diagonally left, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "left",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_20",
+      "sourceUUID": "0201A4E9-BA87-5F23-8546-FB3256A586A0",
+      "sourceDescription": "medium step forward",
+      "sourceSHA256": "afabfa653b11368f23f4a52c66cfd73913be4453d9e733ec7f47a4238fcb1be9",
+      "frameCount": 524,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Bring The Feet Together",
+      "actionDescription": "The performer steps forward, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "forward",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_21",
+      "sourceUUID": "17E58571-22DE-52DB-A5C4-310019942934",
+      "sourceDescription": "large step to left and forward",
+      "sourceSHA256": "77feed4473037d77af1149cdea8a95c8886c582e055a206c4e2aaaa33e026284",
+      "frameCount": 519,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Left And Bring The Feet Together",
+      "actionDescription": "The performer takes a wide step diagonally left, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "left",
+        "large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_22",
+      "sourceUUID": "6E15F458-9D73-570E-A1EA-BB39F87791FA",
+      "sourceDescription": "stretching",
+      "sourceSHA256": "fec44ed29b44c79947a6b723cb3113709867ecdcfe304610bcd148c4deb847e2",
+      "frameCount": 5371,
+      "frameInterval": 0.0083333,
+      "title": "Stretch Arms and Legs from Standing",
+      "actionDescription": "The performer alternates opening the arms, raising each leg, and returning to upright between movements. They finish with both arms extended sideways.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "stretch",
+        "leg raise",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_23",
+      "sourceUUID": "6035E35A-B65B-50FE-8E87-E4E95E674954",
+      "sourceDescription": "short sidestep to left and up",
+      "sourceSHA256": "2de3acd795dd0a949d5019dab8ad302de2d0bf62a8a85b2e82022ebfa696be4c",
+      "frameCount": 542,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Left Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, steps to the left onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "left",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_24",
+      "sourceUUID": "7551F8FD-444F-5FF8-87D4-00C60AA77000",
+      "sourceDescription": "medium step to left and up",
+      "sourceSHA256": "304743ce3b46578036ff88f30f8e42095fc4a988f5188021bb94dbfc1c28f61d",
+      "frameCount": 532,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Left Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, steps to the left onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "left",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_25",
+      "sourceUUID": "DE441A97-458A-5AC8-82F4-ED800A593092",
+      "sourceDescription": "short step forward and up",
+      "sourceSHA256": "09979352ce5c27855437c6c8ff360fc930426e11eaf3fc3565732bc0c9e19229",
+      "frameCount": 541,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, steps forward onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "forward",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_26",
+      "sourceUUID": "60C3375B-24AF-5E6F-853E-1ACA11DA6728",
+      "sourceDescription": "medium step to left, forward, and up",
+      "sourceSHA256": "756023c681d9001f02a2357e9435c0a69ec29c7dbcc7252218dfa9319cbaed9b",
+      "frameCount": 522,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Left Onto A Raised Level",
+      "actionDescription": "The performer lifts one foot, steps diagonally left onto a raised level, and finishes in a narrow upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "step up",
+        "left",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_27",
+      "sourceUUID": "51B36A96-AD7A-537B-84BF-65A8D7FB6127",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "65239ea52f4aebc980ed613d4136049961c5f044614017571d68c0f6fce02cfd",
+      "frameCount": 983,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_28",
+      "sourceUUID": "EA652475-92F4-52F7-A639-EBAC32F6F746",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "e99c909c74b1e5c69c77bf1e386526efc86733b37ee51441c29e5b43987d2823",
+      "frameCount": 931,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_29",
+      "sourceUUID": "E864A044-1035-527E-84CD-B4E790D559B4",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "1c15492d549131dd0ac3c6f400d2a63b35521abfa45d889923bb299c4e423f48",
+      "frameCount": 947,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_30",
+      "sourceUUID": "0E13E4EF-9D68-554A-B755-822E4513A4E6",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "92db73a9d156d680a7dafb0f4e026c8b945619970beb71598fd48e39b1a90e39",
+      "frameCount": 1009,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_31",
+      "sourceUUID": "A6E399ED-2E79-589B-9544-4006078684B6",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "cde7f1bfd4e6d7d0c5388058b91dd38207059b0f79f0388f53f7514e2adff25e",
+      "frameCount": 935,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_32",
+      "sourceUUID": "F8F3A496-7811-5642-8504-9DECBF775027",
+      "sourceDescription": "walk forward stepping up stairs",
+      "sourceSHA256": "36c8dda9408797f60263207f22d716081355f9ab6d15913786dd4a68770d83c9",
+      "frameCount": 1041,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_33",
+      "sourceUUID": "442300FB-5FF0-5B27-B258-8B9C076CB671",
+      "sourceDescription": "sidestep to right then back to left",
+      "sourceSHA256": "bccdb65860ff651aad8fb6d3cdf65c26398f57a3e774bb47d0914644e233c2ed",
+      "frameCount": 1291,
+      "frameInterval": 0.0083333,
+      "title": "Side Step Right and Then Left",
+      "actionDescription": "The performer steps to the right, briefly returns to a narrow stance, then shifts back left and settles upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "sidestep",
+        "right",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_34",
+      "sourceUUID": "2C1BDC86-5B0F-58C4-B185-C20ABDB33EC6",
+      "sourceDescription": "walk forward and up stairs",
+      "sourceSHA256": "e2f1e77432fdb2697f895de05c7f625a0d3d57bfe7e3c4951ec886911889a174",
+      "frameCount": 967,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_35",
+      "sourceUUID": "D34BDB16-B31F-5C59-A991-5A2920E34315",
+      "sourceDescription": "walk forward and stepping up stairs",
+      "sourceSHA256": "14949e5f25991aa27a8d33eef97ec14be9e93195458cb57d585a0dd30e6195a4",
+      "frameCount": 1048,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Ascend Steps",
+      "actionDescription": "The performer starts upright, walks forward into a sequence of higher foot lifts, and settles into standing at the end.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stairs",
+        "forward",
+        "ascent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_36",
+      "sourceUUID": "BE79F5A2-FE18-5471-8686-0199D7077894",
+      "sourceDescription": "walk forward turn 90 degrees left walk forward",
+      "sourceSHA256": "f9ede58e1475e5b96bceb306d96503a55d120e868d298867bbab257270319c74",
+      "frameCount": 1062,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn Left a Quarter Turn",
+      "actionDescription": "The performer walks forward with a low arm swing, turns left about a quarter turn, and takes several steps on the new heading before slowing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "left turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_37",
+      "sourceUUID": "40164238-A7BA-54FC-94FD-0E53CC4A969D",
+      "sourceDescription": "walk forward turn 90 degrees right walk forward",
+      "sourceSHA256": "55955bbff2db87f839cc29da7389c30fb0c1e7737b901bfae45f156b08ba030a",
+      "frameCount": 958,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn Right a Quarter Turn",
+      "actionDescription": "The performer walks forward with a low arm swing, turns right about a quarter turn, and takes several steps on the new heading before slowing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "right turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_38",
+      "sourceUUID": "AE3B727D-B299-5C3D-BCBB-0AAA82672FCB",
+      "sourceDescription": "walk forward turn 90 degrees left walk forward",
+      "sourceSHA256": "74022f5c0bf8c462aa890e1859e766ce728d61d9c426aa2190c7f7e811d27c3a",
+      "frameCount": 1006,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn Left a Quarter Turn",
+      "actionDescription": "The performer walks forward with a low arm swing, turns left about a quarter turn, and takes several steps on the new heading before slowing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "left turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_39",
+      "sourceUUID": "490C9297-8C8D-57A2-9053-1D042053A3F8",
+      "sourceDescription": "walk forward turn 90 degrees right walk forward",
+      "sourceSHA256": "a3bcef7d33b1259b90436f3d59877a05af14dd02db0cae614aa64393c4db9719",
+      "frameCount": 971,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn Right a Quarter Turn",
+      "actionDescription": "The performer walks forward with a low arm swing, turns right about a quarter turn, and takes several steps on the new heading before slowing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "right turn",
+        "quarter turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_40",
+      "sourceUUID": "FCC52690-0702-525C-8ECF-27926AEF1969",
+      "sourceDescription": "hop forward",
+      "sourceSHA256": "679c85850e4c1766a2043aa5ef65ee3764d56ae7ac5aa43a975c26b1acee207e",
+      "frameCount": 530,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_41",
+      "sourceUUID": "FB39C4B7-9C5B-53CB-A7A2-8356D7FC059B",
+      "sourceDescription": "hop forward",
+      "sourceSHA256": "4eb813c3014a36e315661caee2124ff0566ea8c6a0184cc55ecf30984270d9bb",
+      "frameCount": 470,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_42",
+      "sourceUUID": "B2C59E05-CF75-5C33-87ED-E1A3322D57B3",
+      "sourceDescription": "long jump forward",
+      "sourceSHA256": "508e6579705ddf623caf36bdf57c75a76aa943979911116466a57526667062b8",
+      "frameCount": 540,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward and Settle",
+      "actionDescription": "The performer dips from standing, drives forward in a long jump, and catches the landing with bent knees before straightening.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward",
+        "standing finish",
+        "long jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_43",
+      "sourceUUID": "E755DAE2-86DA-5AC9-9939-58092627C152",
+      "sourceDescription": "long jump forward",
+      "sourceSHA256": "cc899272647c7fedd91f64dbaef3ff2eead97d8691ce660132169fa8d33b6476",
+      "frameCount": 597,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward and Settle",
+      "actionDescription": "The performer dips from standing, drives forward in a long jump, and catches the landing with bent knees before straightening.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward",
+        "standing finish",
+        "long jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_44",
+      "sourceUUID": "15537DC2-F385-575A-B42F-93D0B3B908A8",
+      "sourceDescription": "medium step forward",
+      "sourceSHA256": "35180f4fa6a677fee98640c01e5d0e8bfcc009086c1516b97a8f319540db0f9f",
+      "frameCount": 661,
+      "frameInterval": 0.0083333,
+      "title": "Step Forward And Bring The Feet Together",
+      "actionDescription": "The performer steps forward, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "forward",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_45",
+      "sourceUUID": "629B274C-6E4B-571F-AFC7-D6ADF16BC784",
+      "sourceDescription": "hop forward",
+      "sourceSHA256": "94c56d4a952d8fbdb9d62dc956f13426f4442659b2aafa6638033ce52b051f7f",
+      "frameCount": 495,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_46",
+      "sourceUUID": "DF525EB3-799C-5D2F-B6AD-07BAEBC4CE3A",
+      "sourceDescription": "medium hop forward",
+      "sourceSHA256": "84c4db9af53e31f76348828bfc85ff8ffd8606e9c9b31cb01c4724ac544f31f2",
+      "frameCount": 501,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish",
+        "medium hop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_48",
+      "sourceUUID": "F4B653B3-41CC-5F55-8A7A-EC647F358CBD",
+      "sourceDescription": "short hop forward",
+      "sourceSHA256": "63a402c3bdcca5a2681c5a3b88e82343d9948fb77b400fd4ab39188604d7c2f9",
+      "frameCount": 445,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish",
+        "short hop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_49",
+      "sourceUUID": "A4EC809A-2FF7-56DE-BDD4-C70F5B5CA4A9",
+      "sourceDescription": "medium hop forward",
+      "sourceSHA256": "710fe105e6215d0aa9a91131d3924df2a6dc3277dba47b506c31b8e2db663220",
+      "frameCount": 456,
+      "frameInterval": 0.0083333,
+      "title": "Hop Forward and Settle",
+      "actionDescription": "The performer makes a compact knee bend, hops forward, and straightens to a narrow stance after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "hop",
+        "forward",
+        "standing finish",
+        "medium hop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_50",
+      "sourceUUID": "8278E597-C85C-5B61-9307-09CEFB2A0BDA",
+      "sourceDescription": "long jump forward",
+      "sourceSHA256": "05bb10a0213e561b12bb3f20801c13ca83c05859a059a64958e4072153128861",
+      "frameCount": 528,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward and Settle",
+      "actionDescription": "The performer dips from standing, drives forward in a long jump, and catches the landing with bent knees before straightening.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward",
+        "standing finish",
+        "long jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_51",
+      "sourceUUID": "8C7857F4-E6F7-54D7-AD53-6AC0C73F6AD1",
+      "sourceDescription": "hop turn 90 degrees left in air",
+      "sourceSHA256": "f3d3c812e92a97fd359cf925e2172fde000dbf483a4ca3649d64684691969d3c",
+      "frameCount": 591,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 90°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "90 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_52",
+      "sourceUUID": "313D9BC7-F5DD-56A5-A3A0-3F4292AB1630",
+      "sourceDescription": "hop turn 90 degrees left in air",
+      "sourceSHA256": "22fb492b03f3f5aa3cc328d9661a56d3f48058cb133fd5cfef6842a5134ea32e",
+      "frameCount": 508,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 90°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "90 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_53",
+      "sourceUUID": "8E724E75-4D54-5926-9AEB-0A48F4D2CA05",
+      "sourceDescription": "hop turn 90 degrees left in air",
+      "sourceSHA256": "80836f28ea33904b7550dce4f3b9c6bfbbf092d8efa332a5436984bf921f8ab7",
+      "frameCount": 539,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 90°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "90 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_54",
+      "sourceUUID": "65B584DA-3A5A-5A6E-8B1C-73B80E08A284",
+      "sourceDescription": "hop turn 180 degrees left in air",
+      "sourceSHA256": "2489bebe0187df0c4274e3819a1a275eb541756fe8fe3ee94a27807a2b0ad70a",
+      "frameCount": 420,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 180°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "180 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_55",
+      "sourceUUID": "8E43DB0F-DA3D-5625-9315-8330D43CBCF0",
+      "sourceDescription": "medium sidestep to right",
+      "sourceSHA256": "54c12a0b4646613fc61fcfcff7dc3a2037f6cacfed22ceb18a016ee05037df86",
+      "frameCount": 736,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Bring The Feet Together",
+      "actionDescription": "The performer steps to the right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_56",
+      "sourceUUID": "D2609564-D1BE-5A77-8B6B-0C54A668F11A",
+      "sourceDescription": "hop turn left 180 degrees in air",
+      "sourceSHA256": "9501b5350bdc6557ecf62e81fb25ecf32be25d4ec5204107f679327f5b200670",
+      "frameCount": 501,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 180°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "180 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_57",
+      "sourceUUID": "3AFA67C4-002D-5118-8E92-6C92762A42BF",
+      "sourceDescription": "hop turn left 180 degrees in air",
+      "sourceSHA256": "39c5ef06454554dad3033b4473dc54a67bcd2e275cbe716b685a8781e5d321fa",
+      "frameCount": 409,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 180°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "180 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_58",
+      "sourceUUID": "97E38EA1-0DDA-5732-BF8B-E7C9DB9AD9F1",
+      "sourceDescription": "hop turn left 270 degrees in air",
+      "sourceSHA256": "aad001eac25a158afc68e1537b1bb9b29cf21b76e0a13d580a93637c93b991c0",
+      "frameCount": 364,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 270°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "270 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_59",
+      "sourceUUID": "345EF1AB-F21B-57C0-B5D1-F0F70E9F2FA5",
+      "sourceDescription": "hop turn left 270 degrees in air",
+      "sourceSHA256": "0c39adc08ddaba7f5f467001d622c8d323088a24ff646ff03acd8852db1f03a1",
+      "frameCount": 602,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 270°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "270 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_60",
+      "sourceUUID": "9745400A-6F23-5AAD-8BB7-C0EE57503294",
+      "sourceDescription": "hop turn left 270 degrees in air",
+      "sourceSHA256": "13d32bad53d0fbd2b59ec62a34b744ac99deadb621bab2d5de9be8bb7d3af4fc",
+      "frameCount": 406,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 270°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and settles on the new heading.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "270 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_61",
+      "sourceUUID": "0BFAD878-DC14-50D5-9F3E-8E3D7B8580AD",
+      "sourceDescription": "hop turn 360 degrees left in air",
+      "sourceSHA256": "d9af0065637cb25ceb670e5a091cc2343285b78f42998cf43b4715bbe8846645",
+      "frameCount": 503,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 360°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and returns to roughly the original facing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "360 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_62",
+      "sourceUUID": "68D34335-E518-576A-86BB-2F75890AF717",
+      "sourceDescription": "hop turn left 360 degrees in air",
+      "sourceSHA256": "ffae94ae8ab9e41a7bc462b9f6f37bb5d33d7806800ffff60296ab6a2c5c457c",
+      "frameCount": 474,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Left 360°",
+      "actionDescription": "The performer bends the knees, springs and rotates left in the air, then absorbs the landing and returns to roughly the original facing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "left",
+        "360 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_63",
+      "sourceUUID": "896970F9-5657-5E59-BCED-D2D5C1F32CB8",
+      "sourceDescription": "large sidestep to right and forward",
+      "sourceSHA256": "d9428fb2a733e479c3dd13c3ec34ae46beed54789a8791e308ab83ba25e30eba",
+      "frameCount": 685,
+      "frameInterval": 0.0083333,
+      "title": "Step Diagonally Right And Bring The Feet Together",
+      "actionDescription": "The performer takes a wide step diagonally right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "large step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_64",
+      "sourceUUID": "1870435C-DB81-532A-8E01-2C94CD700D9F",
+      "sourceDescription": "hop and turn right 360 degrees in air",
+      "sourceSHA256": "bfcb06de1bb40746a953138d402bc9917c0dbea716e822c78b88b8af36db2a83",
+      "frameCount": 578,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Right 360°",
+      "actionDescription": "The performer bends the knees, springs and rotates right in the air, then absorbs the landing and returns to roughly the original facing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "right",
+        "360 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_65",
+      "sourceUUID": "16977F5E-C2F1-524F-99D2-8698CAA7180D",
+      "sourceDescription": "hop and turn right 360 degrees in air",
+      "sourceSHA256": "1d65f518e73fae04c16ef729d312214b2cfe82656f7fc5d38574b1e5df2619e8",
+      "frameCount": 401,
+      "frameInterval": 0.0083333,
+      "title": "Hop and Turn Right 360°",
+      "actionDescription": "The performer bends the knees, springs and rotates right in the air, then absorbs the landing and returns to roughly the original facing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "turning hop",
+        "right",
+        "360 degrees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_66",
+      "sourceUUID": "435A8C8D-B197-5842-97A3-38C65F3B4615",
+      "sourceDescription": "short sidestep to right",
+      "sourceSHA256": "faec310dec6262d99b6cb17920a3911d3f6519832120981ca5ee2262a197eef4",
+      "frameCount": 672,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Bring The Feet Together",
+      "actionDescription": "The performer steps to the right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_67",
+      "sourceUUID": "97C09249-E335-5690-9539-3C1AB84A5536",
+      "sourceDescription": "short sidestep to the right",
+      "sourceSHA256": "45e4da3a8ae42f18578585f3ad8bcc44ea57284e30a53ba151b19bded98101b2",
+      "frameCount": 675,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Bring The Feet Together",
+      "actionDescription": "The performer steps to the right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "short step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "83_68",
+      "sourceUUID": "F83059C1-FB63-51B9-A612-40140182B8A5",
+      "sourceDescription": "medium sidestep to right",
+      "sourceSHA256": "eaa7bcf673fc3f405811e26a0e0ded7a99ee306e6dc81e58ea8280b617ff6af1",
+      "frameCount": 660,
+      "frameInterval": 0.0083333,
+      "title": "Step To The Right And Bring The Feet Together",
+      "actionDescription": "The performer steps to the right, shifts weight over the lead foot, and draws the trailing foot in before settling upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "single step",
+        "right",
+        "medium step"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
