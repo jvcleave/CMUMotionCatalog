@@ -230,6 +230,226 @@
       ],
       "reviewStatus": "needs-review",
       "reviewNote": "Soda is identified by the source and is not rendered."
+    },
+    {
+      "takeID": "23_14",
+      "sourceUUID": "F8EE8597-D18F-5E5F-8E49-FC7BCC1F2D70",
+      "sourceDescription": "alternating squats (2 subjects - subject B)",
+      "sourceSHA256": "77773dc43d96d3075f7837f7faadf90b6cc3259ac72d880a8820e86277cf3beb",
+      "frameCount": 707,
+      "frameInterval": 0.0083333,
+      "title": "Alternating squats, participant B",
+      "actionDescription": "Participant B starts in a knee bend, repeats deep squats separated by upright pauses and begins to rise at the end.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "squat",
+        "exercise",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_15",
+      "sourceUUID": "0411EE2B-7DA1-5A85-A659-62E1F68E7016",
+      "sourceDescription": "alternating jumping jacks (2 subjects - subject B)",
+      "sourceSHA256": "4ea237bcc0b98b56b83a29d40b6abe30f8d121d569fad0a854b5010f6b19ca1e",
+      "frameCount": 495,
+      "frameInterval": 0.0083333,
+      "title": "Alternating jumping jacks, participant B",
+      "actionDescription": "Participant B repeats jumps into a wide stance with arms overhead, then lowers the arms and settles upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "exercise",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_16",
+      "sourceUUID": "D3C29697-C0DE-5CF1-A20A-516ECB098CA9",
+      "sourceDescription": "synchronized jumping jacks (2 subjects - subject B)",
+      "sourceSHA256": "a7ba95661383cbb29bc59083b1a259a29196e8ac268fa83253509e4ee9f7f383",
+      "frameCount": 432,
+      "frameInterval": 0.0083333,
+      "title": "Synchronized jumping jacks, participant B",
+      "actionDescription": "Participant B repeats jumps into a wide stance with arms overhead, returning arms and legs between repetitions and ending upright.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "synchronized",
+        "exercise",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_17",
+      "sourceUUID": "9918E090-8EAF-5C0C-AD6E-9213EDC6CDBC",
+      "sourceDescription": "rush up, arm wrestle (2 subjects - subject B)",
+      "sourceSHA256": "c71fbf3a43b1ec6e15786495dff674416a7357d4860fb8c0106f28878166bbc3",
+      "frameCount": 832,
+      "frameInterval": 0.0083333,
+      "title": "Arm wrestle, participant B",
+      "actionDescription": "Participant B starts bent forward with one forearm raised, shifts in a wide stance, leans down and sideways, then straightens.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "arm wrestling",
+        "lean",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_18",
+      "sourceUUID": "E0AFD67D-ACB4-5587-A8F5-CB9B30073726",
+      "sourceDescription": "A stares down B, leans with hands on high stool (2 subjects - subject B)",
+      "sourceSHA256": "42869e34c81cb8ebf3672742daf67ec1a9a14632726e283ec5fe9ea66fed8a87",
+      "frameCount": 538,
+      "frameInterval": 0.0083333,
+      "title": "Seated stare-down, participant B",
+      "actionDescription": "Participant B remains seated, leans back with legs spread and hands near the lap, and finishes seated.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "sit",
+        "stare down",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "23_19",
+      "sourceUUID": "06727AF7-911C-5C32-9895-93123C48C7A4",
+      "sourceDescription": "B stares down A, leans with hands on high stool (2 subjects - subject B)",
+      "sourceSHA256": "fdfa397b5a17fda25d0475587d29108d29efee0d791698268d42ea2bb4eb80f9",
+      "frameCount": 480,
+      "frameInterval": 0.0083333,
+      "title": "Stand and lean on stool, participant B",
+      "actionDescription": "Participant B begins seated, rises into a wide stance and leans forward with hands down, remaining bent through the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "stand",
+        "stool",
+        "lean",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "The stool is source context and is not rendered."
+    },
+    {
+      "takeID": "23_20",
+      "sourceUUID": "66EBE0AB-0548-579C-845F-4DB56E84C3DF",
+      "sourceDescription": "violence - A picks up high stool, threatens to strike B (2 subjects - subject B)",
+      "sourceSHA256": "02da200426abaf04243fa052e772476eeabaa3e44341afddb48aac02af50a125",
+      "frameCount": 376,
+      "frameInterval": 0.0083333,
+      "title": "React to raised stool, participant B",
+      "actionDescription": "Participant B begins seated, leans sharply sideways and backward, raises an arm toward the head and braces low through the end.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "react",
+        "duck",
+        "stool",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "The threatened stool is identified by the source and is not rendered."
+    },
+    {
+      "takeID": "23_21",
+      "sourceUUID": "B3AD9DCE-94B4-5E2D-B516-36458EBA3EAE",
+      "sourceDescription": "conversation - B pounds high stool, points at A (2 subjects - subject B)",
+      "sourceSHA256": "36d44d644ae7e45752543d6411956eaf332ca48b444cfd0528236fbbc03d6903",
+      "frameCount": 389,
+      "frameInterval": 0.0083333,
+      "title": "Pound stool and point, participant B",
+      "actionDescription": "Participant B sits, lifts both hands in a brief forward gesture, then lowers them and remains seated.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "conversation",
+        "pound",
+        "point",
+        "stool",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "The stool and contact are identified by the source and are not rendered."
+    },
+    {
+      "takeID": "23_22",
+      "sourceUUID": "965C1D28-D4E0-56CB-B260-ACE25D722F74",
+      "sourceDescription": "walk; B catches keys thrown by A (2 subjects - subject B)",
+      "sourceSHA256": "c78fa4bcc7ed57a05ef96b8700a7cf427fb7c8af8a6f35e9b1abf65caafba061",
+      "frameCount": 181,
+      "frameInterval": 0.0083333,
+      "title": "Catch keys while walking, participant B",
+      "actionDescription": "Participant B starts with hands together near the chest and continues walking as the arms lower.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "keys",
+        "catch",
+        "walk",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Keys are identified by the source and are not rendered."
+    },
+    {
+      "takeID": "23_23",
+      "sourceUUID": "A8C9E11B-96FF-5714-A04C-41D3F1A0EE27",
+      "sourceDescription": "walk; A catches keys thrown by B (2 subjects - subject B)",
+      "sourceSHA256": "4d5491d23c245870728879b09d9ee6250a4faa8ccdb0171d8663eb1e0adfa1fa",
+      "frameCount": 215,
+      "frameInterval": 0.0083333,
+      "title": "Throw keys while walking, participant B",
+      "actionDescription": "Participant B walks with arms near the body, continuing alternating steps through the end.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "keys",
+        "throw",
+        "walk",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source identifies a key throw; the object and release are not discernible in the sheet."
+    },
+    {
+      "takeID": "23_24",
+      "sourceUUID": "DEB959FD-CB82-52BB-B494-E2BBE0E26D69",
+      "sourceDescription": "walk; B catches wallet thrown by A (2 subjects - subject B)",
+      "sourceSHA256": "c036b792f4ae20fd3e6f7454a6b18ce01a8dd043da4d4dde9f2948ac85f8ef4c",
+      "frameCount": 214,
+      "frameInterval": 0.0083333,
+      "title": "Catch wallet while walking, participant B",
+      "actionDescription": "Participant B begins with hands raised and together, brings them toward the torso and continues walking.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "wallet",
+        "catch",
+        "walk",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Wallet is identified by the source and is not rendered."
+    },
+    {
+      "takeID": "23_25",
+      "sourceUUID": "BC44953E-36C2-5FC2-AB5D-D757FC0EA652",
+      "sourceDescription": "walk; A catches wallet thrown by B (2 subjects - subject B)",
+      "sourceSHA256": "fb3c9f71fc67e9990e78c9c7a644233632252f995c20a36d72820f679aeca37f",
+      "frameCount": 175,
+      "frameInterval": 0.0083333,
+      "title": "Throw wallet while walking, participant B",
+      "actionDescription": "Participant B continues alternating walking steps with arms near the body and ends mid-stride.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "wallet",
+        "throw",
+        "walk",
+        "participant B"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source identifies a wallet throw; the object and release are not discernible in the sheet."
     }
   ]
 }
