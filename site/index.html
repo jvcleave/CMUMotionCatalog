@@ -43,11 +43,7 @@
         <label for="motion-filter">Motion filter</label>
         <select id="motion-filter"><option value="">All motions</option></select>
       </div>
-      <div class="tag-field">
-        <label for="tag-filter">Tag</label>
-        <input id="tag-filter" type="search" list="tag-options" placeholder="Any tag" autocomplete="off">
-        <datalist id="tag-options"></datalist>
-      </div>
+      <button id="tag-filter" type="button" aria-haspopup="dialog" aria-controls="tag-dialog" disabled>All tags</button>
       <div>
         <label for="page-size">Results per page</label>
         <select id="page-size">
@@ -69,6 +65,19 @@
     </nav>
     <noscript>Enable JavaScript to search and preview takes.</noscript>
   </main>
+  <dialog id="tag-dialog" aria-labelledby="tag-title">
+    <div class="tag-heading">
+      <h2 id="tag-title">Tags</h2>
+      <div class="tag-actions">
+        <button id="clear-tags" type="button" disabled>Clear tags</button>
+        <button id="close-tags" type="button" autofocus>Done</button>
+      </div>
+    </div>
+    <input id="tag-search" type="search" aria-label="Find tags" placeholder="Find tags" autocomplete="off">
+    <p id="tag-results" role="status"></p>
+    <div class="tag-options" id="tag-options"></div>
+    <p id="no-tags" hidden>No tags match.</p>
+  </dialog>
   <dialog id="detail" aria-labelledby="detail-title">
     <div class="detail-top">
       <span id="detail-id" class="take-id"></span>

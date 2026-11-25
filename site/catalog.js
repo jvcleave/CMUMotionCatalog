@@ -6,7 +6,12 @@ const query = byID("query");
 const categorySelect = byID("category");
 const motionFilterSelect = byID("motion-filter");
 const tagFilter = byID("tag-filter");
+const tagDialog = byID("tag-dialog");
+const tagSearch = byID("tag-search");
+const tagList = byID("tag-options");
+const clearTags = byID("clear-tags");
 const availableTags = new Map();
+const selectedTags = new Set();
 const dialog = byID("detail");
 const preview = byID("preview");
 const play = byID("play");
@@ -19,6 +24,7 @@ const bvhLink = byID("bvh-link");
 let takes = [];
 let categories = new Map();
 let takesByID = new Map();
+let tagOptions = [];
 let page = 0;
 let activeTake;
 let detailOpener;
@@ -201,19 +207,63 @@ function cardFor(take) {
   return card;
 }
 
-function render() {
-  stopCardPreview?.();
+function takesMatchingFilters() {
   const terms = query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
-  const category = categories.get(categorySelect.value);
+  const category = categorySelect.value;
   const motionFilter = motionFilterSelect.value;
-  const tag = tagFilter.value.trim().toLowerCase();
-  const exactTag = availableTags.has(tag);
-  const matches = takes.filter((take) =>
-    (!category || take.category === category.id || take.secondaryCategories?.includes(category.id)) &&
+  return takes.filter((take) =>
+    (!category || take.category === category || take.secondaryCategories?.includes(category)) &&
     (!motionFilter || take.motionFilters?.includes(motionFilter)) &&
-    (!tag || take.tagKeys.some((key) => exactTag ? key === tag : key.includes(tag))) &&
     terms.every((term) => take.searchText.includes(term))
   );
+}
+
+function renderTagOptions() {
+  const term = tagSearch.value.trim().toLowerCase();
+  const options = tagOptions
+    .filter(({ key, count }) => (count > 0 || selectedTags.has(key)) && key.includes(term))
+    .sort((first, second) =>
+      Number(selectedTags.has(second.key)) - Number(selectedTags.has(first.key)) ||
+      second.count - first.count || first.label.localeCompare(second.label)
+    );
+  tagList.replaceChildren(...options.map(({ key, label, count }) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.dataset.tag = key;
+    button.setAttribute("aria-pressed", String(selectedTags.has(key)));
+    const total = document.createElement("span");
+    total.className = "tag-count";
+    total.textContent = count.toLocaleString();
+    button.append(`${label} `, total);
+    return button;
+  }));
+  tagList.scrollTop = 0;
+  byID("no-tags").hidden = options.length > 0;
+}
+
+function openTagFilter() {
+  const counts = new Map([...selectedTags].map((tag) => [tag, 0]));
+  for (const take of takesMatchingFilters()) {
+    for (const tag of take.tagKeys) counts.set(tag, (counts.get(tag) ?? 0) + 1);
+  }
+  tagOptions = [...counts].map(([key, count]) => ({ key, label: availableTags.get(key), count }));
+  tagSearch.value = "";
+  renderTagOptions();
+  tagDialog.showModal();
+}
+
+function updateTagSelection() {
+  tagFilter.textContent = selectedTags.size ? `Tags (${selectedTags.size})` : "All tags";
+  clearTags.disabled = !selectedTags.size;
+  page = 0;
+  render();
+}
+
+function render() {
+  stopCardPreview?.();
+  const category = categories.get(categorySelect.value);
+  const tags = [...selectedTags];
+  const matches = takesMatchingFilters().filter((take) => tags.every((tag) => take.tagKeys.has(tag)));
   const count = matches.length;
   const pageSize = pageSizeSelect.value === "all" ? Math.max(1, count) : Number(pageSizeSelect.value);
   const pages = Math.ceil(count / pageSize);
@@ -225,6 +275,7 @@ function render() {
   byID("status").textContent = count
     ? `Showing ${start + 1}–${Math.min(start + pageSize, count)} of ${count.toLocaleString()} takes`
     : "No takes match your filters.";
+  byID("tag-results").textContent = count === 1 ? "1 matching take" : `${count.toLocaleString()} matching takes`;
   byID("pagination").hidden = pages <= 1;
   byID("page-number").textContent = `Page ${page + 1} of ${pages}`;
   byID("previous").disabled = page === 0;
@@ -244,7 +295,7 @@ async function initialize() {
     });
     return {
       ...take,
-      tagKeys,
+      tagKeys: new Set(tagKeys),
       searchText: [take.id, take.title, take.description, take.original, ...take.tags].join(" ").toLowerCase(),
     };
   });
@@ -255,14 +306,30 @@ async function initialize() {
   for (const filter of data.motionFilters ?? []) {
     motionFilterSelect.add(new Option(`${filter.name} (${filter.count})`, filter.id));
   }
-  const tagOptions = [...availableTags.values()].sort((first, second) => first.localeCompare(second));
-  byID("tag-options").append(...tagOptions.map((tag) => new Option(tag, tag)));
-
   byID("filters").addEventListener("submit", (event) => event.preventDefault());
   byID("filters").addEventListener("input", () => {
     page = 0;
     render();
   });
+  tagFilter.addEventListener("click", openTagFilter);
+  byID("close-tags").addEventListener("click", () => tagDialog.close());
+  tagSearch.addEventListener("input", renderTagOptions);
+  tagList.addEventListener("click", (event) => {
+    const button = event.target.closest("button[data-tag]");
+    if (!button) return;
+    const tag = button.dataset.tag;
+    if (selectedTags.has(tag)) selectedTags.delete(tag);
+    else selectedTags.add(tag);
+    button.setAttribute("aria-pressed", String(selectedTags.has(tag)));
+    updateTagSelection();
+  });
+  clearTags.addEventListener("click", () => {
+    selectedTags.clear();
+    renderTagOptions();
+    updateTagSelection();
+    byID("close-tags").focus();
+  });
+  tagFilter.disabled = false;
   for (const [id, delta] of [["previous", -1], ["next", 1]]) {
     byID(id).addEventListener("click", () => {
       page += delta;
