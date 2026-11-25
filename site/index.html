@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search and preview 2,548 takes from the CMU motion capture collection.">
+  <title>CMU Motion Catalog</title>
+  <link rel="stylesheet" href="catalog.css">
+  <script src="catalog.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div>
+        <h1>CMU Motion Catalog</h1>
+        <p>Explore 2,548 motion capture takes on the Default Human.</p>
+      </div>
+      <a class="download" href="https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.0.1/cmu-motion-catalog-v1.0.1.zip">Download catalog ZIP</a>
+    </div>
+  </header>
+  <main class="wrap">
+    <form id="filters" role="search">
+      <div class="search-field">
+        <label for="query">Search motions</label>
+        <input id="query" type="search" placeholder="Try “cartwheel” or “02_01”">
+      </div>
+      <div>
+        <label for="category">Category</label>
+        <select id="category"><option value="">All categories</option></select>
+      </div>
+      <label class="check"><input id="review-only" type="checkbox"> Needs review only</label>
+    </form>
+    <p id="category-description" class="category-description" hidden></p>
+    <p id="status" role="status">Loading motions…</p>
+    <div id="results" class="grid"></div>
+    <nav id="pagination" aria-label="Result pages" hidden>
+      <button id="previous" type="button">Previous</button>
+      <span id="page-number"></span>
+      <button id="next" type="button">Next</button>
+    </nav>
+    <noscript>Enable JavaScript to search and preview takes.</noscript>
+  </main>
+  <dialog id="detail" aria-labelledby="detail-title">
+    <div class="detail-top">
+      <span id="detail-id" class="take-id"></span>
+      <button id="close" type="button" autofocus>Close</button>
+    </div>
+    <h2 id="detail-title"></h2>
+    <p id="detail-meta"></p>
+    <img id="preview" width="256" height="256" alt="">
+    <button id="play" type="button" aria-pressed="false">Play preview</button>
+    <p id="description"></p>
+    <dl>
+      <dt>Original CMU description</dt><dd id="original"></dd>
+      <dt>Tags</dt><dd id="tags"></dd>
+    </dl>
+    <a id="take-link">Link to this take</a>
+  </dialog>
+  <footer class="wrap">
+    <p>The data used in this project was obtained from <a href="https://mocap.cs.cmu.edu/">mocap.cs.cmu.edu</a>. The database was created with funding from NSF EIA-0196217. MotionBuilder-friendly conversion by Bruce Hahne.</p>
+    <a href="https://github.com/jvcleave/CMUMotionCatalog">Catalog repository and credits</a>
+  </footer>
+</body>
+</html>

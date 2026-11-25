@@ -23,3 +23,21 @@ The source captures come from the [CMU Graphics Lab Motion Capture Database](htt
 The MotionBuilder-friendly BVH conversion is by Bruce Hahne.
 See the [CMU data terms](https://mocap.cs.cmu.edu/) and
 [cgspeed conversion notes](https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/the-motionbuilder-friendly-bvh-conversion-release-of-cmus-motion-capture-database/readme-file-for-the-bvh-conversion-release).
+
+## Catalog browser
+
+The GitHub Pages browser is built from the committed action reviews and the
+existing still and animated previews. Takes with open review notes appear with
+a **Needs review** label. The site artifact includes preview images and search
+metadata. The full BVH download remains available through Releases.
+
+For a local preview, build into a temporary directory and serve it over HTTP.
+
+```sh
+PAGES_PREVIEW="$(mktemp -d)"
+PYTHONDONTWRITEBYTECODE=1 python3 site/build.py "$PAGES_PREVIEW"
+python3 -m http.server 8000 --bind 127.0.0.1 --directory "$PAGES_PREVIEW"
+```
+
+Open `http://127.0.0.1:8000/`. To publish, set the repository’s Pages source to
+**GitHub Actions**. The Pages workflow deploys from `main`.
