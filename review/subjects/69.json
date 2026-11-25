@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "subject": "69",
+  "takes": [
+    {
+      "takeID": "69_01",
+      "sourceUUID": "BBA7DD42-D357-501A-B0D1-FDAEF02E1ABF",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "064de16c17a154c88b73eadecd4614e59d04ef3f8460d58785e20ceb9f4b807b",
+      "frameCount": 469,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward from standing",
+      "actionDescription": "The performer starts standing, then walks forward with alternating steps and relaxed arms, ending mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_02",
+      "sourceUUID": "AC361690-A80C-5E98-8A0E-ED4EA9C45914",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "dfa47b89b970624b2254f33389d14f1253e5a27e80836c0f23fc940549310eb9",
+      "frameCount": 343,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward",
+      "actionDescription": "Walks forward with alternating steps and arms relaxed at the sides, continuing through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_03",
+      "sourceUUID": "DB0F0F3A-30C4-5578-93C7-1B1C735D10B1",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "6ecb1cf36e606019a974cb2927015630619e38feafb50a2945e9d4effbb53da3",
+      "frameCount": 430,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward from standing",
+      "actionDescription": "The performer begins standing, then takes several forward steps with relaxed arms and ends mid-stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_04",
+      "sourceUUID": "78582379-1B4D-5672-989B-DDAA3E351E84",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "35602912da92cf986b613b1072d0a06b7fc23a1108a5c71f83a67835e31ecca5",
+      "frameCount": 426,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward from standing",
+      "actionDescription": "The performer starts upright, then walks forward in alternating steps with arms at the sides, ending during a step.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_05",
+      "sourceUUID": "393D80E5-A932-57FD-83D5-F70127261D62",
+      "sourceDescription": "walk forward",
+      "sourceSHA256": "721dfae1e33eda5b4389d1407c585e1a7ea168cfed413e0e4d3a8bfaaf393aa0",
+      "frameCount": 453,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward from standing",
+      "actionDescription": "Pauses upright, then walks forward with alternating strides and relaxed arms, continuing at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_06",
+      "sourceUUID": "40D7DDDB-A250-5044-BBD4-6512DBD9F48F",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "8e5c2e91410c33d7b548e3c002f90dabb18a4ea9a0ec43a78cc1c1e1da83ea62",
+      "frameCount": 5213,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Walks in short stretches and repeatedly turns to change direction, with arms relaxed at the sides.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_07",
+      "sourceUUID": "C02443E2-99BC-5FFF-82CC-39948D529D53",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "0f97aa2aee5109e6b77a5b8ab6ce3e65c9fb6247f1fc3ebd03b73e85cf588f9a",
+      "frameCount": 5240,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Walks several short stretches, repeatedly turning and changing facing direction with arms down.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_08",
+      "sourceUUID": "0CE3E287-1060-5385-A81E-A25C46BE92F3",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "38ad310f38f439c3d241c388b2f79de23e369eb04b91f50b18584c744047583a",
+      "frameCount": 5309,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Alternates short walking stretches with turns, repeatedly changing direction while keeping the arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_09",
+      "sourceUUID": "4374D866-753D-5DF4-A4E7-A49677A25E3A",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "c2315d34f0107eedb308a160a5a3ef327f515562f7bf46386c853f6e542d25d5",
+      "frameCount": 5106,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Walks in short intervals and turns repeatedly, shifting between front, side and back facings.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_10",
+      "sourceUUID": "4560EC29-CFDA-507D-B785-F31141782FA4",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "9608631ec8c0b9d2701c3b2ff4df9cc48e0497394b93c9280c78cd924142e43c",
+      "frameCount": 5745,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Takes short walking strides and repeatedly turns to face different directions, continuing to step at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
