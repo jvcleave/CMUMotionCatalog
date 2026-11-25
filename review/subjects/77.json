@@ -328,6 +328,166 @@
         "right leg"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_21",
+      "sourceUUID": "13CFD82F-5256-50F5-888E-E41FE7D39667",
+      "sourceDescription": "stretching",
+      "sourceSHA256": "65d37c539be7dca4fa8eeb0064b648150940cf4828f887be5dab2dbe561cac42",
+      "frameCount": 1310,
+      "frameInterval": 0.0083333,
+      "title": "Stretch and squat",
+      "actionDescription": "Lifts a knee and leg with arms spread for balance, opens both arms wide, drops into a deep squat and rises.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "stretch",
+        "squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_22",
+      "sourceUUID": "C930BDEB-9B2E-526B-8B6A-0E4086ECDF8B",
+      "sourceDescription": "limping, hurt right leg",
+      "sourceSHA256": "32fa332ab0accc4b08d3407a033fb3804d3eab7d2986669e02811a53e657a430",
+      "frameCount": 1425,
+      "frameInterval": 0.0083333,
+      "title": "Limp with bent posture",
+      "actionDescription": "Moves in uneven bent-knee steps, leaning forward and holding hands near the right leg, then stands.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_23",
+      "sourceUUID": "114A536E-EF84-5C08-9A28-263798BC958C",
+      "sourceDescription": "limping, hurt right leg",
+      "sourceSHA256": "98b87efa9ba508a6de5b50a0f208e39fc15203c6dfbeacded5741ad87db493f6",
+      "frameCount": 1592,
+      "frameInterval": 0.0083333,
+      "title": "Limp with hands near leg",
+      "actionDescription": "Leans forward, keeps hands near the right leg, and moves through uneven crouched steps and turns.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_24",
+      "sourceUUID": "1009E3C0-787D-53F7-A139-4426CE38EBC8",
+      "sourceDescription": "limping, hurt right leg",
+      "sourceSHA256": "b5d1c781d8961f6df9071b24ad32dce6530cb91ceb22e5e9acbfcd3a01386f13",
+      "frameCount": 716,
+      "frameInterval": 0.0083333,
+      "title": "Short limp and recovery",
+      "actionDescription": "Bends forward with hands near the right leg, makes several uneven low steps, then straightens.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_25",
+      "sourceUUID": "FD278AF9-B293-5477-9F4B-3E4A4A7A6D58",
+      "sourceDescription": "careful walk and search",
+      "sourceSHA256": "913edf36c461c7011afe42e190b4884ead885b1ceb7fb461aa4f63272039fad7",
+      "frameCount": 663,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Lowers into a crouch, steps carefully and extends an arm, then brings a hand to the brow as if looking.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_26",
+      "sourceUUID": "F9ADB862-BBD7-594C-8C33-E3854056ECBF",
+      "sourceDescription": "careful walk and search",
+      "sourceSHA256": "f108d5f8b268e01e3e9891de014d4158e40f3a50a590a0f3bedc7e91ea7b135c",
+      "frameCount": 651,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Crouches and moves in small steps, repeatedly lifting a hand to the brow to look around before rising.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_27",
+      "sourceUUID": "849DF4E9-B05D-5250-81DD-B8D21F5A8379",
+      "sourceDescription": "careful walk and search",
+      "sourceSHA256": "90cb573f41df69f59330fe95b438026f4f01bf563fdec32d31527137e9a65544",
+      "frameCount": 727,
+      "frameInterval": 0.0083333,
+      "title": "Cautious walk and search",
+      "actionDescription": "Steps and turns in a low stance, lifts a hand near the face to look, then straightens.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_28",
+      "sourceUUID": "2D8B6ADB-5286-569A-A5D6-676F77D3980E",
+      "sourceDescription": "careful walk",
+      "sourceSHA256": "33518938c33f34c188c0e0e937b28f33db50033222ae6967f2b90d9d16625984",
+      "frameCount": 2970,
+      "frameInterval": 0.0083333,
+      "title": "Careful walk with turns",
+      "actionDescription": "Walks slowly in small steps, repeatedly changing direction while keeping arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_29",
+      "sourceUUID": "3F314EAC-77BD-5798-A99C-2DB1CF409753",
+      "sourceDescription": "creeping walk",
+      "sourceSHA256": "cc9890bed61e690fc80e4d6663d049037ce7526f9200079415de04834fe6a10f",
+      "frameCount": 2104,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Lowers the torso and takes slow bent-knee steps, turning before standing upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_30",
+      "sourceUUID": "719F12B5-C513-5373-8AF6-31F0F1E2F330",
+      "sourceDescription": "creeping walk",
+      "sourceSHA256": "8fa587d5a6758d0d4a818b3da0073855b048f43503e873fdafeb495b4cf83ae5",
+      "frameCount": 1261,
+      "frameInterval": 0.0083333,
+      "title": "Creeping walk",
+      "actionDescription": "Walks in cautious small steps with bent knees and a forward lean, turning as the sequence continues.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "cautious"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
