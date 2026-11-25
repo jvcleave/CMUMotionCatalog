@@ -7,13 +7,14 @@ const reviewOnly = byID("review-only");
 const dialog = byID("detail");
 const preview = byID("preview");
 const play = byID("play");
-const pageSize = 30;
+const pageSizeSelect = byID("page-size");
 let takes = [];
 let categories = new Map();
 let takesByID = new Map();
 let page = 0;
 let activeTake;
 let playing = false;
+let stopCardPreview;
 
 function updatePreview() {
   preview.src = playing ? activeTake.animation : activeTake.thumbnail;
@@ -28,6 +29,7 @@ function syncDetail() {
     return;
   }
   if (take === activeTake && dialog.open) return;
+  stopCardPreview?.();
   activeTake = take;
   playing = false;
   byID("detail-id").textContent = take.id;
@@ -50,9 +52,11 @@ function syncDetail() {
 }
 
 function cardFor(take) {
-  const card = document.createElement("a");
+  const card = document.createElement("article");
   card.className = "card";
-  card.href = "#" + take.id;
+  const detailLink = document.createElement("a");
+  detailLink.className = "card-link";
+  detailLink.href = "#" + take.id;
   const image = document.createElement("img");
   image.src = take.thumbnail;
   image.loading = "lazy";
@@ -73,11 +77,38 @@ function cardFor(take) {
     copy.append(badge);
   }
   copy.append(title);
-  card.append(image, copy);
+  detailLink.append(image, copy);
+
+  const button = document.createElement("button");
+  button.className = "card-preview";
+  button.type = "button";
+  button.setAttribute("aria-label", "Quick preview for " + take.id);
+  button.setAttribute("aria-pressed", "false");
+  button.textContent = "Preview";
+
+  function stop() {
+    image.src = take.thumbnail;
+    button.textContent = "Preview";
+    button.setAttribute("aria-pressed", "false");
+    stopCardPreview = undefined;
+  }
+
+  button.addEventListener("click", () => {
+    const wasPlaying = stopCardPreview === stop;
+    stopCardPreview?.();
+    if (wasPlaying) return;
+    image.src = take.animation;
+    button.textContent = "Stop preview";
+    button.setAttribute("aria-pressed", "true");
+    stopCardPreview = stop;
+  });
+
+  card.append(detailLink, button);
   return card;
 }
 
 function render() {
+  stopCardPreview?.();
   const terms = query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const category = categories.get(categorySelect.value);
   const matches = takes.filter((take) =>
@@ -86,6 +117,7 @@ function render() {
     terms.every((term) => take.searchText.includes(term))
   );
   const count = matches.length;
+  const pageSize = pageSizeSelect.value === "all" ? Math.max(1, count) : Number(pageSizeSelect.value);
   const pages = Math.ceil(count / pageSize);
   page = Math.max(0, Math.min(page, pages - 1));
   const start = page * pageSize;

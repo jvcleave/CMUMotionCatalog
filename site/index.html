@@ -28,6 +28,16 @@
         <label for="category">Category</label>
         <select id="category"><option value="">All categories</option></select>
       </div>
+      <div>
+        <label for="page-size">Results per page</label>
+        <select id="page-size">
+          <option value="15">15</option>
+          <option value="30" selected>30</option>
+          <option value="60">60</option>
+          <option value="120">120</option>
+          <option value="all">All</option>
+        </select>
+      </div>
       <label class="check"><input id="review-only" type="checkbox"> Needs review only</label>
     </form>
     <p id="category-description" class="category-description" hidden></p>
