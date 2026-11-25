@@ -679,6 +679,186 @@
         "repeated"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_41",
+      "sourceUUID": "4D1B7908-3B52-5312-9DB9-B207C8437329",
+      "sourceDescription": "walk backward, turn in place",
+      "sourceSHA256": "4a5bcd5072a0832a3c8dbf4a44d3ecb39e5f7eca64c970ff5f4cec0cf8eb04b6",
+      "frameCount": 4700,
+      "frameInterval": 0.0083333,
+      "title": "Backward walking and turns in place",
+      "actionDescription": "Alternates backward steps with repeated turns in place, looking down while stepping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "backward",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_42",
+      "sourceUUID": "18A6D4BA-CFA4-54BA-9E9B-3BCA20C101D1",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "b1d5424adbc7145419d793bb2487d9a73a5b9fb5f5f548157515d0374788e3f1",
+      "frameCount": 5113,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Takes sideways steps and repeatedly turns to change facing, with arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_43",
+      "sourceUUID": "FC7D3049-0F61-5168-B548-827FC2917DBA",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "1ba5f65e5c0e63dd26071217a01ed212006df461bacfa2939579d75f1d5f4685",
+      "frameCount": 4966,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Alternates lateral steps and turns, moving between front, side and back facings.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_44",
+      "sourceUUID": "9309C8F3-4364-55B0-BF90-531A02C734D8",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "d0b74b22a5d0b2668825a90ec92afa39917d64887099fceed637b55672bf3a50",
+      "frameCount": 5651,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Steps sideways in short stretches and repeatedly turns before stepping again.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_45",
+      "sourceUUID": "C1C269E1-03A3-54DF-B23C-2EDE8B500A20",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "4dc642e286ffec96f852e0367540dfd2f92ccd913981a960aa4dead1af0f03cb",
+      "frameCount": 4756,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Repeats lateral steps and turns with arms down, shifting between wide and narrow stances.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_46",
+      "sourceUUID": "358A8299-9C0E-567F-9EA3-E807195A2A07",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "78ca0b0c9d1cc647e4aeacde3b212e9b32ec39834fd9256871cb2e712accb948",
+      "frameCount": 5697,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Steps sideways and turns repeatedly, continuing with small steps throughout.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_47",
+      "sourceUUID": "D17BD4EA-42BD-546B-8076-6BBBCED573A8",
+      "sourceDescription": "walk sideways and turn (repeated)",
+      "sourceSHA256": "1c80efc687763589baf8f21aaa6c13c514041295e3368be175740842cbb922d4",
+      "frameCount": 5293,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns",
+      "actionDescription": "Uses small steps and repeated turns, often looking down toward the feet.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "The rendered steps look mostly short and backward from this camera; the source labels the motion sideways. Confirm travel direction."
+    },
+    {
+      "takeID": "69_48",
+      "sourceUUID": "42274F0A-55BB-5B92-82EF-CB1B60B1BA36",
+      "sourceDescription": "walk sideways and turn (opposite direction)",
+      "sourceSHA256": "d7ad717932020362346324674db06e27413dac44515b9bbcd5bca954bfc7f790",
+      "frameCount": 5021,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns, opposite direction",
+      "actionDescription": "Steps sideways and repeatedly turns in the opposite direction, changing facing between short stretches.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_49",
+      "sourceUUID": "D11FEA4D-BD2E-5B3A-912C-50E1D8EB1814",
+      "sourceDescription": "walk sideways and turn (opposite direction)",
+      "sourceSHA256": "cf49a9578168a8e443b6fc607fe986645ebcc6e996f7b045bd2770de4d6aea69",
+      "frameCount": 5690,
+      "frameInterval": 0.0083333,
+      "title": "Repeated side steps and turns, opposite direction",
+      "actionDescription": "Repeats sideways steps and turns in the opposite direction, alternating wide and narrow stances.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "sideways",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_50",
+      "sourceUUID": "4F636454-2B6C-53DF-9568-74944304DC16",
+      "sourceDescription": "walk sideways and backwards",
+      "sourceSHA256": "8964925da6943d2da07bde803fe2a16c14b865bc71365f6adc2b01c2cc5b509f",
+      "frameCount": 526,
+      "frameInterval": 0.0083333,
+      "title": "Sideways and backward steps",
+      "actionDescription": "Takes lateral steps, turns, then steps backward with the head inclined downward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "sideways",
+        "backward"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
