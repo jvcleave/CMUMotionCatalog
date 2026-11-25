@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "subject": "128",
+  "takes": [
+    {
+      "takeID": "128_01",
+      "sourceUUID": "83DA8A87-074B-51E0-8F59-25EF53E1A544",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "61ba82983a820cae69819528fc789b3f878bdadfc92d77990442960c6ba74e41",
+      "frameCount": 325,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle reference pose with raised forearms",
+      "actionDescription": "The performer holds a staggered, bent-knee pose with both forearms raised in front.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_02",
+      "sourceUUID": "32143A61-0FDC-563D-B31C-00D8AB0BB784",
+      "sourceDescription": "Run Left",
+      "sourceSHA256": "f4f51b545781e1e78abf01d9ac20c48d6122b9170de024b3a0a98c748f6c4dac",
+      "frameCount": 167,
+      "frameInterval": 0.0083333,
+      "title": "Run through a left angle",
+      "actionDescription": "The performer changes heading to the left in several quick running steps, maintaining bent arms and an upright finish.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "left cut",
+        " running turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_03",
+      "sourceUUID": "6FEBE24F-DE5E-54AC-BEC0-171246A0160F",
+      "sourceDescription": "Run Right",
+      "sourceSHA256": "26ca2a4e54e68a99ed30a2ab3fb87385d53ffe8ed2eb6f39053c1a2b9f7421ea",
+      "frameCount": 164,
+      "frameInterval": 0.0083333,
+      "title": "Run through a right angle",
+      "actionDescription": "The performer leans right through a run and lengthens the stride out of the turn.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "right cut",
+        " running turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_04",
+      "sourceUUID": "B8761FBE-2237-5F94-8971-7BC74B18CDE5",
+      "sourceDescription": "Run Duck Underneath",
+      "sourceSHA256": "49f7fdb97f3184b152eb0e19fce201433631310741f34218c759669d6c08968d",
+      "frameCount": 136,
+      "frameInterval": 0.0083333,
+      "title": "Brief running duck under",
+      "actionDescription": "The performer lowers sharply from a run, reaches one hand down while ducking, and immediately resumes a full stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "duck under",
+        " low reach",
+        " run-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_05",
+      "sourceUUID": "7E6729DE-722B-5C49-B2C2-634936837D21",
+      "sourceDescription": "Run Stop Run",
+      "sourceSHA256": "add3b2eda4e42db849546c45503b3ee9cb2f843e685773e8ee1099246de4d3d5",
+      "frameCount": 209,
+      "frameInterval": 0.0083333,
+      "title": "Run, briefly stop, and accelerate",
+      "actionDescription": "The performer brakes into a compact stance, pauses, then leans forward and runs again.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop run",
+        " brief pause",
+        " acceleration"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_06",
+      "sourceUUID": "BF9FA575-01EA-5739-B761-D2E35E43BE12",
+      "sourceDescription": "Run Stop Run",
+      "sourceSHA256": "f60c686fc735e03802f239a59c2687396a087a2d4835d3cd8b6eff6cec147451",
+      "frameCount": 197,
+      "frameInterval": 0.0083333,
+      "title": "Run stop and restart with one forearm out",
+      "actionDescription": "The performer brings one arm forward while braking into short steps, then reverses the weight shift and runs again.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop run",
+        " braking",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_07",
+      "sourceUUID": "0F9CCC84-004E-5718-AF71-121A09C173D3",
+      "sourceDescription": "Run Stop Run",
+      "sourceSHA256": "49168b813a0d7e701bfef9ab1b5a6eb05ab4d9255cf5c70bb16d93051d1506da",
+      "frameCount": 346,
+      "frameInterval": 0.0083333,
+      "title": "Run into a longer standing pause and restart",
+      "actionDescription": "The performer brakes with bent knees, waits with arms lowered, then pushes into a run again.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop run",
+        " standing pause",
+        " restart"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_08",
+      "sourceUUID": "31AADCF8-E998-51E2-AFF9-87BA01CA5BA9",
+      "sourceDescription": "Run Stop Run",
+      "sourceSHA256": "74d13e87293bcee71f91659274931c47b7632564b1e55fb3953a218115dbced0",
+      "frameCount": 330,
+      "frameInterval": 0.0083333,
+      "title": "Run stop and restart after a weight shift",
+      "actionDescription": "The performer slows through a soft-knee stance, waits upright, then shifts forward into a running stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run stop run",
+        " weight shift",
+        " restart"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_09",
+      "sourceUUID": "B166041E-A357-5C75-AAB6-D2FD698156AE",
+      "sourceDescription": "Run Roll Underneath",
+      "sourceSHA256": "eae1b4fca30c97bcef23690b16777210425359afd42f5dd9261f6b408f95faa1",
+      "frameCount": 172,
+      "frameInterval": 0.0083333,
+      "title": "Run into a low forward floor roll",
+      "actionDescription": "The performer folds from running into a low hand-supported drop and rolls forward onto the back, remaining on the floor.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "running roll",
+        " roll under",
+        " floor finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_10",
+      "sourceUUID": "C556B002-A358-582E-8507-F5749CAD2FE3",
+      "sourceDescription": "Run Dive Over Roll Run",
+      "sourceSHA256": "ca3a53f9d9cfd64bbfe5e7f8ef9155689c308c6fea5f61f18993f6177ffe12c2",
+      "frameCount": 427,
+      "frameInterval": 0.0083333,
+      "title": "Running dive roll with a crouched pause",
+      "actionDescription": "The performer dives into a tuck, rolls up to a hand-braced crouch, then stands and runs out.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "dive roll",
+        " crouch",
+        " run-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "128_11",
+      "sourceUUID": "F8DDAB7C-BB1D-59F2-BC02-DDD7984E021B",
+      "sourceDescription": "Run Dive Over Roll Run",
+      "sourceSHA256": "7303677b4d3d0d162b05d71d8db81770594cde1ed36924abcbeffcf744f942c6",
+      "frameCount": 378,
+      "frameInterval": 0.0083333,
+      "title": "Running dive roll into an upright step",
+      "actionDescription": "The performer drops quickly from a run, rolls over a shoulder, rises through a low seat, and resumes running.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "dive roll",
+        " shoulder roll",
+        " run-out"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
