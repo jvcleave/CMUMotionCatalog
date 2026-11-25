@@ -19,7 +19,9 @@ const SOURCE_NAMES = new Map(JOINTS.map(([target, source]) => [target, source]))
 const METERS_PER_CMU_UNIT = 0.0254 / 0.45;
 
 export async function loadCharacter(skeleton, reference, signal) {
-  const response = await fetch(new URL("./model.glb", import.meta.url), { signal });
+  const url = new URL("./model.glb", import.meta.url);
+  url.search = new URL(import.meta.url).search;
+  const response = await fetch(url, { signal });
   if (!response.ok) throw new Error(`Character request failed (${response.status})`);
   const { scene } = await new GLTFLoader().parseAsync(await response.arrayBuffer(), "");
   const meshes = [];

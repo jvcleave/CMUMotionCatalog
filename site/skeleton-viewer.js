@@ -47,6 +47,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
   rig.scale.setScalar(sourceScale);
   const renderer = new THREE.WebGLRenderer({ antialias: true });
   const canvas = renderer.domElement;
+  canvas.setAttribute("aria-label", "3D source skeleton. Drag to orbit and scroll to zoom.");
   canvas.tabIndex = 0;
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
   viewport.append(canvas);
@@ -144,7 +145,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
     characterLoading = true;
     const { signal } = characterRequest;
     try {
-      const { loadCharacter } = await import("./character-view.js");
+      const { loadCharacter } = await import(`./character-view.js${new URL(import.meta.url).search}`);
       signal.throwIfAborted();
       character = await loadCharacter(skeleton, reference, signal);
       if (signal.aborted) {
@@ -179,10 +180,10 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
   play.addEventListener("click", togglePlay);
   scrubber.addEventListener("input", seek);
   reset.addEventListener("click", resetView);
-  view.addEventListener("change", changeView);
+  view?.addEventListener("change", changeView);
   orbit.addEventListener("change", render);
   canvas.addEventListener("webglcontextlost", onUnavailable);
-  changeView();
+  if (view) changeView();
 
   return () => {
     characterRequest.abort();
@@ -192,7 +193,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
     play.removeEventListener("click", togglePlay);
     scrubber.removeEventListener("input", seek);
     reset.removeEventListener("click", resetView);
-    view.removeEventListener("change", changeView);
+    view?.removeEventListener("change", changeView);
     orbit.removeEventListener("change", render);
     canvas.removeEventListener("webglcontextlost", onUnavailable);
     orbit.dispose();
@@ -205,3 +206,6 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
     canvas.remove();
   };
 }
+
+// An already-open catalog can still request its original viewer entry point.
+export { showMotion as showSkeleton };

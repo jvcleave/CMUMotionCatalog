@@ -1,6 +1,7 @@
 "use strict";
 
 const byID = (id) => document.getElementById(id);
+const assetRevision = new URL(document.currentScript.src).search;
 const query = byID("query");
 const categorySelect = byID("category");
 const motionFilterSelect = byID("motion-filter");
@@ -69,7 +70,7 @@ async function toggleSkeletonPreview() {
   const motion = activeTake.motion;
   try {
     const [{ showMotion }, text] = await Promise.all([
-      import("./skeleton-viewer.js"),
+      import(`./skeleton-viewer.js${assetRevision}`),
       fetch(motion.url, { signal }).then((response) => {
         if (!response.ok) throw new Error(`BVH request failed (${response.status})`);
         return response.text();

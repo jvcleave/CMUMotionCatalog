@@ -2,6 +2,7 @@
 
 import argparse
 from collections import Counter
+from hashlib import sha256
 import json
 from pathlib import Path
 import re
@@ -61,10 +62,17 @@ def build(output):
         raise ValueError("The Pages catalog requires an annotation for every take.")
 
     output.mkdir(parents=True, exist_ok=True)
-    for filename in (
-        "index.html", "catalog.css", "catalog.js", "skeleton-viewer.js", "character-view.js", "model.glb",
-    ):
-        shutil.copyfile(ROOT / "site" / filename, output / filename)
+    site = ROOT / "site"
+    assets = ("catalog.css", "catalog.js", "skeleton-viewer.js", "character-view.js", "model.glb")
+    revision = sha256()
+    for filename in assets:
+        asset = (site / filename).read_bytes()
+        revision.update(sha256(asset).digest())
+        (output / filename).write_bytes(asset)
+    html = (site / "index.html").read_text(encoding="utf-8")
+    (output / "index.html").write_text(
+        html.replace("ASSET_REVISION", revision.hexdigest()[:12]), encoding="utf-8",
+    )
 
     takes = []
     for take in catalog:
