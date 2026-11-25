@@ -165,6 +165,169 @@
         "crouch"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_11",
+      "sourceUUID": "9E5498C0-2E48-5990-AF31-88A16267AC95",
+      "sourceDescription": "careful run",
+      "sourceSHA256": "d27fc38525bdb633d087313a045426b59dfab4315648d40e8a9f1a45dd45cccb",
+      "frameCount": 320,
+      "frameInterval": 0.0083333,
+      "title": "Short cautious run",
+      "actionDescription": "The performer starts standing, runs a few quick steps, then slows into a bent-knee ready stance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "cautious"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_12",
+      "sourceUUID": "97AE89A2-6C82-5B0D-A481-7B1F4B8842AF",
+      "sourceDescription": "careful run in circle",
+      "sourceSHA256": "c2faa180e04f3e3e065de29d673b5fcb37780a1c6c1583b61adea11639503530",
+      "frameCount": 978,
+      "frameInterval": 0.0083333,
+      "title": "Cautious run in a circle",
+      "actionDescription": "Runs along a curving path with bent arms, slows and comes to a stand.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "circle"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_13",
+      "sourceUUID": "B5A8C9C0-0207-517B-9007-FE232171183E",
+      "sourceDescription": "careful run in figure eight",
+      "sourceSHA256": "90768329492e7f83e9354cac4a21c2a79b0c00af54988232c64d477b96435cae",
+      "frameCount": 1387,
+      "frameInterval": 0.0083333,
+      "title": "Cautious run in a figure eight",
+      "actionDescription": "Runs along a changing curved path, leaning into turns, then slows to a stand.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "figure eight"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_14",
+      "sourceUUID": "588FBDB3-C8DC-58F4-BE77-159E7941D58C",
+      "sourceDescription": "careful creeping",
+      "sourceSHA256": "52edb8ed5e6e51d7eda5df39caadca0e316001e7c5d6b261cecf96466eac11ee",
+      "frameCount": 990,
+      "frameInterval": 0.0083333,
+      "title": "Cautious creeping",
+      "actionDescription": "Moves in small bent-knee steps with the torso leaning forward and hands held low.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "creep",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_15",
+      "sourceUUID": "D75D8DD4-9DEB-5CF0-B772-4E54DE9F87D3",
+      "sourceDescription": "careful creeping",
+      "sourceSHA256": "ec07b8c4c8831a70dcc661ce63c83476aeebb43094d5cd1c81fa382d9b6aa1dd",
+      "frameCount": 1078,
+      "frameInterval": 0.0083333,
+      "title": "Cautious creeping",
+      "actionDescription": "Takes small careful steps in a low stance, shifting side to side with hands forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "creep",
+        "crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_16",
+      "sourceUUID": "37227C89-A1E5-594B-8CF3-E9F42AD8CCF3",
+      "sourceDescription": "laying down, getting up, careful ready pose",
+      "sourceSHA256": "ed3b10df446bc12caa2666f625f1fdb190f63b12c0caae9daaddfa7748fb135e",
+      "frameCount": 653,
+      "frameInterval": 0.0083333,
+      "title": "Rise from floor to ready stance",
+      "actionDescription": "The performer starts lying on the floor, pushes up through hands and feet into a squat, then rises into a wide ready stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "floor",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_17",
+      "sourceUUID": "0A0A2B04-39EC-5999-B80D-E2D77065CC6F",
+      "sourceDescription": "laying down, getting up, careful ready pose",
+      "sourceSHA256": "daa113458112ea6cd9e33ddf85c4d7cf89af5105c981ed9f913d014ec789a727",
+      "frameCount": 719,
+      "frameInterval": 0.0083333,
+      "title": "Rise from floor to ready stance",
+      "actionDescription": "Pushes up from lying on the floor, brings the feet under the body, and rises into a wide bent-knee stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "floor",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_18",
+      "sourceUUID": "898A76B3-DC68-564B-ADE7-4E3667CCD92C",
+      "sourceDescription": "laying down on back, getting up, careful ready pose",
+      "sourceSHA256": "32bda531c094690b86e7aad23312a2e839afe2a621452d2bab2c99fdbe2a553d",
+      "frameCount": 854,
+      "frameInterval": 0.0083333,
+      "title": "Rise from back to ready stance",
+      "actionDescription": "The performer starts lying on the back, curls up to sitting, plants the hands and feet, then rises into a cautious bent-knee stance.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "get up",
+        "lying on back",
+        "ready stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_19",
+      "sourceUUID": "8B1D6635-6E1E-5AB1-B29E-A173505C1E75",
+      "sourceDescription": "limping, hurt right leg",
+      "sourceSHA256": "a207c66613bbd1651ed23c0a6d21788d0a43a1f716f53da94016d7d2a3826470",
+      "frameCount": 1000,
+      "frameInterval": 0.0083333,
+      "title": "Limp with hands near leg",
+      "actionDescription": "Moves in low uneven steps, leaning forward and holding hands near the right leg, then bends farther over it.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "77_20",
+      "sourceUUID": "069E8FD4-3FD3-5D56-9B8A-B9A5143D01F2",
+      "sourceDescription": "limping, hurt right leg",
+      "sourceSHA256": "84d66c93e09861e2f94fdbbaddf7960bc760223feab43732fbfe09cb69ef46b7",
+      "frameCount": 1570,
+      "frameInterval": 0.0083333,
+      "title": "Limp with bent posture",
+      "actionDescription": "Moves with uneven bent-knee steps, holds hands near the leg and bends forward before straightening.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "limp",
+        "right leg"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
