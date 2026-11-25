@@ -1216,6 +1216,156 @@
         "use a handheld device"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_81",
+      "sourceUUID": "9A35976B-20C8-5A14-876E-AA9831A70FA7",
+      "sourceDescription": "brushing teeth",
+      "sourceSHA256": "c371219b2a64452251d5c930699a51232cf4854f704da8ccbb46c8795ef2b026",
+      "frameCount": 940,
+      "frameInterval": 0.0083333,
+      "title": "Brush teeth mime",
+      "actionDescription": "Works the hands near the waist, then repeatedly moves one hand at the mouth as if brushing teeth.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "brush teeth"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_82",
+      "sourceUUID": "53FBC17D-A56D-5907-BC80-A85C3A0B9150",
+      "sourceDescription": "putting on deoderant",
+      "sourceSHA256": "f991ce76f6523fab1a33cc3d1b271d034167fdd5e5f7c08bd04a3b0eb2d21329",
+      "frameCount": 767,
+      "frameInterval": 0.0083333,
+      "title": "Apply deodorant mime",
+      "actionDescription": "Raises an arm near the head and moves the other hand under it, then changes position and lowers both.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "apply deodorant"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_83",
+      "sourceUUID": "C851655D-A420-5F1E-BF2C-F8D9F1A7754C",
+      "sourceDescription": "shaving",
+      "sourceSHA256": "1db62fb4664cfa2a88e05999ff54585763f4f7895e390057a2a042c348d33b96",
+      "frameCount": 1198,
+      "frameInterval": 0.0083333,
+      "title": "Shave mime",
+      "actionDescription": "After an arms-out start, moves one hand repeatedly along the face and chin, lowering it between strokes.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "shave"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_84",
+      "sourceUUID": "8B743793-450F-55D1-907D-0B9D656D1C24",
+      "sourceDescription": "combing hair",
+      "sourceSHA256": "e1b84788fc99ff3aa675ee935ed71a5191b4245dffb6cacf186da023d15cade1",
+      "frameCount": 876,
+      "frameInterval": 0.0083333,
+      "title": "Comb hair mime",
+      "actionDescription": "Raises both hands to the head and repeatedly moves them over the hair, then lowers them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "comb hair"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_85",
+      "sourceUUID": "B72D90FF-2A45-545C-A774-76F0D4DC4350",
+      "sourceDescription": "typing on a laptop",
+      "sourceSHA256": "410a490550951e2d3ff6621bad8797c7fcf88ca67a25f90d3bc3ffee7ae56101",
+      "frameCount": 1049,
+      "frameInterval": 0.0083333,
+      "title": "Type on a laptop mime",
+      "actionDescription": "Holds both hands in front of the waist and makes repeated small typing motions before lowering the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "type on a laptop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_86",
+      "sourceUUID": "71266601-0F3A-5507-8533-A06B0C620EEE",
+      "sourceDescription": "shooting bow and arrow",
+      "sourceSHA256": "fabe071c2c3fb0a636035cca5d82ff282f851d711cf1b3736e2b12d355283056",
+      "frameCount": 681,
+      "frameInterval": 0.0083333,
+      "title": "Shoot a bow and arrow mime",
+      "actionDescription": "Extends one arm, draws the other hand back toward the face, holds the aim, then lowers both arms.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "shoot a bow and arrow"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_87",
+      "sourceUUID": "3F884338-C3CC-5B98-9AA7-B6418AF135A1",
+      "sourceDescription": "raking",
+      "sourceSHA256": "1ec46317f032d9442c5a3ee6bbc9bdec5ff0f0d28cc922a2b0631ef67a0e80d5",
+      "frameCount": 791,
+      "frameInterval": 0.0083333,
+      "title": "Rake mime",
+      "actionDescription": "Bends forward and repeatedly moves both hands in low pulling motions as if raking, then straightens.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "rake"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_88",
+      "sourceUUID": "A39B2746-2006-5EB1-868D-D59845D677E1",
+      "sourceDescription": "swatting at a fly",
+      "sourceSHA256": "e4704069f95153502a7f173261fefcc342997f01d6b665d64c0aad7ab32c6164",
+      "frameCount": 907,
+      "frameInterval": 0.0083333,
+      "title": "Swat a fly mime",
+      "actionDescription": "Looks upward and makes several quick swatting gestures with one hand before lowering it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "swat a fly"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_89",
+      "sourceUUID": "30A95257-B81A-5333-8CAD-962962A6DC97",
+      "sourceDescription": "holding a baby",
+      "sourceSHA256": "cd1fc2e57b6b3b3753f1b6b6133df0c400c012a347fd263da392798ff8657de6",
+      "frameCount": 885,
+      "frameInterval": 0.0083333,
+      "title": "Hold a baby mime",
+      "actionDescription": "Cradles both arms in front of the torso, looks down and gently rocks, then lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hold a baby"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_90",
+      "sourceUUID": "792C6847-5AC9-5547-A17E-5571E8955DBA",
+      "sourceDescription": "washing",
+      "sourceSHA256": "7560275de31b9d834e8c05ad8976c35ffef6cdfbd3d73656b45d3cc25cdd3786",
+      "frameCount": 1358,
+      "frameInterval": 0.0083333,
+      "title": "Washing mime",
+      "actionDescription": "Moves the hands across the body and around the head in a sequence of washing gestures, then relaxes.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "washing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
