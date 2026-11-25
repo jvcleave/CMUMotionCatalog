@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "subject": "78",
+  "takes": [
+    {
+      "takeID": "78_01",
+      "sourceUUID": "0CF5AAB8-726B-5A1B-914A-23473B53A0EF",
+      "sourceDescription": "LeftTightTurn         CleanedGRS",
+      "sourceSHA256": "fa4dc5f1fe905648cb80eb36ec573b10699edfd96dc0a7dc5a6e92174a5d87d9",
+      "frameCount": 169,
+      "frameInterval": 0.0083333,
+      "title": "Tight left turn",
+      "actionDescription": "Shifts from a bent-knee stance into quick steps, leaning through a tight left turn and continuing mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_02",
+      "sourceUUID": "CBD39D18-2A12-5D71-9E9F-80478EADD276",
+      "sourceDescription": "RightWideTurn            CleanedGRS",
+      "sourceSHA256": "00c863d8a9d1a950616d9f99036182a1f0e999eb72067ead990988f43acf63a3",
+      "frameCount": 277,
+      "frameInterval": 0.0083333,
+      "title": "Wide right turn",
+      "actionDescription": "Pushes off from a bent-knee stance and runs through a wide right turn, continuing mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_03",
+      "sourceUUID": "898D5D92-4775-5EDA-B310-E3DAC50B52FD",
+      "sourceDescription": "LeftWideTurn     CleanedGRS",
+      "sourceSHA256": "ec5276eff6350e02e0e6fa4a39e65d80f36ffb490a2898e75f113df23c1c149e",
+      "frameCount": 174,
+      "frameInterval": 0.0083333,
+      "title": "Wide left turn",
+      "actionDescription": "Runs through a wide left turn with the torso leaning and arms moving for balance, ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_04",
+      "sourceUUID": "2C8F550F-5D1C-537C-AD77-7B737FE2AFF2",
+      "sourceDescription": "SuperTightLeft        CleanedGRS",
+      "sourceSHA256": "7c5969d5ac31359600d7cead5bac817177fd0f04d2bace533446886d1fba6681",
+      "frameCount": 152,
+      "frameInterval": 0.0083333,
+      "title": "Very tight left turn",
+      "actionDescription": "Plants in a wide stance, pivots sharply left and accelerates into running steps.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_05",
+      "sourceUUID": "6F9E78FD-E8C2-5DE7-B95F-B8E55B75DDF3",
+      "sourceDescription": "SuperTightRight         CleanedGRS",
+      "sourceSHA256": "d407473f6dd634c18b11f67a3b6c375223de07ca52332ba33956b9c8912ef7c8",
+      "frameCount": 167,
+      "frameInterval": 0.0083333,
+      "title": "Very tight right turn",
+      "actionDescription": "Lowers into a wide plant, turns sharply right and pushes into running steps.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_06",
+      "sourceUUID": "3E2136D7-A424-51C6-AB92-0FBF0686ACE5",
+      "sourceDescription": "RunningStraight       CleanedGRS",
+      "sourceSHA256": "597c92ff5fd606a3ae8cdef15f4074e17eafb322d172fbe563e884c483e55e38",
+      "frameCount": 109,
+      "frameInterval": 0.0083333,
+      "title": "Run straight",
+      "actionDescription": "Runs straight with alternating strides and bent arms, beginning and ending in motion.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "straight"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_07",
+      "sourceUUID": "E8BEAF95-250B-519F-897C-80CC7032A22E",
+      "sourceDescription": "RunningWideRight       CleanedGRS",
+      "sourceSHA256": "5833bba0f6c89efd74c7d212ebd4480d240680b7197793818eeacda291435568",
+      "frameCount": 141,
+      "frameInterval": 0.0083333,
+      "title": "Run through a wide right turn",
+      "actionDescription": "Runs with alternating strides while leaning through a broad rightward curve.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_08",
+      "sourceUUID": "E4E56551-EF4F-52CE-A3D7-2F4CF060A3E3",
+      "sourceDescription": "RunningWideLeft      CleanedGRS",
+      "sourceSHA256": "3b772fb8af8a7a8453cba2a50cb5fcac14a22b6d404642dc1ae7e955b26832b1",
+      "frameCount": 112,
+      "frameInterval": 0.0083333,
+      "title": "Run through a wide left turn",
+      "actionDescription": "Runs with alternating strides through a broad leftward curve, ending in motion.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_09",
+      "sourceUUID": "9E12028C-CF42-5BAA-8E0C-AE0724FED1A3",
+      "sourceDescription": "RunningTigherLeft      CleanedGRS",
+      "sourceSHA256": "3a18b6aa6b458ae51c70446e059e659ba459b0f99a36621ddcd39349191937d0",
+      "frameCount": 151,
+      "frameInterval": 0.0083333,
+      "title": "Run through a tight left turn",
+      "actionDescription": "Runs and leans into a tight left turn, continuing with quick strides.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_10",
+      "sourceUUID": "D3A62B51-2505-5D8F-B56B-9120C3BA7B6D",
+      "sourceDescription": "RunningTighterRight      CleanedGRS",
+      "sourceSHA256": "0eab85379aa1fc1b2b638f8400755b2d416e8bde43322e335db8f7e4b9a2bcf4",
+      "frameCount": 140,
+      "frameInterval": 0.0083333,
+      "title": "Run through a tight right turn",
+      "actionDescription": "Runs and leans through a tighter rightward curve, continuing mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run",
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
