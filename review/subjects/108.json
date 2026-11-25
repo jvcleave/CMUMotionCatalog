@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "subject": "108",
+  "takes": [
+    {
+      "takeID": "108_01",
+      "sourceUUID": "32693594-8902-5ED0-9097-1B525C5D454F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "e2e1836e7f042647ff5a729fd8001285fbb456be35a7cc2a18a57e9ef42ea12a",
+      "frameCount": 723,
+      "frameInterval": 0.0083333,
+      "title": "Short walk between standing pauses",
+      "actionDescription": "The performer waits with arms at the sides, takes a few even steps, and returns to a quiet stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk start",
+        " steady steps",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_02",
+      "sourceUUID": "EEE5B760-F10C-5BCD-AB48-A1D4A033E02E",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "4804b0e9ee3fea7b3adc60be070d3cef18e0b3029200425e5f0d81749fb894a2",
+      "frameCount": 1144,
+      "frameInterval": 0.0083333,
+      "title": "Walk with relaxed arm swing",
+      "actionDescription": "The performer moves from an upright stance into a consistent walking rhythm, letting the arms swing gently, and continues through the final stride.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "steady walk",
+        " relaxed arms",
+        " continuing walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_03",
+      "sourceUUID": "39D77B26-7E9F-5294-A7A1-D9CBBB765E3F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "64bd166ae757a34cdae2003f7b2e9306ccf9f0e5aa9924a5c847138dc0ac6aef",
+      "frameCount": 1227,
+      "frameInterval": 0.0083333,
+      "title": "Walk through repeated even strides",
+      "actionDescription": "The performer walks with an easy cadence across the take, keeping the arms low and the torso upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "steady walk",
+        " even strides",
+        " quiet arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_04",
+      "sourceUUID": "BC8021F9-24D9-55F0-A9C8-191AE7CCD3F6",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "1d907110389f4cfe13dafd3a61d97adf7eee3064023dfce1e4e616683fd2914b",
+      "frameCount": 184,
+      "frameInterval": 0.0083333,
+      "title": "Continuous jog with bent elbows",
+      "actionDescription": "The performer jogs throughout the clip, alternating heel lifts and keeping the elbows flexed near the body.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "continuous jog",
+        " heel lift",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_05",
+      "sourceUUID": "566C5B60-18AB-5EC4-9949-DC8F53CB012B",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "3782522dba2885b9bae760682d6a4a0db8c54a6350773ba99cc8c24782a9dce5",
+      "frameCount": 183,
+      "frameInterval": 0.0083333,
+      "title": "Steady jog with compact steps",
+      "actionDescription": "The performer keeps an even, quick rhythm through successive short running strides, carrying the forearms close to the torso.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "steady jog",
+        " compact steps",
+        " arm drive"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_06",
+      "sourceUUID": "708CC544-4D88-57F5-A060-E5A9196D7F61",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "87a9eb0f26bd8c959655481a10cfd63a005b6e20a5cce9d86e98869f4c74ba25",
+      "frameCount": 189,
+      "frameInterval": 0.0083333,
+      "title": "Continuous jog with short arm swing",
+      "actionDescription": "The performer takes repeated springy jogging strides, with flexed elbows and a short alternating arm swing.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "continuous jog",
+        " arm swing",
+        " springy stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_07",
+      "sourceUUID": "74CCA49A-F41C-56FD-9370-D9811C31D79E",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "7578402d1d6f61a652380be2d66bcd618bd999694926fdc2b030b7bc195b35bd",
+      "frameCount": 223,
+      "frameInterval": 0.0083333,
+      "title": "Jog through a direction change",
+      "actionDescription": "The performer stays in a jogging rhythm while changing facing, leaning slightly and stepping across into the new direction.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jogging turn",
+        " direction change",
+        " body lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_08",
+      "sourceUUID": "4B4E8216-1DC0-54D1-AE0F-A7AF63A5A73F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "a3eb0dc938966dbdf2fdc867404bdfd37267e464a4f7299d3980f7843018d6f0",
+      "frameCount": 225,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a side-on heading",
+      "actionDescription": "The performer turns while jogging, then continues with a longer alternating stride in profile.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jogging turn",
+        " side-on run",
+        " long stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_09",
+      "sourceUUID": "4074A88B-EF7F-58AF-9643-34288355FC6C",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "1d28d00db8268438439bbe227a3cb62c25163de1f85339335af46b357ed12788",
+      "frameCount": 251,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a jog",
+      "actionDescription": "The performer begins with small walking steps and relaxed arms, then bends the elbows and speeds into an even jog.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "walk to jog",
+        " acceleration",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_10",
+      "sourceUUID": "5B382917-BF5D-5543-98FA-7E19222F16FD",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "cc539318451dffa8f3be651dee5cf0e0edf814970ff15383cff0eb4fa46347b8",
+      "frameCount": 238,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a relaxed walk",
+      "actionDescription": "The performer slows from a jogging cadence to shorter walking strides and gradually drops the forearms.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog to walk",
+        " deceleration",
+        " arm lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_11",
+      "sourceUUID": "53C6C6A5-270B-5E2E-A614-585906E7E848",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "cac76cba85d124f3960ae7c72c8cc8b69066addeab63766ae4302594e56f8d53",
+      "frameCount": 244,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a slow walk",
+      "actionDescription": "The performer eases out of a quicker jog, straightens the torso and lowers the arms, and finishes at a walk.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog to walk",
+        " pace change",
+        " walk-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_12",
+      "sourceUUID": "A9754D2C-6831-5D59-ADA7-3EF4FD18624A",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "5e00f0b3675f9ec8516e4d85c3d55c920d52d6db9ba240fe86f36c3ea1b42126",
+      "frameCount": 137,
+      "frameInterval": 0.0083333,
+      "title": "Fast continuous run",
+      "actionDescription": "The performer runs through the clip with quick strides, high heel recovery and bent elbows.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "fast run",
+        " heel recovery",
+        " continuous stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_13",
+      "sourceUUID": "1B3012B6-24AC-5082-9B7D-C150B2F19ACD",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "cdbc9bb06093affa07a8a888c9702b01490564b9e07534b5c41bb6c5ab2461d2",
+      "frameCount": 156,
+      "frameInterval": 0.0083333,
+      "title": "Run with a change of heading",
+      "actionDescription": "The performer keeps running while turning toward a new direction, shifting weight through several quick steps.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "running turn",
+        " heading change",
+        " quick steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_14",
+      "sourceUUID": "E5BC814A-97D1-524D-997B-678373DD2342",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "6284d874677930e8636956057d5d0a6aa37b7fd78c9916c16bebae2d750cef3e",
+      "frameCount": 176,
+      "frameInterval": 0.0083333,
+      "title": "Run through a turn into profile",
+      "actionDescription": "The performer turns while running and continues through several longer strides with the elbows flexed.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "running turn",
+        " profile run",
+        " long strides"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_15",
+      "sourceUUID": "B401328E-307D-5CD1-A658-EDF23DAB26F8",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "e6ade55aa9e3f95fe9ff863ad7cbd527bc8963c6be4729e9feea12682ccfbc4f",
+      "frameCount": 356,
+      "frameInterval": 0.0083333,
+      "title": "Jog, two-foot jump, and resume",
+      "actionDescription": "The performer slows from a jog, swings the arms back into a deep dip, jumps with both feet, then lands and resumes jogging.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "two-foot jump",
+        " squat takeoff",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_16",
+      "sourceUUID": "EAA58F06-96A9-58D6-A12F-75CCD041B1E8",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "5a23294f15eb98b7f5121eb261bca76687610396f07fbc21b81167107b52d004",
+      "frameCount": 353,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a vertical jump",
+      "actionDescription": "The performer takes several braking steps, crouches with the arms behind, springs upward, and returns to a jog after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " braking steps",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_17",
+      "sourceUUID": "D6401444-961C-51D9-8F83-50BD86AAA875",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "1ec814bac118336e396197110607a14b09b55259c9106c7dc99d867ed1fbae3f",
+      "frameCount": 231,
+      "frameInterval": 0.0083333,
+      "title": "Running bound and continue",
+      "actionDescription": "The performer takes a more extended running stride with the arms driving, then settles back into an even pace.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "running bound",
+        " arm drive",
+        " continuing run"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_18",
+      "sourceUUID": "0F18BD2A-475E-5A7F-A903-5B9F758F88AF",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "2de3b3d984a3b26cbc0dd5423b5ba5f4dfbf9cc7edb9f20d4da6b9f8800f3337",
+      "frameCount": 246,
+      "frameInterval": 0.0083333,
+      "title": "Wide leap from a run",
+      "actionDescription": "The performer runs into a wider airborne step, lands with the knees flexed, and regains the initial running cadence.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "running leap",
+        " wide step",
+        " running landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_19",
+      "sourceUUID": "3DE1B6A1-C938-5DA1-9FCF-4211FE4B5344",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "aa3b736d1ae4b327045e20c862c6e741d11f79ece17e53ce055f0859e0fee627",
+      "frameCount": 255,
+      "frameInterval": 0.0083333,
+      "title": "High-knee bound while running",
+      "actionDescription": "The performer pushes into a higher running bound with one knee lifted, then lands into the next stride and keeps running.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "running bound",
+        " high knee",
+        " continuous run"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_20",
+      "sourceUUID": "3E6EDDC0-3519-5B51-89DC-4D8622C50E32",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "fae62cd4e61d513ac45f7027cd8abcb494d2521e6e7a268f5ac7c04ffe8c8554",
+      "frameCount": 279,
+      "frameInterval": 0.0083333,
+      "title": "Wide jump with arms open during a run",
+      "actionDescription": "The performer jumps from a running approach with the feet spread and one arm extended, then regains the running rhythm.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "wide jump",
+        " running approach",
+        " open arm"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_21",
+      "sourceUUID": "003589C0-19EB-58A0-A605-1B0ADC6C16E1",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "db04ead992864d5e479074ab8eaf34c4c90d542601082e10de2af46ca03884ba",
+      "frameCount": 496,
+      "frameInterval": 0.0083333,
+      "title": "Jog, bend with hands on thighs, and jog away",
+      "actionDescription": "The performer slows to a stop, leans forward with both hands braced on the thighs, then rises and runs again.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "hands on thighs",
+        " forward bend",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_22",
+      "sourceUUID": "DDEA96B6-D30D-54A3-9383-8D70F4C3661A",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "1d2f822a75c4eac73401982dc4eae3fee1424ec94a9fa360eccd420976377d35",
+      "frameCount": 462,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a bent resting posture",
+      "actionDescription": "The performer slows from a jog, folds forward onto the thighs for a short pause, then straightens and jogs out.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "resting bend",
+        " hands on thighs",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_24",
+      "sourceUUID": "90CA2103-9B40-5BAE-8316-C559A6639EAF",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "68e2418caf7977191235adc3cd4255a306b004ab5fe0e5420bdb4f5b15cec8e2",
+      "frameCount": 531,
+      "frameInterval": 0.0083333,
+      "title": "Jog to a hand-supported crouch and rise",
+      "actionDescription": "The performer slows, crouches down with the hands near the floor and one knee low, then pushes upright and jogs on.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "crouch",
+        " hand support",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_25",
+      "sourceUUID": "CD1C5BEC-1097-5CE0-9814-90506AB801A8",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "d597280a671eb211d589c75e2d8e30ee33dd5fe2db39e55c16f244ca1a2893fc",
+      "frameCount": 611,
+      "frameInterval": 0.0083333,
+      "title": "Jog, drop to hands and knees, and rise",
+      "actionDescription": "The performer folds down from a jog, moves through a low hands-and-knees position, then stands and breaks back into a jog.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "hands and knees",
+        " floor transition",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_26",
+      "sourceUUID": "F646C064-0B60-5C22-BB1F-9B2DBB065C6F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "a2cf545e98566d5e54a2dee7ffade44290a9339749d24f07de17c18a0bc477d8",
+      "frameCount": 553,
+      "frameInterval": 0.0083333,
+      "title": "Jog into a low kneel and return to running",
+      "actionDescription": "The performer lowers into a crouch, supports the body with the hands while one knee comes down, then rises and jogs away.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "hand-supported kneel",
+        " floor contact",
+        " jog-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_27",
+      "sourceUUID": "A98B63DB-CDB9-50A5-9E67-1315445A8101",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "52fd23f422f869a0458ffbecd4f34892dcf530f5f7a3cea90651a19497086efa",
+      "frameCount": 419,
+      "frameInterval": 0.0083333,
+      "title": "Jog, slow to a walk, and jog again",
+      "actionDescription": "The performer drops the elbows and shortens the stride into a walk, then leans forward and returns to a jogging cadence.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog to walk",
+        " walk to jog",
+        " pace change"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "108_28",
+      "sourceUUID": "744D65F7-231E-57DF-ACC1-598F88BB7B5C",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "3ffea6790633c24eca11979f25f5da7b9a006aa8e0dbc4fee0561f74defc170c",
+      "frameCount": 363,
+      "frameInterval": 0.0083333,
+      "title": "Run through a brief walking interval",
+      "actionDescription": "The performer eases from running into several slower steps with the arms lowered, then picks up speed and runs again.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run to walk",
+        " walk to run",
+        " pace change"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
