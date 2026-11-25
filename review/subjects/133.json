@@ -1,0 +1,447 @@
+{
+  "schemaVersion": 1,
+  "subject": "133",
+  "takes": [
+    {
+      "takeID": "133_01",
+      "sourceUUID": "71540F2A-48EB-59DF-9794-B2B087F15555",
+      "sourceDescription": "Walk Crawl",
+      "sourceSHA256": "e5274f03ebb0871aaa6f17ac67850e85bbc3ad565b6e8fb40f78739826b1b320",
+      "frameCount": 1375,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a crawl and stand again",
+      "actionDescription": "The performer walks in, drops to hands and knees, crawls several steps, then plants a foot and pushes upright.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "walk to crawl",
+        " hands and knees",
+        " stand up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_02",
+      "sourceUUID": "3BF7462B-B5A8-5AD7-B0BC-BD3F02474A01",
+      "sourceDescription": "Walk Crawl",
+      "sourceSHA256": "ffa01e8493645c0fe737b9f48515559dae41f55306e3d3588ee450dd631a7254",
+      "frameCount": 1434,
+      "frameInterval": 0.0083333,
+      "title": "Walk, lower to a crawl, and rise",
+      "actionDescription": "The performer bends from a walk into a low hand-supported posture, crawls, then comes up through a kneel and stands.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "walk to crawl",
+        " kneel",
+        " stand up"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_03",
+      "sourceUUID": "31B3FA38-410C-5A8B-AD9E-14C525D5E3F4",
+      "sourceDescription": "Walk Jump",
+      "sourceSHA256": "e9b4f8c00a5cf26595167d87269b577703aea7f34b51a8a2bbcf6e820189fc36",
+      "frameCount": 1259,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a jump and turn out",
+      "actionDescription": "The performer walks in, crouches for a jump, then lands and returns to standing before turning aside.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "walk-in",
+        " jump",
+        " turn-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_04",
+      "sourceUUID": "91E343D3-CB35-5CE3-AC76-827F77C90CDE",
+      "sourceDescription": "Walk Jump",
+      "sourceSHA256": "6b477f1614af614303f1f6643bb0f4a059ba799ab896f0713700ad6510766ae3",
+      "frameCount": 783,
+      "frameInterval": 0.0083333,
+      "title": "Small jump from a walk",
+      "actionDescription": "The performer takes short walking steps into a small jump, lands with the feet apart and settles.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "walk-in",
+        " small jump",
+        " quiet landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_05",
+      "sourceUUID": "353E29DD-8B45-529D-9F6B-D0C81BE49EC5",
+      "sourceDescription": "Walk Jump",
+      "sourceSHA256": "11ca82f0fa845606a1f4ce928ff67a74a5d169ae8eb2cca1d0050373cf8bf07c",
+      "frameCount": 976,
+      "frameInterval": 0.0083333,
+      "title": "Walk and jump with a bent-knee setup",
+      "actionDescription": "The performer approaches at a walk, dips through the knees for a jump, and recovers with short upright steps.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "walk-in",
+        " jump",
+        " knee bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_06",
+      "sourceUUID": "E2B1D115-00D4-5639-8E14-0E73392E14C6",
+      "sourceDescription": "Walk Jump",
+      "sourceSHA256": "83d835fcf03a75d7efffd0aef07e97a75b8066c544f87a6fbebe7c7dd52b09cf",
+      "frameCount": 881,
+      "frameInterval": 0.0083333,
+      "title": "Small jump from a walk",
+      "actionDescription": "The performer takes short walking steps into a small jump, lands with the feet apart and settles.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "walk-in",
+        " small jump",
+        " quiet landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_07",
+      "sourceUUID": "0826CAE5-E0E4-53C8-B9D7-2DA34C2FC5C2",
+      "sourceDescription": "Walk Jump",
+      "sourceSHA256": "d7b3ead6e4fc7cd9135ea2ed024a894198a847a68a380ca966a08279e5a933ae",
+      "frameCount": 982,
+      "frameInterval": 0.0083333,
+      "title": "Walk and jump with a bent-knee setup",
+      "actionDescription": "The performer approaches at a walk, dips through the knees for a jump, and recovers with short upright steps.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "walk-in",
+        " jump",
+        " knee bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_08",
+      "sourceUUID": "11890546-8440-5846-9282-23DF4EC8F4D2",
+      "sourceDescription": "Stretch Walk",
+      "sourceSHA256": "bed0a1514280b79c42c53c12c2ee6c4a86059a732e71dab6e47299f3ed031967",
+      "frameCount": 1231,
+      "frameInterval": 0.0083333,
+      "title": "Forward stretch then walk",
+      "actionDescription": "The performer sets the hands at the waist, bends toward the floor, rises and walks away.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "forward stretch",
+        " waist bend",
+        " walk-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_09",
+      "sourceUUID": "1AB0F431-351F-560D-AC58-8B5AF2DEF97B",
+      "sourceDescription": "Stretch Walk",
+      "sourceSHA256": "7d3e43d3b1685f5ff99ae525ea89f1dc4ad1fb91005ae574c01f70fd1b40ee10",
+      "frameCount": 1729,
+      "frameInterval": 0.0083333,
+      "title": "Side and forward stretches before walking",
+      "actionDescription": "The performer bends forward with hands near the hips, adds an overhead side reach, and walks out of the stretch.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "side stretch",
+        " forward bend",
+        " walk-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_10",
+      "sourceUUID": "ACC7DC83-D63F-5583-884B-CC863FA6E6B2",
+      "sourceDescription": "Stretch Walk",
+      "sourceSHA256": "4bbf82e8439e8ef27bbe48b840125c30b4bb5498e57697884b22f879ec31f8f1",
+      "frameCount": 1323,
+      "frameInterval": 0.0083333,
+      "title": "Reach overhead and across before walking",
+      "actionDescription": "The performer reaches up with one arm and sweeps across the chest, then lowers the arms into a walk.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "overhead stretch",
+        " cross-body reach",
+        " walk-out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_11",
+      "sourceUUID": "473C40A8-1DDB-540D-9E35-30D29207EA2D",
+      "sourceDescription": "Walk Stop Walk",
+      "sourceSHA256": "73bf0372c35a9e4aa05e866e878c1e2d90ea0f2d782c6068026dc1750fa0d184",
+      "frameCount": 1062,
+      "frameInterval": 0.0083333,
+      "title": "Walk, stop briefly, and resume",
+      "actionDescription": "The performer takes a few steps from standing, pauses upright with the feet apart, then resumes walking with the arms loose.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk stop walk",
+        " pause",
+        " restart"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_12",
+      "sourceUUID": "54FB724F-E105-5B5A-BA6C-736E6AFE0342",
+      "sourceDescription": "Walk Stop Walk",
+      "sourceSHA256": "3d5dd22e00069904462b61bcd58b350e4bd77fcd70238d7ff29cb77c170e022c",
+      "frameCount": 970,
+      "frameInterval": 0.0083333,
+      "title": "Walk, stop briefly, and resume",
+      "actionDescription": "The performer takes a few steps from standing, pauses upright with the feet apart, then resumes walking with the arms loose.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk stop walk",
+        " pause",
+        " restart"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_13",
+      "sourceUUID": "ECCBEDBB-295C-5635-9B81-B0C4553EB828",
+      "sourceDescription": "Walk Stop Walk",
+      "sourceSHA256": "e45e3845f2f6cd92450e4473713fa62e23ec9326cc9901c3d63e335f50006f46",
+      "frameCount": 1142,
+      "frameInterval": 0.0083333,
+      "title": "Walk, stop briefly, and resume",
+      "actionDescription": "The performer takes a few steps from standing, pauses upright with the feet apart, then resumes walking with the arms loose.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk stop walk",
+        " pause",
+        " restart"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_14",
+      "sourceUUID": "F7742EBF-5FFB-5F88-8C6F-89791E83CAE1",
+      "sourceDescription": "Walk Left",
+      "sourceSHA256": "3efbf4f599ff87017f9d26a488c31dd9673179afa24e43bfa54eae32be1d6d49",
+      "frameCount": 888,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a left direction change",
+      "actionDescription": "The performer starts with short forward steps, turns left through a planted step and finishes upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left turn",
+        " short steps",
+        " walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_15",
+      "sourceUUID": "AEE534BF-8B30-5B39-904B-C83E7CC36177",
+      "sourceDescription": "Walk Left",
+      "sourceSHA256": "dfee004d4627ac8a1eecd385615ee6f04e84a43ed0393fb700029e0f3958d571",
+      "frameCount": 888,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a left direction change",
+      "actionDescription": "The performer starts with short forward steps, turns left through a planted step and finishes upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "left turn",
+        " short steps",
+        " walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_16",
+      "sourceUUID": "FB4E58D7-D5B3-57F4-8419-5BCB1C5428F5",
+      "sourceDescription": "Walk Left",
+      "sourceSHA256": "80c4bfa9a7f79b879812dc325a6dfdb8b26e232608d794fb4a2c8e6a7b9e0f01",
+      "frameCount": 505,
+      "frameInterval": 0.0083333,
+      "title": "Short leftward walk with a wide plant",
+      "actionDescription": "The performer steps off, shifts left, and places the feet apart at the finish with arms hanging loosely.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "leftward walk",
+        " wide plant"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_17",
+      "sourceUUID": "3643C11A-0ADE-5351-8D3D-EC6F287122F9",
+      "sourceDescription": "Walk Right",
+      "sourceSHA256": "91596dd9d6df041fb8921459c8ab3b8edcd0edacc73a7e3167dc90a0c079a186",
+      "frameCount": 577,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a right direction change",
+      "actionDescription": "The performer walks into a right turn with the knees slightly bent and continues stepping with a small forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right turn",
+        " forward lean",
+        " walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_18",
+      "sourceUUID": "F9720FF3-921B-5D42-830D-281CDDC0CF02",
+      "sourceDescription": "Walk Right",
+      "sourceSHA256": "af4cb656221f829e0ad2e17e53ee121ec8a0dfa94f614a2e03b5e2bc25cd4a94",
+      "frameCount": 469,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a right direction change",
+      "actionDescription": "The performer walks into a right turn with the knees slightly bent and continues stepping with a small forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right turn",
+        " forward lean",
+        " walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_19",
+      "sourceUUID": "5EA11619-1385-5A5E-A678-69A30778500F",
+      "sourceDescription": "Walk Right",
+      "sourceSHA256": "a787c4471ae6c8514e1ab71a612a04d7da6169d9c4ac0d3d83bd10a01feb0ffc",
+      "frameCount": 834,
+      "frameInterval": 0.0083333,
+      "title": "Walk into a right direction change",
+      "actionDescription": "The performer walks into a right turn with the knees slightly bent and continues stepping with a small forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right turn",
+        " forward lean",
+        " walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_20",
+      "sourceUUID": "D1F38D15-2FEF-52F0-9022-563B35EA1E65",
+      "sourceDescription": "Walk Right",
+      "sourceSHA256": "09d5fff1b7a9ffad7105d94d7a8e70568e2000b7726c753edd8fe34b46b01829",
+      "frameCount": 1091,
+      "frameInterval": 0.0083333,
+      "title": "Rightward walk and settle with feet apart",
+      "actionDescription": "The performer starts upright, takes a series of short steps through a rightward shift, and returns to a quiet stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "rightward walk",
+        " settle",
+        " short steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_21",
+      "sourceUUID": "46F112D5-0AD8-501B-825F-115E6C464D11",
+      "sourceDescription": "Walk",
+      "sourceSHA256": "275c95b575b656faf19428a4eeb4489d98b33a4d83964edf5a44083fd1df14bf",
+      "frameCount": 786,
+      "frameInterval": 0.0083333,
+      "title": "Walk with short alternating strides",
+      "actionDescription": "The performer walks with a slight forward lean and loose arms, then slows toward an upright finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "short walk",
+        " slight lean",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_22",
+      "sourceUUID": "BED0EBC6-5BC9-5F44-973F-F812D2ED916B",
+      "sourceDescription": "Walk",
+      "sourceSHA256": "76e6b3807eb80dab4404fc6aaf674e56c32fc54b7284c3299c08a5a0bd84cf94",
+      "frameCount": 759,
+      "frameInterval": 0.0083333,
+      "title": "Walk with short alternating strides",
+      "actionDescription": "The performer walks with a slight forward lean and loose arms, then slows toward an upright finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "short walk",
+        " slight lean",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_23",
+      "sourceUUID": "3690BDD3-02E5-527B-8B54-BA80520E88FF",
+      "sourceDescription": "Walk",
+      "sourceSHA256": "c7e33364fd28be457357aadaeb59695f1dbe8099ba9697c59d99c043a07b473a",
+      "frameCount": 848,
+      "frameInterval": 0.0083333,
+      "title": "Walk with short alternating strides",
+      "actionDescription": "The performer walks with a slight forward lean and loose arms, then slows toward an upright finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "short walk",
+        " slight lean",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_24",
+      "sourceUUID": "6F62870A-9408-5582-999E-A2F845F7ABD8",
+      "sourceDescription": "Walk ZigZag",
+      "sourceSHA256": "355eb5c65738584b8154ae4e70325117c48ee17da7487d428bfd9f697c7397c7",
+      "frameCount": 946,
+      "frameInterval": 0.0083333,
+      "title": "Zigzag walk with bent-knee turns",
+      "actionDescription": "The performer walks through successive direction changes, keeping the knees soft and the arms close as the path zigzags.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "zigzag walk",
+        " direction changes",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_25",
+      "sourceUUID": "36523273-747B-5596-AF78-CC4DFCD60AB1",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "736da57f11b1ca6ee7cd89a8b4c6c29ec5eeb5a51b3e49fd23bdc9c457737904",
+      "frameCount": 410,
+      "frameInterval": 0.0083333,
+      "title": "Step into a motorcycle pose",
+      "actionDescription": "The performer bends the knees, raises both hands in front as if at handlebars, and holds the resulting stance.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " handlebars",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "133_26",
+      "sourceUUID": "B84028D9-051F-5D9D-926E-FEA490F71732",
+      "sourceDescription": "Range of Motion",
+      "sourceSHA256": "7c13d9ca1d4fccb13bb69e5b043995a6d9bac1f2a3ac765bcb9b1cdea1a7f9e5",
+      "frameCount": 1233,
+      "frameInterval": 0.0083333,
+      "title": "Range-of-motion sequence with side kick",
+      "actionDescription": "The performer starts with arms out, moves through arm bends, a side leg lift and torso tilts, then returns to the arms-out stance.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "range of motion",
+        " side kick",
+        " open arms"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}

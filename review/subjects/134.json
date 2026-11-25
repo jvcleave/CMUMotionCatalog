@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "subject": "134",
+  "takes": [
+    {
+      "takeID": "134_01",
+      "sourceUUID": "1BCC8F17-D842-515F-AA0E-56F953316351",
+      "sourceDescription": "Duck Under",
+      "sourceSHA256": "ebd2f3e26395b310534b243539b76b617d7bacf31519d02508da8988dabb160c",
+      "frameCount": 357,
+      "frameInterval": 0.0083333,
+      "title": "Forward stride into a deep duck",
+      "actionDescription": "The performer pushes forward with a long step, drops into a deep flexed-knee duck, then rises back to a neutral stance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "duck under",
+        " deep crouch",
+        " stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_02",
+      "sourceUUID": "7D4DD8E1-38B4-5AB0-9FF9-E70AFE05302A",
+      "sourceDescription": "Go Forward",
+      "sourceSHA256": "2c2bbe94670b3effbe3f75ba767f6d2379b6b485c1607cc31163b213e2cac203",
+      "frameCount": 263,
+      "frameInterval": 0.0083333,
+      "title": "Forward push into a long stride",
+      "actionDescription": "The performer shifts forward from a staggered stance, reaches into a long pushing step, and gathers the feet again.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "forward push",
+        " long stride",
+        " weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_03",
+      "sourceUUID": "9642DC1B-D730-52B3-A5B6-8445620E0210",
+      "sourceDescription": "Lean Turn Right",
+      "sourceSHA256": "581a56f07160fc1247cad774e0130088f05d630363ffb8530f1d996576e7ff46",
+      "frameCount": 399,
+      "frameInterval": 0.0083333,
+      "title": "Leaning right turn in a compact stance",
+      "actionDescription": "The performer keeps the knees bent and arms low while shifting weight and leaning to the right through a small turn.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "right lean",
+        " right turn",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_04",
+      "sourceUUID": "613C8295-05A1-5EAB-9689-5ABAD968F9EA",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "977f421b2af4221902e9671fbb25f04467f6922d598cbea8bf8b69716fc5c4f3",
+      "frameCount": 191,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle reference stance",
+      "actionDescription": "The performer holds a staggered stance with both elbows bent and hands raised in front.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_05",
+      "sourceUUID": "2C62DB7A-80C4-5843-BE37-0DDB0E80FA86",
+      "sourceDescription": "Pump Jump",
+      "sourceSHA256": "60e836e39c9138842fb47abc59dd1fa559c3fddb496d84ea29c1ce5d1e329ecd",
+      "frameCount": 324,
+      "frameInterval": 0.0083333,
+      "title": "Dip and jump with arms spread",
+      "actionDescription": "The performer takes a pushing step, lowers into a short dip, then jumps with one knee raised and both arms open.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "pump jump",
+        " open arms",
+        " high knee"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_06",
+      "sourceUUID": "50473216-90DB-5EF8-8FDE-DE3F58BE0506",
+      "sourceDescription": "Push Turn Left",
+      "sourceSHA256": "5399a75ac8df095316bd85516c6528b2b19ada221ce6126d0f7d99982bd5c0ae",
+      "frameCount": 299,
+      "frameInterval": 0.0083333,
+      "title": "Push off into a left turn",
+      "actionDescription": "The performer reaches one leg back in a long push, draws the feet in, and turns left into a soft-knee stance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "left turn",
+        " push step",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_07",
+      "sourceUUID": "604BE7E3-E4F6-5FF1-9922-760537E9F137",
+      "sourceDescription": "Push Turn Left",
+      "sourceSHA256": "58f4d1539dd2c65f2ba2621626d1c8fd01de826929b0cbf86cbf2c635f05ab2e",
+      "frameCount": 302,
+      "frameInterval": 0.0083333,
+      "title": "Push off into a left turn",
+      "actionDescription": "The performer reaches one leg back in a long push, draws the feet in, and turns left into a soft-knee stance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "left turn",
+        " push step",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_08",
+      "sourceUUID": "4372FEB6-D466-5B6A-BCD0-AD2EF9C532B9",
+      "sourceDescription": "Push Turn Right",
+      "sourceSHA256": "a35086903af8d9ef5cbb5bfe12f8e3850d9ad00dcbfdd9f2cb68e06afcf3b956",
+      "frameCount": 260,
+      "frameInterval": 0.0083333,
+      "title": "Push off into a right turn",
+      "actionDescription": "The performer makes a long pushing stride, brings the feet closer together, and shifts into a right turn with the arms out for balance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "right turn",
+        " push step",
+        " balance arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_09",
+      "sourceUUID": "DCFE7A9B-FF32-5B1C-83E5-F1A7D86E6E86",
+      "sourceDescription": "Push Turn Right",
+      "sourceSHA256": "1d7dfb1781270f5c7fbae5e9eeaddccc94508fc0c102a90f8a804100c5f413c8",
+      "frameCount": 202,
+      "frameInterval": 0.0083333,
+      "title": "Push off into a right turn",
+      "actionDescription": "The performer makes a long pushing stride, brings the feet closer together, and shifts into a right turn with the arms out for balance.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "right turn",
+        " push step",
+        " balance arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_10",
+      "sourceUUID": "A1E92509-BD2C-522C-865E-73A84FAA04D5",
+      "sourceDescription": "Start",
+      "sourceSHA256": "c0076edb5c5cac86e1ec6e3fe0e96c0ad0a48d44fe0300a32f099da23589db80",
+      "frameCount": 342,
+      "frameInterval": 0.0083333,
+      "title": "Start with a deep forward push",
+      "actionDescription": "The performer bends forward from standing, extends one leg behind in a long push, then brings the body upright over both feet.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "push start",
+        " forward lean",
+        " weight transfer"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_11",
+      "sourceUUID": "825C9091-D12C-5000-AB8A-0529BA18B1DA",
+      "sourceDescription": "Start",
+      "sourceSHA256": "408a775d9eba7dcdc552dada38ce2f76d0c9da9b1fb985c5d2c6a0ac0cee86e0",
+      "frameCount": 341,
+      "frameInterval": 0.0083333,
+      "title": "Start with a deep forward push",
+      "actionDescription": "The performer bends forward from standing, extends one leg behind in a long push, then brings the body upright over both feet.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "push start",
+        " forward lean",
+        " weight transfer"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_12",
+      "sourceUUID": "CE0CFB87-0945-5B92-8502-DF664F4F52D5",
+      "sourceDescription": "Stop and Go",
+      "sourceSHA256": "1136d6407833c42e1369a5b56cfd13658d56cbdb84dc288f08810caabf84bc23",
+      "frameCount": 368,
+      "frameInterval": 0.0083333,
+      "title": "Pause and push forward again",
+      "actionDescription": "The performer slows into short soft-knee steps, then leans forward and makes a long pushing stride before returning upright.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "stop and go",
+        " push-off",
+        " forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_13",
+      "sourceUUID": "DF1DAE94-2AFE-52A8-BBCB-13BFF2613E44",
+      "sourceDescription": "Stop and Go",
+      "sourceSHA256": "f24e393625b184b5b67becf6f65a37071f9dc060f005e7a7ae5dc87f3af7073d",
+      "frameCount": 441,
+      "frameInterval": 0.0083333,
+      "title": "Pause and push forward again",
+      "actionDescription": "The performer slows into short soft-knee steps, then leans forward and makes a long pushing stride before returning upright.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "stop and go",
+        " push-off",
+        " forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_14",
+      "sourceUUID": "BC76B580-69C5-549B-A811-E2883ABCB8E6",
+      "sourceDescription": "Stop ang Go",
+      "sourceSHA256": "1c3bba3f3d3d6b7a250b36454a3e0730562356d2f0af210cc52169d52db13f20",
+      "frameCount": 474,
+      "frameInterval": 0.0083333,
+      "title": "Pause and push forward again",
+      "actionDescription": "The performer slows into short soft-knee steps, then leans forward and makes a long pushing stride before returning upright.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "stop and go",
+        " push-off",
+        " forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "134_15",
+      "sourceUUID": "B5ECD765-062A-515F-B7AD-13A6F3F345C2",
+      "sourceDescription": "Lean Turn Left",
+      "sourceSHA256": "1553703b0e24913f40ce2a2205aecc6d37ceb88ad212ef422428030c86a686bd",
+      "frameCount": 258,
+      "frameInterval": 0.0083333,
+      "title": "Lean left through a turn",
+      "actionDescription": "The performer opens the arms slightly, shifts weight and leans left as the feet change heading, then returns upright.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "left turn",
+        " leaning turn",
+        " weight shift"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
