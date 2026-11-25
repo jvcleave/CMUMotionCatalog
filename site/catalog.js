@@ -3,6 +3,7 @@
 const byID = (id) => document.getElementById(id);
 const query = byID("query");
 const categorySelect = byID("category");
+const motionFilterSelect = byID("motion-filter");
 const reviewOnly = byID("review-only");
 const dialog = byID("detail");
 const preview = byID("preview");
@@ -111,8 +112,10 @@ function render() {
   stopCardPreview?.();
   const terms = query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const category = categories.get(categorySelect.value);
+  const motionFilter = motionFilterSelect.value;
   const matches = takes.filter((take) =>
-    (!category || take.category === category.id) &&
+    (!category || take.category === category.id || take.secondaryCategories?.includes(category.id)) &&
+    (!motionFilter || take.motionFilters?.includes(motionFilter)) &&
     (!reviewOnly.checked || take.needsReview) &&
     terms.every((term) => take.searchText.includes(term))
   );
@@ -145,6 +148,9 @@ async function initialize() {
   takesByID = new Map(takes.map((take) => [take.id, take]));
   for (const category of categories.values()) {
     categorySelect.add(new Option(`${category.name} (${category.count})`, category.id));
+  }
+  for (const filter of data.motionFilters ?? []) {
+    motionFilterSelect.add(new Option(`${filter.name} (${filter.count})`, filter.id));
   }
 
   byID("filters").addEventListener("submit", (event) => event.preventDefault());

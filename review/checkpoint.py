@@ -35,7 +35,7 @@ def checkpoint(subject, draft):
         for field in REVIEW_FIELDS:
             take[field] = row[field]
         take["reviewStatus"] = row.get("reviewStatus", "described")
-        for field in ("reviewNote", "firstUsableFrame", "segments"):
+        for field in ("reviewNote", "firstUsableFrame", "segments", "secondaryCategories"):
             if field in row:
                 take[field] = row[field]
         takes[take_id] = take

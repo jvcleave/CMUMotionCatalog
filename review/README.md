@@ -2,9 +2,10 @@
 
 The [review plan](../docs/CMU_MOTION_ACTION_REVIEW_PLAN.md) defines the workflow.
 The pilot roster fixes the 40 source UUIDs and review batches. The category
-file holds the proposed definitions. The annotations file accumulates reviewed
-takes in roster order. An absent row is pending. A row marked `needs-review`
-has a specific question in `reviewNote`.
+file holds the catalog definitions. Categories added after the pilot have a
+pilot count of zero and examples from the full review. The annotations file
+accumulates reviewed takes in roster order. An absent row is pending. A row
+marked `needs-review` has a specific question in `reviewNote`.
 
 Optional segments use inclusive, one-based captured source frame numbers. The
 first captured frame corresponds to zero seconds. Its calibration pose precedes
@@ -20,6 +21,8 @@ For subject review, add each batch to `subjects/<subject>.json` with
 `schemaVersion`, `subject`, and a `takes` array using the annotation format.
 Reuse pilot entries by source UUID. Keep takes in capture order within a
 subject, and leave a precise follow-up note on any provisional assignment.
+Use optional `secondaryCategories` when a take should also appear in another
+category in the browser.
 
 To add or replace adjudicated rows, run
 `python3 review/checkpoint.py SUBJECT DRAFT.json`. The draft needs a `takes`

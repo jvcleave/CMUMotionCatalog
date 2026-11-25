@@ -682,7 +682,7 @@
       "frameInterval": 0.0083333,
       "title": "Bear mime",
       "actionDescription": "Raises both arms in a broad pose, shifts the body and gestures with bent hands before relaxing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "bear"
       ],
@@ -697,7 +697,7 @@
       "frameInterval": 0.0083333,
       "title": "Bear mime with raised arms",
       "actionDescription": "Gestures with bent arms across the body, raises both hands widely, then lowers and moves them again.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "bear with raised arms"
       ],
@@ -712,7 +712,7 @@
       "frameInterval": 0.0083333,
       "title": "Chicken mime",
       "actionDescription": "Holds elbows out with hands near the waist, bobs and leans forward in a chicken-like pose.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "chicken"
       ],
@@ -727,7 +727,7 @@
       "frameInterval": 0.0083333,
       "title": "Elephant mime",
       "actionDescription": "Bends forward with one arm hanging, repeatedly swings and raises it like a trunk, then stands.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "elephant"
       ],
@@ -742,7 +742,7 @@
       "frameInterval": 0.0083333,
       "title": "Monkey mime",
       "actionDescription": "Bends the arms with elbows out, brings a hand near the head and leans and gestures from side to side.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "monkey"
       ],
@@ -757,7 +757,7 @@
       "frameInterval": 0.0083333,
       "title": "Mouse mime",
       "actionDescription": "Hunches forward with hands near the chest and face, makes small pawing motions, then relaxes.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "mouse"
       ],
@@ -772,7 +772,7 @@
       "frameInterval": 0.0083333,
       "title": "Chipmunk mime",
       "actionDescription": "Hunches forward with hands held near the mouth, making small repeated nibbling gestures before standing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "chipmunk"
       ],
@@ -787,7 +787,7 @@
       "frameInterval": 0.0083333,
       "title": "Prairie dog mime",
       "actionDescription": "Raises the hands near the chest and face, leans and looks around, then bends slightly and relaxes.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "prairie dog"
       ],
@@ -802,7 +802,7 @@
       "frameInterval": 0.0083333,
       "title": "Dog mime",
       "actionDescription": "Holds both hands up near the chest with wrists bent, makes small pawing motions and lowers them.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "dog"
       ],
@@ -817,7 +817,7 @@
       "frameInterval": 0.0083333,
       "title": "Snake mime",
       "actionDescription": "Keeps the hands low or behind the hips while swaying and bending the torso from side to side.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "snake"
       ],
@@ -847,7 +847,7 @@
       "frameInterval": 0.0083333,
       "title": "T-rex mime",
       "actionDescription": "Bends the knees and holds the arms short in front of the chest, bobbing and turning the upper body.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "t-rex"
       ],
@@ -862,7 +862,7 @@
       "frameInterval": 0.0083333,
       "title": "Fish mime",
       "actionDescription": "Holds both hands near the mouth, bobs and leans forward, then straightens and lowers them.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "fish"
       ],
@@ -877,7 +877,7 @@
       "frameInterval": 0.0083333,
       "title": "Bird mime",
       "actionDescription": "Extends both arms and flaps them up and down while leaning and shifting weight, then lowers them.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "bird"
       ],
@@ -892,7 +892,7 @@
       "frameInterval": 0.0083333,
       "title": "Cat mime",
       "actionDescription": "Bends forward with hands near the chest and face, makes small pawing or grooming gestures, and rises.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "cat"
       ],
@@ -907,7 +907,7 @@
       "frameInterval": 0.0083333,
       "title": "Chicken mime",
       "actionDescription": "Holds hands near the hips with elbows out, bobs and leans forward, then stands.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "chicken"
       ],
@@ -922,7 +922,7 @@
       "frameInterval": 0.0083333,
       "title": "Cow mime",
       "actionDescription": "Leans forward with arms hanging, bobs the head and torso, then straightens.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "cow"
       ],
@@ -937,7 +937,7 @@
       "frameInterval": 0.0083333,
       "title": "Chicken mime",
       "actionDescription": "Holds the hands near the hips with elbows out and bobs the head and torso before relaxing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "chicken"
       ],
@@ -952,7 +952,7 @@
       "frameInterval": 0.0083333,
       "title": "Tiger mime",
       "actionDescription": "Leans forward with arms bent and hands held like paws, making small prowling gestures before standing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "tiger"
       ],
@@ -967,7 +967,7 @@
       "frameInterval": 0.0083333,
       "title": "Penguin mime",
       "actionDescription": "Stands with arms close to the sides and shifts the head and body subtly from side to side.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "penguin"
       ],
@@ -982,7 +982,7 @@
       "frameInterval": 0.0083333,
       "title": "Horse mime",
       "actionDescription": "Bends forward with hands low, lifts them toward the chest and face, then bends again before standing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "horse"
       ],

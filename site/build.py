@@ -4,6 +4,7 @@ import argparse
 from collections import Counter
 import json
 from pathlib import Path
+import re
 import shutil
 import sys
 
@@ -11,6 +12,36 @@ import sys
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "review"))
 from validate import index, read, validate
+
+
+MOTION_FILTERS = {
+    "partner-work": "Partner Work",
+    "turns-in-place": "Turns in Place",
+    "stylized-walks": "Stylized Walks",
+}
+PARTNER_TAGS = {"participant a", "participant b", "two people"}
+PARTNER_ROLE = re.compile(r"\bparticipant [ab]\b")
+IN_PLACE_TURN = re.compile(r"\b(?:turns? in place|turning in place|in-place turns?|pivot(?:s|ing)?)\b")
+STYLIZED_WALK = re.compile(
+    r"\b(?:limps?|limping|injured|tired|drunk(?:en)?|stagger(?:s|ing)?|"
+    r"struts?|strutting|sneaks?|sneaking|march(?:es|ing)?|tiptoes?|tiptoeing|"
+    r"elderly|stylized (?:walk|gait)|zombie)\b"
+)
+
+
+def motion_filters(review):
+    tags = {tag.strip().lower() for tag in review.get("searchTags", [])}
+    title = review["title"].lower()
+    filters = []
+    if tags & PARTNER_TAGS or PARTNER_ROLE.search(title):
+        filters.append("partner-work")
+    if review["primaryCategory"] == "walking-turning":
+        labels = (title, (review["sourceDescription"] or "").lower(), *tags)
+        if any(IN_PLACE_TURN.search(label) for label in labels):
+            filters.append("turns-in-place")
+        if any(STYLIZED_WALK.search(label) for label in labels):
+            filters.append("stylized-walks")
+    return filters
 
 
 def build(output):
@@ -43,20 +74,29 @@ def build(output):
             "description": review["actionDescription"],
             "original": review["sourceDescription"],
             "category": review["primaryCategory"],
+            "secondaryCategories": review.get("secondaryCategories", []),
+            "motionFilters": motion_filters(review),
             "tags": review.get("searchTags", []),
             "duration": (review["frameCount"] - 1) * review["frameInterval"],
             "needsReview": review["reviewStatus"] == "needs-review",
             **previews,
         })
 
-    counts = Counter(take["category"] for take in takes)
+    counts = Counter(
+        category for take in takes for category in (take["category"], *take["secondaryCategories"])
+    )
     categories = [
         {key: category[key] for key in ("id", "name", "definition")}
         | {"count": counts[category["id"]]}
         for category in read("review/categories.json")["categories"]
     ]
+    filter_counts = Counter(filter_id for take in takes for filter_id in take["motionFilters"])
+    filters = [
+        {"id": filter_id, "name": name, "count": filter_counts[filter_id]}
+        for filter_id, name in MOTION_FILTERS.items()
+    ]
     (output / "catalog.json").write_text(
-        json.dumps({"categories": categories, "takes": takes}, ensure_ascii=False),
+        json.dumps({"categories": categories, "motionFilters": filters, "takes": takes}, ensure_ascii=False),
         encoding="utf-8",
     )
 

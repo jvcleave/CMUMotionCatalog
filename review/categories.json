@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "pilot-reviewed",
+  "status": "catalog-reviewed",
   "categories": [
     {
       "id": "walking-turning",
@@ -74,8 +74,8 @@
     },
     {
       "id": "everyday-tasks",
-      "name": "Everyday Tasks",
-      "definition": "Acting out a recognizable routine such as dressing, washing, grooming, or cleaning.",
+      "name": "Everyday Tasks & Tool Use",
+      "definition": "Performing or acting out a recognizable routine such as dressing, washing, or cleaning, or a task such as using a saw, hammer, or wrench.",
       "pilotCount": 3,
       "exampleTakes": [
         "143_28",
@@ -86,12 +86,23 @@
     {
       "id": "gestures-pantomime",
       "name": "Gestures & Pantomime",
-      "definition": "Waving, pointing, shrugging, signaling, or acting something out through body movement.",
+      "definition": "Waving, pointing, shrugging, signaling, or acting out a character, emotion, or scene through body movement.",
       "pilotCount": 6,
       "exampleTakes": [
         "27_08",
         "28_07",
         "31_07"
+      ]
+    },
+    {
+      "id": "animal-impressions",
+      "name": "Animal Impressions",
+      "definition": "Imitating an animal's movement, stance, or behavior as the focus of the take.",
+      "pilotCount": 0,
+      "exampleTakes": [
+        "31_12",
+        "54_15",
+        "79_51"
       ]
     },
     {
@@ -136,8 +147,8 @@
     },
     {
       "id": "action-sequences",
-      "name": "Action Sequences",
-      "definition": "Performing several equally important actions with no single dominant movement.",
+      "name": "Mixed Actions",
+      "definition": "Switching among distinct actions that are equally important, with no dominant movement or shared activity.",
       "pilotCount": 2,
       "exampleTakes": [
         "56_05",

@@ -45,7 +45,7 @@
       "frameInterval": 0.0083333,
       "title": "Cat-style waiting with turns and a crouch",
       "actionDescription": "The performer shifts stance, turns in several directions and occasionally dips forward with the knees bent.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "cat mime",
         " waiting",
@@ -113,7 +113,7 @@
       "frameInterval": 0.0083333,
       "title": "Chicken-style waiting with repeated forward tilts",
       "actionDescription": "The performer holds a forward hunch with the elbows back and repeats short head and torso dips, then eases upright.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "chicken mime",
         " waiting",
@@ -181,7 +181,7 @@
       "frameInterval": 0.0083333,
       "title": "Dinosaur-style waiting in a low stance",
       "actionDescription": "The performer holds the forearms forward, alternates upright weight shifts with deeper forward crouches, and remains in character through the finish.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "dinosaur mime",
         " waiting",

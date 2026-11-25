@@ -27,9 +27,12 @@ See the [CMU data terms](https://mocap.cs.cmu.edu/) and
 ## Catalog browser
 
 The GitHub Pages browser is built from the committed action reviews and the
-existing still and animated previews. Takes with open review notes appear with
-a **Needs review** label. The site artifact includes preview images and search
-metadata. The full BVH download remains available through Releases.
+existing still and animated previews. Use **Motion filter** to find Partner Work,
+Turns in Place, or Stylized Walks across categories. Category totals count the
+takes returned by that filter, including any take listed in two categories.
+Takes with open review notes appear with a **Needs review** label. The site
+artifact includes preview images and search metadata. The full BVH download
+remains available through Releases.
 
 For a local preview, build into a temporary directory and serve it over HTTP.
 

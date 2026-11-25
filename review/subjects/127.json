@@ -337,13 +337,16 @@
       "frameInterval": 0.0083333,
       "title": "Running jump, stop, and restart",
       "actionDescription": "The performer leaps from a run with the legs spread, brakes into an upright stop after landing, then runs again.",
-      "primaryCategory": "action-sequences",
+      "primaryCategory": "jumping-landing",
       "searchTags": [
         "running jump",
         " stop",
         " run restart"
       ],
-      "reviewStatus": "described"
+      "reviewStatus": "described",
+      "secondaryCategories": [
+        "running-agility"
+      ]
     },
     {
       "takeID": "127_22",
@@ -354,13 +357,16 @@
       "frameInterval": 0.0083333,
       "title": "High-knee jump into a standing pause",
       "actionDescription": "The performer lifts one knee in a running jump, lands and stops upright, then pushes off into a run again.",
-      "primaryCategory": "action-sequences",
+      "primaryCategory": "jumping-landing",
       "searchTags": [
         "running jump",
         " high knee",
         " pause"
       ],
-      "reviewStatus": "described"
+      "reviewStatus": "described",
+      "secondaryCategories": [
+        "running-agility"
+      ]
     },
     {
       "takeID": "127_23",

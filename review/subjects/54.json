@@ -11,7 +11,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Monkey with High Reaches and Low Dips",
       "actionDescription": "The performer raises both arms, opens them to the sides, and repeatedly dips and reaches. They finish upright after lowering the arms.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "monkey",
@@ -28,7 +28,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Bear with Low Bends and Long Reaches",
       "actionDescription": "The performer folds forward into staggered stances, reaches outward while low, then straightens and steps to finish.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "bear",
@@ -45,7 +45,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Penguin with Short Steps and Open Hands",
       "actionDescription": "The performer makes several open-hand gestures and takes short steps with the arms low, finishing side-on with flexed knees.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "penguin",
@@ -62,7 +62,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Pterosaur with Wide Arms and Deep Dips",
       "actionDescription": "The performer spreads the arms wide, alternates lower bent-knee positions and high knee lifts, and keeps an arm extended in the closing pose.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "pterosaur",
@@ -79,7 +79,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Pterosaur with a Low Crouch and Wide Reach",
       "actionDescription": "The performer opens with one knee high and arms out, sinks into several low crouches, and rises with a diagonal reach before returning upright.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "pterosaur",
@@ -96,7 +96,7 @@
       "frameInterval": 0.0083333,
       "title": "Alternate Wing-Like Arm Openings and Bent-Knee Dips",
       "actionDescription": "The performer raises and spreads both arms, repeats broad openings with bent knees and turns, then lowers the arms while stepping. The CMU source identifies a pterosaur mime.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "pterosaur",
@@ -113,7 +113,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Prairie Dog with Close Hand Gestures",
       "actionDescription": "The performer keeps the hands close, alternates small outward gestures and brief knee bends, and ends upright with elbows bent.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "prairie dog",
@@ -130,7 +130,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Roadrunner with Repeated Forward Leans",
       "actionDescription": "The performer starts upright, leans forward with the elbows pulled back, and repeats quick steps and turns before straightening.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "roadrunner",
@@ -147,7 +147,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Praying Mantis with Wide Elbows and Dips",
       "actionDescription": "The performer alternates broad arm openings with angular bent elbows and low dips, then returns to an upright side-facing stance.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "mantis",
@@ -181,7 +181,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Penguin with Small Shuffling Steps",
       "actionDescription": "The performer takes small, narrow steps while keeping the arms low, slowly changes heading, and finishes standing in profile.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "penguin",
@@ -198,7 +198,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Dragon with Wing-Like Reaches and Side Steps",
       "actionDescription": "From standing, the performer repeatedly opens both arms and steps sideways, then lowers them and settles upright.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "dragon",
@@ -215,7 +215,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Dragon with Arms Out and a High Knee Lift",
       "actionDescription": "The performer extends both arms, turns, raises a knee and brings the arms overhead before lowering them and standing.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "dragon",
@@ -232,7 +232,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Monkey with Deep Side Bends",
       "actionDescription": "The performer bends forward and sideways with alternating high and low reaches, then returns upright after a final side lean.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "monkey",
@@ -249,7 +249,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Prairie Dog with Small Steps and Open Palms",
       "actionDescription": "The performer makes small hand gestures while stepping and bending the knees, opens both hands wide, and returns to an upright stance.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "prairie dog",
@@ -283,7 +283,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Squirrel with Short Hops and Close Hands",
       "actionDescription": "The performer alternates compact arm positions and small side steps with brief dips, then finishes with the torso leaning slightly forward.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "squirrel",
@@ -300,7 +300,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Squirrel with Repeated Low Crouches",
       "actionDescription": "The performer steps with hands gathered, lifts a hand near the face, then repeats deep bent-knee poses before rising.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "squirrel",
@@ -317,7 +317,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Squirrel with Angular Steps and Arm Motions",
       "actionDescription": "The performer starts upright, moves through angular bent-knee steps and forward hand reaches, then straightens after lifting a hand near the face.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "squirrel",
@@ -385,7 +385,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Monkey with High Gestures and a Deep Side Fold",
       "actionDescription": "The performer alternates hands near the head and outward arm sweeps, drops into a deep side fold, then rises with both hands lifted.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "monkey",
@@ -402,7 +402,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Hummingbird with Open Arms and Light Steps",
       "actionDescription": "The performer spreads both hands to the sides, changes direction with bent knees and small steps, then lowers the arms and steps out.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "hummingbird",
@@ -419,7 +419,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Chicken with Deep Forward Bobs",
       "actionDescription": "The performer repeatedly bends the knees and tips the torso forward with both arms swept back. They straighten and finish with hands near the torso.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "chicken",
@@ -436,7 +436,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Chicken with Elbow Lifts and Short Steps",
       "actionDescription": "The performer holds both elbows out, repeats short steps and knee bends, and lowers the arms while turning into profile.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "chicken",
@@ -453,7 +453,7 @@
       "frameInterval": 0.0083333,
       "title": "Mime a Chicken with Repeated Waist Bends",
       "actionDescription": "The performer alternates upright resets with deep forward folds while keeping the elbows bent. They return upright in profile.",
-      "primaryCategory": "gestures-pantomime",
+      "primaryCategory": "animal-impressions",
       "searchTags": [
         "animal mime",
         "chicken",

@@ -89,6 +89,13 @@ def validate(require_complete, proposed_checkpoint=None, require_catalog_complet
             raise ValueError(f"{take_id} is missing a title or action description.")
         if take["primaryCategory"] not in categories:
             raise ValueError(f"{take_id} has an unknown primary category.")
+        secondary = take.get("secondaryCategories", [])
+        if (not isinstance(secondary, list)
+                or any(not isinstance(category_id, str) or category_id not in categories
+                       for category_id in secondary)
+                or len(set(secondary)) != len(secondary)
+                or take["primaryCategory"] in secondary):
+            raise ValueError(f"{take_id} has invalid secondary categories.")
         usable_frame = take.get("firstUsableFrame", 1)
         if type(usable_frame) is not int or not 1 <= usable_frame <= original["frameCount"]:
             raise ValueError(f"{take_id} has an invalid first usable source frame.")
@@ -111,19 +118,19 @@ def validate(require_complete, proposed_checkpoint=None, require_catalog_complet
             previous_end = end
 
     pilot_counts = Counter(take["primaryCategory"] for take in pilot.values())
-    missing_categories = set(categories) - pilot_counts.keys()
-    if category_data["status"] == "pilot-reviewed":
-        for category_id, category in categories.items():
-            examples = category["exampleTakes"]
-            if (category["pilotCount"] != pilot_counts[category_id] or not examples
-                    or len(set(examples)) != len(examples)
-                    or any(pilot.get(take_id, {}).get("primaryCategory") != category_id for take_id in examples)):
-                raise ValueError(f"Incorrect pilot count or example takes for {category_id}.")
+    pilot_categories = {category_id for category_id, category in categories.items() if category["pilotCount"]}
+    for category_id, category in categories.items():
+        examples = category["exampleTakes"]
+        example_rows = pilot if category_id in pilot_categories else annotations
+        if (category["pilotCount"] != pilot_counts[category_id] or not examples
+                or len(set(examples)) != len(examples)
+                or any(example_rows.get(take_id, {}).get("primaryCategory") != category_id for take_id in examples)):
+            raise ValueError(f"Incorrect pilot count or example takes for {category_id}.")
     pilot_flags = flagged.intersection(pilot)
-    if require_complete and (roster.keys() != pilot.keys() or pilot_flags or missing_categories):
-        raise ValueError("A complete pilot needs all takes reviewed and every category represented.")
+    if require_complete and (roster.keys() != pilot.keys() or pilot_flags):
+        raise ValueError("A complete pilot needs all takes reviewed.")
     print(f"{len(pilot)}/{len(roster)} pilot takes annotated, {len(pilot_flags)} flagged, "
-          f"{len(categories) - len(missing_categories)}/{len(categories)} categories represented.")
+          f"{len(pilot_counts)}/{len(pilot_categories)} pilot categories represented.")
     if checkpoints:
         print(f"{len(annotations)}/{len(source)} catalog takes annotated, "
               f"{len(flagged)} flagged across pilot and subject checkpoints.")
