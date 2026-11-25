@@ -306,6 +306,42 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_19",
+      "sourceUUID": "7D669D25-1009-5D2A-9279-7707377DE0D5",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "32bd82cda0a11103b77ed3ac7fce4fdbdf1cd4b3ce1c6d4a1b84b7dc89ce2181",
+      "frameCount": 2726,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with a Raised-Arm Flourish",
+      "actionDescription": "The performer extends both hands forward, raises them overhead, then folds at the waist and straightens. They finish in a side-facing bent posture.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "arms overhead",
+        "forward fold",
+        "side-facing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_20",
+      "sourceUUID": "E5DF0F27-22B5-55BC-B2A6-17B8411F4BDD",
+      "sourceDescription": "jumping jacks, side twists, reach up, bend over",
+      "sourceSHA256": "ca26341f6aeb9002b7255da23fafd0cd0bdf94ffbf5a46084e3f2c355a905ffc",
+      "frameCount": 4644,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Arm Raises, Trunk Turns, and Deep Bends",
+      "actionDescription": "The performer starts upright, turns and extends the arms, then repeatedly bends toward the floor. They finish standing with both arms open.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "trunk turns",
+        "forward bends",
+        "arms open"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_21",
       "sourceUUID": "94FC71E8-638A-57FD-A3ED-6C258326133C",
       "sourceDescription": "climb 3 steps",
@@ -342,6 +378,42 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_23",
+      "sourceUUID": "96E94CA3-A458-55DF-B815-511FEFBF2D22",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "a1d2c8785cca0aa7c178cc55d662115b738336917ced5dfce6f6dd4aa19ac7fd",
+      "frameCount": 1321,
+      "frameInterval": 0.0083333,
+      "title": "Step Up with High Knees and Turn to Descend",
+      "actionDescription": "The performer begins with narrow steps, lifts alternate knees during a short ascent, and turns before taking lower steps. The take ends facing forward.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "high knees",
+        "turn",
+        "descent"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_24",
+      "sourceUUID": "55B0DDD6-A15E-5FE4-B1DB-C1DB920CC2AD",
+      "sourceDescription": "direct traffic, wave, point",
+      "sourceSHA256": "91017c6f937735510f3460897bb660e85e4ef3891da89f7e0c654fc9c93f1278",
+      "frameCount": 3702,
+      "frameInterval": 0.0083333,
+      "title": "Give Wide Two-Arm Signals and Walk Out",
+      "actionDescription": "The performer opens from standing into short one-handed signals, lifts both arms wide, then turns into several directional gestures. They finish stepping in profile.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "two-handed",
+        "pointing",
+        "walk out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_25",
       "sourceUUID": "C81AC936-8D5F-527B-AD8A-8BEFE85C451A",
       "sourceDescription": "direct traffic, wave, point",
@@ -356,6 +428,60 @@
         "overhead reach",
         "turns",
         "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_26",
+      "sourceUUID": "ED722ED7-D1CF-546B-AC43-F250445FEFB7",
+      "sourceDescription": "direct traffic, wave, point",
+      "sourceSHA256": "e8f977369840f6e14c7564a2b79d43befe38d96a1b571f15c64a271bb5fe03e7",
+      "frameCount": 4721,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Overhead Signals and Side Points",
+      "actionDescription": "The performer gives short signals near the chest, raises both hands above shoulder level, then points sideways while shifting stance. They turn and lower the arms at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "traffic signals",
+        "overhead reach",
+        "side point",
+        "turnaround"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_27",
+      "sourceUUID": "8B958C8E-1CE3-515A-AD00-947CB491FA8F",
+      "sourceDescription": "sit on high stool, stand up",
+      "sourceSHA256": "12bf78a3689e9da56c8c638580c29cc9cb092da1ce642920c6b3957cd9fda9ea",
+      "frameCount": 2152,
+      "frameInterval": 0.0083333,
+      "title": "Sit High, Rise, and Return to a High Seat",
+      "actionDescription": "The performer alternates upright stepping with a high seated position and changes from front-facing to profile. The take ends seated with one forearm extended.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "high stool",
+        "repeated",
+        "sit",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_28",
+      "sourceUUID": "BA39D922-51E5-5553-AD83-3699206B57E1",
+      "sourceDescription": "sit on high stool, stand up",
+      "sourceSHA256": "352190cf90b4e729140b5b553f4fbfcb02d54ce9889f97d93a3419391632f787",
+      "frameCount": 2053,
+      "frameInterval": 0.0083333,
+      "title": "Repeat a High Sit and Step Away",
+      "actionDescription": "The performer starts upright, lifts a knee and settles into a high sit, then stands and repeats. They step away in profile at the end.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "high stool",
+        "repeated",
+        "stand up",
+        "step away"
       ],
       "reviewStatus": "described"
     },
@@ -378,6 +504,42 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_30",
+      "sourceUUID": "3FB89E0F-E1D6-5EBA-8CA6-B35BA8F92DFB",
+      "sourceDescription": "sit on stepstool, ankle on other knee, hand on chin",
+      "sourceSHA256": "987aab0490e9d582cf26a1dc51c3b2ef2d82d776ca574b60ca1476beb48683d6",
+      "frameCount": 2573,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low, Cross a Leg, and Touch the Chin",
+      "actionDescription": "The performer lowers into a low sit, rises and sits again, then places one ankle over the other knee and raises a hand toward the chin. They lean forward into the final rise.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "ankle on knee",
+        "hand near chin",
+        "rise"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_31",
+      "sourceUUID": "AE7D4F7B-01E7-56A5-BC3B-1C2A774162AC",
+      "sourceDescription": "sit on stepstool, stand up",
+      "sourceSHA256": "e8a3d8b5f4b1d9f71173e33b778b43c007e3d9fd21ebad1d15a089cd9b1ab38f",
+      "frameCount": 2094,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low Twice and Walk Away",
+      "actionDescription": "The performer bends and lowers into a low seated pose, stands, and repeats the transition while turning. They step away after the second rise.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "repeated",
+        "sit",
+        "walk away"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_33",
       "sourceUUID": "A8518255-3CA2-5ECE-B947-1FE24EF0A314",
       "sourceDescription": "climb ladder",
@@ -392,6 +554,24 @@
         "alternate knees",
         "forward reach",
         "lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_34",
+      "sourceUUID": "C12C3B70-E20D-5755-87F4-1606050BAEAE",
+      "sourceDescription": "climb ladder",
+      "sourceSHA256": "bdde09bd3994ff198c3a0a5b4bf46238fc03bb8fd5dc6e9220a0b32ed23e5c60",
+      "frameCount": 1432,
+      "frameInterval": 0.0083333,
+      "title": "Climb a Ladder with Alternating Reaches",
+      "actionDescription": "The performer starts standing, reaches forward and raises alternate knees in a climbing rhythm, then lowers and returns to an upright stance.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder",
+        "alternate knees",
+        "forward reach",
+        "standing finish"
       ],
       "reviewStatus": "described"
     },
