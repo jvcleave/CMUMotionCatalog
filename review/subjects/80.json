@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "subject": "80",
+  "takes": [
+    {
+      "takeID": "80_01",
+      "sourceUUID": "47ABD964-A8C1-5D3A-B392-24646E7DD5CC",
+      "sourceDescription": "shaking hands",
+      "sourceSHA256": "38e5cec4dfe58f00b2e028a5473b34a9a6f7b5326159e8eae3a04b175b8f74c0",
+      "frameCount": 849,
+      "frameInterval": 0.0083333,
+      "title": "Bring the Hands Together for a Handshake Mime",
+      "actionDescription": "The performer begins with arms extended sideways, brings the hands together in front for a compact repeated motion, and lowers them to stand.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "handshake",
+        "arms out",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_02",
+      "sourceUUID": "BDE19A14-C53D-5EBA-8245-3F37240318EC",
+      "sourceDescription": "chopping onions",
+      "sourceSHA256": "94e96b687bcd8e11c3ae73c76d363a4c85281ffa543116e6dfafca2b524e9abb",
+      "frameCount": 704,
+      "frameInterval": 0.0083333,
+      "title": "Mime Chopping with Repeated Compact Hand Motions",
+      "actionDescription": "The performer brings both hands close together near the torso and repeats small downward motions while standing. They lower the arms at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "chopping onions",
+        "standing",
+        "short strokes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_03",
+      "sourceUUID": "854CA6C6-7B80-519E-809E-7F6B6DB8012A",
+      "sourceDescription": "shooting a gun",
+      "sourceSHA256": "604c89ed2c293fdf36a5b7375eb43beb769a7f59d0b6cfe70136a004a4f2479c",
+      "frameCount": 660,
+      "frameInterval": 0.0083333,
+      "title": "Raise Both Hands in Front and Turn Aside",
+      "actionDescription": "The performer raises both forearms into a compact chest-height pose, turns sideways while opening a hand, and relaxes the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "raised forearms",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_04",
+      "sourceUUID": "E7DC8E84-65B0-5DCF-B413-AD9FDDC964C2",
+      "sourceDescription": "sewing",
+      "sourceSHA256": "d36d41a31c3a2aa84a4882b9dc6a8cac3f65f2a151b23347f3e0eecccad99d23",
+      "frameCount": 1102,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sewing with a Hand Lift toward the Face",
+      "actionDescription": "The performer starts upright, makes repeated small two-handed motions, raises a hand toward the face, and lowers both arms to finish.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sewing",
+        "small hand motions",
+        "hand lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_05",
+      "sourceUUID": "3E655BA5-44D6-59AF-9C7D-0D83BF6258DC",
+      "sourceDescription": "digging a hole",
+      "sourceSHA256": "6c53e8b9c83e4938cd164f3772c14d739c99bc9b74d93df841c946e42e349dd3",
+      "frameCount": 1160,
+      "frameInterval": 0.0083333,
+      "title": "Mime Digging with Compact Arm Movements",
+      "actionDescription": "The performer repeatedly draws an elbow back and brings both hands together near the waist before returning to an upright pose with arms lowered.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "digging mime",
+        "waist height",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_06",
+      "sourceUUID": "F1E89560-E3B1-529D-8562-C6B302D0DA83",
+      "sourceDescription": "paying for something",
+      "sourceSHA256": "a305df964c4699150537f8fb06582201385704af9cdfbbb8ddacfafcd152ea95",
+      "frameCount": 962,
+      "frameInterval": 0.0083333,
+      "title": "Mime Paying with Both Hands in Front",
+      "actionDescription": "The performer brings both hands near the chest, holds them forward with small repeated adjustments, and lowers them to finish. The source describes paying.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "payment mime",
+        "hands together",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_07",
+      "sourceUUID": "5353E96D-2E49-51C6-A266-E138BFF8BEB3",
+      "sourceDescription": "hanging picture",
+      "sourceSHA256": "b5c918ff09b9c6c736eddea57308885af62bdc005152c8fdd77fa65609323f93",
+      "frameCount": 1558,
+      "frameInterval": 0.0083333,
+      "title": "Mime Hanging a Picture with High Reaches",
+      "actionDescription": "The performer repeatedly raises both hands near or above the face, dips them toward the waist, and returns to a high reach before lowering the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hanging picture",
+        "two-handed",
+        "high reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_08",
+      "sourceUUID": "8190DBB7-B151-5522-BE96-05D9CA08E854",
+      "sourceDescription": "picking up something",
+      "sourceSHA256": "e72c5894a867e629f8fc9d74793861243b0f915cd0682f0cf293f2e3ec6fc4c2",
+      "frameCount": 879,
+      "frameInterval": 0.0083333,
+      "title": "Bend to Pick Up an Object and Extend It Forward",
+      "actionDescription": "The performer bends toward the floor, straightens while drawing the arms in, and extends both forearms before standing with arms low.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "pickup",
+        "forward bend",
+        "two-handed reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_09",
+      "sourceUUID": "7E72A6C9-3504-5377-89F4-171CD19BC745",
+      "sourceDescription": "planting a flower",
+      "sourceSHA256": "9d18ecc4c12ad6467cb3c2acf9b0418e9223eda19a4ac15cc7cf57f055186df3",
+      "frameCount": 1517,
+      "frameInterval": 0.0083333,
+      "title": "Mime Planting with Repeated Floor Reaches",
+      "actionDescription": "The performer raises both hands, turns, folds forward deeply, and repeatedly adjusts the hands near the floor before standing again.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "planting",
+        "forward bend",
+        "floor reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_10",
+      "sourceUUID": "F07F735C-96F4-59A5-9374-C6DC5BF2F900",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "1cef12acac57a075b18734c2284c50a80075c1468b870fe7e6785a9fee73116b",
+      "frameCount": 773,
+      "frameInterval": 0.0083333,
+      "title": "Mime Boxing with Alternating Arm Extensions",
+      "actionDescription": "The performer raises both arms and repeatedly extends one across or in front of the body while shifting their stance. They lower the arms to finish.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "boxing mime",
+        "arm extensions",
+        "weight shifts"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_11",
+      "sourceUUID": "C9EAE32C-4490-58FA-9702-FB03E70B109C",
+      "sourceDescription": "putting on a sweater",
+      "sourceSHA256": "a3e7a53d9c39f841d4ee8691e4adbccd3c5e8afb7f8755e96188411820e475c9",
+      "frameCount": 703,
+      "frameInterval": 0.0083333,
+      "title": "Mime Pulling a Sweater On",
+      "actionDescription": "The performer gathers both hands near the chest, lifts them over the head, and lowers an arm toward the waist before standing relaxed.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "dressing",
+        "sweater",
+        "arms overhead"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_12",
+      "sourceUUID": "C127F1B8-93F7-510E-AD8D-CF762E65CE54",
+      "sourceDescription": "fishing",
+      "sourceSHA256": "4558dbf8e36dcbd3ea6bc40aeb893f1cf1631bc2845fe68c6fde49a2d79521e3",
+      "frameCount": 1611,
+      "frameInterval": 0.0083333,
+      "title": "Mime Fishing with a Larger Opening Sweep",
+      "actionDescription": "The performer leans back and raises an arm, then repeats shorter arm motions near the chest. They finish upright with both arms lowered.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "fishing mime",
+        "arm sweeps",
+        "chest height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_13",
+      "sourceUUID": "3A046508-4C49-5BB7-81F3-F7C0C75A2342",
+      "sourceDescription": "drumming",
+      "sourceSHA256": "2401b5acb0e502946e25eb5af72f874b7cac2897d704201dfda70baa368136f0",
+      "frameCount": 1014,
+      "frameInterval": 0.0083333,
+      "title": "Mime Drumming with Short Alternating Strokes",
+      "actionDescription": "The performer holds both hands in front, alternates short motions near the chest and face, and turns to extend both arms before lowering them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drumming",
+        "alternating hand motions",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_14",
+      "sourceUUID": "261C0041-CAFC-5013-9CCD-EE5295731E79",
+      "sourceDescription": "teaching",
+      "sourceSHA256": "f311836d7549ad2dcba227b0687e0df6da7ea4c7dc404d59ae26d7f5d2456364",
+      "frameCount": 1735,
+      "frameInterval": 0.0083333,
+      "title": "Gesture as if Teaching, Then Lower the Hand",
+      "actionDescription": "The performer raises a hand near the face and extends it diagonally outward several times while shifting weight. The take ends upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "teaching mime",
+        "one-hand gestures",
+        "diagonal reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_15",
+      "sourceUUID": "309D6C7A-4CAA-5C22-BC32-ADAD896180B1",
+      "sourceDescription": "putting on a coat",
+      "sourceSHA256": "367903a162debeb34a5b9ff1d723cca3e46c0128f95cfb32c2f7f47f92761184",
+      "frameCount": 1236,
+      "frameInterval": 0.0083333,
+      "title": "Mime Putting On a Coat and Adjusting It",
+      "actionDescription": "The performer gathers the arms, lifts them behind or above the head, extends an arm to the side, then brings the hands toward the front of the torso.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "coat",
+        "dressing",
+        "side reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_16",
+      "sourceUUID": "DD004DA1-4D28-5F23-AD6E-C28566DC44A4",
+      "sourceDescription": "mixing batter",
+      "sourceSHA256": "86de88d00b6eb5a9e82891e59c51f0bcb262db0ff2a08cec693b206283ef6ab6",
+      "frameCount": 1259,
+      "frameInterval": 0.0083333,
+      "title": "Mime Stirring Batter with Hands Close Together",
+      "actionDescription": "The performer lifts both forearms and repeatedly moves one hand across the other near the torso. They lower both arms to finish.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "mixing batter",
+        "repeated",
+        "compact hands"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_17",
+      "sourceUUID": "DC34A477-85F1-5151-BC24-8482BB8EF5FA",
+      "sourceDescription": "hand mixing dough",
+      "sourceSHA256": "51db4d35a50583ef2fe231a53ce1827432845e41b70ef99bc77f514747826de9",
+      "frameCount": 1438,
+      "frameInterval": 0.0083333,
+      "title": "Mime Working Dough with Both Hands",
+      "actionDescription": "The performer keeps both hands close together at mid-torso, making repeated small motions while occasionally shifting stance. They end with arms down.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "dough",
+        "two-handed",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_18",
+      "sourceUUID": "115728AD-3394-5647-BED6-993E7A9D2AEB",
+      "sourceDescription": "vacuuming",
+      "sourceSHA256": "5ed78a5770b61cda318974bc1c28e4efe8413f2fcbccae55de464e537f9cc0e2",
+      "frameCount": 1511,
+      "frameInterval": 0.0083333,
+      "title": "Mime Vacuuming with Forward Presses and a Turn",
+      "actionDescription": "The performer brings the hands forward, leans into repeated arm extensions while turning into profile, then returns to standing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "vacuuming",
+        "forward reach",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_19",
+      "sourceUUID": "714BC88F-9C7A-5DF3-828F-9EF454E96F4F",
+      "sourceDescription": "pushing broom",
+      "sourceSHA256": "2ee947b00dd73d228e56f177f4bd38e2aba8fabbbb797fae4bd13b6ce4842e6e",
+      "frameCount": 1825,
+      "frameInterval": 0.0083333,
+      "title": "Mime Pushing a Broom from Standing",
+      "actionDescription": "The performer gathers their hands, turns into profile, and leans forward through low arm strokes before straightening.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "broom",
+        "sweeping",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_20",
+      "sourceUUID": "FF59405B-98AB-5973-B1CF-B0CF0F448F07",
+      "sourceDescription": "planting",
+      "sourceSHA256": "df9dcf977d2d5a1bffb101034e473fa50c3a9b30de4bbc58d9fab2bd435ea61d",
+      "frameCount": 2020,
+      "frameInterval": 0.0083333,
+      "title": "Mime Planting with Repeated Hand Adjustments",
+      "actionDescription": "The performer briefly extends a hand forward, then repeats smaller motions with both hands near the chest. They finish with arms lowered.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "planting",
+        "mime",
+        "hands together"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_21",
+      "sourceUUID": "D3B5752F-EF0C-57F6-B196-3319D7FCB61C",
+      "sourceDescription": "pushing swing",
+      "sourceSHA256": "a452a15960636f67396f660d9f4652b48052cd8490ce3aeff41f6c1320b221dc",
+      "frameCount": 1399,
+      "frameInterval": 0.0083333,
+      "title": "Mime Pushing a Swing with Both Arms Forward",
+      "actionDescription": "The performer extends both forearms, retracts and repeats the motion from a slightly turned stance, then lowers the arms.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "swing",
+        "two-handed"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_22",
+      "sourceUUID": "A0FCA6D4-31FD-5C70-8989-D269D3761998",
+      "sourceDescription": "putting on a hat",
+      "sourceSHA256": "0dd9dbf832e449c03977c998e734351373353130b244f2817416aeaa40a8daa8",
+      "frameCount": 1054,
+      "frameInterval": 0.0083333,
+      "title": "Mime Putting On and Adjusting a Hat",
+      "actionDescription": "The performer raises both hands to the head several times, briefly brings them nearer the face, and relaxes the arms after the final adjustment.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "dressing",
+        "hat",
+        "head adjustment"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_23",
+      "sourceUUID": "F7995F98-89A4-5225-AEE7-B46BA5EA0915",
+      "sourceDescription": "putting on a skirt",
+      "sourceSHA256": "04265f6f76cb7d0b20ec03f83b3340c352473746124388fd80e99383b7e1cf03",
+      "frameCount": 1022,
+      "frameInterval": 0.0083333,
+      "title": "Mime Adjusting a Skirt while Turning",
+      "actionDescription": "The performer moves both hands around waist height, alternating between front and side-facing poses before standing with arms down.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "dressing",
+        "skirt",
+        "waist height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_24",
+      "sourceUUID": "F0EC01AB-CEA6-5538-9037-E397E3E82501",
+      "sourceDescription": "eating",
+      "sourceSHA256": "3c20dee1d025be99e961337af34f5321750c9349bdf5941dc908e0e9a4705e0c",
+      "frameCount": 1782,
+      "frameInterval": 0.0083333,
+      "title": "Mime Eating with Repeated Hand-to-Mouth Motions",
+      "actionDescription": "The performer repeatedly moves a hand toward the mouth and back to the chest while standing, then lowers both arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "eating",
+        "hand to mouth",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_25",
+      "sourceUUID": "3B6FA13D-5604-5BBA-B5CA-4C7608F07A8B",
+      "sourceDescription": "answering a phone",
+      "sourceSHA256": "e62606b8bf3435eea1aaf6b0aaaa46d7e8b81b63cf2567eb0612b9e461d37faa",
+      "frameCount": 1107,
+      "frameInterval": 0.0083333,
+      "title": "Mime Answering a Phone and Holding It to the Ear",
+      "actionDescription": "The performer raises one hand to the side of the head, briefly lowers or extends it, then returns it near the ear before lowering the arm.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "phone",
+        "hand to ear",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_26",
+      "sourceUUID": "A9E4310C-CEBC-5B50-B15A-A8273B7A32E3",
+      "sourceDescription": "dialing phone",
+      "sourceSHA256": "3e4d1249a4e4519cac0cefbfc01b891a1af14a79b24e8dcab2beee7d57553807",
+      "frameCount": 1233,
+      "frameInterval": 0.0083333,
+      "title": "Mime Dialing and Lifting a Phone",
+      "actionDescription": "The performer makes small motions with both hands near the chest, raises one hand to the side of the face, and lowers the arms to finish.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "phone",
+        "dialing",
+        "hand to face"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_27",
+      "sourceUUID": "09099FAE-0D37-5CA2-A154-DC5BEBFEFB5E",
+      "sourceDescription": "setting glass of water",
+      "sourceSHA256": "6032e645b6dc5b7339293be220549fbffb72dde4eff116119b199ef7f5c8229c",
+      "frameCount": 1086,
+      "frameInterval": 0.0083333,
+      "title": "Mime Handling a Glass and Taking a Sip",
+      "actionDescription": "The performer moves both hands forward at chest height, briefly lifts one hand toward the mouth, and returns to standing with arms down. The source identifies a glass of water.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "glass",
+        "drinking",
+        "hand to mouth"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_28",
+      "sourceUUID": "B30EC328-E6FE-5C61-A8BD-99B2C6F4053E",
+      "sourceDescription": "drinking and smoking",
+      "sourceSHA256": "7975c9f0efd2ba16ea52c41682ea73757f446dc74749e423d160b7295804f04c",
+      "frameCount": 1221,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Hand-to-Mouth Gestures While Standing",
+      "actionDescription": "The performer alternates bringing a hand close to the face with outstretched and chest-level gestures, then lowers both arms. The source describes drinking and smoking.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking mime",
+        "smoking mime",
+        "hand to mouth"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_29",
+      "sourceUUID": "C9D64266-5B4B-5536-A003-F76107292B5E",
+      "sourceDescription": "chugging",
+      "sourceSHA256": "ce952fcfec8887f7d170a43edf0177675050f1aa1bb5330cbf6b7c8cd6667280",
+      "frameCount": 1126,
+      "frameInterval": 0.0083333,
+      "title": "Mime Chugging with the Head Tipped Back",
+      "actionDescription": "The performer repeatedly raises one hand toward the mouth, tips the head back in a larger motion, and lowers the hand to stand upright.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "head back",
+        "hand to mouth"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "80_30",
+      "sourceUUID": "A6AFCCA7-82B6-5C25-8FC4-2B92089071E6",
+      "sourceDescription": "range of motion",
+      "sourceSHA256": "69db3a44d7e1e8f067e66ea99641843447274447c33f3c28ca38fef4fd9da56c",
+      "frameCount": 2590,
+      "frameInterval": 0.0083333,
+      "title": "Move the Head, Arms, and Legs through Range of Motion",
+      "actionDescription": "The performer starts with small head and upper-body movements, opens the arms and extends a leg, then finishes with both arms horizontal.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "range of motion",
+        "calibration",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
