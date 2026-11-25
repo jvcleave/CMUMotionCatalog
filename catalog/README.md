@@ -38,12 +38,8 @@ earlier [v1.0.0 preview-only release](https://github.com/jvcleave/CMUMotionCatal
 
 ## Contribute labels
 
-Edit the take's entry in the [action reviews](../review/) using its stable
-take ID. From the repository root, run
-`python3 -B review/publish_catalog.py 1.1.0` to validate the reviews and
-regenerate the index and the [preview label overrides](annotations.json).
-Pass `--check` to verify the generated files. The exporter keeps existing
-poster frame overrides and leaves the BVH and preview files intact.
+Open an issue with the take ID and the proposed change to its title,
+description, category, or search tags. [Catalog issues](https://github.com/jvcleave/CMUMotionCatalog/issues/new)
 
 ## Credits and source terms
 

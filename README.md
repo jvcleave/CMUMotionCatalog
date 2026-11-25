@@ -27,8 +27,8 @@ See the [CMU data terms](https://mocap.cs.cmu.edu/) and
 
 ## Catalog browser
 
-The GitHub Pages browser is built from the committed action reviews and the
-existing still and animated previews. Use **Motion filter** to find Partner Work,
+The GitHub Pages browser uses the published catalog index and its still and
+animated previews. Use **Motion filter** to find Partner Work,
 Turns in Place, or Stylized Walks across categories. Category totals count the
 takes returned by that filter, including any take listed in two categories.
 Choose **3D Preview** on a card or in the take details to start playback. You

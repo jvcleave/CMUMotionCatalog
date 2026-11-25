@@ -7,12 +7,9 @@ import json
 from pathlib import Path
 import re
 import shutil
-import sys
 
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT / "review"))
-from validate import index, read, validate
 
 
 # This revision contains all the checksum-pinned source BVHs.
@@ -35,14 +32,14 @@ STYLIZED_WALK = re.compile(
 )
 
 
-def motion_filters(review):
-    tags = {tag.strip().lower() for tag in review.get("searchTags", [])}
-    title = review["title"].lower()
+def motion_filters(take):
+    tags = {tag.strip().lower() for tag in take["tags"]}
+    title = take["title"].lower()
     filters = []
     if tags & PARTNER_TAGS or PARTNER_ROLE.search(title):
         filters.append("partner-work")
-    if review["primaryCategory"] == "walking-turning":
-        labels = (title, (review["sourceDescription"] or "").lower(), *tags)
+    if take["primaryCategory"] == "walking-turning":
+        labels = (title, (take["sourceDescription"] or "").lower(), *tags)
         if any(IN_PLACE_TURN.search(label) for label in labels):
             filters.append("turns-in-place")
         if any(STYLIZED_WALK.search(label) for label in labels):
@@ -51,15 +48,10 @@ def motion_filters(review):
 
 
 def build(output):
-    validate(require_complete=True)
-    reviews = read("review/pilot-annotations.json")["takes"]
-    for checkpoint in sorted((ROOT / "review/subjects").glob("*.json")):
-        reviews.extend(read(checkpoint.relative_to(ROOT))["takes"])
-    by_id = index(reviews, "takeID")
-    catalog = read("catalog/catalog.json")["takes"]
-    calibration_frames = read("catalog/source-catalog.json")["calibrationFrameCount"]
-    if by_id.keys() != {take["takeID"] for take in catalog}:
-        raise ValueError("The Pages catalog requires an annotation for every take.")
+    catalog_directory = ROOT / "catalog"
+    catalog = json.loads((catalog_directory / "catalog.json").read_bytes())
+    source = json.loads((catalog_directory / "source-catalog.json").read_bytes())
+    calibration_frames = source["calibrationFrameCount"]
 
     output.mkdir(parents=True, exist_ok=True)
     site = ROOT / "site"
@@ -75,32 +67,31 @@ def build(output):
     )
 
     takes = []
-    for take in catalog:
-        review = by_id[take["takeID"]]
+    for take in catalog["takes"]:
         previews = {}
         for field in ("thumbnail", "animation"):
             relative = Path(take["packID"]) / take[field]["path"]
             destination = output / "media" / relative
             destination.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copyfile(ROOT / "catalog" / relative, destination)
+            shutil.copyfile(catalog_directory / relative, destination)
             previews[field] = (Path("media") / relative).as_posix()
         takes.append({
             "id": take["takeID"],
-            "title": review["title"],
-            "description": review["actionDescription"],
-            "original": review["sourceDescription"],
-            "category": review["primaryCategory"],
-            "secondaryCategories": review.get("secondaryCategories", []),
-            "motionFilters": motion_filters(review),
-            "tags": review.get("searchTags", []),
-            "duration": (review["frameCount"] - 1) * review["frameInterval"],
-            "needsReview": review["reviewStatus"] == "needs-review",
+            "title": take["title"],
+            "description": take["actionDescription"],
+            "original": take["sourceDescription"],
+            "category": take["primaryCategory"],
+            "secondaryCategories": take.get("secondaryCategories", []),
+            "motionFilters": motion_filters(take),
+            "tags": take["tags"],
+            "duration": (take["frameCount"] - 1) * take["frameInterval"],
+            "needsReview": take.get("reviewStatus") == "needs-review",
             "motion": {
                 "url": f"{BVH_BASE}/{take['packID']}/{take['bvh']['path']}",
-                "frameCount": review["frameCount"],
-                "frameInterval": review["frameInterval"],
+                "frameCount": take["frameCount"],
+                "frameInterval": take["frameInterval"],
                 "calibrationFrames": calibration_frames,
-                "firstUsableFrame": review.get("firstUsableFrame", 1),
+                "firstUsableFrame": take.get("firstUsableFrame", 1),
             },
             **previews,
         })
@@ -109,9 +100,8 @@ def build(output):
         category for take in takes for category in (take["category"], *take["secondaryCategories"])
     )
     categories = [
-        {key: category[key] for key in ("id", "name", "definition")}
-        | {"count": counts[category["id"]]}
-        for category in read("review/categories.json")["categories"]
+        {**category, "count": counts[category["id"]]}
+        for category in catalog["categories"]
     ]
     filter_counts = Counter(filter_id for take in takes for filter_id in take["motionFilters"])
     filters = [
