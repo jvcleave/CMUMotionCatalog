@@ -784,6 +784,210 @@
         "turn"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_51",
+      "sourceUUID": "DCFA00AD-9458-506F-97E6-8F11BE7E53F1",
+      "sourceDescription": "FurtherJumpTurn",
+      "sourceSHA256": "a6d3a8a3a0b1a75a65e5fbbdadef4ef749e069ce13eeaf81c378893d87386d52",
+      "frameCount": 484,
+      "frameInterval": 0.0083333,
+      "title": "Traveling jump turn",
+      "actionDescription": "The performer opens the arms, dips deeply, and jumps with both hands rising overhead. The performer turns in the air and settles side-on after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump turn",
+        " traveling jump",
+        " overhead arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_52",
+      "sourceUUID": "AB94F51B-358C-5DFE-BC4E-A74CCE50531C",
+      "sourceDescription": "SmallJumpTurn",
+      "sourceSHA256": "e1b33f77886bbe9b3db2f914b071dde36f1e94c42b18cbbbac574e5af18b5eb2",
+      "frameCount": 509,
+      "frameInterval": 0.0083333,
+      "title": "Small quarter-turn jump",
+      "actionDescription": "The performer waits upright, makes a compact hop with the arms close, and lands facing to the side.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "quarter turn",
+        " small hop",
+        " jump turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_53",
+      "sourceUUID": "075AC1AC-A75C-59B5-B4B8-CF71675C0CE3",
+      "sourceDescription": "180",
+      "sourceSHA256": "e041fca12fa2fd6e6c8a3608eb2b73482b58191a8047477153d47e2aa0180c45",
+      "frameCount": 555,
+      "frameInterval": 0.0083333,
+      "title": "Half-turn hop with quiet arms",
+      "actionDescription": "The performer starts with the arms close, bends both knees and turns through a small hop, then regains a steady upright stance.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "half turn",
+        " small hop",
+        " jump turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_54",
+      "sourceUUID": "54A4F275-5741-5E81-B554-0A240BA4C20F",
+      "sourceDescription": "180",
+      "sourceSHA256": "8b3a5496a9677eb34223718b2510f68a14ac4ea94677d176c288dcf3d3801e5e",
+      "frameCount": 678,
+      "frameInterval": 0.0083333,
+      "title": "Half-turn jump with arms out",
+      "actionDescription": "The performer makes a preparatory dip, extends the arms diagonally, then jumps and lands facing away from the starting direction.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "half turn",
+        " open arms",
+        " jump turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_55",
+      "sourceUUID": "7E5595D5-AADD-5E8D-924D-6197286ACEF8",
+      "sourceDescription": "180",
+      "sourceSHA256": "f4524d2cd2af6b2c649f0a3c57fc161915dbf672c58ef86c0922d0bded683e2c",
+      "frameCount": 467,
+      "frameInterval": 0.0083333,
+      "title": "Half-turn jump with crossed arms",
+      "actionDescription": "The performer spreads both arms to prepare, draws the forearms across the chest in the jump, then lands with bent knees and the arms lowered.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "half turn",
+        " crossed arms",
+        " jump turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_56",
+      "sourceUUID": "32CECAF1-630D-58ED-841E-69487C90ECD1",
+      "sourceDescription": "90",
+      "sourceSHA256": "5c3f6580f94021892ebb55eb456be2ab473bfe1bc6d7fd5a1ad07e084908383c",
+      "frameCount": 500,
+      "frameInterval": 0.0083333,
+      "title": "Quarter-turn jump with knee bend",
+      "actionDescription": "The performer draws one arm across the body, turns about a quarter circle during a small jump, and absorbs the landing in a knee bend.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "quarter turn",
+        " knee bend",
+        " jump turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_57",
+      "sourceUUID": "9B579A3A-ABBA-5B3A-955F-9920897270F4",
+      "sourceDescription": "WalkForward",
+      "sourceSHA256": "89410c6362be8fc17141d7a1cf892acbe89fbba1a91f3d272f7b5895b18cf90d",
+      "frameCount": 1177,
+      "frameInterval": 0.0083333,
+      "title": "Walk forward and come to a stop",
+      "actionDescription": "The performer begins upright, advances with a steady cadence and relaxed arms, and takes a final short step to a stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward walk",
+        " steady pace",
+        " stopping"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_58",
+      "sourceUUID": "E9953679-076D-5069-B18C-1D119CFEDF8D",
+      "sourceDescription": "270",
+      "sourceSHA256": "3e7a6b8eb891dac10f2a0428643118cfe832c82f37d23ffd347cec4606d0c9b1",
+      "frameCount": 493,
+      "frameInterval": 0.0083333,
+      "title": "Three-quarter jump turn",
+      "actionDescription": "The performer raises both arms outward, pulls them in for a turning jump, and lands facing to the side with the knees deeply bent.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "three-quarter turn",
+        " jump turn",
+        " bent-knee landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_59",
+      "sourceUUID": "2B530086-A882-5BA0-A0B2-97FC207AD979",
+      "sourceDescription": "360 smallStumble",
+      "sourceSHA256": "9a6c361ea92b64b662e4ce768988694b11908a41f690ecbd7d89aa3d17dbd8f9",
+      "frameCount": 312,
+      "frameInterval": 0.0083333,
+      "title": "Full jump turn with a recovery step",
+      "actionDescription": "The performer winds the arms in, jumps through a full turn, and takes a small corrective step before settling with the feet together.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "full turn",
+        " jump turn",
+        " recovery step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_60",
+      "sourceUUID": "A84E79F0-D11D-519E-9F9F-0D4C2641969A",
+      "sourceDescription": "360",
+      "sourceSHA256": "6c26ad2a78b142044d04678ad575b3bc1e9ffb66969455968dced64ae136be8d",
+      "frameCount": 367,
+      "frameInterval": 0.0083333,
+      "title": "Full jump turn with an arm sweep",
+      "actionDescription": "The performer opens the arms from standing, sweeps them inward as the body rotates in a small jump, and lands facing the starting direction.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "full turn",
+        " jump turn",
+        " arm sweep"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_61",
+      "sourceUUID": "2FDCD777-0477-5502-A521-6686BF372F98",
+      "sourceDescription": "360",
+      "sourceSHA256": "18b453ce5e7503a76770732b798fbb1c3ff66330327748e61a604de9cbf589c1",
+      "frameCount": 362,
+      "frameInterval": 0.0083333,
+      "title": "Full jump turn with one arm extended",
+      "actionDescription": "The performer dips with the arms out, turns through a compact jump, and extends one arm to steady the landing before settling.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "full turn",
+        " jump turn",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "105_62",
+      "sourceUUID": "5D695B40-D38D-570D-96E9-E73525CCE9B7",
+      "sourceDescription": "walkFigure8",
+      "sourceSHA256": "5d0921a27b7d77241acf8694a709ef521a435383867ad8fffb3275f69ae8343a",
+      "frameCount": 1849,
+      "frameInterval": 0.0083333,
+      "title": "Figure-eight walk with direction changes",
+      "actionDescription": "The performer walks continuously through successive curved paths, changing facing between loops before returning to a quiet stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " curved walk",
+        " direction changes"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
