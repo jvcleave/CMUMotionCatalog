@@ -92,6 +92,42 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_06",
+      "sourceUUID": "10D96B8A-E8A8-5E7A-AF74-3CDC86D6F369",
+      "sourceDescription": "jumping jacks, jog, squats, side twists, stretches",
+      "sourceSHA256": "e75bcdec4d6fdeac91571020d0b75d45cd4b2532113e699f465b5b297373ac05",
+      "frameCount": 5357,
+      "frameInterval": 0.0083333,
+      "title": "Do Jumping Jacks, Jogging Steps, and Side Stretches",
+      "actionDescription": "The performer starts upright, moves through quick steps and repeated arm raises, then changes to side bends and twisting reaches. They return to standing with both arms lowered.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "jumping jacks",
+        "jogging",
+        "side stretch",
+        "trunk twist"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_07",
+      "sourceUUID": "90E801BA-9BC8-5DD0-AD3F-D56177365016",
+      "sourceDescription": "jump up to grab, reach for, tiptoe",
+      "sourceSHA256": "031d088d502663eb82dec1fde19599837b43675b078b64bd90cf7e9d2d2dafe5",
+      "frameCount": 2218,
+      "frameInterval": 0.0083333,
+      "title": "Reach Overhead from a Bent-Knee Stance",
+      "actionDescription": "The performer starts upright and repeatedly bends the knees, springs upward, and reaches high with one or both hands. The final pose stays side-facing with one arm overhead.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "overhead reach",
+        "repeated",
+        "knee bend",
+        "side-facing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_08",
       "sourceUUID": "A7089B61-FD4C-5ED5-9724-AF70C87FBB7B",
       "sourceDescription": "jump up to grab, reach for, tiptoe",
@@ -110,6 +146,41 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_09",
+      "sourceUUID": "52016FCE-1D71-5312-B086-A7E2F5BA1518",
+      "sourceDescription": "jump up to grab, reach for, tiptoe",
+      "sourceSHA256": "3a105de7c55a3a483e66c7ae769b3d9ed9de4e2413c4dd4075d7987d8dfe7718",
+      "frameCount": 3287,
+      "frameInterval": 0.0083333,
+      "title": "Alternate High Reaches and Small Jumps",
+      "actionDescription": "The performer starts standing, alternates one-handed and two-handed high reaches, and briefly leaves the floor during several attempts. The take ends upright with arms lowered.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "overhead reach",
+        "repeated",
+        "small jumps",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_11",
+      "sourceUUID": "A623112D-1430-5722-8931-6B931D3C4C63",
+      "sourceDescription": "wash windows",
+      "sourceSHA256": "8a12d3e8c7549af08401e5b0e33690399b91fc585702cd9314dfab8597a1f05d",
+      "frameCount": 4236,
+      "frameInterval": 0.0083333,
+      "title": "Mime Window Washing with a High and Low Pass",
+      "actionDescription": "The performer raises a hand near the forehead, sweeps it outward, bends forward for a lower reach, and returns to high arcs. The last pose keeps one arm extended to the side.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "window washing",
+        "high and low reaches",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_13",
       "sourceUUID": "2CDA3BBC-AE4F-58B9-82DA-4DA9C7CB71EE",
       "sourceDescription": "mop floor",
@@ -124,6 +195,41 @@
         "low strokes",
         "forward bend",
         "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_17",
+      "sourceUUID": "742B525F-0DF2-5367-A229-455B46F836C3",
+      "sourceDescription": "laugh",
+      "sourceSHA256": "839a7665388226bfc84f3a19f684cecb8800ca86089cc892a467dfed46971d77",
+      "frameCount": 2500,
+      "frameInterval": 0.0083333,
+      "title": "Act Out Laughing with a Forward Fold",
+      "actionDescription": "The performer starts with arms relaxed, bends sharply forward, then straightens and gestures with one hand. The take ends standing and angled to the side.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing mime",
+        "forward bend",
+        "one-handed gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_21",
+      "sourceUUID": "94FC71E8-638A-57FD-A3ED-6C258326133C",
+      "sourceDescription": "climb 3 steps",
+      "sourceSHA256": "d2d16c7e8b6cc0699ff23a5df150f45a91d3fa4c0a040ecd13aa6213903ac63a",
+      "frameCount": 1217,
+      "frameInterval": 0.0083333,
+      "title": "Step Up and Turn into the Descent",
+      "actionDescription": "The performer begins standing, raises alternate knees to step up, turns near the top, and steps down again. They finish upright in profile.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "three steps",
+        "step up",
+        "turn",
+        "profile"
       ],
       "reviewStatus": "described"
     }
