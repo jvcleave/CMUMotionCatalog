@@ -31,10 +31,11 @@ The GitHub Pages browser uses the published catalog index and its still and
 animated previews. Use **Motion filter** to find Partner Work,
 Turns in Place, or Stylized Walks across categories. Category totals count the
 takes returned by that filter, including any take listed in two categories.
+Type or select a **Tag** to narrow the results alongside the other filters.
 Choose **3D Preview** on a card or in the take details to start playback. You
 can orbit the animated character, switch to the source skeleton, or scrub the
 motion. The viewer fetches the original BVH on demand from a pinned GitHub
-revision. Takes with open review notes appear with a **Needs review** label.
+revision.
 The site artifact includes preview images and search metadata. The full BVH
 download remains available through Releases.
 

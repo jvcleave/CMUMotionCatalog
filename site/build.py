@@ -87,7 +87,6 @@ def build(output):
             "motionFilters": motion_filters(take),
             "tags": take["tags"],
             "duration": (take["frameCount"] - 1) * take["frameInterval"],
-            "needsReview": take.get("reviewStatus") == "needs-review",
             "motion": {
                 "url": f"{BVH_BASE}/{take['packID']}/{take['bvh']['path']}",
                 "frameCount": take["frameCount"],

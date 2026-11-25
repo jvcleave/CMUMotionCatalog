@@ -43,6 +43,11 @@
         <label for="motion-filter">Motion filter</label>
         <select id="motion-filter"><option value="">All motions</option></select>
       </div>
+      <div class="tag-field">
+        <label for="tag-filter">Tag</label>
+        <input id="tag-filter" type="search" list="tag-options" placeholder="Any tag" autocomplete="off">
+        <datalist id="tag-options"></datalist>
+      </div>
       <div>
         <label for="page-size">Results per page</label>
         <select id="page-size">
@@ -53,7 +58,6 @@
           <option value="all">All</option>
         </select>
       </div>
-      <label class="check"><input id="review-only" type="checkbox"> Needs review only</label>
     </form>
     <p id="category-description" class="category-description" hidden></p>
     <p id="status" role="status">Loading motions…</p>

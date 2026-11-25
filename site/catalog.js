@@ -5,7 +5,8 @@ const assetRevision = new URL(document.currentScript.src).search;
 const query = byID("query");
 const categorySelect = byID("category");
 const motionFilterSelect = byID("motion-filter");
-const reviewOnly = byID("review-only");
+const tagFilter = byID("tag-filter");
+const availableTags = new Map();
 const dialog = byID("detail");
 const preview = byID("preview");
 const play = byID("play");
@@ -119,12 +120,6 @@ function syncDetail() {
   toggle3D.hidden = !take.motion;
   playing = false;
   byID("detail-id").textContent = take.id;
-  if (take.needsReview) {
-    const badge = document.createElement("span");
-    badge.className = "badge";
-    badge.textContent = "Needs review";
-    byID("detail-id").append(badge);
-  }
   byID("detail-title").textContent = take.title;
   byID("detail-meta").textContent = `${categories.get(take.category).name} · ${take.duration.toFixed(2)} s`;
   byID("description").textContent = take.description;
@@ -159,12 +154,6 @@ function cardFor(take) {
   const title = document.createElement("strong");
   title.textContent = take.title;
   copy.append(id);
-  if (take.needsReview) {
-    const badge = document.createElement("span");
-    badge.className = "badge";
-    badge.textContent = "Needs review";
-    copy.append(badge);
-  }
   copy.append(title);
   detailLink.append(image, copy);
 
@@ -217,10 +206,12 @@ function render() {
   const terms = query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const category = categories.get(categorySelect.value);
   const motionFilter = motionFilterSelect.value;
+  const tag = tagFilter.value.trim().toLowerCase();
+  const exactTag = availableTags.has(tag);
   const matches = takes.filter((take) =>
     (!category || take.category === category.id || take.secondaryCategories?.includes(category.id)) &&
     (!motionFilter || take.motionFilters?.includes(motionFilter)) &&
-    (!reviewOnly.checked || take.needsReview) &&
+    (!tag || take.tagKeys.some((key) => exactTag ? key === tag : key.includes(tag))) &&
     terms.every((term) => take.searchText.includes(term))
   );
   const count = matches.length;
@@ -245,10 +236,18 @@ async function initialize() {
   if (!response.ok) throw new Error("Catalog request failed");
   const data = await response.json();
   categories = new Map(data.categories.map((category) => [category.id, category]));
-  takes = data.takes.map((take) => ({
-    ...take,
-    searchText: [take.id, take.title, take.description, take.original, ...take.tags].join(" ").toLowerCase(),
-  }));
+  takes = data.takes.map((take) => {
+    const tagKeys = take.tags.map((tag) => {
+      const key = tag.toLowerCase();
+      if (!availableTags.has(key)) availableTags.set(key, tag);
+      return key;
+    });
+    return {
+      ...take,
+      tagKeys,
+      searchText: [take.id, take.title, take.description, take.original, ...take.tags].join(" ").toLowerCase(),
+    };
+  });
   takesByID = new Map(takes.map((take) => [take.id, take]));
   for (const category of categories.values()) {
     categorySelect.add(new Option(`${category.name} (${category.count})`, category.id));
@@ -256,6 +255,8 @@ async function initialize() {
   for (const filter of data.motionFilters ?? []) {
     motionFilterSelect.add(new Option(`${filter.name} (${filter.count})`, filter.id));
   }
+  const tagOptions = [...availableTags.values()].sort((first, second) => first.localeCompare(second));
+  byID("tag-options").append(...tagOptions.map((tag) => new Option(tag, tag)));
 
   byID("filters").addEventListener("submit", (event) => event.preventDefault());
   byID("filters").addEventListener("input", () => {

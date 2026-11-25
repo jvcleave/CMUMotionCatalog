@@ -35,8 +35,8 @@ main { padding-block: 1.75rem; min-height: 50vh; }
 #filters { display: flex; flex-wrap: wrap; align-items: end; gap: .85rem; }
 #filters label { display: block; margin-bottom: .35rem; font-size: .9rem; }
 .search-field { flex: 1 1 16rem; }
+.tag-field { flex: 0 1 12rem; min-width: 0; }
 input[type="search"] { width: 100%; }
-#filters .check { display: flex; align-items: center; gap: .45rem; min-height: 42px; margin: 0; }
 .category-description, #status, footer, #detail-meta { color: var(--muted); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 205px), 1fr)); gap: 1rem; }
 .card { display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 9px; overflow: hidden; color: inherit; text-decoration: none; background: #1a2420; }
@@ -50,7 +50,6 @@ input[type="search"] { width: 100%; }
 .card-copy { padding: .8rem; }
 .card-copy strong { display: block; margin: .35rem 0 0; line-height: 1.3; }
 .take-id { color: var(--muted); font: .85rem ui-monospace, monospace; }
-.badge { display: inline-block; margin-left: .45rem; color: #ffe194; font-size: .8rem; }
 #pagination { display: flex; justify-content: center; align-items: center; gap: 1rem; margin-top: 1.5rem; }
 dialog { width: min(38rem, 100% - 2rem); max-height: 90dvh; padding: 1.2rem; border: 1px solid var(--line); border-radius: 12px; background: #1a2420; color: inherit; }
 dialog::backdrop { background: #080d0bd9; }
