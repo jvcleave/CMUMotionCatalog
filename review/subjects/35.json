@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "subject": "35",
+  "takes": [
+    {
+      "takeID": "35_02",
+      "sourceUUID": "90EFA51A-81DF-5D8F-A9F0-A27F03D51602",
+      "sourceDescription": "walk",
+      "sourceSHA256": "4176075057ea0ac8bcf5f45765746041852609964aa7766483f24a88a9e42355",
+      "frameCount": 406,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_03",
+      "sourceUUID": "9D95F542-B9A1-579E-A6FA-E7D7C3C28236",
+      "sourceDescription": "walk",
+      "sourceSHA256": "c65ee001f64143add6ebee738f078dc7deb51d71fe615c2b3e3399e20652f93a",
+      "frameCount": 427,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_04",
+      "sourceUUID": "3C7A256D-BFBA-57AF-B455-4CF3FD4BA611",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ce8c784b5c1f605518a4333a82be99fd544fe2bbe653eb90b714b5bbc10bac4e",
+      "frameCount": 433,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_05",
+      "sourceUUID": "AA18CE7F-5103-5927-AA3D-F904AC305400",
+      "sourceDescription": "walk",
+      "sourceSHA256": "e16c38ecad1f71c77e32ceb3f641268a681ed0858e0ccc10a6751f162e994795",
+      "frameCount": 427,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_06",
+      "sourceUUID": "8E7DF750-D1E4-532D-91CB-7C3D3EE0E2DA",
+      "sourceDescription": "walk",
+      "sourceSHA256": "f324befbca8e8b2d66c902d0872f97e12d5d49d2db98e55aa7784ba274845bd4",
+      "frameCount": 438,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_07",
+      "sourceUUID": "59280A9C-B51D-5DEF-8276-1A551614C1B0",
+      "sourceDescription": "walk",
+      "sourceSHA256": "640bc065846f1907ae46efdb28a4e261149db2a3724acb19c5511a79bff625fa",
+      "frameCount": 360,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_08",
+      "sourceUUID": "7D169309-C14D-5016-B8EB-C4B3D5445223",
+      "sourceDescription": "walk",
+      "sourceSHA256": "89465f308270841bd6736644aec96a1180c344bbea3a90618d1ed9fcffe349ee",
+      "frameCount": 455,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_09",
+      "sourceUUID": "DAF8C085-6EC0-5491-B129-09CD44E4F0DB",
+      "sourceDescription": "walk",
+      "sourceSHA256": "ec17587efe3770939c19fbf82a7bf335955db9fad3ddef491522fb63f7ca3ada",
+      "frameCount": 384,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_10",
+      "sourceUUID": "9511388D-1B6D-59A8-AF21-0CF5417B6017",
+      "sourceDescription": "walk",
+      "sourceSHA256": "58c36fc84e371e7d07f332027e7768a3c0ccec8fc142061a2436a736b3160af5",
+      "frameCount": 432,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_11",
+      "sourceUUID": "29B29831-198F-5FCB-B3AB-E221E53B1AE7",
+      "sourceDescription": "walk",
+      "sourceSHA256": "eda9aaf6c1eb032f62f193e2e9858c0df9d4665d3e64f4b804d128def216963a",
+      "frameCount": 385,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_12",
+      "sourceUUID": "4EA88D62-7CD5-52BC-94AB-EEAD29720646",
+      "sourceDescription": "walk",
+      "sourceSHA256": "0704d31c04cbfd1f238e8ecadcfc61cccf1ad8c25cf221699cc360e48f12bcb1",
+      "frameCount": 397,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_13",
+      "sourceUUID": "9B41A72D-2F66-5790-9197-70EF0AD59B7A",
+      "sourceDescription": "walk",
+      "sourceSHA256": "81dbdb13b785e69c977c3329e54c02bf150ba4b42fd1166f7797117fdcbb7f72",
+      "frameCount": 454,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_14",
+      "sourceUUID": "80E58080-F554-55EA-AD8A-A79039C834CF",
+      "sourceDescription": "walk",
+      "sourceSHA256": "a5de758d9cb9b083f139d9856ff747202b5fd37c740496291cca77056e496e11",
+      "frameCount": 411,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_15",
+      "sourceUUID": "5FB29DC9-1C0B-59A9-8CD4-E665B2BFD646",
+      "sourceDescription": "walk",
+      "sourceSHA256": "92efb8a14dafe6f316e42e24fef1b62f3ff5331df85d77763d990d8984ed8472",
+      "frameCount": 406,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "35_16",
+      "sourceUUID": "D423E395-2DE8-52B2-8B49-8026667CD28A",
+      "sourceDescription": "walk",
+      "sourceSHA256": "a793917bd7905c50aab65b0bd1b422cf0ef46ebb0f51433a82c710c7b555cd31",
+      "frameCount": 443,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Relaxed Arms",
+      "actionDescription": "The performer starts mid-stride and walks forward at an even pace with a relaxed alternating arm swing. The walk continues through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "starts mid-stride",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
