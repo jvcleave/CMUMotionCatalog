@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "subject": "82",
+  "takes": [
+    {
+      "takeID": "82_01",
+      "sourceUUID": "BE192703-5563-5F11-AC4A-3C2C0DE0921E",
+      "sourceDescription": "Static pose",
+      "sourceSHA256": "c706be4a0b1c8d1224b81501e06da6d7a09b69327a2ed8d5fdb27ec6bde321e0",
+      "frameCount": 10,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Short Bent-Knee Reaching Pose",
+      "actionDescription": "The performer holds a bent-knee stance with one arm extended and the other drawn in. The short take changes very little.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "short take",
+        "held pose",
+        "bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_02",
+      "sourceUUID": "4AC5E2ED-CAA8-56D5-A1AD-8A3FEEBDAC76",
+      "sourceDescription": "Jump off ledge",
+      "sourceSHA256": "eaeee4ac1076bed29df646717f5efb6a4a967ed45b82f3954a374017a0fecb89",
+      "frameCount": 1808,
+      "frameInterval": 0.0083333,
+      "title": "Jump Down from a Ledge and Walk Out",
+      "actionDescription": "The performer takes several small preparatory steps and raises a hand, then drops into a bent-knee landing and walks out.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "ledge",
+        "jump down",
+        "walk out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_03",
+      "sourceUUID": "48AE4F25-1653-5D42-BC1E-A3453A9B6131",
+      "sourceDescription": "Jump off ledge",
+      "sourceSHA256": "b5004dc71480f6737ac90b016d932996d50084c631840764748dc9e0219e760c",
+      "frameCount": 1899,
+      "frameInterval": 0.0083333,
+      "title": "Jump off a Ledge into a Deep Landing",
+      "actionDescription": "The performer approaches with several short steps, lifts the arms slightly, and drops into a low landing before moving away.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "ledge",
+        "jump",
+        "low landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_04",
+      "sourceUUID": "D3921103-2B07-575C-910A-7C2E7882C5C2",
+      "sourceDescription": "Jump off ledge",
+      "sourceSHA256": "25bae2dc3623ff9cde92e12f0a8f2009ffe875bce0f14af007b7190590fd175f",
+      "frameCount": 908,
+      "frameInterval": 0.0083333,
+      "title": "Jump Forward off a Ledge and Recover",
+      "actionDescription": "The performer lifts a knee and reaches an arm sideways during takeoff, folds deeply on landing, and steps out to an upright finish.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "ledge",
+        "forward jump",
+        "recovery steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_05",
+      "sourceUUID": "E51D5139-18B8-57B6-87FA-097A59DD4C20",
+      "sourceDescription": "sitting on ground relaxing",
+      "sourceSHA256": "b90d19e23ac2564fc01d8480c15d17d180a96b09d40acbc6bdb78488f5536702",
+      "frameCount": 2247,
+      "frameInterval": 0.0083333,
+      "title": "Shift and Rest while Seated on the Ground",
+      "actionDescription": "The performer remains seated on the floor, alternately raises a hand, shifts weight, and props the torso with an arm behind. The take ends seated.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "floor sit",
+        "seated shift",
+        "hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_06",
+      "sourceUUID": "F2CA6F8C-2208-570C-8E67-E8DA668D51E5",
+      "sourceDescription": "Pushing on heavy object",
+      "sourceSHA256": "1c0052e30ac7db00eaea896cf6b2619b8a672102a4ac77ac08fab8e710a9f39d",
+      "frameCount": 1091,
+      "frameInterval": 0.0083333,
+      "title": "Lean Deeply to Push and Return Upright",
+      "actionDescription": "The performer folds forward with arms down and takes braced steps as the torso stays low. They straighten in profile near the end.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "heavy object",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_07",
+      "sourceUUID": "1DA40A23-D282-5448-A96A-A6167A6E403E",
+      "sourceDescription": "Pushing on heavy object",
+      "sourceSHA256": "3d1bd5883cb2236a94cd14563fc881e5202e6db3c6ddf1a29f4e69b5d564cb05",
+      "frameCount": 1198,
+      "frameInterval": 0.0083333,
+      "title": "Push with Repeated Low Braced Steps",
+      "actionDescription": "The performer bends at the waist, takes multiple braced steps and extends one leg behind, and stays low in the final frame.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "push",
+        "heavy object",
+        "low stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_08",
+      "sourceUUID": "AF25DF92-9875-5712-BEE1-9617AF377F1F",
+      "sourceDescription": "stand still; casual walk forward",
+      "sourceSHA256": "5f3e7cbbd18456914f94f1e87d2da8515361e325467f86e06b0011ba201045de",
+      "frameCount": 1699,
+      "frameInterval": 0.0083333,
+      "title": "Stand Still and Start a Casual Walk",
+      "actionDescription": "The performer waits upright, starts stepping forward with an easy arm swing, and remains in stride at the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "starts still",
+        "forward",
+        "casual walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_09",
+      "sourceUUID": "D98BAE4C-1847-5AB7-97B0-C8E50BAC33D4",
+      "sourceDescription": "confident walk forward",
+      "sourceSHA256": "268c90bdbeebb171e0d3a9af97ff142578cb4ca72be02c0483682c9928ed044a",
+      "frameCount": 1292,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with an Upright Torso",
+      "actionDescription": "The performer takes measured forward strides with an upright torso and relaxed arms, then narrows the stance near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "upright",
+        "measured pace"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_10",
+      "sourceUUID": "B03BB702-6ACF-537D-876A-2C3AC069DB53",
+      "sourceDescription": "sad walk forward",
+      "sourceSHA256": "ffcc19825419a17c7c5ca16354d61b31abe1c62098a06dcfaf9b4e24722d6881",
+      "frameCount": 564,
+      "frameInterval": 0.0083333,
+      "title": "Walk with a Lowered Head and Restrained Arm Swing",
+      "actionDescription": "The performer lowers the head, pitches the torso slightly forward, and walks in profile with low arms through the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "lowered head",
+        "low arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_11",
+      "sourceUUID": "F54C5170-EE55-5BF2-8A3B-7194B80DD609",
+      "sourceDescription": "normal walk forward",
+      "sourceSHA256": "2eeda4ec8b41046fee50721189e8f2fbc2b11ca3d8de0b8ba2907b977cb877a1",
+      "frameCount": 695,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward at an Even Pace",
+      "actionDescription": "The performer turns slightly into profile, walks with an easy alternating stride, and settles upright with feet close together.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_12",
+      "sourceUUID": "3AD827D5-1292-5943-B269-0B37DCD58B7A",
+      "sourceDescription": "happy or fast walk forward",
+      "sourceSHA256": "431488d584bda97bb4843e91ba8438c609dd5ee296cf2ea52252d60b7031bec3",
+      "frameCount": 402,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward Briskly with a Freer Arm Swing",
+      "actionDescription": "The performer takes quick forward steps with the arms swinging loosely and continues stepping at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "brisk walk",
+        "forward",
+        "arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_13",
+      "sourceUUID": "254AC26E-642B-5C65-852D-D9DF7F2065BF",
+      "sourceDescription": "normal walk forward",
+      "sourceSHA256": "7e7332a09eb8e975ad19254f686292534ea0544c0031aa50fe705916b4bf6d73",
+      "frameCount": 413,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward with Even Alternating Strides",
+      "actionDescription": "The performer starts mid-step, walks with a steady arm swing, and finishes as one foot reaches forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "even pace",
+        "mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_14",
+      "sourceUUID": "AAAAF756-5194-548E-B21C-DE544E5AB8B3",
+      "sourceDescription": "walk forward and slow down",
+      "sourceSHA256": "5d0552d695fa585cc7e6a5cf864d449312d1f77c2b0fc3ac53c8762af9aef6e3",
+      "frameCount": 907,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Slow in Profile",
+      "actionDescription": "The performer walks forward, turns into profile and takes shorter steps, slowing near the final frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "slows",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_15",
+      "sourceUUID": "6D275784-9488-5E99-82EA-ABAA9B014B75",
+      "sourceDescription": "walk forward and turn sideways",
+      "sourceSHA256": "1c215efd97cf00534685a4c38fb4328a5e5b1efc8f69c2e220e5a2d99fa69470",
+      "frameCount": 716,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn Sideways",
+      "actionDescription": "The performer starts mid-stride, turns into profile while stepping, and settles facing sideways with the arms low.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turn",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_16",
+      "sourceUUID": "E12E1C5A-4BD7-5B5B-B38D-4D7F092D6E58",
+      "sourceDescription": "bang on high object",
+      "sourceSHA256": "ca1fb21f47a1a9bbf450f0e92c748b3a1560556901b95a6b988f86611acb744c",
+      "frameCount": 1333,
+      "frameInterval": 0.0083333,
+      "title": "Mime Striking a High Object with Raised Hands",
+      "actionDescription": "The performer raises both hands, repeats a forward-and-upward arm motion while leaning, then lowers the hands and returns upright.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "high object",
+        "raised reach",
+        "repeated hand motion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_17",
+      "sourceUUID": "EA5DD32A-3556-53E4-BC9A-7D1F30A69093",
+      "sourceDescription": "bang on high object",
+      "sourceSHA256": "9c303f5a7cb32a2900ca4d2b4c604fcb645cc8b96f61db73d9d289a3de8c46c5",
+      "frameCount": 1580,
+      "frameInterval": 0.0083333,
+      "title": "Reach Up Repeatedly with Both Hands",
+      "actionDescription": "The performer lifts both arms near the head, makes repeated high forward motions from a staggered stance, and lowers the arms to finish.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "high object",
+        "repeated",
+        "two-handed"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "82_18",
+      "sourceUUID": "311CA171-5607-5D27-B51D-197852096924",
+      "sourceDescription": "static pose",
+      "sourceSHA256": "aae452b63557fb3c0d7375df37d6c177615fb81e225b7dc898f4d952803cf7ba",
+      "frameCount": 10,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Short Raised-Arm Stance",
+      "actionDescription": "The performer holds a staggered stance with knees bent and both forearms raised. The short take is nearly static.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "short take",
+        "raised arms",
+        "staggered stance"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
