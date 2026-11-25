@@ -353,8 +353,7 @@
         "threat",
         "participant A"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "The high stool is identified by the source and is not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "22_21",
@@ -408,8 +407,7 @@
         "walk",
         "participant A"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "Keys are identified by the source and are not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "22_24",
@@ -446,8 +444,7 @@
         "walk",
         "participant A"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "Wallet is identified by the source and is not rendered."
+      "reviewStatus": "described"
     }
   ]
 }
