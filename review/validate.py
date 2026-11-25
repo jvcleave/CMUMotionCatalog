@@ -139,6 +139,7 @@ def validate(require_complete, proposed_checkpoint=None, require_catalog_complet
             f"Catalog review has {len(source.keys() - annotations.keys())} pending takes "
             f"and {len(flagged)} flagged annotations."
         )
+    return categories, annotations
 
 
 if __name__ == "__main__":

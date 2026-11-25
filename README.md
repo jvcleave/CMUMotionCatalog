@@ -2,14 +2,15 @@
 
 Search and preview all 2,548 takes in the cgspeed 2010 MotionBuilder-friendly
 BVH conversion of the CMU Graphics Lab Motion Capture Database. Each take
-includes the original BVH, a readable title, and still and animated previews
-on MessCharacterCreator's Default Human.
+includes the original BVH, a reviewed title and action description, and still
+and animated previews on MessCharacterCreator's Default Human. The catalog
+groups motions into 16 categories.
 
 ## Catalog
 
-[Download the complete catalog ZIP](https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.0.1/cmu-motion-catalog-v1.0.1.zip).
+[Download the complete catalog ZIP](https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.1.0/cmu-motion-catalog-v1.1.0.zip).
 The ZIP extracts to a `catalog/` folder with all original BVHs, both previews
-for every take, and the JSON metadata. The SHA-256 is in the [release notes](https://github.com/jvcleave/CMUMotionCatalog/releases/tag/v1.0.1).
+for every take, and the JSON metadata. The SHA-256 is in the [release notes](https://github.com/jvcleave/CMUMotionCatalog/releases/tag/v1.1.0).
 
 [Browse the catalog](catalog/) to find individual files or suggest a label
 correction.

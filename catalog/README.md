@@ -11,9 +11,11 @@ PNG in their subject pack directory. The complete catalog takes up about
 
 ## Data and files
 
-- [catalog.json](catalog.json) lists every take. Search titles, categories,
-  tags, original descriptions, or take IDs such as `35_01`. The IDs preserve
-  the source zero padding. `sourceUUID` is the Creator source identity in the
+- [catalog.json](catalog.json) lists every take with a reviewed title, action
+  description, search tags, and original source description. The top-level
+  `categories` defines the stable IDs used in each take's `primaryCategory`
+  and optional `secondaryCategories`. Take IDs such as `35_01` preserve
+  source zero padding. `sourceUUID` is the Creator source identity in the
   pinned original catalog.
 - [source-catalog.json](source-catalog.json) is the pinned source index with
   archive and BVH paths, download URLs, source checksums, and timing.
@@ -26,19 +28,22 @@ PNG in their subject pack directory. The complete catalog takes up about
   Each animation uses up to 10 evenly spaced captured poses, including the
   first and last, with a fixed 150 ms per frame. Frame numbers start at one
   and skip the cgspeed calibration pose.
-- `labelOrigin` identifies visually reviewed labels, normalized upstream
-  descriptions, or broad motion labels derived from recorded travel and
-  turning. `sourceDescription` preserves the upstream text where available.
+- Some takes include named `segments` with inclusive start and end source
+  frames, a `firstUsableFrame` note, or a `reviewNote`. These fields use the
+  same one-based source frame coordinates as the previews.
 
-The [complete catalog ZIP](https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.0.1/cmu-motion-catalog-v1.0.1.zip)
+The [complete catalog ZIP](https://github.com/jvcleave/CMUMotionCatalog/releases/download/v1.1.0/cmu-motion-catalog-v1.1.0.zip)
 uses this same directory layout. The `previewPacks` entries refer to the
 earlier [v1.0.0 preview-only release](https://github.com/jvcleave/CMUMotionCatalog/releases/tag/v1.0.0).
 
 ## Contribute labels
 
-Update the take's entry in [annotations.json](annotations.json) with a concise
-title, an action category, and search tags. Use the stable take ID as the key.
-Set `posterFrame` when a particular captured pose best shows the action.
+Edit the take's entry in the [action reviews](../review/) using its stable
+take ID. From the repository root, run
+`python3 -B review/publish_catalog.py 1.1.0` to validate the reviews and
+regenerate the index and the [preview label overrides](annotations.json).
+Pass `--check` to verify the generated files. The exporter keeps existing
+poster frame overrides and leaves the BVH and preview files intact.
 
 ## Credits and source terms
 
