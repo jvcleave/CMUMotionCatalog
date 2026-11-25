@@ -325,6 +325,278 @@
         " wide jump"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_21",
+      "sourceUUID": "79C5BBDB-445C-5B1B-A10B-F6E7A94E3F2D",
+      "sourceDescription": "monkey sequence",
+      "sourceSHA256": "a978da402084659c7f7a898fc8c6b4b65e5fe4763fab86d476f61907d6f91c77",
+      "frameCount": 1355,
+      "frameInterval": 0.0083333,
+      "title": "Monkey-style leaps and low floor travel",
+      "actionDescription": "The performer folds onto hands and feet, springs up with the legs and arms spread, then moves through low hand-supported positions and finishes close to the floor.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "monkey movement",
+        " wide jump",
+        " quadrupedal travel"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_22",
+      "sourceUUID": "37E66005-3484-5A1D-B62B-BAF239303C8F",
+      "sourceDescription": "straight walk",
+      "sourceSHA256": "f52b9f0a29fd230ac8788bde0443f5ebdfb49c4f986e943862b327f41477efcb",
+      "frameCount": 692,
+      "frameInterval": 0.0083333,
+      "title": "Short straight walk",
+      "actionDescription": "The performer walks straight ahead with alternating steps and relaxed arm swings, continuing at a steady pace through the take.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "straight walk",
+        " steady pace",
+        " arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_23",
+      "sourceUUID": "B43A3A7F-A247-5791-9331-91CEBBE252B8",
+      "sourceDescription": "straight walk",
+      "sourceSHA256": "812cc180e676ab41b6ce4337e157c3f487dba7cf5194b6ddcc4670ffaf8f5658",
+      "frameCount": 1187,
+      "frameInterval": 0.0083333,
+      "title": "Longer straight walk",
+      "actionDescription": "The performer keeps a steady line and relaxed arms through a series of even walking strides.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "straight walk",
+        " long walk",
+        " arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_24",
+      "sourceUUID": "346D9545-56DE-5C8E-9167-12A72AA884C7",
+      "sourceDescription": "ball mount",
+      "sourceSHA256": "43a333eb50e4acd644a1f90689292a9874c0af459ede22ec4156c7f0e82a0a6b",
+      "frameCount": 786,
+      "frameInterval": 0.0083333,
+      "title": "High step onto a ball mime",
+      "actionDescription": "The performer pauses upright, raises one knee sharply with bent arms out for balance, then steadies with the arms lowered. The source describes mounting a ball.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "ball mount",
+        " high step",
+        " balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_25",
+      "sourceUUID": "2609A79E-0CBC-545A-8461-395CB0B8AC0B",
+      "sourceDescription": "fwd ball walk",
+      "sourceSHA256": "fe6d53d7a5418c30a34d14406d1d33246f753cba1b8f5518b9e9cac708506733",
+      "frameCount": 1266,
+      "frameInterval": 0.0083333,
+      "title": "Forward ball walk with a low catch",
+      "actionDescription": "The performer steps forward with a quiet upper body before swinging one arm overhead, pitching forward, and catching balance in a crouch. The source describes walking on a ball.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "ball walk",
+        " forward steps",
+        " crouch recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_26",
+      "sourceUUID": "B0B8656B-B74C-5548-B790-7E566601AB2E",
+      "sourceDescription": "fwd ball walk",
+      "sourceSHA256": "1fb8a67d755bff1dbe9941169c5244bd2807adfbac6765a7f477f73047c7d5f2",
+      "frameCount": 1430,
+      "frameInterval": 0.0083333,
+      "title": "Forward ball walk with open-arm corrections",
+      "actionDescription": "The performer takes small steps with soft knees, opens the arms to either side for balance, and comes upright. The source describes walking forward on a ball.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "ball walk",
+        " forward steps",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_27",
+      "sourceUUID": "42BEF465-E36E-51BB-AB87-C02167C2F28D",
+      "sourceDescription": "bwk ball walk",
+      "sourceSHA256": "710cec8a5ea0ea9bd9ea56b9a41b714db83e941ed31dba8adb5da6a8f83af312",
+      "frameCount": 1225,
+      "frameInterval": 0.0083333,
+      "title": "Backward ball walk",
+      "actionDescription": "The performer makes short backward steps, letting the arms drift out as the torso sways, then returns to a steadier upright posture. The source describes walking on a ball.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "ball walk",
+        " backward steps",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_28",
+      "sourceUUID": "4F7DC930-F71A-569E-BB50-66A16C347EE7",
+      "sourceDescription": "breakdance",
+      "sourceSHA256": "d5657ea53f6edc257d8c327c7a0e13c52b438cac78681ebbaa7a92daeaa53dcd",
+      "frameCount": 770,
+      "frameInterval": 0.0083333,
+      "title": "Breakdance drop and floor roll",
+      "actionDescription": "The performer crouches with the arms open, rolls back and lifts the legs into a wide split, then rocks through several tucked positions and finishes sitting low.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "breakdance",
+        " floor roll",
+        " leg split"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_29",
+      "sourceUUID": "B5A1FAB6-B889-596F-809A-2C0B3EF04880",
+      "sourceDescription": "sequesnce",
+      "sourceSHA256": "f063f72a5c660a4f5d091b823e5884b62ac9fd315472022279e62b69604a1382",
+      "frameCount": 1482,
+      "frameInterval": 0.0083333,
+      "title": "Tumbling phrase with turns",
+      "actionDescription": "The performer moves from standing through several hand-supported inversions with changing leg shapes, rises into upright turns and steps, and ends with both arms open.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "tumbling",
+        " hand support",
+        " upright turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_30",
+      "sourceUUID": "13212CE8-2AA8-5570-BDC0-11827D7EDF64",
+      "sourceDescription": "russian dance",
+      "sourceSHA256": "c4363fcea2cee6e3033ad1cda71acb4ba44b3997e255749830c0c102376589e3",
+      "frameCount": 1433,
+      "frameInterval": 0.0083333,
+      "title": "Squat dance with alternating low kicks",
+      "actionDescription": "The performer lowers into a deep squat, alternates forward leg extensions with both arms held out for balance, then rises to stand.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "Russian dance",
+        " squat kicks",
+        " alternating kicks"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_31",
+      "sourceUUID": "BA10EF5D-9035-5DFF-A8B9-BC12A2D9BD67",
+      "sourceDescription": "russian dance",
+      "sourceSHA256": "6b517a1cfdb23b3f8a9b1b53bc825049a4b749fe3487a1d54fc33b68c23544e0",
+      "frameCount": 979,
+      "frameInterval": 0.0083333,
+      "title": "Squat kicks with overhead arm accents",
+      "actionDescription": "The performer drops into a low squat, kicks the feet out in turn while changing arm positions overhead, and springs back up to standing.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "Russian dance",
+        " squat kicks",
+        " overhead arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_32",
+      "sourceUUID": "120CE465-DBC2-5220-8B79-06A40121A8E8",
+      "sourceDescription": "moonwalk",
+      "sourceSHA256": "106e0c19ecbcba4dce8993b90fbe2e0a6809b29917a9f19818b4a69e91ca4053",
+      "frameCount": 723,
+      "frameInterval": 0.0083333,
+      "title": "Moonwalk with a bent-arm finish",
+      "actionDescription": "The performer shifts between planted and sliding feet with lifted heels, keeping the upper body upright and one arm bent near the hip as the glide continues.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "moonwalk",
+        " backward glide",
+        " heel lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_33",
+      "sourceUUID": "7F5DE911-D54D-5D07-8A25-36A2E59EEBA2",
+      "sourceDescription": "arm up wide leg roll",
+      "sourceSHA256": "28da07e3c984a7cfd6f9ce4e351a5886347ca95fe06153fc83e6dbc68de7e42b",
+      "frameCount": 896,
+      "frameInterval": 0.0083333,
+      "title": "Wide-leg roll with one arm up",
+      "actionDescription": "The performer starts wide with one arm overhead, folds to the floor for a roll with the legs spread, and rises back into the raised-arm stance.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "wide-leg roll",
+        " overhead arm",
+        " floor transition"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_34",
+      "sourceUUID": "ACCB1AFD-53FA-5919-A978-3E66E1550E23",
+      "sourceDescription": "wide leg roll",
+      "sourceSHA256": "f48034dc9e3af24893c4eca98545b66544ccb804f82896da9b8f31ab03271a52",
+      "frameCount": 840,
+      "frameInterval": 0.0083333,
+      "title": "Compact roll from standing",
+      "actionDescription": "The performer folds down from narrow standing, rolls through a compact tuck, then balances briefly low on the feet before standing again.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "forward roll",
+        " tucked roll",
+        " squat recovery"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_35",
+      "sourceUUID": "D04A2306-DD43-5164-952F-C6197EDAE37D",
+      "sourceDescription": "wide leg roll",
+      "sourceSHA256": "4c43681e7ecdf80de45205af3dda19424cfd3ebeffa59c84775bc948ef6ae353",
+      "frameCount": 695,
+      "frameInterval": 0.0083333,
+      "title": "Wide-leg roll into a seated split",
+      "actionDescription": "The performer widens the feet, puts both hands down and turns over, passes through a seated straddle, then recovers to a wide standing stance.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "wide-leg roll",
+        " seated straddle",
+        " hand support"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "90_36",
+      "sourceUUID": "E50FC9AD-F121-571F-9B89-296FB5D57C97",
+      "sourceDescription": "wide leg roll",
+      "sourceSHA256": "9dccb7fc42803685d0b5413e47ed64f3c0068e7d3799a43aeec187613e49e83d",
+      "frameCount": 657,
+      "frameInterval": 0.0083333,
+      "title": "Wide-leg roll with arm sweep finish",
+      "actionDescription": "The performer bends forward from a wide stance, rolls through an inverted straddle into a low split, and stands wide with one arm extending out.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "wide-leg roll",
+        " straddle",
+        " arm sweep"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
