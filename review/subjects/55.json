@@ -309,6 +309,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "55_19",
+      "sourceUUID": "26B717F9-A50A-5FD7-8A8B-7228A7F08AA7",
+      "sourceDescription": "dragon (human subject)",
+      "sourceSHA256": "119d18d166cb11cf3a4a98aa368cc5eca815f18bb0b48a8315072f3b62287041",
+      "frameCount": 4741,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dragon with Wide Arms and Weight Shifts",
+      "actionDescription": "The performer starts with arms spread, repeatedly sinks and rises through wide stances, and opens the palms as the arms lift. The take ends with both arms still out.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "dragon",
+        "wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "55_20",
       "sourceUUID": "E7795F9C-D993-5A33-9ED3-C0A4280FB634",
       "sourceDescription": "hippo ballerina (human subject)",
@@ -322,6 +339,143 @@
         "ballerina",
         "character mime",
         "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_21",
+      "sourceUUID": "7D9A12AE-D0F0-5FB8-ABE5-1214FDA030A0",
+      "sourceDescription": "pterosaur (human subject)",
+      "sourceSHA256": "f1bc8b5ba2007a2a4dd43dc969ff654c4a15fc72ab8c8b7d19c4d869897a8c31",
+      "frameCount": 3499,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Pterosaur with Low Wing-Like Arm Sweeps",
+      "actionDescription": "The performer alternates turns and small steps with both arms extended low and to the sides. They finish upright with both forearms still open.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "pterosaur",
+        "low arm sweeps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_22",
+      "sourceUUID": "6E1BB21F-0EC2-511F-837F-B301C223C272",
+      "sourceDescription": "superhero",
+      "sourceSHA256": "2786f7ed961229d66de364aca5dc0ac61321b52c4d52699cf4ecaee448259b01",
+      "frameCount": 6541,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Forward Reaches with Low Steps",
+      "actionDescription": "The performer alternates upright pauses, extended arm gestures, and low steps or crouches. The CMU source identifies a superhero mime.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "superhero mime",
+        "forward reach",
+        "low steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_23",
+      "sourceUUID": "2DE31BB5-18A6-5AE2-A275-F5EFB8408B9D",
+      "sourceDescription": "devil",
+      "sourceSHA256": "006ce3acbd1db51db1cd8658ab234ee6db00913557b13074f94ca2a927ca2c3d",
+      "frameCount": 5971,
+      "frameInterval": 0.0083333,
+      "title": "Repeat Pointed Arm Gestures and Raise Both Hands",
+      "actionDescription": "The performer extends an arm to the side, turns and dips, then brings both hands near or above the head. The final pose keeps both arms raised.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "character mime",
+        "turns",
+        "raised hands"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_24",
+      "sourceUUID": "EDEAD57D-ACEA-5B1F-BFD8-BD631314B6AA",
+      "sourceDescription": "various animals (human subject)",
+      "sourceSHA256": "92e1373e3563a5e46d4b80c5ab39f96179d7b71c1fae3e03464a4172933f04fb",
+      "frameCount": 9522,
+      "frameInterval": 0.0083333,
+      "title": "Shift from Low Animal Poses to Standing Gestures",
+      "actionDescription": "The performer begins in a low wide crouch, alternates compact hand gestures and lower poses, then rises into wider arm movements and a short stepping finish.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "low crouch",
+        "standing transitions"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_25",
+      "sourceUUID": "36A4D016-BE12-5840-8213-B5189C0240EB",
+      "sourceDescription": "dancing animal (human subject)",
+      "sourceSHA256": "a8f32f3057ba80710248c0082ee70327004ab32066168e19de22f278a9011d5b",
+      "frameCount": 3188,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dancing Animal with Wide Side Steps",
+      "actionDescription": "The performer alternates bent-knee side steps and raised elbows before drawing the arms lower. They finish upright with feet apart.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "side steps",
+        "raised elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_26",
+      "sourceUUID": "F8BD2EFF-5518-5A45-A614-1755A47A308E",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "c63af6b90935f1f85549f388a7236f6f31e25281e49946fdb3aa2ab2bbac6528",
+      "frameCount": 4103,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with Overhead Arms and Forward Dips",
+      "actionDescription": "The performer repeatedly raises one or both arms, turns through profile, and folds forward with bent knees. The last pose returns upright with the arms lower.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "forward dip"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_27",
+      "sourceUUID": "1D84A002-EA38-55CA-A95B-41035F1F1B65",
+      "sourceDescription": "dancing ant (human subject)",
+      "sourceSHA256": "e58e4436ebd9d5f0af0a70243d16a5b851b4f38364a56c9b68fa605709cd8692",
+      "frameCount": 5003,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dancing Ant with Short Bouncy Steps",
+      "actionDescription": "The performer makes short bent-knee steps and turns, alternately putting hands near the hips and spreading the elbows. They finish upright with both arms low.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "ant",
+        "bouncy steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_28",
+      "sourceUUID": "987D4494-2EA3-53C4-B1FF-4B88F6A5EAC7",
+      "sourceDescription": "monkey/bear (human subject)",
+      "sourceSHA256": "9f81a3951a1a3405b838eacd83833df46166fd3ebb92352e4d17ed14430252e7",
+      "frameCount": 8309,
+      "frameInterval": 0.0083333,
+      "title": "Shift Between Low Crouches and High Two-Arm Reaches",
+      "actionDescription": "The performer opens bent low, alternates broad steps and open-handed gestures, and briefly raises both arms overhead before stepping out. The CMU source names monkey and bear pantomimes.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "bear",
+        "overhead reach"
       ],
       "reviewStatus": "described"
     }
