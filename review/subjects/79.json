@@ -912,6 +912,158 @@
         "chicken"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_61",
+      "sourceUUID": "89E76530-DF6C-59A4-8437-0DB42ECCCA62",
+      "sourceDescription": "cow",
+      "sourceSHA256": "3f1ec2e4de2c7b6182b9bf3243a85c80d30189e723479acf540ba7e65fb62b87",
+      "frameCount": 1091,
+      "frameInterval": 0.0083333,
+      "title": "Cow mime",
+      "actionDescription": "Leans forward with arms hanging, bobs the head and torso, then straightens.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "cow"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_62",
+      "sourceUUID": "BB20FE97-E092-5C0B-BB0F-4F3E0E145DC4",
+      "sourceDescription": "chicken",
+      "sourceSHA256": "d5c798c32b0eacefc39a16cde0416b079f4ecdcfcfb3c25559695f67865d0300",
+      "frameCount": 845,
+      "frameInterval": 0.0083333,
+      "title": "Chicken mime",
+      "actionDescription": "Holds the hands near the hips with elbows out and bobs the head and torso before relaxing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "chicken"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_63",
+      "sourceUUID": "2A90C738-D3BF-5E8F-836C-5D815DA386EA",
+      "sourceDescription": "tiger",
+      "sourceSHA256": "4872311c7a16a6923a0d6a3f366cefbc7117699c0aa86d9fe11bad803e4640e0",
+      "frameCount": 1092,
+      "frameInterval": 0.0083333,
+      "title": "Tiger mime",
+      "actionDescription": "Leans forward with arms bent and hands held like paws, making small prowling gestures before standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "tiger"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_64",
+      "sourceUUID": "C7110B2E-99C9-5FEB-8C79-B7B682424E55",
+      "sourceDescription": "penguin",
+      "sourceSHA256": "ae5fda95311c1ebbfb095679b2ec377a050390ec6f8a9adcc2d6ae1e41486d9d",
+      "frameCount": 1078,
+      "frameInterval": 0.0083333,
+      "title": "Penguin mime",
+      "actionDescription": "Stands with arms close to the sides and shifts the head and body subtly from side to side.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "penguin"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_65",
+      "sourceUUID": "1C263474-7301-5206-B0D7-885531926590",
+      "sourceDescription": "horse",
+      "sourceSHA256": "f14a57c3ab01ed024e7d208db29a8d975a6215c7637c837d8cce96a5e10b49a2",
+      "frameCount": 653,
+      "frameInterval": 0.0083333,
+      "title": "Horse mime",
+      "actionDescription": "Bends forward with hands low, lifts them toward the chest and face, then bends again before standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "horse"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_66",
+      "sourceUUID": "9D7B614B-1B07-5FF2-A6B0-46C67F34361A",
+      "sourceDescription": "movie and trial dont match",
+      "sourceSHA256": "26eb23f040a215637ef1f513bfef36b0ab9cf8feccdf779ccf73f6484a79f962",
+      "frameCount": 719,
+      "frameInterval": 0.0083333,
+      "title": "Forward lean and hand gestures",
+      "actionDescription": "Leans forward and repeatedly moves both hands in front of the waist before returning upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "forward lean and hand gestures"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source says the movie and trial do not match and provides no action identity; the intended action is unresolved."
+    },
+    {
+      "takeID": "79_67",
+      "sourceUUID": "450E58E5-E070-5510-ABA4-BF79572EEB09",
+      "sourceDescription": "no movie",
+      "sourceSHA256": "4e37dbe570d7a1a57915cb8573b08b978cbf4d1bec1b4369089c621e73b04ec5",
+      "frameCount": 1262,
+      "frameInterval": 0.0083333,
+      "title": "Hunched clasped-hands gesture",
+      "actionDescription": "The performer begins with one arm extended, then hunches and holds both hands near the chest and face before straightening.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "hunched clasped-hands gesture"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source says no movie and provides no action identity; the intended action is unresolved."
+    },
+    {
+      "takeID": "79_68",
+      "sourceUUID": "D5B08442-DDAF-5FAE-BAB0-71B1EB3EED23",
+      "sourceDescription": "cold",
+      "sourceSHA256": "e0a6259d2301a7073024fb56e18ccc01dc843d61040d347ddae6f2a5c28abe25",
+      "frameCount": 1180,
+      "frameInterval": 0.0083333,
+      "title": "Cold shivering mime",
+      "actionDescription": "Hunches with hands clasped near the chest and face, makes small shivering motions, then straightens.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "cold shivering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_69",
+      "sourceUUID": "15195C77-17F1-593F-9D69-9CB562A64B69",
+      "sourceDescription": "very happy",
+      "sourceSHA256": "35c5a46c0d1042b4eb4c0c0d5e71319abb39b50b4587b10202127ee1cb1ef579",
+      "frameCount": 817,
+      "frameInterval": 0.0083333,
+      "title": "Happy celebration",
+      "actionDescription": "Raises both arms high and opens them, puts hands on hips, then raises the arms again and relaxes.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "happy celebration"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_70",
+      "sourceUUID": "3CAF29A5-58E3-535C-BD62-86AEEB730221",
+      "sourceDescription": "laughing",
+      "sourceSHA256": "99e96a6645d4947906ded2efe774be695324677e9c3680bf7db5ed615dcc4501",
+      "frameCount": 763,
+      "frameInterval": 0.0083333,
+      "title": "Laughing mime",
+      "actionDescription": "Raises a hand near the face and bends forward repeatedly, alternating with upright gestures before settling.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "laughing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
