@@ -312,6 +312,156 @@
         "hanging a picture"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_21",
+      "sourceUUID": "7EC9EAC4-1969-528E-97DA-C057B454C203",
+      "sourceDescription": "putting on a pull over",
+      "sourceSHA256": "4f5a768818230fcd7cd171ff2f895f11d74a03c0492d9abadcbbb2863c93fcb4",
+      "frameCount": 817,
+      "frameInterval": 0.0083333,
+      "title": "Put on a pullover mime",
+      "actionDescription": "Brings the hands together, raises the arms toward the head and pulls them down over the torso as if putting on a pullover.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on a pullover"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_22",
+      "sourceUUID": "66285CCA-2665-5C6B-91FD-B3C1209D21B5",
+      "sourceDescription": "range of motion",
+      "sourceSHA256": "e112bde2a1ba1a5dc325313d66c43096ec7609963dbf736aad0ea4f088bd4e15",
+      "frameCount": 879,
+      "frameInterval": 0.0083333,
+      "title": "Range of motion",
+      "actionDescription": "Moves the arms and torso through varied positions, bends forward, lifts a leg behind, squats low and opens the arms.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "range of motion"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_23",
+      "sourceUUID": "2EA34190-4BC6-566B-95E2-8D729B497F63",
+      "sourceDescription": "putting on a jacket",
+      "sourceSHA256": "4730ac99f166f1f78a61fd4ff2c0f882c6da2fd82645a17012fa89a7f8e6f83e",
+      "frameCount": 730,
+      "frameInterval": 0.0083333,
+      "title": "Put on a jacket mime",
+      "actionDescription": "Moves the arms across the chest and behind the back as if slipping on a jacket, then adjusts the front.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on a jacket"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_24",
+      "sourceUUID": "A8FAFCFD-728A-5F78-8C65-05576BB6599E",
+      "sourceDescription": "putting on button up sweater",
+      "sourceSHA256": "4678fadc22f61918eb0df34f73b11add43085d87ad8f93a590e7dd7f8c7f70eb",
+      "frameCount": 744,
+      "frameInterval": 0.0083333,
+      "title": "Put on a button-up sweater mime",
+      "actionDescription": "Moves the arms across the body and behind the back as if putting on sleeves, then works both hands down the front.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on a button-up sweater"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_25",
+      "sourceUUID": "A20E126C-B484-5B23-A654-05E60BF04F2C",
+      "sourceDescription": "moving heavy box",
+      "sourceSHA256": "e65b0aeddcf40f01bb82868655fadfccfdcaa1e5e32063155c6fc65d36e0014e",
+      "frameCount": 603,
+      "frameInterval": 0.0083333,
+      "title": "Move a heavy box mime",
+      "actionDescription": "Reaches both hands forward, leans backward with arms held as if carrying a heavy box, then releases the pose.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "move a heavy box"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_26",
+      "sourceUUID": "75D25EFE-0061-5E99-8B9D-0A30222CBB6C",
+      "sourceDescription": "planting a tree",
+      "sourceSHA256": "a82c89a6c417d91339ff252efe92c313130228528dcd565ef066ae9cadfbbe32",
+      "frameCount": 1032,
+      "frameInterval": 0.0083333,
+      "title": "Plant a tree mime",
+      "actionDescription": "Bends forward and works both hands low in front, alternately reaching and drawing them back as if planting.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "plant a tree"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_27",
+      "sourceUUID": "DA8EB946-3D8A-5D92-86F5-1B6666F5BF7E",
+      "sourceDescription": "planting a plant",
+      "sourceSHA256": "0e0069f65d166e816bb3eaea502f937968efc0d33a70782895e8ff598e771d5a",
+      "frameCount": 883,
+      "frameInterval": 0.0083333,
+      "title": "Plant a plant mime",
+      "actionDescription": "Works both hands together at waist and chest height, making small placing and pressing motions.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "plant a plant"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_28",
+      "sourceUUID": "700E6125-B427-5CD5-A6DF-1E0526DF5AA8",
+      "sourceDescription": "putting on a ball cap",
+      "sourceSHA256": "ef4e893d1bde1b8ffc39ad400c540b9bda0261c9121a58e6f07fe022e8d99b45",
+      "frameCount": 408,
+      "frameInterval": 0.0083333,
+      "title": "Put on a ball cap mime",
+      "actionDescription": "Raises both hands to the head, adjusts them around the crown and brim, then lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on a ball cap"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_29",
+      "sourceUUID": "2C8CECBD-C027-5F1C-A0E1-B03A5306D482",
+      "sourceDescription": "putting on a dress",
+      "sourceSHA256": "541790419cf1a156d6541453d2adff2b7a8f9afdd161ef4774eb1b82d467582a",
+      "frameCount": 678,
+      "frameInterval": 0.0083333,
+      "title": "Put on a dress mime",
+      "actionDescription": "Moves both hands around the waist and hips, then bends and reaches down before standing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on a dress"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_30",
+      "sourceUUID": "3E29CB94-7CAB-5C07-AC14-57A9DAEA5959",
+      "sourceDescription": "pushing a swing",
+      "sourceSHA256": "c334230720b3accc2c0e973fd80d6c66a8c49ad844e7c6b6737e0e9e1230d4a5",
+      "frameCount": 800,
+      "frameInterval": 0.0083333,
+      "title": "Push a swing mime",
+      "actionDescription": "Extends and draws back both hands in repeated forward pushes, then lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "push a swing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
