@@ -122,6 +122,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "49_09",
+      "sourceUUID": "06F4F80D-6405-5EF8-83C1-6509EE588F93",
+      "sourceDescription": "dance - arms held high, side arabesque",
+      "sourceSHA256": "e4b5a409e4ccbacd3e33c69ec1e758de5d53bca01b155a18597e099b5bb691dc",
+      "frameCount": 1917,
+      "frameInterval": 0.0083333,
+      "title": "Raise Both Arms and Hold a Side Extension",
+      "actionDescription": "The performer starts upright, takes a small step, raises both arms overhead and extends one leg sideways. They sustain the shape through the end.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "arabesque",
+        "side extension",
+        "arms high"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "49_10",
       "sourceUUID": "BCF13E0C-7E81-54E8-8A21-0DB4AB7A7E25",
       "sourceDescription": "dance - fold in from side arabesque, curl inwards",
@@ -139,6 +156,57 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "49_11",
+      "sourceUUID": "E719A571-2F69-5826-9C02-4506AD019DB9",
+      "sourceDescription": "dance - fold in from side arabesque, curl inwards",
+      "sourceSHA256": "6660948c75d6a1ee485eba2ce604bb4f6ae9559e88321aa62807705a68856037",
+      "frameCount": 1197,
+      "frameInterval": 0.0083333,
+      "title": "Curl Inward and Hold the Fold",
+      "actionDescription": "The performer starts with one foot out and arms raised, then brings the arms inward and drops the head and shoulders. The folded pose holds through the end.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "arabesque",
+        "inward curl",
+        "held finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_12",
+      "sourceUUID": "A3CB2BEF-88E3-5121-B4A3-801A63FE19FF",
+      "sourceDescription": "dance - lean forward, bring back leg forward, arching arms",
+      "sourceSHA256": "73c3e2da3feea5a94b436051086ea4ef91befeec5feb5398183b51034452a350",
+      "frameCount": 1131,
+      "frameInterval": 0.0083333,
+      "title": "Bring the Back Leg Forward and Hold Open Elbows",
+      "actionDescription": "The performer begins with both arms up, leans forward and brings the lifted leg through, then holds a bent-knee stance with the elbows open.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "leg sweep",
+        "forward lean",
+        "elbows open"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_13",
+      "sourceUUID": "284397B7-AB8F-56DF-AFAD-6713A1094988",
+      "sourceDescription": "dance - fold in from side arabesque, curl inwards",
+      "sourceSHA256": "e8828ee65eee5d0d365f82dbc7c771cc94ef0c43af28c7cd4e6aa18c27d48ff0",
+      "frameCount": 523,
+      "frameInterval": 0.0083333,
+      "title": "Fold Inward from an Open Dance Pose",
+      "actionDescription": "The performer begins with an open, high-arm shape, lowers the arms and curls the upper body forward. They end with the elbows tucked and head lowered.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "arabesque",
+        "inward curl",
+        "lowered head"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "49_14",
       "sourceUUID": "975C1204-02F0-5561-9B22-1D08FA4385ED",
       "sourceDescription": "dance - lean forward, bring back leg forward, arching arms",
@@ -152,6 +220,127 @@
         "leg sweep",
         "arcing arms",
         "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_15",
+      "sourceUUID": "B4534335-6A98-5B79-9155-94E1D5CB1045",
+      "sourceDescription": "static dance pose - folded in, head lowered, leg bent",
+      "sourceSHA256": "53e6f53872e573ad1915db8e1e15d0d1068bf058c89d4a2ce79551b6d73a906b",
+      "frameCount": 947,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Folded Dance Pose",
+      "actionDescription": "The performer holds a folded upper-body position with the head lowered and one leg bent. Only small shifts occur across the take.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "held pose",
+        "dance pose",
+        "folded",
+        "bent leg"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_16",
+      "sourceUUID": "E2B9A6CC-B381-5A06-A556-A4797CC8732E",
+      "sourceDescription": "dance - fold in from side arabesque, curl inwards",
+      "sourceSHA256": "0a5d769a3807b0b010dfaa0d9c9f51b56211ca64a9937f1f41e5b355b52afd1e",
+      "frameCount": 1136,
+      "frameInterval": 0.0083333,
+      "title": "Lower the Arms and Curl Forward from a Side Extension",
+      "actionDescription": "The performer brings both arms down from overhead and gathers them as the head and upper body fold inward. The final position stays narrow and bent.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "arabesque",
+        "lowering arms",
+        "inward curl"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_17",
+      "sourceUUID": "7EAEB9EC-2E6C-58AC-906F-4FFBAE199CAA",
+      "sourceDescription": "dance - lean forward, bring back leg forward, arching arms",
+      "sourceSHA256": "787f896577ac3d76622b51c8d0c7cfc7dfb0df18a10dfb9adce986432ff295f4",
+      "frameCount": 750,
+      "frameInterval": 0.0083333,
+      "title": "Lean Forward and Arc Both Arms Outward",
+      "actionDescription": "The performer opens with raised arms, brings the back leg forward, and folds slightly as both elbows sweep out. They hold that shape at the end.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "leg sweep",
+        "arcing arms",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_18",
+      "sourceUUID": "47EF2980-95C8-5E74-B15E-99A96B812A0A",
+      "sourceDescription": "balance on one leg, outstretched arms",
+      "sourceSHA256": "3c5a6c300713f8e712ed47978ee3058e3867e9be6bf5518a6a598e4244d9b484",
+      "frameCount": 1102,
+      "frameInterval": 0.0083333,
+      "title": "Raise a Knee into a Sustained One-Leg Balance",
+      "actionDescription": "The performer lowers the arms from overhead, raises one knee, and holds the balance with both arms extended sideways through the final frame.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "one-leg balance",
+        "raised knee",
+        "arms out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_19",
+      "sourceUUID": "FD528550-9E88-559B-99EA-515B201F9CFB",
+      "sourceDescription": "balance on one leg, outstretched arms",
+      "sourceSHA256": "26e4f2a517f648c8feace5130f14fbfbfce15801f557b3f6eb2829e9d11066f5",
+      "frameCount": 957,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Knee-Up Balance with Arms Spread",
+      "actionDescription": "The performer moves from an open high-arm stance into a one-leg balance, extends both arms outward and maintains the raised knee through the end.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "one-leg balance",
+        "arms out",
+        "sustained hold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_21",
+      "sourceUUID": "75827BA6-34CF-5293-B4F2-37525303E275",
+      "sourceDescription": "acrobatics - spin/twirl, hang on ropes",
+      "sourceSHA256": "27bfd4abd46b2fad4e5e6d002dbbe86b301f0fdcfe0b863861947288dae1d157",
+      "frameCount": 2422,
+      "frameInterval": 0.0083333,
+      "title": "Twirl in a Hanging Pose with Repeated Leg Sweeps",
+      "actionDescription": "The performer repeatedly turns with one or both arms raised, changing from tucked knees to legs stretched sideways. The CMU source identifies a rope apparatus.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "rope",
+        "hanging",
+        "twirls",
+        "leg sweeps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "49_22",
+      "sourceUUID": "969F6737-6BD1-5D20-A7EB-30BA56B2E54A",
+      "sourceDescription": "dance - lean back on bent leg, balance, bend elbow by ear",
+      "sourceSHA256": "398ba5e0afc144653831dd37e9055e3284ba17aef22ed6147d6c703ec0b33c08",
+      "frameCount": 1288,
+      "frameInterval": 0.0083333,
+      "title": "Lean Back into a Sustained Dance Balance",
+      "actionDescription": "The performer starts with arms raised, bends the supporting leg, and leans back with the forearms gathered near the head. They hold the backward-leaning shape through the end.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "backward lean",
+        "bent leg",
+        "sustained balance"
       ],
       "reviewStatus": "described"
     }
