@@ -3,6 +3,23 @@
   "subject": "32",
   "takes": [
     {
+      "takeID": "32_01",
+      "sourceUUID": "298A9464-5486-5CC2-958D-A7CDF491BA6D",
+      "sourceDescription": "walk",
+      "sourceSHA256": "4ff359fea6a0f2d591627cc09296e22b6ad6613802a8338657c27ed672d668b0",
+      "frameCount": 482,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Small Steps and Turn",
+      "actionDescription": "The performer starts upright, walks with small steps and low arm swings, then turns into profile near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk",
+        "turn",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "32_02",
       "sourceUUID": "51DA64B3-A169-5562-B998-7C7A797FDAFB",
       "sourceDescription": "walk",
@@ -16,6 +33,23 @@
         "forward",
         "turn",
         "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_03",
+      "sourceUUID": "54070207-280B-5E3F-8A1A-75088596DF1F",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "aa4cb260ddc372b60bb97481a9eeeb9f0a9672e2557bafa666146e2663049b97",
+      "frameCount": 3238,
+      "frameInterval": 0.0083333,
+      "title": "Give Open-Hand Signals and Briefly Raise Both Arms",
+      "actionDescription": "The performer alternates crossed forearms and outward gestures, then lifts both hands near the head and lowers the arms to finish.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "open hands",
+        "raised arms"
       ],
       "reviewStatus": "described"
     },
@@ -37,6 +71,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "32_06",
+      "sourceUUID": "DC9131C5-F351-5B6D-906E-0C5EC8DCAD9B",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "b1e19cb2d0d753f16a714fe6c31057ecf7ec01248154dde980d7180acf75cd94",
+      "frameCount": 7851,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Rhyme with Wide Reaches and a Crouch",
+      "actionDescription": "The performer repeatedly lifts one hand, opens both arms, and drops briefly into a low crouch before returning to raised-arm gestures. They finish standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "crouch",
+        "wide reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "32_07",
       "sourceUUID": "3F25D340-D831-573E-9D5C-4742DF5B857D",
       "sourceDescription": "basketball signals",
@@ -54,6 +105,23 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "32_08",
+      "sourceUUID": "51F262CB-44BF-5635-A8CE-809F0C83941C",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "4047c3d0b25c87bb94262c8c93916e743741ce4fad1b3d5680b8fd5cf497b6a9",
+      "frameCount": 2240,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Teapot Rhyme with Alternating Side Leans",
+      "actionDescription": "The performer extends one arm with the other at the hip, alternates small side leans, then bends more deeply. They straighten with one hand drawn in.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "teapot rhyme",
+        "hand on hip",
+        "side lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "32_09",
       "sourceUUID": "F294A6BE-8562-5871-A304-772280DB51B1",
       "sourceDescription": "Alaskan vacation",
@@ -67,6 +135,40 @@
         "raised arm",
         "open palms",
         "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_10",
+      "sourceUUID": "E4CEDCF0-6895-517E-9F49-9B210CF223DC",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "2cff13dc525447296c541224007d1062f3a3c4d3b22029310a308dddc3c1e12c",
+      "frameCount": 7942,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Rhyme with Hand Lifts and Open Arms",
+      "actionDescription": "The performer alternates hand-to-face motions, crossed forearms, and wide gestures, with a short bent-knee dip. They finish upright with arms lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "hands near face",
+        "arms open"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "32_13",
+      "sourceUUID": "56CD819C-5BEB-5B3E-9793-35708810162D",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "5da5a06381c1d767c338955e396a09d88a2265deca6bce56095452f0b3003c96",
+      "frameCount": 3234,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Prairie Dog with Compact Hand Motions",
+      "actionDescription": "The performer brings both hands near the upper chest, repeatedly flexes the knees, and makes one deeper dip before standing nearly upright again.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "prairie dog",
+        "knee bends"
       ],
       "reviewStatus": "described"
     }
