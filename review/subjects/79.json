@@ -612,6 +612,156 @@
         "drink a soda"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_41",
+      "sourceUUID": "32C10A60-1142-51F5-8E19-EDAECCC5A2E5",
+      "sourceDescription": "sipping coffee",
+      "sourceSHA256": "a3076a06805b3017d7b783916be9adcedaa9f47d404d9c0f6a97796fdbab44de",
+      "frameCount": 1108,
+      "frameInterval": 0.0083333,
+      "title": "Sip coffee mime",
+      "actionDescription": "Raises a hand to the mouth repeatedly as if sipping from a cup, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sip coffee"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_42",
+      "sourceUUID": "E7A1AC2E-13AE-5C12-AF4E-C41E71E930AC",
+      "sourceDescription": "eating soup",
+      "sourceSHA256": "e615cef925180a2fac29cc4aac1388888cf5da334b7c39181d7d02afb98215a8",
+      "frameCount": 793,
+      "frameInterval": 0.0083333,
+      "title": "Eat soup mime",
+      "actionDescription": "Holds one hand near the chest and repeatedly brings the other to the mouth as if using a spoon.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "eat soup"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_43",
+      "sourceUUID": "2554025B-9556-5B1F-8786-310DBE060601",
+      "sourceDescription": "painting",
+      "sourceSHA256": "e0fa1144d65523a2262520622cef8587691dfa73073b9fb275e6d266962205d7",
+      "frameCount": 987,
+      "frameInterval": 0.0083333,
+      "title": "Painting mime",
+      "actionDescription": "Extends one hand and makes repeated short strokes in front of the body, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "painting"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_44",
+      "sourceUUID": "5BBA06B7-B70F-57EE-A4E4-C23243975A29",
+      "sourceDescription": "washing a window",
+      "sourceSHA256": "4145d1f2965bc154aece76fe606f62fab117e94b2d355e1dd774d57a9e77ad00",
+      "frameCount": 854,
+      "frameInterval": 0.0083333,
+      "title": "Wash a window mime",
+      "actionDescription": "Makes repeated wiping motions with one hand at face and chest height, then lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "wash a window"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_45",
+      "sourceUUID": "5CBE5234-56C2-5619-8962-541B381ECF28",
+      "sourceDescription": "bear",
+      "sourceSHA256": "0dd01787d8676c1332d3f780b58ba6b27854f5870a66692aed202057d99b80a5",
+      "frameCount": 863,
+      "frameInterval": 0.0083333,
+      "title": "Bear mime",
+      "actionDescription": "Raises both arms in a broad pose, shifts the body and gestures with bent hands before relaxing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "bear"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_46",
+      "sourceUUID": "78F4BFCA-4167-5326-A6DF-88D1E2C4292C",
+      "sourceDescription": "bear",
+      "sourceSHA256": "c8b60776421e316c407ceb23cbe2817f95f93d65cf0619045f89b5cd4281949e",
+      "frameCount": 1296,
+      "frameInterval": 0.0083333,
+      "title": "Bear mime with raised arms",
+      "actionDescription": "Gestures with bent arms across the body, raises both hands widely, then lowers and moves them again.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "bear with raised arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_47",
+      "sourceUUID": "E00C57DF-C3BA-54BB-99EB-0DBB028E6EA8",
+      "sourceDescription": "chicken",
+      "sourceSHA256": "fcf598d5121b4f4d96bf76b266960b8a457ea9e9014b5f2277bcec275b13ee02",
+      "frameCount": 1234,
+      "frameInterval": 0.0083333,
+      "title": "Chicken mime",
+      "actionDescription": "Holds elbows out with hands near the waist, bobs and leans forward in a chicken-like pose.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "chicken"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_48",
+      "sourceUUID": "FE113AB9-0617-52B9-8683-30D80314D17E",
+      "sourceDescription": "elephant",
+      "sourceSHA256": "51df03f40051935bb2412aa5036799641a59d62cf94036031d09d52d4e069e39",
+      "frameCount": 1262,
+      "frameInterval": 0.0083333,
+      "title": "Elephant mime",
+      "actionDescription": "Bends forward with one arm hanging, repeatedly swings and raises it like a trunk, then stands.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "elephant"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_49",
+      "sourceUUID": "3D1F13B2-3BB6-5F0D-AC47-FA94CDA12256",
+      "sourceDescription": "monkey",
+      "sourceSHA256": "906927436c25dc331c594f3021daad75270a58a5c8a310a8e19bf27deef055cd",
+      "frameCount": 1038,
+      "frameInterval": 0.0083333,
+      "title": "Monkey mime",
+      "actionDescription": "Bends the arms with elbows out, brings a hand near the head and leans and gestures from side to side.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "monkey"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_50",
+      "sourceUUID": "B161A127-EBED-58BD-A6D8-69F40B76B35D",
+      "sourceDescription": "mouse",
+      "sourceSHA256": "7fa496ec8b9bf725f4a05e0d6c0deb4a4cdff38030dfe18c7c9d3f5e58f249c8",
+      "frameCount": 734,
+      "frameInterval": 0.0083333,
+      "title": "Mouse mime",
+      "actionDescription": "Hunches forward with hands near the chest and face, makes small pawing motions, then relaxes.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mouse"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
