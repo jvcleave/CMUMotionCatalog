@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "subject": "118",
+  "takes": [
+    {
+      "takeID": "118_01",
+      "sourceUUID": "9F5B2ED7-BD34-5D33-AB0F-251FFD76DED3",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "ff858993d4d2a0e755cd758e9588db90ab4b8ea42f5ddcad1b7bbef6b357326f",
+      "frameCount": 714,
+      "frameInterval": 0.0083333,
+      "title": "Jump with a deep forward dip",
+      "actionDescription": "The performer bends the knees and pitches the torso forward with the arms behind, springs up, and settles back to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " forward dip",
+        " arm swing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_02",
+      "sourceUUID": "60FDD1C7-84F7-57B9-8FD9-07A446AAE45F",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "1a989143686b3d3cde2dbdf88c139b0bd3f1044c92ebacdabccccb9af54094e1",
+      "frameCount": 685,
+      "frameInterval": 0.0083333,
+      "title": "Jump with a clear upright lift",
+      "actionDescription": "The performer sinks into a preparatory crouch, extends both legs into an upright jump with the arms close, and lands with soft knees.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " deep crouch",
+        " soft landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_03",
+      "sourceUUID": "557E1E08-5CF6-5F3B-9D40-62EDA7A87FC3",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "2659dabfe452669f609c27e036437cfe9825b943776158cae0833bb7864c64af",
+      "frameCount": 497,
+      "frameInterval": 0.0083333,
+      "title": "Quick jump with an arm backswing",
+      "actionDescription": "The performer hinges forward and takes one arm behind in the setup, rebounds from bent knees, then steadies upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "quick jump",
+        " arm backswing",
+        " knee bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_04",
+      "sourceUUID": "1859FD27-A6EB-55E7-8D84-2FA4AFE3DB6E",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "c1e8007ded95edfc451632b18012035e1fef1cd7dcbae7a762a4240fb6095f3d",
+      "frameCount": 645,
+      "frameInterval": 0.0083333,
+      "title": "Jump from a forward-folded crouch",
+      "actionDescription": "The performer bends the hips and knees with the arms low, extends upward, and regains an upright stance with a small arm adjustment.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " forward fold",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_05",
+      "sourceUUID": "B11772D9-C37D-5CF5-B653-59AAFBCC4B80",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "c08c2928e7096e43a6ce20071e96b6b34d4cc31eb46a8f0f2bf49006be6047e7",
+      "frameCount": 708,
+      "frameInterval": 0.0083333,
+      "title": "Jump from a deep squat with a broad arm swing",
+      "actionDescription": "The performer drops low with both arms trailing, springs up and brings the forearms across the torso, then settles upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "squat jump",
+        " arm swing",
+        " vertical jump"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_06",
+      "sourceUUID": "A0A18622-1490-5174-B390-7F436D2D0694",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "4880ad32410bd75afe77115dcc1f19dac6ac39f5ce97e271ab4f41ed93eade9a",
+      "frameCount": 543,
+      "frameInterval": 0.0083333,
+      "title": "Small hop with a brief side shift",
+      "actionDescription": "The performer bends slightly, makes a small hop with the arms low and a slight shift to one side, and returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small hop",
+        " side shift",
+        " quiet arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_07",
+      "sourceUUID": "7BBE2F9A-4F9F-5293-8DE1-02F5054E24C1",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "151aeb5db7814263f08b36a2dbe351e7169ebd1703ea827924be1e980ca6b5b9",
+      "frameCount": 696,
+      "frameInterval": 0.0083333,
+      "title": "Compact jump from a shallow knee bend",
+      "actionDescription": "The performer starts upright, softens the knees for a compact jump, then straightens with the feet close and arms near the sides.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " shallow knee bend",
+        " quiet arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_08",
+      "sourceUUID": "7CE293DE-F045-57C7-8929-F4435490E433",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "54398d70aabcdf8b67fe33927332262ca9258f1250528d421601407358f60fcb",
+      "frameCount": 643,
+      "frameInterval": 0.0083333,
+      "title": "Low jump with a forward lean",
+      "actionDescription": "The performer dips through both knees and leans forward, makes a small jump, and returns to upright with little upper-body movement.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "low jump",
+        " forward lean",
+        " small knee bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_09",
+      "sourceUUID": "FD426111-0CA9-59A4-B7CF-0A4F600309B7",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "5805988d6ea29baf94847eb285a25d0dc4a53f6df1676aaa2b11f782d10aed9f",
+      "frameCount": 480,
+      "frameInterval": 0.0083333,
+      "title": "Quick vertical jump into a bent-knee landing",
+      "actionDescription": "The performer crouches, extends to lift both feet, then bends forward and through the knees to absorb the landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " knee bend",
+        " landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_10",
+      "sourceUUID": "8ADA860C-25AD-5F1B-AA41-FFA8F8134244",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "b6815e7e6f856bb0292937ea267d114f9fd87ec1106a9f5466f1148bc1161e9f",
+      "frameCount": 523,
+      "frameInterval": 0.0083333,
+      "title": "Vertical jump with arms trailing",
+      "actionDescription": "The performer dips with the arms swung slightly behind, jumps upward with the torso straightening, and settles back to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " arm backswing",
+        " standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_11",
+      "sourceUUID": "6CFDCE88-A557-5897-9BCC-1B574094FC19",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "3170c019404713a7c9d2fc66270dd24a5c9228cdf5adc007b7da8e2de53f030b",
+      "frameCount": 691,
+      "frameInterval": 0.0083333,
+      "title": "Small jump with a two-stage dip",
+      "actionDescription": "The performer makes a slight forward shift and a deeper knee bend, rebounds upward, and returns to standing with the arms low.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " knee bend",
+        " low arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_12",
+      "sourceUUID": "6A300B97-5540-5521-A718-AD4A1BBBB5D0",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "c0593d981078d1de93418c2169484f6bdfcac11a9ec07e248592b07d8d1b27ab",
+      "frameCount": 707,
+      "frameInterval": 0.0083333,
+      "title": "Small jump with feet close",
+      "actionDescription": "The performer waits upright, bends into a short jump with the elbows relaxed, and straightens with the feet close.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " narrow stance",
+        " standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_13",
+      "sourceUUID": "535486C1-60E5-5DAD-9497-63BF7EDD3EDD",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "9f3b3a3462b6458ba6834e94f8b86a67168464fd3f0b5e00d812a42811d02c74",
+      "frameCount": 681,
+      "frameInterval": 0.0083333,
+      "title": "Small jump with a forward knee dip",
+      "actionDescription": "The performer softens the knees and inclines the torso, springs out of the dip, and relaxes into an upright stance.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " knee dip",
+        " forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_14",
+      "sourceUUID": "6545B55C-4DD7-5A8E-B425-2437781AE4DB",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "3a89cbd2305ae175c38ca8476a2f4a5ea93e742775d292a2dc72f75fb45f48ce",
+      "frameCount": 766,
+      "frameInterval": 0.0083333,
+      "title": "Shallow hop with a quiet upper body",
+      "actionDescription": "The performer makes a small knee dip and hop with the arms low, then stands evenly on both feet.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "shallow hop",
+        " quiet arms",
+        " standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_15",
+      "sourceUUID": "9A72C9EC-3A7B-5296-A48B-F6A0394A51F3",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "709bf5b1ec39d86ea744f57dd62e0d05f3d52adbd43e73d1f2f2019c120a405d",
+      "frameCount": 640,
+      "frameInterval": 0.0083333,
+      "title": "Jump after swinging both arms back",
+      "actionDescription": "The performer crouches with the elbows trailing, rises quickly from both feet, and recovers to standing with the arms at the sides.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " arm backswing",
+        " crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_16",
+      "sourceUUID": "20420E0F-DD25-5943-A9ED-C9CAA88B7526",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "009cc11b7e9d5faf9b89e9ec84714c8341744948b07f1db7496e82f48f867430",
+      "frameCount": 662,
+      "frameInterval": 0.0083333,
+      "title": "Jump from a compact crouch",
+      "actionDescription": "The performer bends forward through the knees and hips, extends upward with a short arm swing, and lands back in place.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " compact crouch",
+        " stationary landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_17",
+      "sourceUUID": "7FA11D1D-7323-5E86-9CC7-9548CD1D1762",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "7b72eed82fc89d476b493799f7fbe3440770e290b4e451ad60dfb19921fe7f6d",
+      "frameCount": 646,
+      "frameInterval": 0.0083333,
+      "title": "Deep dip and short jump",
+      "actionDescription": "The performer sinks into a pronounced knee bend with the arms slightly behind, springs up, and straightens after contact.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "short jump",
+        " deep dip",
+        " arm backswing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_18",
+      "sourceUUID": "C9B39427-05A6-5FBB-B066-AE06B3509C52",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "43748cbb27cce2e237a35fbef14788ad390eaaaf5c4a95dc0b7d807d36d0324e",
+      "frameCount": 592,
+      "frameInterval": 0.0083333,
+      "title": "Small hop with a brief heel lift",
+      "actionDescription": "The performer makes a short upward spring with a shallow knee bend and loose arms, then settles with the feet planted.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small hop",
+        " heel lift",
+        " quiet arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_19",
+      "sourceUUID": "695469EE-EBEF-5872-858B-D44F0F7E296F",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "f82eae98361d42a6056c60dcc8269c84211785c58ea42d8a6abf8587afbfedcd",
+      "frameCount": 612,
+      "frameInterval": 0.0083333,
+      "title": "Small two-foot jump",
+      "actionDescription": "The performer dips slightly, lifts both feet in a short jump, and returns to a quiet standing position.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "two-foot jump",
+        " small hop",
+        " standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_20",
+      "sourceUUID": "712322BB-F2CE-5ECD-8A0A-1699E8F51B6C",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "52629d890192ae0426b364fab95e71838bb4947ad35d307658150b1e681fcf7d",
+      "frameCount": 558,
+      "frameInterval": 0.0083333,
+      "title": "Low jump with the arms slightly open",
+      "actionDescription": "The performer bends the knees, makes a small jump with both arms drifting out, and relaxes the arms after landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "low jump",
+        " open arms",
+        " soft knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_21",
+      "sourceUUID": "3846ADAD-72BF-5803-9248-E51B63695EE1",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "cf438f6096d67f520e03cb0175bfa19c92173454d0b7dacbb9bb8b046a70b922",
+      "frameCount": 754,
+      "frameInterval": 0.0083333,
+      "title": "Vertical jump with a deep preparatory bend",
+      "actionDescription": "The performer pauses upright, bends forward through the knees, springs straight up with arms low, and lands upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " preparatory bend",
+        " arms low"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_22",
+      "sourceUUID": "3003746D-1788-5F5C-8481-5BD2E8DB286C",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "656af182b1d70d6b6b0dc8276c7ba70dfc1a245c743c32ec51f8aa846a1e2d80",
+      "frameCount": 648,
+      "frameInterval": 0.0083333,
+      "title": "Compact hop with a slight drift",
+      "actionDescription": "The performer bends from standing, hops with both feet and a small sideways shift, and settles with soft knees.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "compact hop",
+        " sideways drift",
+        " soft landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_23",
+      "sourceUUID": "D7A47DD6-F112-5FF2-95BC-45FB7C201CEE",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "b03626aac38bcd63bac52ab70f5e818aff50b4fa85f7d5a1782703e542d2896d",
+      "frameCount": 654,
+      "frameInterval": 0.0083333,
+      "title": "Jump out of a crouched arm backswing",
+      "actionDescription": "The performer leans into a crouch with the arms behind, rebounds to a tall position, and drops the arms at the finish.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " arm backswing",
+        " crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_24",
+      "sourceUUID": "AD1EF682-ED54-511C-995A-C50A697660E4",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "793a945a2790092edf2d1bd9add0d9d888d98e93638d2c85f5767b67228e2630",
+      "frameCount": 709,
+      "frameInterval": 0.0083333,
+      "title": "Jump with a tilted airborne posture",
+      "actionDescription": "The performer dips through the knees, rises with the torso tilted and the feet lifted, then returns to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " body tilt",
+        " knee dip"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_25",
+      "sourceUUID": "56436B50-F420-5524-B98A-937B2AAFBE11",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "4090b81882c5eaddc7ccc07fef3df6b23d2483e2e4f4be2bbb1cddc6fdaf3fe8",
+      "frameCount": 586,
+      "frameInterval": 0.0083333,
+      "title": "Jump with both feet drawn backward",
+      "actionDescription": "The performer flexes the knees, springs up with the feet drifting behind the hips, then lands and stands upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " feet back",
+        " vertical lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_26",
+      "sourceUUID": "E9F627EF-D03C-55A2-8910-CAA6FE510B4D",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "1f01481368e6374941a380cfcbe30c3b17045554b529c73784592b623ac583ec",
+      "frameCount": 651,
+      "frameInterval": 0.0083333,
+      "title": "Small jump from a soft-knee stance",
+      "actionDescription": "The performer bends through both knees, rises from the dip with the hands low, then straightens after the landing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " soft knees",
+        " low arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_27",
+      "sourceUUID": "8D8D11F7-E519-5A8F-AC9F-23AF2C7E2007",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "880a22801610bd56ad95290d8bd19f3079be77fc6fad78b9fb9577a94cfa1509",
+      "frameCount": 653,
+      "frameInterval": 0.0083333,
+      "title": "Jump with a broad arm backswing",
+      "actionDescription": "The performer folds forward and sweeps both arms back into a crouch, springs upward, and settles with a small forward lean.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " broad backswing",
+        " forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_28",
+      "sourceUUID": "CB455590-8B75-527B-A62F-4583EF28DBAC",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "87cc70ce111f4502f7f88ddf5af6425e46606516ec92d40b3a3e266378955f65",
+      "frameCount": 697,
+      "frameInterval": 0.0083333,
+      "title": "Jump out of a delayed crouch",
+      "actionDescription": "The performer waits in place, lowers into a forward-leaning crouch with the arms back, and jumps before returning to a quiet stand.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        " delayed takeoff",
+        " crouch"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_29",
+      "sourceUUID": "27E44494-40B6-5E8F-AA99-3399F1F105D1",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "d591afb8f4ddf9211507fd2d40307378272f8dd7b7d764dda1541e8cd2ccb5f7",
+      "frameCount": 583,
+      "frameInterval": 0.0083333,
+      "title": "Vertical jump with a short arm lift",
+      "actionDescription": "The performer dips and springs up with both feet, raises one forearm slightly, and bends the knees on return.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "vertical jump",
+        " short arm lift",
+        " knee bend landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_30",
+      "sourceUUID": "A1BAE47C-31E6-5F76-AA3C-A2E4A80BB1EC",
+      "sourceDescription": "Jump",
+      "sourceSHA256": "b3f80e75835e21559768f635b266e501d28e8ff49ad89ff0aba5cd74e793c31a",
+      "frameCount": 825,
+      "frameInterval": 0.0083333,
+      "title": "Small jump after standing pause",
+      "actionDescription": "The performer holds upright for several seconds, dips and makes a quick jump, then steadies with the arms lowered.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "small jump",
+        " standing pause",
+        " quiet finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_31",
+      "sourceUUID": "86C6B215-72B3-5A45-8C9E-04A0F78E3CA8",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "a9e212eb233f64fea4a0ab6b1c08710cb3d406e95528b498f822141dce5e4ed0",
+      "frameCount": 208,
+      "frameInterval": 0.0083333,
+      "title": "Staggered motorcycle pose",
+      "actionDescription": "The performer holds one foot forward with both knees bent and the hands raised in front as if reaching for handlebars.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " staggered stance",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "118_32",
+      "sourceUUID": "7452E43E-BFD7-593E-9B46-A99DF395A710",
+      "sourceDescription": "Range of motion",
+      "sourceSHA256": "a607bcb62cae17acf8521e214dd637898c5ef1e3de996d5f73927db3e8068c83",
+      "frameCount": 1877,
+      "frameInterval": 0.0083333,
+      "title": "Range-of-motion sequence with crouch and side leg lift",
+      "actionDescription": "The performer starts with both arms out, moves through bends, a squat and a raised side leg, then returns to the open-arm stance.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "range of motion",
+        " squat",
+        " side leg lift"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
