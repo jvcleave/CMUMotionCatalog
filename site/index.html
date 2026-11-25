@@ -6,6 +6,14 @@
   <meta name="description" content="Search and preview 2,548 takes from the CMU motion capture collection.">
   <title>CMU Motion Catalog</title>
   <link rel="stylesheet" href="catalog.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.187.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.187.0/examples/jsm/"
+      }
+    }
+  </script>
   <script src="catalog.js" defer></script>
 </head>
 <body>
@@ -62,7 +70,22 @@
     <h2 id="detail-title"></h2>
     <p id="detail-meta"></p>
     <img id="preview" width="256" height="256" alt="">
-    <button id="play" type="button" aria-pressed="false">Play preview</button>
+    <div class="preview-actions">
+      <button id="play" type="button" aria-pressed="false">Play preview</button>
+      <button id="toggle-3d" type="button" aria-expanded="false" aria-controls="skeleton-preview" hidden>3D Preview</button>
+    </div>
+    <div id="skeleton-preview" hidden>
+      <p id="skeleton-status" role="status" hidden></p>
+      <div id="skeleton-player" hidden>
+        <div id="skeleton-viewport"></div>
+        <div class="skeleton-controls">
+          <button id="skeleton-play" type="button">Play</button>
+          <input id="skeleton-time" type="range" min="0" step="1" aria-label="Playback position">
+          <span id="skeleton-timestamp"></span>
+          <button id="skeleton-reset" type="button">Reset view</button>
+        </div>
+      </div>
+    </div>
     <p id="description"></p>
     <dl>
       <dt>Original CMU description</dt><dd id="original"></dd>

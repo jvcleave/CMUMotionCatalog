@@ -30,7 +30,9 @@ The GitHub Pages browser is built from the committed action reviews and the
 existing still and animated previews. Use **Motion filter** to find Partner Work,
 Turns in Place, or Stylized Walks across categories. Category totals count the
 takes returned by that filter, including any take listed in two categories.
-Takes with open review notes appear with a **Needs review** label. The site
+Open a take and choose **3D Preview** to orbit its captured skeleton or scrub the
+motion. The viewer fetches that take's original BVH on demand from a pinned GitHub
+revision. Takes with open review notes appear with a **Needs review** label. The site
 artifact includes preview images and search metadata. The full BVH download
 remains available through Releases.
 

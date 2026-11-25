@@ -14,6 +14,11 @@ sys.path.insert(0, str(ROOT / "review"))
 from validate import index, read, validate
 
 
+# This revision contains all the checksum-pinned source BVHs.
+BVH_BASE = (
+    "https://raw.githubusercontent.com/jvcleave/CMUMotionCatalog/"
+    "91a0f97526c3e2e2baa0bc2fc78eb10dd912447e/catalog"
+)
 MOTION_FILTERS = {
     "partner-work": "Partner Work",
     "turns-in-place": "Turns in Place",
@@ -51,11 +56,12 @@ def build(output):
         reviews.extend(read(checkpoint.relative_to(ROOT))["takes"])
     by_id = index(reviews, "takeID")
     catalog = read("catalog/catalog.json")["takes"]
+    calibration_frames = read("catalog/source-catalog.json")["calibrationFrameCount"]
     if by_id.keys() != {take["takeID"] for take in catalog}:
         raise ValueError("The Pages catalog requires an annotation for every take.")
 
     output.mkdir(parents=True, exist_ok=True)
-    for filename in ("index.html", "catalog.css", "catalog.js"):
+    for filename in ("index.html", "catalog.css", "catalog.js", "skeleton-viewer.js"):
         shutil.copyfile(ROOT / "site" / filename, output / filename)
 
     takes = []
@@ -79,6 +85,13 @@ def build(output):
             "tags": review.get("searchTags", []),
             "duration": (review["frameCount"] - 1) * review["frameInterval"],
             "needsReview": review["reviewStatus"] == "needs-review",
+            "motion": {
+                "url": f"{BVH_BASE}/{take['packID']}/{take['bvh']['path']}",
+                "frameCount": review["frameCount"],
+                "frameInterval": review["frameInterval"],
+                "calibrationFrames": calibration_frames,
+                "firstUsableFrame": review.get("firstUsableFrame", 1),
+            },
             **previews,
         })
 

@@ -8,6 +8,10 @@ const reviewOnly = byID("review-only");
 const dialog = byID("detail");
 const preview = byID("preview");
 const play = byID("play");
+const toggle3D = byID("toggle-3d");
+const skeletonPreview = byID("skeleton-preview");
+const skeletonStatus = byID("skeleton-status");
+const skeletonPlayer = byID("skeleton-player");
 const pageSizeSelect = byID("page-size");
 let takes = [];
 let categories = new Map();
@@ -16,11 +20,84 @@ let page = 0;
 let activeTake;
 let playing = false;
 let stopCardPreview;
+let skeletonRequest;
+let releaseSkeleton;
 
 function updatePreview() {
   preview.src = playing ? activeTake.animation : activeTake.thumbnail;
   play.textContent = playing ? "Stop preview" : "Play preview";
   play.setAttribute("aria-pressed", String(playing));
+}
+
+function hideSkeletonPreview() {
+  skeletonRequest?.abort();
+  skeletonRequest = undefined;
+  releaseSkeleton?.();
+  releaseSkeleton = undefined;
+  skeletonPreview.hidden = true;
+  skeletonPlayer.hidden = true;
+  preview.hidden = false;
+  play.hidden = false;
+  toggle3D.textContent = "3D Preview";
+  toggle3D.setAttribute("aria-expanded", "false");
+}
+
+async function toggleSkeletonPreview() {
+  if (!skeletonPreview.hidden) {
+    hideSkeletonPreview();
+    return;
+  }
+  if (!activeTake?.motion) return;
+  const request = new AbortController();
+  const { signal } = request;
+  skeletonRequest = request;
+  skeletonPreview.hidden = false;
+  toggle3D.textContent = "Close 3D Preview";
+  toggle3D.setAttribute("aria-expanded", "true");
+  skeletonStatus.hidden = false;
+  skeletonStatus.textContent = "Loading 3D preview…";
+
+  const showUnavailable = () => {
+    releaseSkeleton?.();
+    releaseSkeleton = undefined;
+    skeletonPlayer.hidden = true;
+    preview.hidden = false;
+    play.hidden = false;
+    skeletonStatus.hidden = false;
+    skeletonStatus.textContent = "3D preview is unavailable. You can still play the image preview.";
+  };
+  const motion = activeTake.motion;
+  try {
+    const [{ showSkeleton }, text] = await Promise.all([
+      import("./skeleton-viewer.js"),
+      fetch(motion.url, { signal }).then((response) => {
+        if (!response.ok) throw new Error(`BVH request failed (${response.status})`);
+        return response.text();
+      }),
+    ]);
+    if (signal.aborted || !dialog.open) return;
+    skeletonPlayer.hidden = false;
+    releaseSkeleton = showSkeleton(text, motion, {
+      viewport: byID("skeleton-viewport"),
+      play: byID("skeleton-play"),
+      scrubber: byID("skeleton-time"),
+      timestamp: byID("skeleton-timestamp"),
+      reset: byID("skeleton-reset"),
+      onUnavailable: showUnavailable,
+    });
+    playing = false;
+    updatePreview();
+    preview.hidden = true;
+    play.hidden = true;
+    skeletonStatus.hidden = true;
+  } catch (error) {
+    if (signal.aborted) return;
+    request.abort();
+    console.warn("Could not open 3D preview", error);
+    showUnavailable();
+  } finally {
+    if (skeletonRequest === request) skeletonRequest = undefined;
+  }
 }
 
 function syncDetail() {
@@ -31,7 +108,9 @@ function syncDetail() {
   }
   if (take === activeTake && dialog.open) return;
   stopCardPreview?.();
+  hideSkeletonPreview();
   activeTake = take;
+  toggle3D.hidden = !take.motion;
   playing = false;
   byID("detail-id").textContent = take.id;
   if (take.needsReview) {
@@ -168,6 +247,7 @@ async function initialize() {
   byID("close").addEventListener("click", () => dialog.close());
   dialog.addEventListener("close", () => {
     if (dialog.open) return;
+    hideSkeletonPreview();
     if (activeTake && location.hash === "#" + activeTake.id) {
       history.replaceState(null, "", location.pathname + location.search);
     }
@@ -178,6 +258,7 @@ async function initialize() {
     playing = !playing;
     updatePreview();
   });
+  toggle3D.addEventListener("click", toggleSkeletonPreview);
   window.addEventListener("hashchange", syncDetail);
   render();
   syncDetail();
