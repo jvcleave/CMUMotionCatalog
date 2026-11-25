@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "subject": "62",
+  "takes": [
+    {
+      "takeID": "62_01",
+      "sourceUUID": "47C26C52-FAA8-5763-BAE9-FF7E1EDF7744",
+      "sourceDescription": "bolt loosening, wrench",
+      "sourceSHA256": "63f9aad21ac5ba6ff387b071d5388f8e9bf6695a04810d8c49247c0702d063eb",
+      "frameCount": 1082,
+      "frameInterval": 0.0083333,
+      "title": "Lean Forward and Mime Loosening a Bolt",
+      "actionDescription": "The performer steps into a staggered stance, leans over the hands, and repeats short turning motions at waist height. They straighten and lower both hands at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "wrench",
+        "bolt loosening",
+        "repeated",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_02",
+      "sourceUUID": "372FA6F7-F033-5E04-82CB-693F9C85C443",
+      "sourceDescription": "bolt tightening, wrench",
+      "sourceSHA256": "d45a6b0891a93bba7c45cb357fb8789bf65f7572b545b356f36484ef299c34dc",
+      "frameCount": 1040,
+      "frameInterval": 0.0083333,
+      "title": "Lean Forward and Mime Tightening a Bolt",
+      "actionDescription": "The performer reaches forward, repeats low hand turns while looking down, then draws the arms back and returns upright.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "wrench",
+        "bolt tightening",
+        "waist height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_03",
+      "sourceUUID": "F59903B7-65DD-5AB9-BF81-97D6C225DD0C",
+      "sourceDescription": "sawing, hand saw",
+      "sourceSHA256": "b6716408b39646d2367fc827babf055b132a433674027153d7a34761d36d5988",
+      "frameCount": 1377,
+      "frameInterval": 0.0083333,
+      "title": "Mime Sawing with Short Repeated Strokes",
+      "actionDescription": "The performer steps in, leans forward, and moves one hand back and forth while keeping the other low and forward. They straighten and lower their arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hand saw",
+        "sawing",
+        "repeated strokes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_04",
+      "sourceUUID": "C4E027BB-5E50-567D-8CB5-388836FCBE1B",
+      "sourceDescription": "screwing",
+      "sourceSHA256": "f4d67354ee362d5b6dacfe4a79ae955aaee492bacd061aa1def435837ead5d96",
+      "frameCount": 1353,
+      "frameInterval": 0.0083333,
+      "title": "Mime Turning a Screw with the Elbow Out",
+      "actionDescription": "The performer leans to one side with one elbow raised and works the hands close together near the waist. They release the pose, turn slightly, and finish upright.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "screwing",
+        "elbow out",
+        "low work"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_05",
+      "sourceUUID": "EF4F9BC3-CBBF-525E-9C16-0D95EA84299C",
+      "sourceDescription": "screwing",
+      "sourceSHA256": "4589aa09549e1908c090e643bd115e9ad2e58794353a039c07f726faae331500",
+      "frameCount": 1158,
+      "frameInterval": 0.0083333,
+      "title": "Mime Turning a Screw and Lower the Hands",
+      "actionDescription": "The performer steps into a narrow staggered stance, keeps one elbow out, and makes compact rotations near the waist. They stand upright again at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "screwing",
+        "compact turns",
+        "staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_06",
+      "sourceUUID": "A8393D2C-CF8D-5CCB-984F-E0A96B12D5B1",
+      "sourceDescription": "unscrewing",
+      "sourceSHA256": "14a18872b957d5e4aa694259820597337b4a37942401a7592eed6ceaffe619f9",
+      "frameCount": 2650,
+      "frameInterval": 0.0083333,
+      "title": "Mime Unscrewing with Repeated Hand Turns",
+      "actionDescription": "The performer leans over the hands and makes a sustained series of small rotations with one elbow held out. The hands lower as they straighten.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "unscrewing",
+        "repeated",
+        "elbow out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_07",
+      "sourceUUID": "6F0281DF-5B34-51F5-8B65-3CAB9EAED49C",
+      "sourceDescription": "hammering a nail",
+      "sourceSHA256": "92ede457be02699056e08e3d169e16e5cb10df273ed9c32d2de37e4588a358ab",
+      "frameCount": 1114,
+      "frameInterval": 0.0083333,
+      "title": "Mime Hammering with Low Strokes",
+      "actionDescription": "The performer steps toward the work area, leans over their hands, and repeats short downward arm motions. They release the stance and straighten.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hammering",
+        "nail",
+        "low strokes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_08",
+      "sourceUUID": "63D2193E-E8D3-5A87-80C0-D444E75089D3",
+      "sourceDescription": "hammering a nail",
+      "sourceSHA256": "0185a3daa7ec60a5eccd76ee0225fe71b0193e66040174f4d9085ca3c4091142",
+      "frameCount": 896,
+      "frameInterval": 0.0083333,
+      "title": "Mime Hammering from a Narrow Stance",
+      "actionDescription": "The performer steps in with one arm low, repeats compact downward motions over the forward hand, and steps back into a relaxed stance.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hammering",
+        "nail",
+        "compact strokes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_09",
+      "sourceUUID": "6B8D0CB4-2CCA-555A-8CFB-A6274110871C",
+      "sourceDescription": "pulling a nail",
+      "sourceSHA256": "c50ded8208ea977ef42bd6f6ac6ed9889395bdc0b29634b8a10ccb280294f776",
+      "frameCount": 1138,
+      "frameInterval": 0.0083333,
+      "title": "Mime Pulling a Nail and Step Back",
+      "actionDescription": "The performer turns toward the work area, brings both hands in front, makes a pulling motion, and lowers the arms while stepping away.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "nail pulling",
+        "short pull",
+        "steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_10",
+      "sourceUUID": "1B98E4A9-5730-5CAE-B52B-655CB47B05C3",
+      "sourceDescription": "hammering sequence",
+      "sourceSHA256": "2cdd4da130e60bee55521616688c5b614e60e4c4adcb92ffb3b2321f6faeb49a",
+      "frameCount": 2021,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Hammering Sequence while Bent Forward",
+      "actionDescription": "The performer bends at the waist and works low in front of the body for several strokes, adjusting the torso between groups. They straighten and step away at the end.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hammering",
+        "repeated strokes",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_11",
+      "sourceUUID": "8223E6FD-A746-545F-AEDB-D864AB247E33",
+      "sourceDescription": "cleaning up",
+      "sourceSHA256": "a75f632ffbd4d1390354859058c21c66303dbfbef97fb83c136162a41043abae",
+      "frameCount": 3707,
+      "frameInterval": 0.0083333,
+      "title": "Mime Cleaning Up with Several Floor Reaches",
+      "actionDescription": "The performer turns and steps between brief arm gestures and repeated deep bends toward the floor. They straighten and finish facing away.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "cleaning up",
+        "floor reach",
+        "repeated bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_12",
+      "sourceUUID": "7D451011-1259-586C-B9D6-6229D263F403",
+      "sourceDescription": "hard days drink",
+      "sourceSHA256": "2e487b45c94ea6ec0d6f7b41af06f2ab671fce7a98bdd5e28a3d36d3fb641e90",
+      "frameCount": 985,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Drink with a Small Backward Lean",
+      "actionDescription": "The performer turns away, brings a hand toward the face with a small backward lean, then lowers the hand and steps sideways.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "drinking",
+        "hand to mouth",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_13",
+      "sourceUUID": "107D0AA2-38C0-54E1-9EE9-BE7E1FFD74A4",
+      "sourceDescription": "moving a stool",
+      "sourceSHA256": "17c667c96592dc21358613291bdc700a2bca9d66508d8338f224c2e1acdec090",
+      "frameCount": 1264,
+      "frameInterval": 0.0083333,
+      "title": "Mime Lifting, Carrying, and Setting Down a Stool",
+      "actionDescription": "The performer reaches down with both hands, straightens and steps while holding the arms forward, then bends deeply to lower them. The CMU source identifies a stool.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "stool",
+        "lifting",
+        "carrying",
+        "floor reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_14",
+      "sourceUUID": "FB66D0F4-E62A-53E0-8A01-33520F72AA5C",
+      "sourceDescription": "opening umbrella",
+      "sourceSHA256": "7b66c4d547f58a6211032db59e0564e23d77be6206511f65943502106e591b97",
+      "frameCount": 674,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening an Umbrella Close to the Body",
+      "actionDescription": "The performer reaches low, brings both hands together in front of the torso, and raises one hand near the face. They finish with that hand still lifted.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "umbrella",
+        "opening",
+        "two-handed"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_15",
+      "sourceUUID": "B1EE82B4-9F41-50A8-B390-B4B975CC9637",
+      "sourceDescription": "opening umbrella",
+      "sourceSHA256": "338a751295b15239337f6e2525c764d6c3074bfb05129a6ab02e891f98ce8088",
+      "frameCount": 680,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening an Umbrella with a Higher Hand Lift",
+      "actionDescription": "The performer extends one hand, draws both hands in front of the torso, then lifts one hand toward the forehead and holds briefly.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "umbrella",
+        "opening",
+        "raised hand"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_16",
+      "sourceUUID": "D1A3274A-8AA4-539C-A27D-3A90658259CB",
+      "sourceDescription": "closing umbrella",
+      "sourceSHA256": "75c97918e7db01ad04d6e3e03ef45e85e82187013ea894e656198140c617f4a9",
+      "frameCount": 628,
+      "frameInterval": 0.0083333,
+      "title": "Mime Closing an Umbrella and Lowering It",
+      "actionDescription": "The performer starts with one hand raised near the head, brings both hands in front to make a compact lowering motion, and finishes upright.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "umbrella",
+        "closing",
+        "lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_17",
+      "sourceUUID": "2B9F276F-9F93-57A7-A540-8725A55E0591",
+      "sourceDescription": "opening and closing umbrella",
+      "sourceSHA256": "465a060d0f2163f1f63369dbbd9e98e26ecf1c37fe416ba42258dbe47dc349fe",
+      "frameCount": 721,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening and Closing an Umbrella",
+      "actionDescription": "The performer raises one hand beside the head, lowers it toward both hands in front, and separates the arms before returning upright.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "umbrella",
+        "opening",
+        "closing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_18",
+      "sourceUUID": "E7783DC4-A0AF-586E-AA97-86830C614F74",
+      "sourceDescription": "closing a box",
+      "sourceSHA256": "e6493879dd2d1e7821ea14e96dd62fd08f8d2438bdcd3079e9b9bd0172f91f24",
+      "frameCount": 565,
+      "frameInterval": 0.0083333,
+      "title": "Mime Closing a Box with Compact Hand Motions",
+      "actionDescription": "The performer reaches forward and makes a brief inward hand motion at waist level, then returns to standing with arms down. The CMU source identifies a box.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "box",
+        "closing",
+        "waist height"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_19",
+      "sourceUUID": "1B57E7BB-A599-52F5-B3AF-000BE6A186DD",
+      "sourceDescription": "opening a box",
+      "sourceSHA256": "1b83bba9ece96de4f23885249c100fd8066613578db5650d7f0b90cb0453e568",
+      "frameCount": 659,
+      "frameInterval": 0.0083333,
+      "title": "Mime Opening a Box and Leaning toward It",
+      "actionDescription": "The performer makes a short forward hand motion, bends deeply to look and reach down, and then straightens. The CMU source identifies opening a box.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "box",
+        "opening",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_20",
+      "sourceUUID": "82116420-BBF3-59A3-9273-CEC678BCDBF2",
+      "sourceDescription": "closing, moving and opening a box",
+      "sourceSHA256": "490b29b09ad0538dce89f4387849eba61d8652d7375b5bbda844869d6c07fc4a",
+      "frameCount": 964,
+      "frameInterval": 0.0083333,
+      "title": "Mime Closing, Moving, and Reopening a Box",
+      "actionDescription": "The performer reaches down, turns and steps with a raised arm, then pivots into a second forward bend before straightening. The CMU source identifies the object as a box.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "box",
+        "moving",
+        "turns",
+        "forward bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_21",
+      "sourceUUID": "80DDCD93-913A-5213-ADBE-0DDB25D2AAD8",
+      "sourceDescription": "coiling a rope",
+      "sourceSHA256": "d3f4cc9780557a73003d5eb3defd6feecbc05bd87bd995532c4171b931464b2d",
+      "frameCount": 3449,
+      "frameInterval": 0.0083333,
+      "title": "Mime Coiling a Rope with Alternating Hand Lifts",
+      "actionDescription": "The performer alternates lifting a hand beside the face and drawing both hands together near the chest. The CMU source identifies coiling a rope.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "rope",
+        "coiling",
+        "repeated",
+        "hands together"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_22",
+      "sourceUUID": "32E04A5D-EBE0-5C5A-AD88-7B80621E7D25",
+      "sourceDescription": "dynamic calibration",
+      "sourceSHA256": "642c6edd9bf120f83e24c022a3548beb40836481c2ade892454d96999680c9ab",
+      "frameCount": 1056,
+      "frameInterval": 0.0083333,
+      "title": "Move the Limbs through a Calibration Sequence",
+      "actionDescription": "The performer opens both arms, bends the elbows, extends a leg to one side, and dips into a squat. They finish upright with both arms open.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "dynamic calibration",
+        "range of motion",
+        "squat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_23",
+      "sourceUUID": "4A5E0D98-44BF-5ED5-B300-A0DF6C4B3D55",
+      "sourceDescription": "bolt tightening",
+      "sourceSHA256": "48a6ce8a4c12792c415d4ce182694d8f6a792e85eec79c42e69a64ae24bc549a",
+      "frameCount": 955,
+      "frameInterval": 0.0083333,
+      "title": "Mime Tightening a Bolt with a Brief Deep Bend",
+      "actionDescription": "The performer reaches forward and bends deeply, straightens into compact turning motions, then lowers the arms. The CMU source identifies tightening a bolt.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "bolt tightening",
+        "deep bend",
+        "hand turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_24",
+      "sourceUUID": "67B594FC-9B5B-5E5E-895F-6AF4D08EBB7C",
+      "sourceDescription": "bolt tightening, with putting bolt in",
+      "sourceSHA256": "7afba48dfc9b7bf273aaaa6662f7b332505406f41119b3b8cd9afce87fcaa1d9",
+      "frameCount": 2886,
+      "frameInterval": 0.0083333,
+      "title": "Mime Inserting a Bolt and Tightening It",
+      "actionDescription": "The performer steps in, folds over the hands for several repeated manipulations, and rises to finish with one hand near the chest.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "bolt insertion",
+        "bolt tightening",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "62_25",
+      "sourceUUID": "8903B1C2-515E-5E2F-8DF8-746357A2C01F",
+      "sourceDescription": "bolt loosening, wrench",
+      "sourceSHA256": "2fccff76462bc273cd22fb752a7984c6b6508cb44d06b868d04df153ce1db1ae",
+      "frameCount": 1324,
+      "frameInterval": 0.0083333,
+      "title": "Mime Loosening a Bolt from a Deep Forward Lean",
+      "actionDescription": "The performer bends forward with both hands in front for several compact turning motions, then stands upright and releases the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "wrench",
+        "bolt loosening",
+        "deep forward lean"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
