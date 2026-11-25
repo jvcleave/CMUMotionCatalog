@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "subject": "87",
+  "takes": [
+    {
+      "takeID": "87_01",
+      "sourceUUID": "62A56A8D-0877-59C9-AC1B-E592870566A8",
+      "sourceDescription": "Jump with kick and spin",
+      "sourceSHA256": "219de6877497edd1ac2d40f305b5b8d70b21197a9563092dce20ca705c099748",
+      "frameCount": 616,
+      "frameInterval": 0.0083333,
+      "title": "Jumping spin kick",
+      "actionDescription": "The performer steps into a turn, jumps with one leg kicking high, and takes several steps to settle after landing.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "spin kick",
+        " jumping kick",
+        " landing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "87_02",
+      "sourceUUID": "6C52752A-5D9D-583A-9EC8-0A99E4C34BEB",
+      "sourceDescription": "T-Pose",
+      "sourceSHA256": "fab7862be2975c7af9038e5b069cffadcffadae0fe90cdada08fc7d7f44253d2",
+      "frameCount": 344,
+      "frameInterval": 0.0083333,
+      "title": "Hold a T-pose",
+      "actionDescription": "The performer stands with both arms extended horizontally and makes small shifts through the legs while holding the pose.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "T-pose",
+        " arms extended",
+        " calibration"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "87_03",
+      "sourceUUID": "65288410-089D-5181-B2A0-150750411F88",
+      "sourceDescription": "Backflip",
+      "sourceSHA256": "4216793f27ce563675b61898d02d416d7b995aff3cd7b54eb78433e9be5bb4b5",
+      "frameCount": 247,
+      "frameInterval": 0.0083333,
+      "title": "Backflip with step out",
+      "actionDescription": "The performer swings the arms, jumps backward into a tuck, and lands bent forward before stepping away.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "backflip",
+        " tuck",
+        " step out"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "87_04",
+      "sourceUUID": "B2C2D5C7-9A26-51B2-AE76-CE34186E97CE",
+      "sourceDescription": "backflip",
+      "sourceSHA256": "64ce3e437ee856b735a02bfecfbb712dcdf486ed6689d7cccec7105449dac9ea",
+      "frameCount": 216,
+      "frameInterval": 0.0083333,
+      "title": "Tucked standing backflip",
+      "actionDescription": "The performer jumps from standing, folds the legs tightly overhead during the backward rotation, and straightens after a low landing.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "backflip",
+        " tucked rotation",
+        " standing takeoff"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "87_05",
+      "sourceUUID": "3ECA4694-EB65-508D-BB8D-21DA0F65B47F",
+      "sourceDescription": "cartwheels",
+      "sourceSHA256": "173a7831066164a754bef929adc2d0842e6bed1584482d9e5ae499f6c8ce84e3",
+      "frameCount": 511,
+      "frameInterval": 0.0083333,
+      "title": "Link two cartwheels",
+      "actionDescription": "The performer reaches sideways to the floor, passes the legs overhead in a split, and links the first rotation into another before walking out.",
+      "primaryCategory": "acrobatics",
+      "searchTags": [
+        "cartwheel",
+        " linked cartwheels",
+        " inversion"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
