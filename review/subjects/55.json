@@ -88,6 +88,40 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "55_06",
+      "sourceUUID": "EBD4F830-C763-5335-8F74-81140AD81D1B",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "4cc13ba296bc44217c487f430fff442f8a50abe8c3d4231dda14bf42d2223b2a",
+      "frameCount": 9275,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Small Chest-Level Motions",
+      "actionDescription": "The performer stands with feet apart, repeats compact hand and elbow motions, and briefly dips forward. The final pose is staggered with both arms still in front.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "chest-height gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_07",
+      "sourceUUID": "976FCAAA-F8D9-57EC-A502-B15354AEC0D8",
+      "sourceDescription": "chicken (human subject)",
+      "sourceSHA256": "340feb83fa8e2fdb6bdec66259c5e6f4c99cb08b61e329b6b58ea9793f93283f",
+      "frameCount": 4568,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Chicken with Wide Arms and Forward Bends",
+      "actionDescription": "The performer alternates deep forward bends and broad arm openings while stepping from side to side. One arm remains extended in the last pose.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "chicken",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "55_08",
       "sourceUUID": "8F43347B-097E-571C-9CA7-1B01CAE1F178",
       "sourceDescription": "monkey (human subject)",
@@ -101,6 +135,193 @@
         "animal mime",
         "monkey",
         "wide steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_09",
+      "sourceUUID": "432A657D-FF26-5BC7-A4CB-C1F60DD77301",
+      "sourceDescription": "monkey (human subject)",
+      "sourceSHA256": "88aab6b6b1059e98e96189b4c61d7313bff389316dcd272d6e5089ba53991a39",
+      "frameCount": 4220,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Monkey with Overhead Reaches and Deep Crouches",
+      "actionDescription": "The performer opens with bent knees, steps into repeated overhead reaches, then folds forward into a compact crouch. They rise to a wide stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "monkey",
+        "overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_10",
+      "sourceUUID": "8C945B8E-A9CB-5357-9164-00CD7CAE4FE3",
+      "sourceDescription": "hummingbird (human subject)",
+      "sourceSHA256": "a4007a4e7d707040ab3662b57ea71288ab7a8c9c5f2dfc42bed30d42f9e1dc63",
+      "frameCount": 1362,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Hummingbird with Alternating Side Reaches",
+      "actionDescription": "The performer starts with arms spread, reduces the reach to smaller arm movements at chest height, and lowers both arms to stand.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "hummingbird",
+        "side reaches"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_11",
+      "sourceUUID": "8EA22F45-C48F-549C-8B4C-C8C882E531AF",
+      "sourceDescription": "animal (human subject)",
+      "sourceSHA256": "4e5dec670f76730f520dba1237efa7e46cb575d82cc2b2cd4307ee530442b2e3",
+      "frameCount": 4365,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Wide Steps with Open-Hand Gestures",
+      "actionDescription": "The performer repeatedly steps into a wide stance, brings both hands forward or beside the shoulders, and finishes with the hands lifted. The CMU source describes an animal mime.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "wide steps",
+        "raised hands"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_12",
+      "sourceUUID": "2E54A857-0ED7-5445-8FDE-502AC216C7BA",
+      "sourceDescription": "dancing bear (human subject)",
+      "sourceSHA256": "1952495953ff02a9211dc8c800bc1921f094c7d44b2134f80344bdd18e7fb838",
+      "frameCount": 2075,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Dancing Bear with Wide Rocking Steps",
+      "actionDescription": "The performer alternates broad steps and turns with bent-elbow gestures, briefly lifts a foot, and finishes standing with open hands in front.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "bear",
+        "rocking steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_13",
+      "sourceUUID": "66612598-5414-50E8-9682-64876E6F65E1",
+      "sourceDescription": "insect/praying mantis (human subject)",
+      "sourceSHA256": "78106c9b32fd9905e5757689fedfc12cd06305ae195fb129a7ee91409a14e96a",
+      "frameCount": 9738,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Praying Mantis with Angular Reaches and Long Holds",
+      "actionDescription": "The performer changes between wide bent-knee poses and one-handed reaches, holding several positions before resuming. The take ends wide with one hand forward.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "mantis",
+        "angular reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_14",
+      "sourceUUID": "79AB2ECE-8BF2-5150-9820-B47E6213AB7E",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "86e5047d8b970cc88268e9b2c41863135b90be58481859e6d937a3d4521c2243",
+      "frameCount": 5202,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Prairie Dog with Raised Hands and Low Dips",
+      "actionDescription": "The performer lifts both hands close to the face, turns and briefly sinks into a lower stance, then returns upright with the hands still raised.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "prairie dog",
+        "hands near face"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_15",
+      "sourceUUID": "22CCD1C2-9B99-5204-8266-750422E8441F",
+      "sourceDescription": "roadrunner (human subject)",
+      "sourceSHA256": "24a1a184b8af0aec379a75e4a3e54acfc7f9e0077b66338559f3bf7ece9b2183",
+      "frameCount": 9693,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Roadrunner with Forward-Leaning Steps",
+      "actionDescription": "The performer alternates short forward-leaning steps and upright resets with the arms kept close, then steps into a narrow finish.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "roadrunner",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_16",
+      "sourceUUID": "FBF84FF9-FF55-5BB5-87C0-10AAA138F8C9",
+      "sourceDescription": "panda (human subject)",
+      "sourceSHA256": "8158c1aa6a718e473d1f198e6c16a9b926d25302d5b8075900271b123ab32544",
+      "frameCount": 6082,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Panda from a Sustained Low Seated Pose",
+      "actionDescription": "The performer holds a low seated-looking position throughout, moving the hands from the chest out to the sides and back. The final pose stays low.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "panda",
+        "low hold"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_17",
+      "sourceUUID": "B5FF3E40-019D-5C89-8128-91CCB3F98FEF",
+      "sourceDescription": "ghost (human subject)",
+      "sourceSHA256": "e3c23f46be1132457eb608da5552584c7d7619203d96398c2e9421f2a9e7ef8f",
+      "frameCount": 6176,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Ghost with Wide Diagonal Reaches",
+      "actionDescription": "The performer steps and leans between broad arm reaches, including one arm high and the other low. They finish bent forward with one hand extended.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "ghost mime",
+        "diagonal reach",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_18",
+      "sourceUUID": "BB27C8E4-23BB-5257-BC0B-1C7DAB91D85D",
+      "sourceDescription": "penguin (human subject)",
+      "sourceSHA256": "5c82bab6ac7fbe683e1845162db96d4ba07f590e002b7150bad2ac7aa4c12b3f",
+      "frameCount": 5387,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Penguin with Narrow Steps and Small Turns",
+      "actionDescription": "The performer takes narrow steps and repeatedly changes heading with low arms and slight elbow movement. The take ends upright facing away.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "penguin",
+        "narrow steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "55_20",
+      "sourceUUID": "E7795F9C-D993-5A33-9ED3-C0A4280FB634",
+      "sourceDescription": "hippo ballerina (human subject)",
+      "sourceSHA256": "c1e4760bf4c0b54b043c824285e86302df1a3042a03fb5acb584812167a4d31f",
+      "frameCount": 4598,
+      "frameInterval": 0.0083333,
+      "title": "Perform a Ballerina Pantomime with Wide Arm Positions",
+      "actionDescription": "The performer opens the arms, takes small crossing steps, raises both arms overhead, and lowers them into a wide finish. The CMU source identifies a hippo ballerina.",
+      "primaryCategory": "dance",
+      "searchTags": [
+        "ballerina",
+        "character mime",
+        "arms out"
       ],
       "reviewStatus": "described"
     }
