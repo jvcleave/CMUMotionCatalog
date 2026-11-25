@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "subject": "56",
+  "takes": [
+    {
+      "takeID": "56_01",
+      "sourceUUID": "4B804701-6F4D-5BFC-928B-03CA00E2E975",
+      "sourceDescription": "walk around",
+      "sourceSHA256": "4960f4abde2c7fd5d0b09de80d0ebffa19c301b523fe9d8fb25006a5c9a193c0",
+      "frameCount": 1506,
+      "frameInterval": 0.0083333,
+      "title": "Walk around with Repeated Changes of Heading",
+      "actionDescription": "The performer starts mid-stride, turns through several headings with a low arm swing, and continues stepping in profile through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walking",
+        "turns",
+        "ends mid-stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_02",
+      "sourceUUID": "57B78C9D-446D-5669-A2DC-42D44C1A40E4",
+      "sourceDescription": "vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall",
+      "sourceSHA256": "2a31b305f2e9f1948ef41ea4e7f05b4ad915e89db5f9fb42259b44d95cc1b5b3",
+      "frameCount": 3418,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Face-Level Gestures and Forward Reaches",
+      "actionDescription": "The performer lifts a hand near the face, lowers the arms between gestures, then repeats one-handed and two-handed extensions. They settle with arms at the sides.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "hand near face",
+        "forward reaches"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_03",
+      "sourceUUID": "D81FCF51-E24C-5168-9E16-0E598D729803",
+      "sourceDescription": "vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall, lift open window, throw punches, skip",
+      "sourceSHA256": "6b8347ad311834d62a798f13c232459dc339aa71dc355caa87be783ae61be7a7",
+      "frameCount": 6220,
+      "frameInterval": 0.0083333,
+      "title": "Move from Standing Reaches into Steps and Arm Gestures",
+      "actionDescription": "The performer starts upright, raises one arm, and shifts into wider steps and compact hand gestures with pauses. The take returns to a relaxed standing stance.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "overhead reach",
+        "wide steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_04",
+      "sourceUUID": "84E9ACE0-0B23-5310-B391-AF5DED7A447C",
+      "sourceDescription": "vignettes - fists up, wipe window, grab, lift open window, throw punches, yawn, stretch, walk, jump",
+      "sourceSHA256": "673aa7bbc67d0a99d2f58f2d2a43167883dab15c2357ddedff56e6bbc3e0e121",
+      "frameCount": 6767,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Short Steps and Upper-Body Gestures",
+      "actionDescription": "The performer changes heading while stepping, alternates compact arm motions and wide reaches, and slows to an upright stance near the end.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "turns",
+        "arm gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_06",
+      "sourceUUID": "B4F8777F-48F0-5948-8C56-850997004FA4",
+      "sourceDescription": "vignettes - throw punches, grab, skip, yawn, stretch, leap, lift open window, walk, jump/bound",
+      "sourceSHA256": "d338ac76a680857d74abed7b72d459c9aefce188bc9791c7366753e4c5533f4e",
+      "frameCount": 6784,
+      "frameInterval": 0.0083333,
+      "title": "Switch Between Hand Gestures, Quick Steps, and Hops",
+      "actionDescription": "The performer combines arm gestures with several short stepping and hopping passages, with upright resets in between. The last pose stays side-on with knees bent.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "hop",
+        "quick steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_07",
+      "sourceUUID": "EB7EF7B4-A0B8-5472-9054-1D2E53E55C69",
+      "sourceDescription": "vignettes - yawn, stretch, walk, run/jog, angrily grab, jump, skip, halt",
+      "sourceSHA256": "9ef521e9622e36909acfb7bf8a7a13b9a04f1f7486ef7801fbee942f4f683b17",
+      "frameCount": 9420,
+      "frameInterval": 0.0083333,
+      "title": "Walk, Jog, and Add High-Knee Steps",
+      "actionDescription": "The performer moves between walking and jogging, pauses for shorter gestures, and resumes higher knee lifts and quick steps. They finish with a slower stride.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "walking",
+        "jogging",
+        "high knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "56_08",
+      "sourceUUID": "B13D0320-685C-52D2-BC62-E68E4E675280",
+      "sourceDescription": "vignettes - lift open window, smash against wall, hop, walk, run/jog, yawn, stretch",
+      "sourceSHA256": "565faee44a254ea8113d9b1245ddb502f91c07eea13bf2dc2bc459653577c009",
+      "frameCount": 4174,
+      "frameInterval": 0.0083333,
+      "title": "Gesture, Step Sideways, and Finish with Quick Footwork",
+      "actionDescription": "The performer alternates short arm motions with steps and turns, then increases the pace and lifts the knees in the closing passage.",
+      "primaryCategory": "action-sequences",
+      "searchTags": [
+        "vignettes",
+        "turns",
+        "quick steps"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
