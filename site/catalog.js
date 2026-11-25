@@ -9,6 +9,7 @@ const tagFilter = byID("tag-filter");
 const tagDialog = byID("tag-dialog");
 const tagSearch = byID("tag-search");
 const tagList = byID("tag-options");
+const selectedTagList = byID("selected-tag-options");
 const matchAnyTags = byID("tag-match-any");
 const clearTags = byID("clear-tags");
 const availableTags = new Map();
@@ -219,25 +220,27 @@ function takesMatchingFilters() {
   );
 }
 
+function tagButton(key, count) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.dataset.tag = key;
+  button.setAttribute("aria-pressed", String(selectedTags.has(key)));
+  button.textContent = availableTags.get(key);
+  if (count !== undefined) {
+    const total = document.createElement("span");
+    total.className = "tag-count";
+    total.textContent = count.toLocaleString();
+    button.append(" ", total);
+  }
+  return button;
+}
+
 function renderTagOptions() {
   const term = tagSearch.value.trim().toLowerCase();
   const options = tagOptions
     .filter(({ key, count }) => (count > 0 || selectedTags.has(key)) && key.includes(term))
-    .sort((first, second) =>
-      Number(selectedTags.has(second.key)) - Number(selectedTags.has(first.key)) ||
-      second.count - first.count || first.label.localeCompare(second.label)
-    );
-  tagList.replaceChildren(...options.map(({ key, label, count }) => {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.dataset.tag = key;
-    button.setAttribute("aria-pressed", String(selectedTags.has(key)));
-    const total = document.createElement("span");
-    total.className = "tag-count";
-    total.textContent = count.toLocaleString();
-    button.append(`${label} `, total);
-    return button;
-  }));
+    .sort((first, second) => second.count - first.count || first.label.localeCompare(second.label));
+  tagList.replaceChildren(...options.map(({ key, count }) => tagButton(key, count)));
   tagList.scrollTop = 0;
   byID("no-tags").hidden = options.length > 0;
 }
@@ -256,6 +259,8 @@ function openTagFilter() {
 function updateTagSelection() {
   tagFilter.textContent = selectedTags.size ? `Tags (${selectedTags.size})` : "All tags";
   clearTags.disabled = !selectedTags.size;
+  byID("selected-tag-section").hidden = !selectedTags.size;
+  selectedTagList.replaceChildren(...[...selectedTags].map((key) => tagButton(key)));
   page = 0;
   render();
 }
@@ -319,15 +324,23 @@ async function initialize() {
   tagFilter.addEventListener("click", openTagFilter);
   byID("close-tags").addEventListener("click", () => tagDialog.close());
   tagSearch.addEventListener("input", renderTagOptions);
-  byID("tag-match").addEventListener("change", updateTagSelection);
-  tagList.addEventListener("click", (event) => {
+  byID("tag-match").addEventListener("change", () => {
+    page = 0;
+    render();
+  });
+  tagDialog.addEventListener("click", (event) => {
     const button = event.target.closest("button[data-tag]");
     if (!button) return;
     const tag = button.dataset.tag;
+    const removedFromSelection = selectedTagList.contains(button);
     if (selectedTags.has(tag)) selectedTags.delete(tag);
     else selectedTags.add(tag);
-    button.setAttribute("aria-pressed", String(selectedTags.has(tag)));
+    const option = tagList.querySelector(`button[data-tag="${CSS.escape(tag)}"]`);
+    option?.setAttribute("aria-pressed", String(selectedTags.has(tag)));
     updateTagSelection();
+    if (removedFromSelection) {
+      (selectedTagList.querySelector("button") ?? option ?? byID("close-tags")).focus();
+    }
   });
   clearTags.addEventListener("click", () => {
     selectedTags.clear();

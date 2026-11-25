@@ -73,11 +73,15 @@
         <button id="close-tags" type="button" autofocus>Done</button>
       </div>
     </div>
+    <section id="selected-tag-section" aria-labelledby="selected-tag-title" hidden>
+      <h3 id="selected-tag-title">Selected tags</h3>
+      <div class="tag-options" id="selected-tag-options"></div>
+    </section>
     <input id="tag-search" type="search" aria-label="Find tags" placeholder="Find tags" autocomplete="off">
     <div class="tag-filter-summary">
       <fieldset id="tag-match" aria-label="How to match selected tags">
-        <label><input id="tag-match-all" type="radio" name="tag-match" value="all" checked> Match all</label>
-        <label><input id="tag-match-any" type="radio" name="tag-match" value="any"> Match any</label>
+        <label><input id="tag-match-any" type="radio" name="tag-match" value="any" checked> Match any</label>
+        <label><input id="tag-match-all" type="radio" name="tag-match" value="all"> Match all</label>
       </fieldset>
       <p id="tag-results" role="status"></p>
     </div>

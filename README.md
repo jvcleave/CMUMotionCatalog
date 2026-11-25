@@ -32,9 +32,10 @@ animated previews. Use **Motion filter** to find Partner Work,
 Turns in Place, or Stylized Walks across categories. Category totals count the
 takes returned by that filter, including any take listed in two categories.
 Open **All tags** to browse tags for the current search and filters, ordered by
-take count. **Match all** shows takes with every selected tag. Choose
-**Match any** to include takes with at least one selected tag. Use **Clear tags**
-to remove the tag selections.
+take count. **Match any** is the default and shows takes with at least one
+selected tag. Choose **Match all** to require every selected tag. Use
+**Selected tags** at the top of the overlay to remove individual selections,
+or **Clear tags** to clear them all.
 Choose **3D Preview** on a card or in the take details to start playback. You
 can orbit the animated character, switch to the source skeleton, or scrub the
 motion. The viewer fetches the original BVH on demand from a pinned GitHub
