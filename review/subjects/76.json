@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "subject": "76",
+  "takes": [
+    {
+      "takeID": "76_01",
+      "sourceUUID": "9021835E-E63D-51BC-A253-34C33A46870A",
+      "sourceDescription": "walk backwards then attack with a punch",
+      "sourceSHA256": "e3960bfa65f2b416e66df1aa27b515441a04c7091a15d7adec9bee5132ff6529",
+      "frameCount": 930,
+      "frameInterval": 0.0083333,
+      "title": "Step Backward and Finish with a Forward Arm Gesture",
+      "actionDescription": "The performer takes backward steps with bent arms, then leans and extends an arm before bringing it back in.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "backward steps",
+        "forward arm gesture",
+        "pantomime"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_02",
+      "sourceUUID": "56557770-B913-5F7A-960A-259B07985217",
+      "sourceDescription": "walk backwards, feign a few attacks, then attack",
+      "sourceSHA256": "4e19ac3279758f2b55852fd66f2ebf20422903b5db67315d2244213e8d4b3dc5",
+      "frameCount": 1164,
+      "frameInterval": 0.0083333,
+      "title": "Step Backward with Repeated Arm Feints",
+      "actionDescription": "The performer retreats through several short steps, alternates small arm motions, and ends turned slightly away with the knees bent.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "backward steps",
+        "feints",
+        "arm gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_03",
+      "sourceUUID": "D73A8094-B1F3-5300-86CC-A638C2401542",
+      "sourceDescription": "avoid attacker",
+      "sourceSHA256": "ee3c4f559ad2fde91b40b77b076d149c2269e33da4acd6c87bfa03d596f1104a",
+      "frameCount": 1082,
+      "frameInterval": 0.0083333,
+      "title": "Recoil and Step Away with Hands Raised",
+      "actionDescription": "The performer raises both hands beside the head and steps through several sharp leans and changes of direction, finishing in a bent-knee stance.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "dodge motion",
+        "recoil",
+        "hands raised"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_04",
+      "sourceUUID": "02D71845-65EB-55B9-93BC-38A2912F4099",
+      "sourceDescription": "defensive guard pose",
+      "sourceSHA256": "d27e9f73ef5925e8bc68dedd732659db83c0fa00b0f11d613bfade1259815dad",
+      "frameCount": 417,
+      "frameInterval": 0.0083333,
+      "title": "Raise the Hands and Lower into a Guard Pose",
+      "actionDescription": "The performer brings both hands near the face and sinks progressively into a low stance, holding the guard through the finish.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "guard pose",
+        "hands raised",
+        "lowered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_05",
+      "sourceUUID": "F4EA5521-8D15-5E7F-BE0A-68412BD6EC2F",
+      "sourceDescription": "swatting at pesky bug",
+      "sourceSHA256": "a2e47b6b296d3f2004e20cfa898f806fba989684547de5072432f7199a4f2039",
+      "frameCount": 866,
+      "frameInterval": 0.0083333,
+      "title": "Mime Swatting a Bug with Low Reaches",
+      "actionDescription": "The performer darts an arm outward several times, leans forward into short reaches, and straightens while stepping.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "swatting",
+        "bug mime",
+        "forward lean"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_06",
+      "sourceUUID": "27E9781D-453B-5940-9D29-7FBB406ED08A",
+      "sourceDescription": "avoid stepping on something",
+      "sourceSHA256": "f5d102b6a8be5faa517d8d52a2bc3e909068995753290cc6253f8d266a663c3a",
+      "frameCount": 675,
+      "frameInterval": 0.0083333,
+      "title": "Lift the Knees to Avoid Stepping on Something",
+      "actionDescription": "The performer raises a knee sharply and moves sideways with arms open, then lowers the torso and resumes ordinary steps.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "avoidance",
+        "high knee",
+        "side steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_07",
+      "sourceUUID": "9958D131-E091-5972-A2F6-00F9EA6E872D",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "343457f62418cc94bcb4ce61ea5d2abf7d0d0a35a65599a6b19530f9539368a0",
+      "frameCount": 20,
+      "frameInterval": 0.0083333,
+      "title": "Hold a Brief Raised-Arm Stance",
+      "actionDescription": "The performer holds a staggered, slightly turned stance with both forearms raised. The clip lasts about a sixth of a second.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "short take",
+        "staggered stance",
+        "raised arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_08",
+      "sourceUUID": "CCFCE0A8-54C5-5B6D-A408-FDBB41153FA9",
+      "sourceDescription": "careful stepping over things",
+      "sourceSHA256": "9e0db015fb2448d7d47af0c12df86c4e9d2af0c92d0d63a40a82cb28edb13709",
+      "frameCount": 1503,
+      "frameInterval": 0.0083333,
+      "title": "Step Carefully over Obstacles",
+      "actionDescription": "The performer takes measured steps with occasional higher foot lifts and wider arm positions, then settles into a narrow side-facing stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "obstacle steps",
+        "careful walking",
+        "higher foot lift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_09",
+      "sourceUUID": "B4C9D93B-D2BB-51DF-8FAD-B9E67E7B9EA4",
+      "sourceDescription": "walking backwards",
+      "sourceSHA256": "d1bcce65dd2c2095a14be76dc3874bde2adff5c900fdec2432c77d78668663de",
+      "frameCount": 1587,
+      "frameInterval": 0.0083333,
+      "title": "Walk Backward and Change Facing",
+      "actionDescription": "The performer takes short backward steps with low arms, turns through profile, and continues stepping with both elbows loosely bent.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward walk",
+        "turn",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_10",
+      "sourceUUID": "39ED8E04-BF23-5A2C-9785-023831D77F41",
+      "sourceDescription": "turning",
+      "sourceSHA256": "81c7bfc60e2200172f59e3d46792e8ed6a7c712242eaaa8ffd46896703ed4475",
+      "frameCount": 1365,
+      "frameInterval": 0.0083333,
+      "title": "Turn through Several Angles with Small Steps",
+      "actionDescription": "The performer takes short steps to change heading, briefly lifts a hand near the chest, and finishes upright in profile.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turning",
+        "small steps",
+        "profile"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "76_11",
+      "sourceUUID": "876FEEAF-7AD4-5A2A-B244-C2E32FE8B288",
+      "sourceDescription": "quick large steps backwards",
+      "sourceSHA256": "136fbddeaa956c7b826b663ddaecf0b3ddd62312d5a31c1d4b3317b04514b0d0",
+      "frameCount": 513,
+      "frameInterval": 0.0083333,
+      "title": "Take Quick Backward Steps",
+      "actionDescription": "The performer shifts into a series of quick backward steps with the elbows bent, then narrows the stance and slows near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward",
+        "quick steps",
+        "slows"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
