@@ -273,6 +273,278 @@
         "turns"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_17",
+      "sourceUUID": "8A185171-38A7-50C0-AEE5-810056D4070C",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "2254d126ddc4bf53b851246bf255c28e5c46be4c93f096c5e195955c7ed3ed21",
+      "frameCount": 4359,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Turn over Uneven Ground",
+      "actionDescription": "The performer walks with low arm swings, changing heading and step height before finishing upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "walking",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_18",
+      "sourceUUID": "2B6F8AD9-BC64-52A6-A5F2-32026458E01D",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "6921532dd854039a42dc1db88224863c0c39ec75916f453a253972b4efa8ff7e",
+      "frameCount": 4304,
+      "frameInterval": 0.0083333,
+      "title": "Walk and Turn over Uneven Ground",
+      "actionDescription": "The performer walks with low arm swings, changing heading and step height before finishing upright.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "walking",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_19",
+      "sourceUUID": "FE97344A-74F3-59EE-9B04-D8CC320DCDF9",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "229c075d569632e6fef8dc7b51d14db9cb30d37c4923e121ec73a45771ef7612",
+      "frameCount": 4193,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_20",
+      "sourceUUID": "033CECFE-42F0-5A27-BF4B-91532FAB8EB6",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "5d68adb564c4d5b40b40578aca2c37b4ff52bbbe04f3b19f58311e6345ca420d",
+      "frameCount": 4090,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Short and Long Steps over Uneven Ground",
+      "actionDescription": "The performer walks through several changes of heading, alternating longer strides with shorter bent-knee steps and a slight forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable stride",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_21",
+      "sourceUUID": "61DCD6F8-29F8-546B-B493-FE461B4F5915",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "bc12dd1aa2ea8d7e097dc7552aaf191cfdbff8038fd9d4530bdb3363c5bb4cb6",
+      "frameCount": 4030,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Short and Long Steps over Uneven Ground",
+      "actionDescription": "The performer walks through several changes of heading, alternating longer strides with shorter bent-knee steps and a slight forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable stride",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_22",
+      "sourceUUID": "EB21F7DB-4167-5707-8814-9F172D40C86D",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "c087ef0f9d26225302c3d5e295f656230cab98c8f0f73a043cdc9b7228327a0d",
+      "frameCount": 4312,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_23",
+      "sourceUUID": "C19E2158-C34B-5644-903E-5FE47E03B11F",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "21e4d1400351a426ad6e50c5730944a2f31340825108ec6a4d6051cbfd86e858",
+      "frameCount": 4392,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Short and Long Steps over Uneven Ground",
+      "actionDescription": "The performer walks through several changes of heading, alternating longer strides with shorter bent-knee steps and a slight forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable stride",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_24",
+      "sourceUUID": "69EC6EDE-600E-5031-AFA6-7D6358FC8A03",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "d3a78510e3e2e3e4bed2b0abfd31b4b96310a24258ca877fb2370c95b76f47d1",
+      "frameCount": 4153,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_25",
+      "sourceUUID": "4182BB1F-C626-57A8-A907-ED04211969EE",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "ec7ec8b686c1f4bacb43020a0a2ae0606ff23e95cd57f39d5b47285d239fb595",
+      "frameCount": 4685,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Short and Long Steps over Uneven Ground",
+      "actionDescription": "The performer walks through several changes of heading, alternating longer strides with shorter bent-knee steps and a slight forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable stride",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_26",
+      "sourceUUID": "BD319990-A48C-5496-A286-AC0F0FD513E9",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "7bc9fd15d26a3989dcdf0754c7b985e76e56d1eea7ca41275647f51651348b43",
+      "frameCount": 4237,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_27",
+      "sourceUUID": "49E742A5-9D6C-5BF6-B7C2-61A48EC2CA98",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "9c41ca83fa0cdee5429bfb6ef1674bc703789aa01531c8fa19c77b55a9bd19ab",
+      "frameCount": 4247,
+      "frameInterval": 0.0083333,
+      "title": "Walk with Short and Long Steps over Uneven Ground",
+      "actionDescription": "The performer walks through several changes of heading, alternating longer strides with shorter bent-knee steps and a slight forward lean.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable stride",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_28",
+      "sourceUUID": "040010FE-C3FF-5CE0-8AC7-EE4282A3AF99",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "e29d1fd8b7a0ec305345a9d85f55f71a956ee6527ddf48910afd090d58a296b6",
+      "frameCount": 2391,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_29",
+      "sourceUUID": "5C7F4F22-6B44-52E7-8457-216A787CC824",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "6f6e44ad43eab005e7cfad5e1fe9dd71e5376dd9b8145d3a1c2c388ba9fc8605",
+      "frameCount": 4469,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_30",
+      "sourceUUID": "E079126E-E87E-5973-ACBD-85707B0875A8",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "277469cd27cf8d0bd2a6c51890888a424f2f4be4c438bfa102efcc72affcfc63",
+      "frameCount": 4414,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_31",
+      "sourceUUID": "B8ADBA0B-1E35-5461-A966-E8B58DF57695",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "add3236f929a2e975271704a6faad1666bb2e50bbd4951f9251efd63df607255",
+      "frameCount": 3736,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_32",
+      "sourceUUID": "B6DFF5E1-7947-545B-80F7-534D2871AD24",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "89a553f21a0b8a53d071630dd23c266ba158f09d652b605c3cbe120644c8a22d",
+      "frameCount": 4468,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Steps and Turns",
+      "actionDescription": "The performer alternates ordinary walking steps with distinct high knee lifts and turns through several headings. The walk is still in progress near the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
