@@ -63,6 +63,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
   let time = firstTime;
   let previousTick;
   let playing = false;
+  let autoplayOnOpen = true;
   let character;
   let characterLoading = false;
   const characterRequest = new AbortController();
@@ -115,6 +116,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
     render();
   };
   const togglePlay = () => {
+    autoplayOnOpen = false;
     playing = !playing;
     previousTick = undefined;
     play.textContent = playing ? "Pause" : "Play";
@@ -134,6 +136,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
     canvas.setAttribute("aria-label", `3D ${name}. Drag to orbit and scroll to zoom.`);
     showPose();
     render();
+    if (autoplayOnOpen && (view.value === "skeleton" || showCharacter)) togglePlay();
   };
   const changeView = async () => {
     viewStatus.hidden = true;
@@ -184,6 +187,7 @@ export function showMotion(text, motion, { viewport, play, scrubber, timestamp, 
   orbit.addEventListener("change", render);
   canvas.addEventListener("webglcontextlost", onUnavailable);
   if (view) changeView();
+  else togglePlay();
 
   return () => {
     characterRequest.abort();
