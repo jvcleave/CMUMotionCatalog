@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "subject": "141",
+  "takes": [
+    {
+      "takeID": "141_06",
+      "sourceUUID": "9E5A5918-4FBC-5E9B-ABBE-E1D7C44CE746",
+      "sourceDescription": "Jump Twist",
+      "sourceSHA256": "f443407f07c389e3be644d48a71fab7d05c44a24c0486045ad4ddcb692c01699",
+      "frameCount": 651,
+      "frameInterval": 0.0083333,
+      "title": "Turn in Place with Cross-Steps",
+      "actionDescription": "The performer starts mid-step and uses small crossing steps to turn through several headings, briefly swinging the arms out. The take ends with another step still in progress.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn in place",
+        "cross-step",
+        "multiple turns"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Exact BVH match to 106_06, whose visual pass found small cross-steps and turns. The original Jump Twist label differs. Check denser playback for a jump."
+    }
+  ]
+}
