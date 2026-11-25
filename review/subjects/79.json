@@ -762,6 +762,156 @@
         "mouse"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_51",
+      "sourceUUID": "13FD8139-9EFC-5AF4-9231-3DB016FA6277",
+      "sourceDescription": "chipmunk",
+      "sourceSHA256": "f3f32f9cf8ae093b47ec59f4e95d55de3a14b422abde2388ef004fd825e57f90",
+      "frameCount": 854,
+      "frameInterval": 0.0083333,
+      "title": "Chipmunk mime",
+      "actionDescription": "Hunches forward with hands held near the mouth, making small repeated nibbling gestures before standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "chipmunk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_52",
+      "sourceUUID": "7C9AD226-8813-52F3-BD6F-AA80D326F562",
+      "sourceDescription": "prairie dog",
+      "sourceSHA256": "b1444c9058e3ea842fb2824d48e9a04959cd356b23766691f8ba0040e8940ffd",
+      "frameCount": 898,
+      "frameInterval": 0.0083333,
+      "title": "Prairie dog mime",
+      "actionDescription": "Raises the hands near the chest and face, leans and looks around, then bends slightly and relaxes.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "prairie dog"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_53",
+      "sourceUUID": "302F6ED4-52AB-55F7-9DD1-788D87ED3398",
+      "sourceDescription": "dog",
+      "sourceSHA256": "be3f0681878f6fcc8124945b73d0b1d3e3e161de51b46d84c8f976b536394bfe",
+      "frameCount": 746,
+      "frameInterval": 0.0083333,
+      "title": "Dog mime",
+      "actionDescription": "Holds both hands up near the chest with wrists bent, makes small pawing motions and lowers them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "dog"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_54",
+      "sourceUUID": "3EE15899-3AE5-5284-AB94-1516D6DAB5E4",
+      "sourceDescription": "snake",
+      "sourceSHA256": "7e8f05b0f4d3ab6dc623f15ec49175776578f4c1ba913beaf3593250770cc8f1",
+      "frameCount": 1167,
+      "frameInterval": 0.0083333,
+      "title": "Snake mime",
+      "actionDescription": "Keeps the hands low or behind the hips while swaying and bending the torso from side to side.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "snake"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_55",
+      "sourceUUID": "6B690965-C5F1-50A7-A72A-5B55078B8D31",
+      "sourceDescription": "sweeping",
+      "sourceSHA256": "816bd81c9fd02fa07ce73970c530aefaa6a861ac7ea17096ec43a24e310c0705",
+      "frameCount": 640,
+      "frameInterval": 0.0083333,
+      "title": "Sweeping mime",
+      "actionDescription": "Bends forward and moves both hands in short sweeping motions in front of the body, then rises.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "sweeping"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_56",
+      "sourceUUID": "D3DB8BB9-A7D1-5F01-B3D1-49F286D87E70",
+      "sourceDescription": "T-rex",
+      "sourceSHA256": "a5dcf236bc3d84d5fae03fdbfeaea070d179b342e9134cae107cf538f12fe2fd",
+      "frameCount": 859,
+      "frameInterval": 0.0083333,
+      "title": "T-rex mime",
+      "actionDescription": "Bends the knees and holds the arms short in front of the chest, bobbing and turning the upper body.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "t-rex"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_57",
+      "sourceUUID": "654011FC-16E8-5B30-943F-D6C0CEC94BD6",
+      "sourceDescription": "fish",
+      "sourceSHA256": "aa92f32542ecfdb1ea7677b271e9e82fb01c4bb223ae31acfaf1949cf4b2c160",
+      "frameCount": 967,
+      "frameInterval": 0.0083333,
+      "title": "Fish mime",
+      "actionDescription": "Holds both hands near the mouth, bobs and leans forward, then straightens and lowers them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "fish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_58",
+      "sourceUUID": "DA0C60AC-A1E7-5D41-BC80-96812C4E374A",
+      "sourceDescription": "bird",
+      "sourceSHA256": "95ece6d1420e26aaafb8ced91d53c33e2f20445f21ef8ea9b52a9ff2353dc31f",
+      "frameCount": 849,
+      "frameInterval": 0.0083333,
+      "title": "Bird mime",
+      "actionDescription": "Extends both arms and flaps them up and down while leaning and shifting weight, then lowers them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "bird"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_59",
+      "sourceUUID": "B1B9247F-3E92-58A0-8265-8053FC3EC27E",
+      "sourceDescription": "cat",
+      "sourceSHA256": "1979972e70cf9e156986107c911564be5984b84da9c0d1094899bddeca2b4ca8",
+      "frameCount": 850,
+      "frameInterval": 0.0083333,
+      "title": "Cat mime",
+      "actionDescription": "Bends forward with hands near the chest and face, makes small pawing or grooming gestures, and rises.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "cat"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_60",
+      "sourceUUID": "5C28C8A4-217A-5132-A7A5-47BFCB8927A7",
+      "sourceDescription": "chicken",
+      "sourceSHA256": "f0be904770ad26da1d904584d9edf060387c1a031cf4242e298516f0cfc73e35",
+      "frameCount": 801,
+      "frameInterval": 0.0083333,
+      "title": "Chicken mime",
+      "actionDescription": "Holds hands near the hips with elbows out, bobs and leans forward, then stands.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "chicken"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
