@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "subject": "104",
+  "takes": [
+    {
+      "takeID": "104_01",
+      "sourceUUID": "8793E44D-790D-593C-8FB6-B4353B262048",
+      "sourceDescription": "JogThrough",
+      "sourceSHA256": "8820a57680c074514431d068d0c649d1f012405fdca7eb3a9313a32ac9699b46",
+      "frameCount": 385,
+      "frameInterval": 0.0083333,
+      "title": "Steady jog across the capture space",
+      "actionDescription": "The performer moves through successive jogging strides with compact arm swings, staying at a steady cadence through the last pose.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "steady jog",
+        " bent elbows",
+        " continuous run"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 55 all-zero captured frames. First usable motion is recorded at source frame 56.",
+      "firstUsableFrame": 56
+    },
+    {
+      "takeID": "104_02",
+      "sourceUUID": "68ABCFF5-4521-5CAF-BA5F-E12F7102A736",
+      "sourceDescription": "neutral Male walk, exact footfalls",
+      "sourceSHA256": "c7b350504477fc77e890dad93f700af0c98228dd02e16a9f489b37a6fc32cf62",
+      "frameCount": 885,
+      "frameInterval": 0.0083333,
+      "title": "Neutral walk with even footfalls",
+      "actionDescription": "The performer walks through several even steps with relaxed shoulders, a narrow stance, and a small alternating arm swing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "neutral walk",
+        " even footfalls",
+        " relaxed arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_03",
+      "sourceUUID": "90E850A6-A91A-5919-92D4-94B78F8BAA7B",
+      "sourceDescription": "Frankenstein male walk, exact footfalls",
+      "sourceSHA256": "82e647153ce77f8095fb68670cee2ad60404ef305d4a8766a06baf887f1de805",
+      "frameCount": 1619,
+      "frameInterval": 0.0083333,
+      "title": "Stiff walk with arms forward",
+      "actionDescription": "The performer holds both arms out in front, takes measured strides with a stiff upper body, and keeps the arms raised through the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "Frankenstein walk",
+        " stiff gait",
+        " arms forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_04",
+      "sourceUUID": "9A1BE484-4027-562E-A8C6-7B64D2CC1FCA",
+      "sourceDescription": "JogThrough",
+      "sourceSHA256": "0592a8f9bf217ebcd37d5f66185a1aaee09e4471395e7af38cc11d429e7c7013",
+      "frameCount": 198,
+      "frameInterval": 0.0083333,
+      "title": "Continuous jog with high heel recovery",
+      "actionDescription": "The performer jogs throughout the take with bent elbows, lifting each heel behind on alternating strides.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "steady jog",
+        " high heel recovery",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_05",
+      "sourceUUID": "27A65D43-04BE-50E7-9BA8-0E57CCA15620",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "4665ae3d068db91c85086852404b6cfa1604faf2ddacdc3725a19002edd0a759",
+      "frameCount": 489,
+      "frameInterval": 0.0083333,
+      "title": "Short jog into a stand",
+      "actionDescription": "The performer starts upright, builds into a short sequence of jogging steps, then slows and settles with the feet apart.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "short jog",
+        " start and stop",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_06",
+      "sourceUUID": "A7183BDF-B85E-54BB-991B-96961ECAE314",
+      "sourceDescription": "StartJog",
+      "sourceSHA256": "a3f17ca859b857d97772485c36e3d9d101f8da83b1a63c6daa2c469b45e96034",
+      "frameCount": 337,
+      "frameInterval": 0.0083333,
+      "title": "Start jogging from standing",
+      "actionDescription": "The performer shifts forward from a relaxed stance, bends the elbows, and accelerates into a jog that continues through the finish.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog start",
+        " acceleration",
+        " standing start"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_07",
+      "sourceUUID": "A27A3593-E7AE-5053-A046-830BE639375F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "cfadd5bb9cfe3330346a670dae0c610dc3b4881fdebb295b45f87d8e2417d62e",
+      "frameCount": 2304,
+      "frameInterval": 0.0083333,
+      "title": "Standing weight shifts and arm gestures",
+      "actionDescription": "The performer changes between hands at the waist and hands near the chest, turns the head and shoulders, and settles with the arms lowered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "standing gestures",
+        " hands on hips",
+        " weight shift"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_08",
+      "sourceUUID": "B850879F-0B19-54E8-8A86-6494016B8C14",
+      "sourceDescription": "StartJog",
+      "sourceSHA256": "e8852ae1a93b098f9b28474fcd6703df66ae7319c9b331380802c1d77d97cf79",
+      "frameCount": 314,
+      "frameInterval": 0.0083333,
+      "title": "Jog start with a preparatory lean",
+      "actionDescription": "The performer pauses with feet planted, leans forward into the first step, then establishes a quicker jogging cadence with bent arms.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog start",
+        " forward lean",
+        " accelerating"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_09",
+      "sourceUUID": "FDF85FEA-C71C-583F-94CD-32C2D808CEFD",
+      "sourceDescription": "JogStop",
+      "sourceSHA256": "265fc645e97673de5511961befb73d968828c8c072d3357b8f227ed61ad09221",
+      "frameCount": 349,
+      "frameInterval": 0.0083333,
+      "title": "Jog to a relaxed stand",
+      "actionDescription": "The performer begins mid-jog, shortens the last few steps, and lets the arms drop while coming upright.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog stop",
+        " deceleration",
+        " relaxed stand"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_10",
+      "sourceUUID": "8FE42293-C831-5807-9CED-90E32B905C9A",
+      "sourceDescription": "JogStop",
+      "sourceSHA256": "32d845ccdf6402f06ad744eec9cd0c42d7854ff710fbc14734101b8bf4560216",
+      "frameCount": 334,
+      "frameInterval": 0.0083333,
+      "title": "Jog to a wide-foot stop",
+      "actionDescription": "The performer transitions from springy running strides to short braking steps, finishes with the feet apart, and lowers the hands.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "jog stop",
+        " braking steps",
+        " wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_11",
+      "sourceUUID": "A88C32E8-B87B-5406-A4C5-73F1777DFE28",
+      "sourceDescription": "HappyGoLuckWalk",
+      "sourceSHA256": "ed6ee90712ea6509aaa2f7e98565c8b1681c8754e40db7d46d21ae728b1cfc32",
+      "frameCount": 539,
+      "frameInterval": 0.0083333,
+      "title": "Bouncy walk with sweeping gestures",
+      "actionDescription": "The performer takes exaggerated springing steps, alternates high leg swings and broad arm reaches, and keeps moving through the finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "bouncy walk",
+        " exaggerated gait",
+        " arm sweeps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_12",
+      "sourceUUID": "9FA5ACC2-B049-586B-B243-614101CA65D9",
+      "sourceDescription": "ExcitedWalk",
+      "sourceSHA256": "c646e83712bf359a5763179e9ea33a3b9eccaf69de473ef68c24eb8dacf609e8",
+      "frameCount": 421,
+      "frameInterval": 0.0083333,
+      "title": "Excited walk with high steps and reaches",
+      "actionDescription": "The performer bounds forward with high knees, dips and extends both arms out, then adds an overhead reach in the last few steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "excited walk",
+        " high steps",
+        " overhead reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_13",
+      "sourceUUID": "0420707D-D071-5B5E-AA82-BB1FE7A67208",
+      "sourceDescription": "StumbleWalk",
+      "sourceSHA256": "05b4bd8bbe394c1e5a04bce761e7069dc2066d1eb5ac0a472d3415df42321b37",
+      "frameCount": 550,
+      "frameInterval": 0.0083333,
+      "title": "Staggering walk with repeated catches",
+      "actionDescription": "The performer lurches through uneven steps, throws the arms out and up to recover, and finishes with another forward lean and cross-step.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "stumble walk",
+        " arm balance",
+        " uneven steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_14",
+      "sourceUUID": "8F895A77-DE53-5ECA-B3D4-8D0A6B72E8F6",
+      "sourceDescription": "HappyStartWalk",
+      "sourceSHA256": "b09a125861ee304a5e6b1e8204fd6433aef6451ab6bb1fef1669cbbe3f7e4388",
+      "frameCount": 709,
+      "frameInterval": 0.0083333,
+      "title": "Exaggerated walk start",
+      "actionDescription": "The performer pauses upright, starts with a high step and a diagonal arm reach, then accelerates with forward leans and springing steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "walk start",
+        " exaggerated gait",
+        " high step"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_15",
+      "sourceUUID": "6A7CA092-53B3-5189-B5A3-FF26031B2C53",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "23299eb1431846830be761e46369c58635ddf644997e3679f258c44e8903b5a9",
+      "frameCount": 208,
+      "frameInterval": 0.0083333,
+      "title": "Staggered stance with both arms forward",
+      "actionDescription": "The performer keeps the arms lifted in front and the knees soft, holding a near-static staggered stance.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "held pose",
+        " arms forward",
+        " staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_16",
+      "sourceUUID": "BBDE608B-F2D3-5885-B018-0D0AFAEED431",
+      "sourceDescription": "SpasticWalk",
+      "sourceSHA256": "e07ca99616ac5028fc20191681063fc455dc838f0bc8cd0e14acc21898a647c8",
+      "frameCount": 327,
+      "frameInterval": 0.0083333,
+      "title": "Erratic traveling gait",
+      "actionDescription": "The performer leans and pitches through long, uneven steps, swinging one arm overhead and reaching the other outward for balance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "erratic gait",
+        " long strides",
+        " arm swings"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_17",
+      "sourceUUID": "1812D716-EB38-5D2F-93F1-4999F66532FD",
+      "sourceDescription": "SpasticStop",
+      "sourceSHA256": "1bd0431582d722fe3522f8bc20374c97ee6aa82dd9d2c237471c8910139a36f4",
+      "frameCount": 465,
+      "frameInterval": 0.0083333,
+      "title": "Erratic gait into an upright stop",
+      "actionDescription": "The performer enters with a long lurching step and one arm raised, corrects with smaller crossing steps, and comes to a stand.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "staggering stop",
+        " recovery steps",
+        " arm balance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_18",
+      "sourceUUID": "1778FAD9-27B2-504B-9619-BD68F10E7DA0",
+      "sourceDescription": "SpasticStop",
+      "sourceSHA256": "72621f25b70f71335cf50a46b5cb17739c364e45e839984a6b53dfefb985e7e7",
+      "frameCount": 670,
+      "frameInterval": 0.0083333,
+      "title": "Lurching steps into a stop",
+      "actionDescription": "After the opening reference frames, the performer travels with exaggerated arm reaches and forward bends, then shortens the steps and settles upright.",
+      "primaryCategory": "balance-recovery",
+      "searchTags": [
+        "staggering stop",
+        " arm reach",
+        " forward bend"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 113 all-zero captured frames. First usable motion is recorded at source frame 114.",
+      "firstUsableFrame": 114
+    }
+  ]
+}
