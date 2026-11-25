@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "subject": "126",
+  "takes": [
+    {
+      "takeID": "126_01",
+      "sourceUUID": "EA1AC519-501D-5F57-9854-9B948ADF7BF1",
+      "sourceDescription": "Back Stroke",
+      "sourceSHA256": "e5ec0338db23f3f7cda89729cd135913dd5795498b261ce157f6d96281a5ff25",
+      "frameCount": 2593,
+      "frameInterval": 0.0083333,
+      "title": "Backstroke with pronounced torso roll",
+      "actionDescription": "The performer lies face up, cycles the arms overhead one at a time and rolls the shoulders from side to side with small kicks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "backstroke",
+        " shoulder roll",
+        " alternating arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_02",
+      "sourceUUID": "921A977F-72A7-5275-98AE-3764BD85DA88",
+      "sourceDescription": "Back Stroke",
+      "sourceSHA256": "0ef516aaa3e773ed50e8ea3441b34899797e97d5ca70104906c5f89f445b8c0d",
+      "frameCount": 1758,
+      "frameInterval": 0.0083333,
+      "title": "Backstroke with long alternating reaches",
+      "actionDescription": "The performer maintains a largely extended face-up posture, reaching and recovering each arm in turn with a steady kick.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "backstroke",
+        " long reach",
+        " flutter kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_03",
+      "sourceUUID": "4A7CE7F1-16EB-5055-AF66-92DA4F48EBC1",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "7e89a721a1ecfe16d09c1d4ea82b4c88d07a986a8eb886d096de6537e45b4696",
+      "frameCount": 2583,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with a long glide",
+      "actionDescription": "The performer repeatedly draws the hands inward, extends both arms forward and straightens the legs after a bent-knee kick.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " forward glide",
+        " frog kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_04",
+      "sourceUUID": "4D052DCD-785A-595D-80A1-EABA557F5802",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "f8bbcd220461c7844d253fa058bd2120ac80c487079f47e323dd154b5fc0b86a",
+      "frameCount": 1657,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with compact recovery",
+      "actionDescription": "The performer cycles both arms forward and outward from a compact chest-level position while bending and straightening both legs together.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " compact recovery",
+        " symmetrical kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_05",
+      "sourceUUID": "28320908-7330-57F2-AD30-92480C9A436F",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "1ebdb1b7c7c74b9a582b9f7029bc154285e552f340f13e3c9294be1836b77cde",
+      "frameCount": 1559,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with a wide kick and feet-together finish",
+      "actionDescription": "The performer sweeps the arms symmetrically and opens the knees for a broad kick, then draws the arms and legs together.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " wide kick",
+        " feet together"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_06",
+      "sourceUUID": "0F0AD8D1-46A4-5795-BED7-472B802340A4",
+      "sourceDescription": "Fly Stroke",
+      "sourceSHA256": "288d5f844cb5e8ebcdb8ac54690170c7f54f7df4df20f677eb421d2051328ad9",
+      "frameCount": 2507,
+      "frameInterval": 0.0083333,
+      "title": "Butterfly with a raised chest and wide recovery",
+      "actionDescription": "The performer lifts the head and chest, recovers both arms in broad arcs, and drives a paired kick through the rise and fall of the torso.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "butterfly stroke",
+        " broad arm sweep",
+        " dolphin kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_07",
+      "sourceUUID": "D353C9F2-24F2-5F42-87CC-4E1F1AA1DB92",
+      "sourceDescription": "Fly Stroke",
+      "sourceSHA256": "06b0fdcd3e23369035325a6980d088c036234d6861d97c09b0056b29d2ec9216",
+      "frameCount": 2516,
+      "frameInterval": 0.0083333,
+      "title": "Butterfly with repeated forward reaches",
+      "actionDescription": "The performer cycles both arms together from a downward pull into a long forward reach as the knees and hips pulse through successive kicks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "butterfly stroke",
+        " forward reach",
+        " paired kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_08",
+      "sourceUUID": "79713FF1-9A41-5178-B1D4-E6AA3A036571",
+      "sourceDescription": "Fly Stroke",
+      "sourceSHA256": "a672cb5e8e4d03d7d5f67fff86e2105bafcc0de81523152888eb3941791d1c89",
+      "frameCount": 1536,
+      "frameInterval": 0.0083333,
+      "title": "Butterfly with arms extended to the sides",
+      "actionDescription": "The performer opens both arms wide during the recovery, then pulls them down in front as the lower legs kick together.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "butterfly stroke",
+        " wide recovery",
+        " dolphin kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_09",
+      "sourceUUID": "F24F3CA6-7F07-5C28-AF11-FB249A380A15",
+      "sourceDescription": "Fly Stroke",
+      "sourceSHA256": "9dac08b18f7546438d7131507f6e4a89910ae63ecdc74df42b9c3bd6215adc9b",
+      "frameCount": 1780,
+      "frameInterval": 0.0083333,
+      "title": "Butterfly with a compact pull",
+      "actionDescription": "The performer alternates a broad two-arm recovery with a tucked pull near the torso, keeping the legs together through repeated body waves.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "butterfly stroke",
+        " compact pull",
+        " body wave"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_10",
+      "sourceUUID": "FD0FFF71-75A8-5AFE-87D3-C0EB98835C60",
+      "sourceDescription": "Free Style",
+      "sourceSHA256": "91c81f90497d19d2de7807e57f0bda068a6706006c475156d7b82f677cf34cc7",
+      "frameCount": 1253,
+      "frameInterval": 0.0083333,
+      "title": "Freestyle with alternating shoulder rotation",
+      "actionDescription": "The performer alternates one arm reaching ahead with the other recovering, rotating the torso as the legs continue kicking.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "freestyle",
+        " alternating arms",
+        " shoulder rotation"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_11",
+      "sourceUUID": "728DB887-C69C-5015-8D0A-A6C1ACE1EFE6",
+      "sourceDescription": "Free Style",
+      "sourceSHA256": "36e51fc0045ff7f5c6cb58c880aa9c549533b65d72ae088f46a55de05de7232c",
+      "frameCount": 1829,
+      "frameInterval": 0.0083333,
+      "title": "Freestyle with short arm recoveries",
+      "actionDescription": "The performer remains low and face down, cycling one bent arm past the torso while the other extends, with compact alternating kicks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "freestyle",
+        " bent-arm recovery",
+        " flutter kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_12",
+      "sourceUUID": "F9DA527F-1569-517B-93B5-032AF4721137",
+      "sourceDescription": "Free Style",
+      "sourceSHA256": "e670139c67f0146e79c207f45ad7d6876b358b7d4376e064aace25aad57aa8c9",
+      "frameCount": 2417,
+      "frameInterval": 0.0083333,
+      "title": "Freestyle with a long reaching stroke",
+      "actionDescription": "The performer reaches one arm well ahead while the other sweeps back, rolls from side to side through repeated strokes, and lifts the head near the end.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "freestyle",
+        " long reach",
+        " torso roll"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_13",
+      "sourceUUID": "ACC064E6-39DE-5481-A556-711147428940",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "c48c9defec1d99c4b4273c592a0be72d1bbe28e4fab8de760e0580fe124e28ec",
+      "frameCount": 115,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle pose with elbows bent",
+      "actionDescription": "The performer keeps the knees flexed and torso slightly forward, holding both elbows bent and the hands raised in a steady stance.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " bent elbows",
+        " bent knees"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "126_14",
+      "sourceUUID": "8ABD20CB-2608-5348-8EE0-246FF4C15B03",
+      "sourceDescription": "Range of Motion",
+      "sourceSHA256": "330f4dc4004ed887c3be5570dd361f244674c3e25781975b494bafbe5ed45095",
+      "frameCount": 6757,
+      "frameInterval": 0.0083333,
+      "title": "Range-of-motion sequence with an open-arm finish",
+      "actionDescription": "The performer moves through varied arm sweeps, body turns, bends and leg lifts, rounding out the sequence with both arms extended sideways.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "range of motion",
+        " arm sweeps",
+        " open-arm finish"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}

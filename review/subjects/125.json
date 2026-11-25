@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "subject": "125",
+  "takes": [
+    {
+      "takeID": "125_01",
+      "sourceUUID": "11867B5B-63BF-5580-B4CE-3CB7C7FA99A6",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "39ef356c5166b0949b1d9d195d517475d1e0be0004b1a24cff7a4b89d114f98c",
+      "frameCount": 4257,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with a pronounced frog kick",
+      "actionDescription": "The performer tips into a face-down swimming posture, sweeps both arms in and forward, and repeatedly bends and opens the legs before extending.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " frog kick",
+        " swimming"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_02",
+      "sourceUUID": "06755CD0-C9B6-5FFB-910F-6E0EBB1A44F0",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "180460d82c44f2f5c31348cede8e7fc40cfcc2dba06d6a669120eabfe63f6fb0",
+      "frameCount": 4276,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with compact arm recovery",
+      "actionDescription": "The performer comes forward into a horizontal posture and repeats a compact inward arm recovery with a paired leg kick.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " compact recovery",
+        " paired kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_03",
+      "sourceUUID": "F9846221-E51C-52E5-9FC4-D35CE1D0CFB0",
+      "sourceDescription": "Break Stroke",
+      "sourceSHA256": "78a25f50f8f556493c6ed4050d539701c66813d933c2690fa56120b13accd6f0",
+      "frameCount": 4408,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with a long forward reach",
+      "actionDescription": "The performer enters the swimming posture from upright, traces broad symmetrical arm pulls, and reaches forward between bent-knee kicks.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " long reach",
+        " frog kick"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_04",
+      "sourceUUID": "2A7166D9-C63A-5A9E-8E1D-18862D55BA21",
+      "sourceDescription": "Breast Stroke",
+      "sourceSHA256": "8d6fc5b4adb2cec5fd14f95c414c59b0fec33527af74d8bb1c6e1e3380b5f7d7",
+      "frameCount": 4812,
+      "frameInterval": 0.0083333,
+      "title": "Breaststroke with repeated head lifts",
+      "actionDescription": "The performer repeatedly lifts the head and chest as the elbows draw in, then reaches forward and kicks back into a flatter line.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "breaststroke",
+        " head lift",
+        " forward glide"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_05",
+      "sourceUUID": "2E5761E1-DE3D-59A5-8A94-D792E5CBFF7F",
+      "sourceDescription": "Butterfly",
+      "sourceSHA256": "2c3d8b6fae18900597de95126b03a1a74ed74f7a39769290e6a5f8d8345e148a",
+      "frameCount": 2679,
+      "frameInterval": 0.0083333,
+      "title": "Butterfly stroke with a body wave",
+      "actionDescription": "The performer brings the arms through broad simultaneous strokes while the body undulates and both legs kick together.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "butterfly stroke",
+        " dolphin kick",
+        " swimming"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_06",
+      "sourceUUID": "DA977CB0-5DF4-5C59-BA24-418D7D0D7969",
+      "sourceDescription": "Free Style",
+      "sourceSHA256": "397bea5c7a47df3459272ad356314e080351b9b958db1382b5210800efae5791",
+      "frameCount": 4884,
+      "frameInterval": 0.0083333,
+      "title": "Freestyle with alternating arm recovery",
+      "actionDescription": "The performer rotates through the shoulders in a face-down posture, alternately recovering one arm and reaching forward while the legs continue kicking.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "freestyle",
+        " front crawl",
+        " alternating arm strokes"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "125_07",
+      "sourceUUID": "C8FB2F11-A896-54E3-A20A-2ECC0A0A2AA1",
+      "sourceDescription": "Motorcycle",
+      "sourceSHA256": "bee19c30dd35de4c56cbdb7d70e8f5897a09d738b02f3668dc88487aafadd430",
+      "frameCount": 362,
+      "frameInterval": 0.0083333,
+      "title": "Motorcycle stance with raised hands",
+      "actionDescription": "The performer holds the feet staggered with knees flexed and both hands raised in front as if at handlebars.",
+      "primaryCategory": "poses-reference",
+      "searchTags": [
+        "motorcycle pose",
+        " staggered stance",
+        " handlebars"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
