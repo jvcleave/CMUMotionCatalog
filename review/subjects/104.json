@@ -311,6 +311,314 @@
       "reviewStatus": "needs-review",
       "reviewNote": "Source starts with 113 all-zero captured frames. First usable motion is recorded at source frame 114.",
       "firstUsableFrame": 114
+    },
+    {
+      "takeID": "104_19",
+      "sourceUUID": "686A84D5-81D9-58D4-ABE7-126C221DF242",
+      "sourceDescription": "CasualWalk",
+      "sourceSHA256": "2f368aed30bd053a33ccf81c78825bb60ed9070fcde744cf6aa407fd23e841a4",
+      "frameCount": 921,
+      "frameInterval": 0.0083333,
+      "title": "Casual straight walk to a stop",
+      "actionDescription": "The performer starts from standing, takes relaxed forward steps with small arm swings, and settles back into a quiet stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "casual walk",
+        " relaxed arms",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_20",
+      "sourceUUID": "0990A30C-2856-5A06-9A94-AF5644100E26",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "a4adda0cd5fa575960d7ad121e4438d2d21e09541673b70710c6b5467692ec2d",
+      "frameCount": 701,
+      "frameInterval": 0.0083333,
+      "title": "Walk after lowering an outstretched arm",
+      "actionDescription": "The performer begins with one arm extended sideways, lowers it and walks with a moderate stride, then stops with both arms at the sides.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward walk",
+        " arm lowering",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_21",
+      "sourceUUID": "F66F22AD-71A8-5601-B3B2-53F51FF1D411",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "4764b554ff80b02bdc06d3de696f0cc1f912b1ebded804b9bfc97420f57cbd84",
+      "frameCount": 789,
+      "frameInterval": 0.0083333,
+      "title": "Short straight walk and stop",
+      "actionDescription": "The performer pauses upright, walks forward with an alternating arm swing, and decelerates to a standing finish.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "straight walk",
+        " pause",
+        " stop"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 5 all-zero captured frames. First usable motion is recorded at source frame 6.",
+      "firstUsableFrame": 6
+    },
+    {
+      "takeID": "104_22",
+      "sourceUUID": "F3A7A0D0-454B-53F2-861F-5087D29C4F53",
+      "sourceDescription": "RegularWalk8",
+      "sourceSHA256": "89f5a24caf3cdd8cbf2cc917eba0065de6f9f914aa7735f3b288a1e9b1d35088",
+      "frameCount": 1838,
+      "frameInterval": 0.0083333,
+      "title": "Regular walk through a figure eight",
+      "actionDescription": "The performer follows successive curved paths at a regular pace, turning in opposite directions and returning to a quiet stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " curved walk",
+        " direction change"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_23",
+      "sourceUUID": "2D7FD77C-A7C9-5727-8668-C3A3586696F9",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "92d29b827f150829f7a479f79a55101a5f86935ad8791621c23cc689958005f7",
+      "frameCount": 1834,
+      "frameInterval": 0.0083333,
+      "title": "Looping walk after an open-arm setup",
+      "actionDescription": "The performer lowers both arms from the opening pose, walks through several changes of facing with a steady stride, and stops.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "looping walk",
+        " open-arm setup",
+        " direction change"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_24",
+      "sourceUUID": "75A2561B-BEF8-5E15-9DD9-BF7E8F5D4E47",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "144c3e6f59aebecc7eb581d3647a94dae1204b2a5805971b8334e5015b1a5b7f",
+      "frameCount": 1896,
+      "frameInterval": 0.0083333,
+      "title": "Looping walk with a one-arm setup",
+      "actionDescription": "The performer lowers one extended arm, starts walking with a soft arm swing, curves through several directions, and finishes facing near the start.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "curved walk",
+        " one-arm setup",
+        " turning"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_25",
+      "sourceUUID": "D504495F-A657-55F3-8042-F1BBE1330AFA",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "da6852876373ae900f420f487e31575492964574fcf670c6d56afdcedd0776e5",
+      "frameCount": 2451,
+      "frameInterval": 0.0083333,
+      "title": "Walk with repeated changes of direction",
+      "actionDescription": "The performer lowers from an open-arm pose into a measured walk, taking several angled direction changes before coming to a stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turning walk",
+        " angled turns",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_26",
+      "sourceUUID": "52F7216B-E130-56C9-AE2D-D43B8EAE118F",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "70fba9a7dec9b5ca599452ac6bf2dc0c2fa8382bb31d5e5c3e8b6a242be14f90",
+      "frameCount": 1100,
+      "frameInterval": 0.0083333,
+      "title": "Standing bends and squat into an open-arm pose",
+      "actionDescription": "The performer shifts between side bends and arm gestures, lowers into a wide squat with both arms out, then rises and holds the arms level.",
+      "primaryCategory": "exercise-mobility",
+      "searchTags": [
+        "side bend",
+        " wide squat",
+        " open-arm pose"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_27",
+      "sourceUUID": "E2950B22-9F95-55F1-9903-8A572512ADED",
+      "sourceDescription": "RegularWalkRightAngleTurns",
+      "sourceSHA256": "836d2e48e286de2232dbb9146f4982ae47c8225c65c961c3619360ae748c9678",
+      "frameCount": 2434,
+      "frameInterval": 0.0083333,
+      "title": "Regular walk with right-angle turns",
+      "actionDescription": "The performer takes regular steps along straight stretches, changes direction in distinct corners, and comes to a stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "right-angle turns",
+        " regular walk",
+        " corners"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_28",
+      "sourceUUID": "BA550CE0-2197-510B-96C9-ECD07A4CB4A4",
+      "sourceDescription": "SternWalk",
+      "sourceSHA256": "248d42ab54a8fbce6df33d33ce028ba507391c11ce70eef8f6189edeb606f198",
+      "frameCount": 566,
+      "frameInterval": 0.0083333,
+      "title": "Brisk stern walk into a stop",
+      "actionDescription": "The performer starts with feet apart, takes several purposeful steps with a compact arm swing, then returns to a quiet stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stern walk",
+        " brisk steps",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_29",
+      "sourceUUID": "38595C69-5FCB-50BE-8E67-EF614FEECA89",
+      "sourceDescription": "SternWalk",
+      "sourceSHA256": "d6f4cddea7430d414cf871cd4f4d6ec86f32e72bb8a8f684a2fd070879bd04f6",
+      "frameCount": 480,
+      "frameInterval": 0.0083333,
+      "title": "Short stern walk with bent elbows",
+      "actionDescription": "The performer steps off with the elbows bent close to the body, walks briskly for several strides, and relaxes the arms at the stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stern walk",
+        " bent elbows",
+        " stop"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_30",
+      "sourceUUID": "10A266D1-73E7-5890-8F3C-2516F063D3B0",
+      "sourceDescription": "SternWalk8",
+      "sourceSHA256": "87acec1233a6bd0f59611581f66c33cc915abf71fc202180e403360b863cf275",
+      "frameCount": 1365,
+      "frameInterval": 0.0083333,
+      "title": "Stern walk through a figure eight",
+      "actionDescription": "The performer walks at a brisk cadence with firm steps and flexed elbows, changing facing through two loops before stopping.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "figure eight",
+        " stern walk",
+        " brisk gait"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_31",
+      "sourceUUID": "AB8A94D8-1966-5237-8D7B-E6E51BCA0E0E",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "80634a37ce77fd2e752990a576aac6340079ef0db41bddea43a9ac8b7edb8127",
+      "frameCount": 1287,
+      "frameInterval": 0.0083333,
+      "title": "Brisk loop with compact arm swings",
+      "actionDescription": "The performer lowers one raised arm and begins a brisk walk, curves around with the elbows bent, and returns to standing.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "looping walk",
+        " brisk gait",
+        " bent elbows"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_32",
+      "sourceUUID": "2C65A756-FE38-5B92-8408-73E1302EBC55",
+      "sourceDescription": "SternWalkRightAngleTurns",
+      "sourceSHA256": "06f2a1d434ae09e61c1c787a2e8f538113dcdbc4f5af4299518458e8723941fe",
+      "frameCount": 1565,
+      "frameInterval": 0.0083333,
+      "title": "Stern walk with right-angle turns",
+      "actionDescription": "The performer takes long purposeful steps and leans into successive corner turns before slowing to a stop.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "stern walk",
+        " right-angle turns",
+        " long strides"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_33",
+      "sourceUUID": "F06673CC-2F1D-55EF-9091-793C75608296",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "7fcd308b75dae3795763355b070dd1d81e15b46203e988e0d9a82c7dee51516c",
+      "frameCount": 1486,
+      "frameInterval": 0.0083333,
+      "title": "Brisk walk with turns after an arm raise",
+      "actionDescription": "The performer drops a sideways arm from the opening pose, walks with firm strides and small body leans through direction changes, then stops.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turning walk",
+        " brisk strides",
+        " arm lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_34",
+      "sourceUUID": "EFEE71AE-283D-5550-815E-46A1B52BCC66",
+      "sourceDescription": "Unknown",
+      "sourceSHA256": "9186927da4a75f127becd6cfc0c3f543916a45a33774b5ef0250f31d58503d2f",
+      "frameCount": 1115,
+      "frameInterval": 0.0083333,
+      "title": "Slow straight walk after an arm raise",
+      "actionDescription": "The performer lowers the extended arm, takes measured steps with little upper-body movement, and comes back to a stand.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        " straight path",
+        " arm lowering"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_35",
+      "sourceUUID": "96F795A2-46E2-557C-83F3-A97D051BF59A",
+      "sourceDescription": "SlowWalk",
+      "sourceSHA256": "8173564973dc39592c10ca61176599b7544297ca257b557d68df8cf741ff8583",
+      "frameCount": 1074,
+      "frameInterval": 0.0083333,
+      "title": "Slow walk with relaxed arms",
+      "actionDescription": "The performer takes unhurried, even steps with a small natural arm swing, finishing upright with both feet planted.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        " even steps",
+        " relaxed arms"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "104_36",
+      "sourceUUID": "FB5296CB-23AF-5D9F-AB6B-FB984646B5A4",
+      "sourceDescription": "SlowWalk8",
+      "sourceSHA256": "6bfe2514b3bca0f7f49bdc8ef256429a019b6917a1f786193be5bea7bb39c73c",
+      "frameCount": 2315,
+      "frameInterval": 0.0083333,
+      "title": "Slow walk through a figure eight",
+      "actionDescription": "The performer moves unhurriedly through curved paths in both directions, keeping the arms loose and settling upright at the end.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "slow walk",
+        " figure eight",
+        " curved path"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
