@@ -63,7 +63,9 @@ def build(output):
         (output / filename).write_bytes(asset)
     html = (site / "index.html").read_text(encoding="utf-8")
     (output / "index.html").write_text(
-        html.replace("ASSET_REVISION", revision.hexdigest()[:12]), encoding="utf-8",
+        html.replace("ASSET_REVISION", revision.hexdigest()[:12])
+        .replace("CATALOG_VERSION", catalog["catalogVersion"]),
+        encoding="utf-8",
     )
 
     takes = []
