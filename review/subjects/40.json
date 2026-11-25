@@ -104,6 +104,91 @@
         "hop"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_08",
+      "sourceUUID": "70CF3715-8ABE-53E6-BB70-900C8C2272F2",
+      "sourceDescription": "climb, step over, jump over stepstool",
+      "sourceSHA256": "bab18f2d499ca5f777e4390f5fbc6ac001a91a6a3ca249ebf29b5edf6d65b8ea",
+      "frameCount": 6959,
+      "frameInterval": 0.0083333,
+      "title": "Repeat High Steps and Walk between Passes",
+      "actionDescription": "The performer alternates ordinary steps with higher knee lifts and turns, then returns to a narrower stance. The CMU source identifies a stepstool.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stepstool",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_09",
+      "sourceUUID": "0CFF4631-B533-5C49-BE3A-686DB26636DA",
+      "sourceDescription": "climb, step over, jump over stepstool",
+      "sourceSHA256": "94b9b4b9ab8a7358ff5d6ca739afb337e693bd62e60cb286dbf36a997e09d1ce",
+      "frameCount": 5167,
+      "frameInterval": 0.0083333,
+      "title": "Step High and Dip through an Obstacle Route",
+      "actionDescription": "The performer repeats bent-knee dips and high steps from several angles before straightening. The CMU source identifies a stepstool.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stepstool",
+        "high steps",
+        "knee bends"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_10",
+      "sourceUUID": "3BABE60E-4223-5EC0-9C20-13F32842BE31",
+      "sourceDescription": "wait for bus",
+      "sourceSHA256": "bae07b3e33b646f7b6cc14af8b041bf7e126e4b15c6802cf32dbb484a0fe2ec1",
+      "frameCount": 6214,
+      "frameInterval": 0.0083333,
+      "title": "Wait While Shifting Stance and Turning",
+      "actionDescription": "The performer spends most of the take upright, changes footing and turns several times, and rests a hand near the hip. The CMU source describes waiting for a bus.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "waiting",
+        "weight shifts",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_11",
+      "sourceUUID": "32863EEE-DAA8-5E02-8BE0-C39B5067B864",
+      "sourceDescription": "wait for bus",
+      "sourceSHA256": "52300c763e14bde7cecc01558492c3db32f8b673a9f2f854d35b4086bec81b4b",
+      "frameCount": 6020,
+      "frameInterval": 0.0083333,
+      "title": "Wait, Take a Few Steps, and Settle",
+      "actionDescription": "The performer stands, takes short steps and briefly brings an arm across the torso, then returns to a wider standing stance. The CMU source describes waiting for a bus.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "waiting",
+        "short steps",
+        "standing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_12",
+      "sourceUUID": "A0A0820A-96BD-5062-AECC-B5A8F83146F2",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "1260faaf34439d2cee5a69650c9471ff6f2790a7ae286fd88a9dcc533b2cbc41",
+      "frameCount": 8437,
+      "frameInterval": 0.0083333,
+      "title": "Give Brief Hand Signals between Standing Pauses",
+      "actionDescription": "The performer mostly stands with arms down, briefly extends one arm and later raises both forearms, then returns to a neutral stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "pauses",
+        "standing"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
