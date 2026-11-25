@@ -540,6 +540,24 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "14_32",
+      "sourceUUID": "E6E62E1D-CC30-5C2C-BD79-35889D39C37B",
+      "sourceDescription": "sit on stepstool, stand up",
+      "sourceSHA256": "74ef74041dcde17d3ad622dc6be3a8701057e63e21ffc0367488501d168ad064",
+      "frameCount": 2637,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low, Rise, and Sit Again",
+      "actionDescription": "The performer stands, lowers into a low seated pose, and repeats from several orientations with the forearms held near the thighs. The take ends in another seated hold.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "repeated",
+        "sit",
+        "seated finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "14_33",
       "sourceUUID": "A8518255-3CA2-5ECE-B947-1FE24EF0A314",
       "sourceDescription": "climb ladder",
@@ -572,6 +590,42 @@
         "alternate knees",
         "forward reach",
         "standing finish"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_35",
+      "sourceUUID": "5E8BC653-52B7-5455-B8F8-451C465DA625",
+      "sourceDescription": "climb ladder",
+      "sourceSHA256": "605dbc8096e0ad7ee48586624a5ec172f0108463440994d55e5f49d20063b5cd",
+      "frameCount": 1614,
+      "frameInterval": 0.0083333,
+      "title": "Climb with Sustained High-Knee Steps",
+      "actionDescription": "The performer starts upright, reaches forward while alternating high knee lifts, and lowers after the last climbing passage. They finish standing with feet wider apart.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "ladder",
+        "alternate knees",
+        "reach",
+        "wide stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "14_36",
+      "sourceUUID": "A0389080-06B5-50EA-815E-DADDCE3AC8F6",
+      "sourceDescription": "sit on stepstool, stand up",
+      "sourceSHA256": "e8a3d8b5f4b1d9f71173e33b778b43c007e3d9fd21ebad1d15a089cd9b1ab38f",
+      "frameCount": 2094,
+      "frameInterval": 0.0083333,
+      "title": "Sit Low Twice and Walk Away",
+      "actionDescription": "The performer bends and lowers into a low seated pose, stands, and repeats the transition while turning. They step away after the second rise.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "low seat",
+        "repeated",
+        "sit",
+        "walk away"
       ],
       "reviewStatus": "described"
     },
