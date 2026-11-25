@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "subject": "27",
+  "takes": [
+    {
+      "takeID": "27_01",
+      "sourceUUID": "572FD1A1-7790-5973-99EF-CC765121229F",
+      "sourceDescription": "walk",
+      "sourceSHA256": "191db90eeb077b56c5f7dae6a2f91b079fc287a18273e02c192abe2de1ca6656",
+      "frameCount": 1033,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward, Turn, and Walk Away",
+      "actionDescription": "The performer begins mid-stride with relaxed arms, turns around partway through the take, and continues walking away through the last frame.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turnaround",
+        "continuous walk"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_02",
+      "sourceUUID": "13FE43C0-5144-5A65-8615-CC0A83C94E83",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "0795fd6d5b5a1bda378aaafbc51615a2303af647ae5c0bd67b0ce2745f8c76af",
+      "frameCount": 3565,
+      "frameInterval": 0.0083333,
+      "title": "Pause Between Brief Hand Signals",
+      "actionDescription": "The performer stays in a staggered stance for much of the take, briefly bringing both hands in front before lowering them. The CMU source identifies basketball signals.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "pauses",
+        "staggered stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_03",
+      "sourceUUID": "13BB8282-3FC9-5B12-B347-8647C3B1DD00",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "42f2ef7592c988503c53039226fdfef11c5c3925cc3ad653e8071ef22a01aef1",
+      "frameCount": 2150,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Teapot Rhyme with a Raised-Hand Lean",
+      "actionDescription": "The performer starts upright, brings both hands near the face, and repeatedly lifts one forearm while leaning. One hand remains raised at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "teapot rhyme",
+        "side lean",
+        "raised hand",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_04",
+      "sourceUUID": "E33A0AC7-5212-5987-BC76-954B390E4D02",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "898fa2369f2f6ee8f1d6c3a33c0dcf894130b6b577f3a1f7f230fcde983fdebd",
+      "frameCount": 3644,
+      "frameInterval": 0.0083333,
+      "title": "Bend, Reach Overhead, and Continue Gesturing",
+      "actionDescription": "The performer begins with a hand near the face, folds forward, then rises into forward and overhead reaches. They alternate chest-level and face-level gestures, finishing with one hand near the face.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "forward bend",
+        "overhead reach",
+        "hand near face",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_05",
+      "sourceUUID": "3592B171-BDED-55EB-939D-B9307C4C927F",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "b192afd549ec82229a683ff50312ce88f55ba0b7e7b331742e851c109141fc04",
+      "frameCount": 7722,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Rhyme with a Deep Fold and High Reach",
+      "actionDescription": "From standing, the performer reaches forward, folds deeply toward the floor, and later reaches diagonally up with both arms active. They end bent forward with the hands near the face.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "deep fold",
+        "diagonal reach",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_06",
+      "sourceUUID": "21541532-36F7-5079-93D5-05B954E21CB5",
+      "sourceDescription": "basketball signals",
+      "sourceSHA256": "20f3b40d9e397e0e14c8d0f0e4b913e070de046efb2c239c908f61c03aa4d88f",
+      "frameCount": 2870,
+      "frameInterval": 0.0083333,
+      "title": "Give Hand Signals with Alternating Forward Reaches",
+      "actionDescription": "The performer starts still, gathers both hands in front, and alternates short one-handed and two-handed signals. The arms lower as they settle upright.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "basketball signals",
+        "two-handed",
+        "forward reach",
+        "pauses"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_07",
+      "sourceUUID": "6FD0B004-0595-5B9E-9E67-AA8F341FA5E2",
+      "sourceDescription": "nursery rhyme - \"I'm a little teapot...\"",
+      "sourceSHA256": "004d9f6138ebfaa5616de9ad6983ab4f9124e7cca162d1f9388bad5dd5229c20",
+      "frameCount": 1791,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Teapot Rhyme with Repeated Hand Lifts",
+      "actionDescription": "The performer brings one hand to the mouth area, raises the forearm beside the head, and adds several small side bends. The raised arm remains beside the head at the end.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "teapot rhyme",
+        "hand near face",
+        "raised hand",
+        "side bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_09",
+      "sourceUUID": "B55F5F4C-DA4F-58B3-9042-E9CD81F3E7EF",
+      "sourceDescription": "Alaskan vacation",
+      "sourceSHA256": "dda9ccdf99a4f0473d2f5f9b8efebad9b6a71793301eb10715e97bc672e923e2",
+      "frameCount": 3775,
+      "frameInterval": 0.0083333,
+      "title": "Open the Arms and Gather Them Near the Face",
+      "actionDescription": "The performer starts standing and alternates one-handed signals with wide two-arm openings. The gestures tighten toward the chest and face, ending with a hand near the head.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "in place",
+        "arms open",
+        "chest-height gestures",
+        "hand near head"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_10",
+      "sourceUUID": "052F1CA1-D192-5B3F-BB91-1A552F9EACAA",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "53e6489ead4d26cc251aa45515455da5a578f3b3be322572b1d7950556ac0385",
+      "frameCount": 7798,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Rhyme with a Low and Overhead Reach",
+      "actionDescription": "The performer starts with hands near the chest, alternates forward reaches and weight shifts, then lifts both hands overhead before folding forward. The last pose stays bent with hands gathered.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "overhead reach",
+        "weight shift",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "27_11",
+      "sourceUUID": "A3360973-5F66-582C-A46B-3457D30E34CC",
+      "sourceDescription": "prairie dog (human subject)",
+      "sourceSHA256": "ca05a1c6dfc10543ad98c26a111c6b64883f4b2dedb6c0db2f3ca164ca8d3073",
+      "frameCount": 1937,
+      "frameInterval": 0.0083333,
+      "title": "Mime an Animal with Small Face-Level Gestures",
+      "actionDescription": "The performer keeps the hands close to the face, repeatedly changes the angle of the forearms, and bends forward before straightening. The CMU source identifies a prairie dog mime.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "animal mime",
+        "prairie dog",
+        "face-level gesture",
+        "forward bend"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
