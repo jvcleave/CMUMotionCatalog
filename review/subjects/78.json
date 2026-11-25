@@ -492,6 +492,85 @@
         "shuffle"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_31",
+      "sourceUUID": "BA8791B8-EFE4-58A5-A46F-735BFDCF4469",
+      "sourceDescription": "Pivoting     CleanedGRS",
+      "sourceSHA256": "a97e6fd79ac0a4e69a9abc4986ce9cbef95a60a80e820318a5b8adf696d7471e",
+      "frameCount": 798,
+      "frameInterval": 0.0083333,
+      "title": "Pivoting sequence",
+      "actionDescription": "Steps and pivots in a low stance, turns with hands held forward, raises both arms, then lowers into another turn.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "pivot"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_32",
+      "sourceUUID": "D9E1E8D5-55EB-5449-9013-04D466C1711B",
+      "sourceDescription": "SraightDriveFromStop          Cleaned GRS",
+      "sourceSHA256": "611bd4b9fe9a021d155e31556c7f0a5da25d1f2aa39837df38650a3acec907b2",
+      "frameCount": 214,
+      "frameInterval": 0.0083333,
+      "title": "Straight drive from a stop",
+      "actionDescription": "Pushes off from a near stand, lowers the torso and accelerates forward with quick steps.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "drive",
+        "cut"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_33",
+      "sourceUUID": "3B092F18-4EA4-53DC-B877-E27A4B3F87A9",
+      "sourceDescription": "RightDrive (left then right)    Cleaned GRS",
+      "sourceSHA256": "dbe34bd6f79e97f04c835fa13b811dab72ea850c20592852f8d57280e449928f",
+      "frameCount": 229,
+      "frameInterval": 0.0083333,
+      "title": "Drive right after a left shift",
+      "actionDescription": "Shifts left, plants and cuts right, accelerating into running strides.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "drive",
+        "cut"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_34",
+      "sourceUUID": "77277422-D354-59FA-9600-ED0942B40C41",
+      "sourceDescription": "LeftDrive (right then left)    Cleaned GRS",
+      "sourceSHA256": "e1005c27caac858130b1f3a130f51a8a5aa00f0946a82aaa45f9d77fbf4c3fb9",
+      "frameCount": 305,
+      "frameInterval": 0.0083333,
+      "title": "Drive left after a right shift",
+      "actionDescription": "Shifts right, plants and cuts left, accelerating into running strides.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "drive",
+        "cut"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_35",
+      "sourceUUID": "647940DA-772C-5418-BE29-0ADBEBFFD60E",
+      "sourceDescription": "RightTightTurn    CleanedGRS",
+      "sourceSHA256": "d37077bfe46a12ef0db49ac4ca093bfcac29ae17384d057f75fe2e7b9a437976",
+      "frameCount": 220,
+      "frameInterval": 0.0083333,
+      "title": "Tight right turn",
+      "actionDescription": "Leans into a sharp right turn from a bent stance and pushes out into running strides.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "turn",
+        "right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
