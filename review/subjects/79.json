@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "subject": "79",
+  "takes": [
+    {
+      "takeID": "79_01",
+      "sourceUUID": "282D1F43-C6BC-5E5D-B53C-517FA8EB3B8B",
+      "sourceDescription": "chopping wood",
+      "sourceSHA256": "397e7883dccc8037eec1183b93b91cc0527ab28060b840c0d4996632b237721f",
+      "frameCount": 586,
+      "frameInterval": 0.0083333,
+      "title": "Chopping wood",
+      "actionDescription": "Mimes gripping an axe, raises both hands overhead and swings downward repeatedly, then lowers the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "chopping wood"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_02",
+      "sourceUUID": "88196329-B6F6-597E-8EB5-96B74E940DE3",
+      "sourceDescription": "swimming",
+      "sourceSHA256": "a370fa6f97be1e719651f83e95d97fb4c99a58db82f2563d12a5ad120b853b9e",
+      "frameCount": 776,
+      "frameInterval": 0.0083333,
+      "title": "Swimming mime",
+      "actionDescription": "Stands while sweeping the arms alternately in broad swimming strokes and leaning from side to side.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "swimming"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_03",
+      "sourceUUID": "07BFDD6D-A590-5D31-A49D-957B9DE15F89",
+      "sourceDescription": "swimming",
+      "sourceSHA256": "5278a0a97b5c997e6ec9c04c3ede06065f96daff8dddb086c7eee1e0f116f412",
+      "frameCount": 843,
+      "frameInterval": 0.0083333,
+      "title": "Swimming mime",
+      "actionDescription": "Stands and repeatedly sweeps both arms outward and forward in swimming motions, then lowers them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "swimming"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_04",
+      "sourceUUID": "B440EE02-AE6F-51F1-984E-C62BBA2B20A8",
+      "sourceDescription": "digging",
+      "sourceSHA256": "268766a01c8a74739fc7595091301172b2249292ce96f410a905322c99dd05b8",
+      "frameCount": 909,
+      "frameInterval": 0.0083333,
+      "title": "Digging mime",
+      "actionDescription": "Bends and reaches down with both hands, then raises and turns them as if shoveling, repeating before standing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "digging"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_05",
+      "sourceUUID": "59FD128B-D028-5320-A37A-4BADDA406DCC",
+      "sourceDescription": "sewing",
+      "sourceSHA256": "a8a7ebe5455d86d1610ae713b6ee0ee865a1d2ecd23a322f05a4613da4b2035d",
+      "frameCount": 980,
+      "frameInterval": 0.0083333,
+      "title": "Sewing mime",
+      "actionDescription": "Holds one hand near the chest and repeatedly extends and draws the other hand back as if sewing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "sewing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_06",
+      "sourceUUID": "A2153593-AB96-5BCF-95E9-ED9A9B910BDE",
+      "sourceDescription": "hand shake",
+      "sourceSHA256": "4f5e953201f49e2b467395d2183b8324fe53d42a89965d5c943190303ce518ce",
+      "frameCount": 590,
+      "frameInterval": 0.0083333,
+      "title": "Handshake mime",
+      "actionDescription": "Extends one hand forward and makes a short repeated up-and-down handshake motion, then lowers it.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "handshake"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_07",
+      "sourceUUID": "BB9915B4-8924-5F92-A35B-98A5AA6E8F8F",
+      "sourceDescription": "lost marker",
+      "sourceSHA256": "de21ec5cbc74c442511be3f5591ec6aaa75b4e3ba33b56e8f3d2ef36f11a8b79",
+      "frameCount": 329,
+      "frameInterval": 0.0083333,
+      "title": "Hand gestures",
+      "actionDescription": "Raises both hands in front of the chest and face, moving them outward and together in a sequence of gestures.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "hand gestures"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "The source says lost marker and does not identify an action; the intended gesture cannot be confirmed from the render."
+    },
+    {
+      "takeID": "79_08",
+      "sourceUUID": "8E891304-200B-5EA3-B03D-9192B3458C3E",
+      "sourceDescription": "boxing",
+      "sourceSHA256": "b0ffb20f6029b7ef99b36a01fa3377ed11fea18cb02faf32491b4ad521c41c33",
+      "frameCount": 442,
+      "frameInterval": 0.0083333,
+      "title": "Boxing mime",
+      "actionDescription": "Raises the fists near the face, makes several short punches and turns the torso, then relaxes.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "mime",
+        "boxing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_09",
+      "sourceUUID": "A5C4604A-1684-5F7F-9B15-8C0960BEED9B",
+      "sourceDescription": "slicing bread",
+      "sourceSHA256": "9775aa75f4bfcd3e1f1316e0e58df43ed9764e8e18ac4d8c126dcfbadade97ae",
+      "frameCount": 838,
+      "frameInterval": 0.0083333,
+      "title": "Slicing bread mime",
+      "actionDescription": "Holds both hands in front of the waist and makes small repeated slicing motions, then lowers the arms.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "slicing bread"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_10",
+      "sourceUUID": "AC17396F-7485-5D0E-B71F-19B2F0DB3685",
+      "sourceDescription": "chopping onions",
+      "sourceSHA256": "b7760209a316cf5d54428f7b75450e15f18af6dcdf68482c15926bce5d3ec549",
+      "frameCount": 703,
+      "frameInterval": 0.0083333,
+      "title": "Chopping onions mime",
+      "actionDescription": "Keeps the hands together at waist height and makes repeated small chopping motions, then relaxes.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "mime",
+        "chopping onions"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
