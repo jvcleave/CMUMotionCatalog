@@ -162,6 +162,156 @@
         "chopping onions"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_11",
+      "sourceUUID": "73271961-8AAB-5C43-9DAF-ABEA78D80134",
+      "sourceDescription": "Subject calibration",
+      "sourceSHA256": "9d11f7bf052d50a7b017d74d08f0d835d57ac2e95fe8694f5dd0066e99385113",
+      "frameCount": 130,
+      "frameInterval": 0.0083333,
+      "title": "Calibration stance",
+      "actionDescription": "Holds a nearly still bent-knee stance with forearms raised in front.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "calibration stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_12",
+      "sourceUUID": "4CA5B514-2125-5762-9BE7-B980CA28842C",
+      "sourceDescription": "eating dinner",
+      "sourceSHA256": "d45645e94dedbe3c3662efd9c3850c79aea19b4472d63c0ccdea48a40b7446ef",
+      "frameCount": 1025,
+      "frameInterval": 0.0083333,
+      "title": "Eating dinner mime",
+      "actionDescription": "Holds the hands near the waist, repeatedly brings a hand toward the mouth, then lowers the arms.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "eating dinner"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_13",
+      "sourceUUID": "3D52799E-8FAF-5298-904A-0FDBCF135CC0",
+      "sourceDescription": "mixing batter",
+      "sourceSHA256": "9ae7e127d678e9d4cb7fb4842603ab642f14196d8ef82716dc89a5f895dd2515",
+      "frameCount": 664,
+      "frameInterval": 0.0083333,
+      "title": "Mixing batter mime",
+      "actionDescription": "Keeps one hand near the waist and repeatedly circles the other as if stirring batter.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "mixing batter"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_14",
+      "sourceUUID": "00F4E353-9C5E-596D-AB17-1C76E43614FE",
+      "sourceDescription": "making dough",
+      "sourceSHA256": "48cf767553fd17d1c0573d1b402b1d6bfc8b72075ec407e621a9dfd13f8441e9",
+      "frameCount": 733,
+      "frameInterval": 0.0083333,
+      "title": "Making dough mime",
+      "actionDescription": "Works both hands together repeatedly at waist height as if kneading dough, then lowers them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "making dough"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_15",
+      "sourceUUID": "60FA4034-B54E-5164-9E38-E9A233A18260",
+      "sourceDescription": "eating a sandwich",
+      "sourceSHA256": "70b5556be11ed352986bbcf64ff50c5d6a933ad96bc90f36e6ba2dac83045921",
+      "frameCount": 875,
+      "frameInterval": 0.0083333,
+      "title": "Eating a sandwich mime",
+      "actionDescription": "Holds both hands together near the mouth, repeatedly brings them up as if taking bites, then lowers them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "eating a sandwich"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_16",
+      "sourceUUID": "CBB10F16-3F20-5226-9E65-B50587205AA8",
+      "sourceDescription": "buying something",
+      "sourceSHA256": "dae3edf7a552050bea87b7d564cf3f5628ac6635a5579b54d219c664107dc12e",
+      "frameCount": 720,
+      "frameInterval": 0.0083333,
+      "title": "Buying something mime",
+      "actionDescription": "Makes small gestures with both hands in front of the chest and waist, extending one hand before lowering both.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "buying something"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_17",
+      "sourceUUID": "209EE197-DCBD-550E-BFE4-DA197813C18F",
+      "sourceDescription": "playing violin",
+      "sourceSHA256": "84d5b2d386b47bf3b0a32e48a5ae4d49f8469fd52ad0f743bd124f3389466be9",
+      "frameCount": 804,
+      "frameInterval": 0.0083333,
+      "title": "Playing violin mime",
+      "actionDescription": "Raises one hand near the shoulder and moves the other across the upper body in repeated bowing motions.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "playing violin"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_18",
+      "sourceUUID": "12F7693C-BF8E-547E-9BCF-0A2407669E89",
+      "sourceDescription": "playing drums",
+      "sourceSHA256": "f210db30b32cca0b2060a33aaaa1bc2568bf247df416309d0f3605c9059cb772",
+      "frameCount": 804,
+      "frameInterval": 0.0083333,
+      "title": "Playing drums mime",
+      "actionDescription": "Moves both hands rhythmically in front of the torso with occasional higher strikes, then lowers them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "playing drums"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_19",
+      "sourceUUID": "CC92D62D-5DCF-5C84-A008-150637FDD77C",
+      "sourceDescription": "playing piano",
+      "sourceSHA256": "89253e2df442539cf0d23800791932bf2fc4d9b410c9a021082c17fb7e84e8c3",
+      "frameCount": 691,
+      "frameInterval": 0.0083333,
+      "title": "Playing piano mime",
+      "actionDescription": "Holds both hands out at waist height and moves them in small alternating motions as if playing keys.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "playing piano"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_20",
+      "sourceUUID": "16518DD0-EF8A-564D-89AD-B43337554C95",
+      "sourceDescription": "hanging a picture",
+      "sourceSHA256": "a9510ad4b668a1c44cb48764b8b03aa91e05aceb91f079f6e49dcc8393f35435",
+      "frameCount": 747,
+      "frameInterval": 0.0083333,
+      "title": "Hanging a picture mime",
+      "actionDescription": "Raises both hands near the face, makes small adjustments, then spreads the hands near head height and lowers them.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "hanging a picture"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
