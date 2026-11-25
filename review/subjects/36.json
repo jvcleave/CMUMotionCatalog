@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "subject": "36",
+  "takes": [
+    {
+      "takeID": "36_01",
+      "sourceUUID": "60C68B0B-5929-5838-81FD-6D25C00B5E5C",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "e0dc3ff82cc4fc428c80b30c0f57f819d0df9f8100d65c42bd4d38aeea7ed4ce",
+      "frameCount": 557,
+      "frameInterval": 0.0083333,
+      "title": "Walk with High Knee Lifts",
+      "actionDescription": "The performer begins mid-step, lifts the knees higher for several steps, and returns to a lower stride while continuing forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high knees",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_02",
+      "sourceUUID": "5A640E31-6C51-5232-BA0D-26A9B8D6C2A6",
+      "sourceDescription": "walk forward, turn around, walk back",
+      "sourceSHA256": "2a6e9f62ee04428f9542f00f41439acc01a71b06acc24717c1b4a07e5d6ddf6a",
+      "frameCount": 4273,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward, Turn, and Walk Back",
+      "actionDescription": "The performer walks at a measured pace with arms low, turns to reverse direction, and continues walking along the return path.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turnaround",
+        "walk back"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_03",
+      "sourceUUID": "0D6F09DC-6E4B-5592-A8BF-181BE3E735C6",
+      "sourceDescription": "walk forward, turn around, walk back",
+      "sourceSHA256": "80ce3bbb6c3dd6fdf7d7d1a3d233f446e15e6982996ea7f1de9a77e161569ab7",
+      "frameCount": 3852,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward, Turn, and Walk Back",
+      "actionDescription": "The performer walks at a measured pace with arms low, turns to reverse direction, and continues walking along the return path.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turnaround",
+        "walk back"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_04",
+      "sourceUUID": "DE1137D7-75E7-560E-8A9F-DB2D4C9F13BA",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "5b2ef786a94c249b98c52ace37f6e8d5fb41913de2cce0f16f17884b8f575850",
+      "frameCount": 3726,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_05",
+      "sourceUUID": "27386230-F371-50E2-9842-D33F852379B1",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "3fed7353181ee9925eaeed57ca4469e289352a83b4e878b89e1bb170e2922239",
+      "frameCount": 4196,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_06",
+      "sourceUUID": "42CC83CB-312C-5BB8-87ED-81A5551161B8",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "44055de854c26347ca45b06467d6f860e195999ea2a9892b3743e742f0c3a635",
+      "frameCount": 3896,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_07",
+      "sourceUUID": "9C956095-1C1E-5848-B400-9E815EFAC3A2",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "cfda7a822bcd89e61f90fbaeaaf5e4f70295b7ff7165e9f1f15ba6fbb25255b1",
+      "frameCount": 3772,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_08",
+      "sourceUUID": "29919E78-7AF7-5BEC-9239-D3356D9237F7",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "5b9623a4bac9cac64329a318ab0887f2d84cde35b4c88c708c05817b698bace7",
+      "frameCount": 3714,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_09",
+      "sourceUUID": "1D959F64-EFE3-56B3-89DE-96A870255361",
+      "sourceDescription": "walk forward, turn around, walk back",
+      "sourceSHA256": "66a828831f3cf5f36ffac916f7f19d3d4ebc2d3842981b68826e56f0e69b2fcf",
+      "frameCount": 3890,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward, Turn, and Walk Back",
+      "actionDescription": "The performer walks at a measured pace with arms low, turns to reverse direction, and continues walking along the return path.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turnaround",
+        "walk back"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_10",
+      "sourceUUID": "254A9700-360E-5EDD-8349-B3E41F66A17A",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "70f367e0bbca02a17b92b993d6a089f9cea0437b48cbd95e7c5c1d1434244e2b",
+      "frameCount": 3832,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Intermittent High Steps",
+      "actionDescription": "The performer walks through several heading changes, lifting a knee distinctly higher at intervals before returning to shorter steps. The take ends in motion.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_11",
+      "sourceUUID": "38F00CF4-7C66-55E0-A17C-396F33A3F8DE",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "3cc30d99559a5a1c4402556303ab724b1370b2937094600bb53540d949899a22",
+      "frameCount": 4168,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Intermittent High Steps",
+      "actionDescription": "The performer walks through several heading changes, lifting a knee distinctly higher at intervals before returning to shorter steps. The take ends in motion.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_12",
+      "sourceUUID": "E521714F-55F9-561C-B724-888D6EC94AAF",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "6ab61712da6733b297716c4c7ce78540b47272c297c91c1e58b58e5a21984dfd",
+      "frameCount": 4585,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_13",
+      "sourceUUID": "01A1DF7A-B311-5498-AF00-46920427C8B1",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "305814066a0467571fec447f6b57b4ae237276d937654b1b736f3ad40ce792eb",
+      "frameCount": 4247,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Intermittent High Steps",
+      "actionDescription": "The performer walks through several heading changes, lifting a knee distinctly higher at intervals before returning to shorter steps. The take ends in motion.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_14",
+      "sourceUUID": "7D235F4A-6A8A-5D7A-B4B4-81019197F9D8",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "d9141ba01324f3b2552a7cfe0ddb437ac856166624677544278d68170c043be9",
+      "frameCount": 4146,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Changes of Heading",
+      "actionDescription": "The performer alternates short and longer steps while changing heading, using a low arm swing and occasional higher knee lifts.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "variable steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_15",
+      "sourceUUID": "43A22D25-DA75-57F2-8E27-BBC2A47F6536",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "5bd34df46a45bf3b1aa05cc3fa2ffd4e1c8cfc772c9225fcb2f3ab53a2f4e1e8",
+      "frameCount": 4164,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Intermittent High Steps",
+      "actionDescription": "The performer walks through several heading changes, lifting a knee distinctly higher at intervals before returning to shorter steps. The take ends in motion.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "36_16",
+      "sourceUUID": "0F4AF25B-12F5-5913-8A87-7E228610ED5D",
+      "sourceDescription": "walk on uneven terrain",
+      "sourceSHA256": "b94be830829768ee6ffe3b9b7788104a7961a85322ccf87fec6974076e896e2c",
+      "frameCount": 4395,
+      "frameInterval": 0.0083333,
+      "title": "Walk over Uneven Ground with Intermittent High Steps",
+      "actionDescription": "The performer walks through several heading changes, lifting a knee distinctly higher at intervals before returning to shorter steps. The take ends in motion.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "uneven terrain",
+        "high steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
