@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "subject": "40",
+  "takes": [
+    {
+      "takeID": "40_02",
+      "sourceUUID": "7A3C6385-502E-51B7-BC5E-5B516AF31178",
+      "sourceDescription": "navigate - walk forward, backward, on a diagonal",
+      "sourceSHA256": "a235af90fafd3aedc68ab50d0d219a05ad6c363b158685aa0b45e6a7d76257c0",
+      "frameCount": 4994,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Backward with Small Diagonal Steps",
+      "actionDescription": "The performer alternates short forward and backward steps, turns slightly between passages, and keeps the arms relaxed near the sides.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "backward",
+        "diagonal steps"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_03",
+      "sourceUUID": "5702949D-46FB-50C1-8C05-FBCA1190BC5F",
+      "sourceDescription": "navigate - walk forward, backward, on a diagonal",
+      "sourceSHA256": "c6cf5207f4ee9d8b1152b1455e9c1142018928318b09037cfb5aa30c80e86e50",
+      "frameCount": 6188,
+      "frameInterval": 0.0083333,
+      "title": "Change Walking Direction with Longer Strides",
+      "actionDescription": "The performer shifts between forward, backward, and diagonal steps, taking several longer strides while partly side-on. They finish in a slightly bent-knee stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward",
+        "diagonal steps",
+        "variable stride"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_04",
+      "sourceUUID": "E98E4671-5577-57A5-964E-71C1DC9EFE4F",
+      "sourceDescription": "navigate - walk forward, backward, on a diagonal",
+      "sourceSHA256": "16071de0b25f0d5067d9a37befcd09dceb91a0c5dc045f13ba68745e418691c3",
+      "frameCount": 5897,
+      "frameInterval": 0.0083333,
+      "title": "Walk in Several Directions and Turn Away",
+      "actionDescription": "The performer alternates short and long steps while changing heading and direction. The final steps carry them away.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "backward",
+        "diagonal steps",
+        "turns"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_05",
+      "sourceUUID": "A3062AAB-4328-5B15-8D0C-7814E111D2B9",
+      "sourceDescription": "navigate - walk forward, backward, on a diagonal",
+      "sourceSHA256": "16a98456c9df8438c45a09d407788d5106697e00b3a9c95a0548984f99b143ff",
+      "frameCount": 6085,
+      "frameInterval": 0.0083333,
+      "title": "Alternate Diagonal Steps and Backward Walking",
+      "actionDescription": "The performer alternates forward and backward passes with short diagonal steps and occasional bent-knee shifts. They finish in a narrow stance.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "backward",
+        "diagonal steps",
+        "narrow stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_06",
+      "sourceUUID": "9A8AEC39-C54F-533A-BC78-DE9060D84F2D",
+      "sourceDescription": "climb, step over, sit on, jump over stepstool",
+      "sourceSHA256": "9fb48c767f91189e3c9b293dd2d3a6c1326cc834a357fa27abe197ff0afffd54",
+      "frameCount": 6583,
+      "frameInterval": 0.0083333,
+      "title": "Step Over and Sit during an Obstacle Sequence",
+      "actionDescription": "The performer alternates high steps, forward bends, and short upright resets before continuing to step. The CMU source identifies a sequence on and around a stepstool.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stepstool",
+        "high steps",
+        "seated transition"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "40_07",
+      "sourceUUID": "9C635B8A-8A82-5ACE-8709-800941ABE1CB",
+      "sourceDescription": "climb, step over, jump over stepstool",
+      "sourceSHA256": "a05400d2903dc0dfa2d53eb2cafb1dbd8821a38e1b287fd84324ab50385ac611",
+      "frameCount": 6882,
+      "frameInterval": 0.0083333,
+      "title": "Step and Hop over a Low Obstacle",
+      "actionDescription": "The performer starts upright, repeats high-knee steps and short shifts, then makes a small hop near the end. The CMU source identifies a stepstool.",
+      "primaryCategory": "stairs-climbing",
+      "searchTags": [
+        "stepstool",
+        "high steps",
+        "hop"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
