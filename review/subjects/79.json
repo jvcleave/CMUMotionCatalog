@@ -1064,6 +1064,158 @@
         "laughing"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_71",
+      "sourceUUID": "09D0D4AF-279A-508A-99F9-6982894CB1A8",
+      "sourceDescription": "sad",
+      "sourceSHA256": "a74d9effc9cfc947225b2274a0641b681b4a3b63de0132256d15115d5fce8c04",
+      "frameCount": 1079,
+      "frameInterval": 0.0083333,
+      "title": "Sad gesture",
+      "actionDescription": "Bows the head, brings a hand near the face, and leans with one hand at the hip before straightening.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "sad gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_72",
+      "sourceUUID": "AF155F30-5204-5F59-BE0E-391C2E0C88EA",
+      "sourceDescription": "crying",
+      "sourceSHA256": "5ec113c61a34715ad297fb8c897ed143b99bf68bb653b4116626d3656a63fdee",
+      "frameCount": 953,
+      "frameInterval": 0.0083333,
+      "title": "Crying mime",
+      "actionDescription": "Covers the face with both hands and bends forward, briefly rising and bending again before lowering the hands.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "crying"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_73",
+      "sourceUUID": "41B1CE5A-FE0D-556B-8AF2-1ACC11CD9771",
+      "sourceDescription": "scared",
+      "sourceSHA256": "78f51b188603e2eb33212929fa67c43d68b99209b4d70515aeaa7dcde56f9230",
+      "frameCount": 887,
+      "frameInterval": 0.0083333,
+      "title": "Scared gesture",
+      "actionDescription": "Turns and draws the hands close to the chest, hunches and looks around before relaxing.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "scared gesture"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_74",
+      "sourceUUID": "0ABA4D0D-623E-58DA-9AA9-04290555A19B",
+      "sourceDescription": "upset",
+      "sourceSHA256": "6c4e9bcc18403a01c4d8f1e6f07ea4d4c1a9defb753e314493a9e59e86505af0",
+      "frameCount": 925,
+      "frameInterval": 0.0083333,
+      "title": "Upset gestures",
+      "actionDescription": "Raises both hands, bends and gestures outward, then brings the hands to the head before lowering them.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "upset gestures"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_75",
+      "sourceUUID": "50177B22-4D3B-58CA-AD7D-565CB810F93E",
+      "sourceDescription": "channel surfing",
+      "sourceSHA256": "f52a39c674870f4aa17b258025ba8ead27b7b21b7bf2ff38fb586fe978f545bc",
+      "frameCount": 1290,
+      "frameInterval": 0.0083333,
+      "title": "Channel surfing mime",
+      "actionDescription": "Points and gestures with one hand repeatedly as if operating a remote, then lowers it.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "channel surfing"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_76",
+      "sourceUUID": "1F343E75-2AC4-5A53-992F-E5F30D0C9445",
+      "sourceDescription": "driving",
+      "sourceSHA256": "07f96d1923e704cd95fbf4ef7530ae66a70f130bed4074c4e6076832c3a1c33c",
+      "frameCount": 1254,
+      "frameInterval": 0.0083333,
+      "title": "Driving mime",
+      "actionDescription": "Holds both hands in front as if gripping a steering wheel, turns them and gestures briefly before relaxing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "driving"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_77",
+      "sourceUUID": "63746620-CA42-525A-A4E3-6EDC34AF9D62",
+      "sourceDescription": "vacuuming",
+      "sourceSHA256": "5ad5a5d4f82d0bb7ce40ffff1ff71af6a2d55bfc33d92ab2b3a418a7bb5fef0a",
+      "frameCount": 1145,
+      "frameInterval": 0.0083333,
+      "title": "Vacuuming mime",
+      "actionDescription": "After an arms-out starting pose, leans forward and moves the hands low in repeated pushes and pulls, then straightens.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "vacuuming"
+      ],
+      "reviewStatus": "needs-review",
+      "reviewNote": "Source starts with 79 all-zero captured frames. First usable motion is recorded at source frame 80.",
+      "firstUsableFrame": 80
+    },
+    {
+      "takeID": "79_78",
+      "sourceUUID": "BC896472-5BF2-5009-BDE5-877C4F40C31C",
+      "sourceDescription": "taking a movie",
+      "sourceSHA256": "84df8b0f9660a2b890b6889d24e83cf85aff3942728296c9461a867db2d6c438",
+      "frameCount": 1270,
+      "frameInterval": 0.0083333,
+      "title": "Filming with a camera mime",
+      "actionDescription": "Holds a hand near the eye and makes small adjustments with the other as if operating a camera, then lowers the hands.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "filming with a camera"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_79",
+      "sourceUUID": "C6C4676C-6849-59FF-8C48-D22A3C90CB95",
+      "sourceDescription": "putting on headphones",
+      "sourceSHA256": "4b49773a1511dd0bd326118e3c653f8a1ca4e8074b499f806528b4d0de3ef473",
+      "frameCount": 841,
+      "frameInterval": 0.0083333,
+      "title": "Put on headphones mime",
+      "actionDescription": "Raises both hands to the head, lowers them and makes small adjustments near the chest before relaxing.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "put on headphones"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "79_80",
+      "sourceUUID": "1308FD12-4DCA-51C1-9A65-E0A3C203FE80",
+      "sourceDescription": "using a palm pilot",
+      "sourceSHA256": "163330698c80705b731807603cd6243df18200d2b189188951b29f47a1da2f0f",
+      "frameCount": 986,
+      "frameInterval": 0.0083333,
+      "title": "Use a handheld device mime",
+      "actionDescription": "Holds one hand in front of the chest and taps or gestures over it repeatedly with the other, then lowers both.",
+      "primaryCategory": "everyday-tasks",
+      "searchTags": [
+        "use a handheld device"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
