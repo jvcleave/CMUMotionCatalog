@@ -228,8 +228,7 @@
         "drink",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "Soda is identified by the source and is not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_14",
@@ -333,8 +332,7 @@
         "lean",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "The stool is source context and is not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_20",
@@ -352,8 +350,7 @@
         "stool",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "The threatened stool is identified by the source and is not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_21",
@@ -372,8 +369,7 @@
         "stool",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "The stool and contact are identified by the source and are not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_22",
@@ -391,8 +387,7 @@
         "walk",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "Keys are identified by the source and are not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_23",
@@ -429,8 +424,7 @@
         "walk",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
-      "reviewNote": "Wallet is identified by the source and is not rendered."
+      "reviewStatus": "described"
     },
     {
       "takeID": "23_25",
