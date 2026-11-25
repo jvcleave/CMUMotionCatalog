@@ -170,6 +170,169 @@
         "right"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_11",
+      "sourceUUID": "3ECFE75A-970B-5DAB-A7AD-3094C260D677",
+      "sourceDescription": "calibration",
+      "sourceSHA256": "fd8aa0d9186bfcdf4b689f6a1832714b34145fc8510e33040e636b42cc36e960",
+      "frameCount": 46,
+      "frameInterval": 0.0083333,
+      "title": "Calibration stance",
+      "actionDescription": "Holds a nearly still bent-knee stance with both forearms raised in front.",
+      "primaryCategory": "posture-changes",
+      "searchTags": [
+        "calibration",
+        "stance"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_12",
+      "sourceUUID": "6FED691C-9D9A-5388-8D43-649DA23B70F1",
+      "sourceDescription": "RunningNoBall     CleanedGRS",
+      "sourceSHA256": "61575e8de393d7d6fa6a1df9af6eff0c34ca57fbbd89b0ea6728a3acad0d315d",
+      "frameCount": 97,
+      "frameInterval": 0.0083333,
+      "title": "Run without ball",
+      "actionDescription": "Runs with alternating strides and bent arms, beginning and ending mid-stride.",
+      "primaryCategory": "running-agility",
+      "searchTags": [
+        "run"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_13",
+      "sourceUUID": "3FC1D9B4-9AAC-5EB5-A36D-EACA2A8D56F9",
+      "sourceDescription": "OffensiveMoveSpinLeft            CleanedGRS",
+      "sourceSHA256": "7aebb0abe9f64efebc1afafa5a5c97f184e886bfaa5f9e8c42aaa4407615bb2d",
+      "frameCount": 174,
+      "frameInterval": 0.0083333,
+      "title": "Offensive spin left",
+      "actionDescription": "The performer starts low, turns left through a spin and pushes into quick running steps.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "offense",
+        "spin",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_14",
+      "sourceUUID": "83CCD6D8-32DE-50CD-923E-4A166204A840",
+      "sourceDescription": "OffensiveMoveSpinLeft      CleanedGRS",
+      "sourceSHA256": "dedcfadee356ee4b64359ae8222fceef7236ca373366fafed43c6269239975e4",
+      "frameCount": 171,
+      "frameInterval": 0.0083333,
+      "title": "Offensive spin left",
+      "actionDescription": "Turns left from a low stance, steps out of the spin and continues moving.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "offense",
+        "spin",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_15",
+      "sourceUUID": "4A6AC79B-3541-5F0E-AEEE-747C8A5F5971",
+      "sourceDescription": "OffensiveMoveGoRight     CleanedGRS",
+      "sourceSHA256": "a736fd38540141691b3be4403d2773942fe95a82cda95988606d373cee2cf2d7",
+      "frameCount": 152,
+      "frameInterval": 0.0083333,
+      "title": "Offensive move right",
+      "actionDescription": "Drops into a wide lateral stance, pushes off to the right and accelerates into running steps.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "offense",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_16",
+      "sourceUUID": "11454762-A55E-5FA9-A83F-B23567F84A88",
+      "sourceDescription": "OffensiveMoveGoLeft         CleanedGRs",
+      "sourceSHA256": "b89cfcebc95776b78d9d2677142bfec6fd5599a8ae88fb68135714b7df435da3",
+      "frameCount": 196,
+      "frameInterval": 0.0083333,
+      "title": "Offensive move left",
+      "actionDescription": "Steps wide, changes direction to the left and accelerates with arms moving for balance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "offense",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_17",
+      "sourceUUID": "B4D13A72-329C-51FA-BFA3-0406528998E2",
+      "sourceDescription": "OffensiveMoveSpinRight             CleanedGRS",
+      "sourceSHA256": "6607c6c3577ae44bbe3dc5d651762a74dec4ddf4c9c92a43cb3352c7250212b2",
+      "frameCount": 179,
+      "frameInterval": 0.0083333,
+      "title": "Offensive spin right",
+      "actionDescription": "Turns right from a low, wide stance and pushes off into a run.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "offense",
+        "spin",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_18",
+      "sourceUUID": "11588994-55E8-5E36-8838-A18E60B910BC",
+      "sourceDescription": "WalkEvasiveLeft      CleanedGRS",
+      "sourceSHA256": "8e49c148887711b21c33fcebd1cf98eaa2d2d370ee7a87b937ee9147dcabf806",
+      "frameCount": 213,
+      "frameInterval": 0.0083333,
+      "title": "Evasive move left",
+      "actionDescription": "Steps wide, lowers into a lateral lunge, then pushes left into quick strides.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "evasion",
+        "left"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_19",
+      "sourceUUID": "01CF6B2A-BC25-59CC-91FE-E6AF2BE1CBD6",
+      "sourceDescription": "WalkEvasiveRight              CleanedGRS",
+      "sourceSHA256": "a637da9043496b482d947e32886b2ebc798f584e1c782d3cebe6b1a7caf2847d",
+      "frameCount": 176,
+      "frameInterval": 0.0083333,
+      "title": "Evasive move right",
+      "actionDescription": "Drops into a wide low step, pushes right and accelerates away with arms out for balance.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "evasion",
+        "right"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "78_20",
+      "sourceUUID": "37040050-3599-5A10-B388-0F4792655232",
+      "sourceDescription": "FeintLeftMoveRight            CleanedGRS",
+      "sourceSHA256": "1f91326f68633e14257ea0b88d0570d618964f56b653406f246b9bdc70f6568d",
+      "frameCount": 230,
+      "frameInterval": 0.0083333,
+      "title": "Feint left and move right",
+      "actionDescription": "Raises hands near the chest, shifts left, then pushes off and runs to the right.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "feint",
+        "left",
+        "right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
