@@ -166,6 +166,172 @@
         "repeated"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_11",
+      "sourceUUID": "9B3B4DC8-9AB5-5EF6-BF21-D067ECF40D25",
+      "sourceDescription": "walk and turn (repeated)",
+      "sourceSHA256": "68f1b5a61818ed4edcc7122144cf8ecaaa3dc91bda2619d3473ee5999a7d5703",
+      "frameCount": 4960,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns",
+      "actionDescription": "Alternates short walking stretches with repeated turns, changing facing direction throughout.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_12",
+      "sourceUUID": "6838D467-CBA4-5778-9B1D-73BC1F00E263",
+      "sourceDescription": "walk and turn both directions (repeated)",
+      "sourceSHA256": "bd04e1839503ad728dbd91aa36d6f4c762e16813a79eb20cdaa3194f7bd48c82",
+      "frameCount": 4821,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns in both directions",
+      "actionDescription": "Walks short stretches and repeatedly turns in both directions, keeping the arms relaxed.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_13",
+      "sourceUUID": "E7331F50-1388-53B8-9543-BCF8BACE9E22",
+      "sourceDescription": "walk, turn in place (repeated)",
+      "sourceSHA256": "063a2d4b15d6286b25f47c978fe2da7b3542b9ae42aaf7a6698c90ea793e2ee8",
+      "frameCount": 4750,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns in place",
+      "actionDescription": "Walks in short stretches and repeatedly turns in place before stepping again.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_14",
+      "sourceUUID": "12574FAD-AE96-5708-A42D-113E07430B6E",
+      "sourceDescription": "walk, turn in place (repeated)",
+      "sourceSHA256": "a6310836f60104cf2e8e20455989b73a0f121042a4d076e67742138e92cdb39a",
+      "frameCount": 4918,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns in place",
+      "actionDescription": "Alternates walking steps with turns in place, repeatedly changing facing direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_15",
+      "sourceUUID": "FABA0A50-C796-5E2E-B4D9-5A7688AF69D8",
+      "sourceDescription": "walk, turn in place (repeated)",
+      "sourceSHA256": "853fdb51ea4dd9bb2e30a4ef4d26340d7f6f3ed02abcf6b603fd4bab55f511d2",
+      "frameCount": 4504,
+      "frameInterval": 0.0083333,
+      "title": "Repeated walk and turns in place",
+      "actionDescription": "Lowers a hand from near the face, walks, and repeatedly turns in place between short stretches of steps.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "repeated"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_16",
+      "sourceUUID": "AF589846-7320-5A89-BAEF-FEA8A7D686BD",
+      "sourceDescription": "turn in place",
+      "sourceSHA256": "a4c6eb92819e35f052ee9180f238e72d4dcc6b58e455d8e7e1e15b70275e3d54",
+      "frameCount": 1128,
+      "frameInterval": 0.0083333,
+      "title": "Turn in place",
+      "actionDescription": "Takes small steps to turn all the way around in place, then stands facing forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_17",
+      "sourceUUID": "EDF127F4-5021-5139-A645-BEE667449421",
+      "sourceDescription": "turn in place",
+      "sourceSHA256": "0e95314b76aa94fdb56e600995b19b84572820f55485ddae03221bf828897ee0",
+      "frameCount": 999,
+      "frameInterval": 0.0083333,
+      "title": "Turn in place",
+      "actionDescription": "Turns all the way around with small steps, ending upright facing forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_18",
+      "sourceUUID": "27443C3A-5265-5805-AA48-900820A53445",
+      "sourceDescription": "turn in place (opposite direction)",
+      "sourceSHA256": "aca4dc92e5bf4b72c3b60d0208e4c5b54708d487031f4147d9fb59f57a9420c8",
+      "frameCount": 1054,
+      "frameInterval": 0.0083333,
+      "title": "Turn in place, opposite direction",
+      "actionDescription": "Turns all the way around in place using small steps, then stands facing forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_19",
+      "sourceUUID": "3A30E64C-B6E3-57C3-ABFA-1C3BAFC0516D",
+      "sourceDescription": "turn in place (opposite direction)",
+      "sourceSHA256": "6d5029a83eb0b1337fcdd8af73341bc1daca596cf11bb6ab0c9ccb29b6f501c6",
+      "frameCount": 1119,
+      "frameInterval": 0.0083333,
+      "title": "Turn in place, opposite direction",
+      "actionDescription": "Steps through a full turn in place and settles upright facing forward.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "in place"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "69_20",
+      "sourceUUID": "18D81099-8C34-5A27-9118-F4FD128A144E",
+      "sourceDescription": "walk forward 90 degree right turn",
+      "sourceSHA256": "282a6aa34d5653ace7968654e6b62055f8ccd701a593b37aae98a6a29e17c0db",
+      "frameCount": 548,
+      "frameInterval": 0.0083333,
+      "title": "Walk and turn right",
+      "actionDescription": "Walks forward, turns right, and continues walking in the new direction.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "turn",
+        "walk",
+        "right"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
