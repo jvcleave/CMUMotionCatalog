@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "subject": "34",
+  "takes": [
+    {
+      "takeID": "34_01",
+      "sourceUUID": "B410D853-12BB-52A6-A375-12936008E888",
+      "sourceDescription": "football - throw, catch (2 subjects - subject B)",
+      "sourceSHA256": "0f6054784bb483a0e17b42c79fbe4f717c9b779688bc687ea30f06950f2d89e0",
+      "frameCount": 2704,
+      "frameInterval": 0.0083333,
+      "title": "Mime a Football Exchange from Standing, Participant B",
+      "actionDescription": "Participant B alternates short steps with bringing the forearms forward and drawing the hands close. The sequence returns to standing with arms lowered.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "football",
+        "throw",
+        "catch",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "34_02",
+      "sourceUUID": "4FBC7C35-C0D4-53B1-B258-9AB388A0193C",
+      "sourceDescription": "football - throw, catch, jump around (2 subjects - subject B)",
+      "sourceSHA256": "353dae4d43ffaa94c39763a2ae958d0bc30bbe4144a09da0944d4ffaa25252df",
+      "frameCount": 1285,
+      "frameInterval": 0.0083333,
+      "title": "Reach Up and Step Through a Football Exchange, Participant B",
+      "actionDescription": "Participant B opens with one hand high, reaches overhead with both hands, then turns through short steps and forward arm motions. The take ends with the elbows bent.",
+      "primaryCategory": "sports",
+      "searchTags": [
+        "football",
+        "high reach",
+        "steps",
+        "participant B"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
