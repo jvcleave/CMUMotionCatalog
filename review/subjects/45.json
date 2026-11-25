@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "subject": "45",
+  "takes": [
+    {
+      "takeID": "45_01",
+      "sourceUUID": "2A2012A7-B56B-51B3-A5FF-29149492A5ED",
+      "sourceDescription": "walk",
+      "sourceSHA256": "b0de21cac27182011931148761e304c73213d32d173c795b82f8ce255df9d00b",
+      "frameCount": 456,
+      "frameInterval": 0.0083333,
+      "title": "Walk Forward and Turn through Profile",
+      "actionDescription": "The performer walks at a steady pace, turns through profile and takes several more steps, then finishes angled toward the starting camera.",
+      "primaryCategory": "walking-turning",
+      "searchTags": [
+        "forward",
+        "turn",
+        "mid-stride"
+      ],
+      "reviewStatus": "described"
+    }
+  ]
+}
