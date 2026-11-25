@@ -624,6 +624,166 @@
         "forward"
       ],
       "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_41",
+      "sourceUUID": "B03F3132-8293-5B10-8FB9-C1A36CF2FA36",
+      "sourceDescription": "JumpForward",
+      "sourceSHA256": "ffa8783b4b314724b1cbad1e7adc386e47efb82eefe5c07dd05f5215a74f744b",
+      "frameCount": 503,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "Crouches deeply, swings the arms up and jumps forward, landing in a low squat before rising.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_42",
+      "sourceUUID": "12D01907-A232-5381-B6BD-51E5F45B6B36",
+      "sourceDescription": "JumpForward",
+      "sourceSHA256": "5797dd53847ca72795e2d41e9deb32976d62b6e3fe12b546972ea7b2f758d5c9",
+      "frameCount": 560,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "Swings the arms back, crouches and jumps forward, landing low and returning to standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_43",
+      "sourceUUID": "BCB8C16A-7903-53A6-A1E0-33D14FD638B2",
+      "sourceDescription": "JumpSmallForward",
+      "sourceSHA256": "c6b28b89124aad8a51d8f84ed390648552f54549939f10c7d2b9e3872ea30009",
+      "frameCount": 227,
+      "frameInterval": 0.0083333,
+      "title": "Small forward jump",
+      "actionDescription": "Bends the knees, makes a short forward hop and lands before settling.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_44",
+      "sourceUUID": "60EFCDAF-ACEE-59E7-8CAB-71267B9BC37E",
+      "sourceDescription": "JumpSmallForward",
+      "sourceSHA256": "c70985756f8a7ef68014c497c31eeb2ba140f4981a5bd49a5bcf3366e2c8727e",
+      "frameCount": 338,
+      "frameInterval": 0.0083333,
+      "title": "Small forward jump",
+      "actionDescription": "Dips the knees, makes a small two-footed hop forward and lands upright.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_45",
+      "sourceUUID": "2F50D2EC-2855-5E59-9452-810EBFF1F42E",
+      "sourceDescription": "JumpForward",
+      "sourceSHA256": "0a6955df117cf909d61f8222b96a317b22e4a16098475e38b2f21868fb5840cd",
+      "frameCount": 371,
+      "frameInterval": 0.0083333,
+      "title": "Forward jump",
+      "actionDescription": "Crouches, swings both arms overhead and jumps forward, landing with bent knees and rising.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "forward"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_46",
+      "sourceUUID": "F8A1430F-048F-53C0-A1AA-6E57DE0F616F",
+      "sourceDescription": "Jump Turn",
+      "sourceSHA256": "43338cd79ade25d0bdee6c78553d231d2cb3c991cfcf1de04bc644824f91f30d",
+      "frameCount": 322,
+      "frameInterval": 0.0083333,
+      "title": "Small jump turn",
+      "actionDescription": "Bends the knees and makes a small hop while turning, then lands facing sideways.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_47",
+      "sourceUUID": "8B5FD6FE-EA5B-546E-88A2-8BC75B693011",
+      "sourceDescription": "Jump Turn",
+      "sourceSHA256": "f0697bd11c8eb2d24a3b048ed5b2dabf5fdc0593cf739001ce468ffaf8ad9edc",
+      "frameCount": 469,
+      "frameInterval": 0.0083333,
+      "title": "Jump turn",
+      "actionDescription": "Crouches, swings the arms up and jumps while turning, landing with bent knees and standing.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_48",
+      "sourceUUID": "489EEF4A-1F70-579D-95B1-22DC712B336D",
+      "sourceDescription": "JumpTurn",
+      "sourceSHA256": "147dffebeae65b66725a10c38ffcf55a1e4560e640a16ae9c49ec248bd5b579b",
+      "frameCount": 440,
+      "frameInterval": 0.0083333,
+      "title": "Small jump turn",
+      "actionDescription": "Dips and hops while turning, landing sideways and straightening.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_49",
+      "sourceUUID": "64A59889-374B-52E9-9B41-31E090DB016F",
+      "sourceDescription": "Jump Turn",
+      "sourceSHA256": "d79cba3cc185ec6df8071cedbe8a8abe81c890ae53cd56602ec35705113645f3",
+      "frameCount": 482,
+      "frameInterval": 0.0083333,
+      "title": "Jump turn",
+      "actionDescription": "Bends and swings the arms, hops into a turn and lands in a crouch before rising.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "turn"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "91_50",
+      "sourceUUID": "BF83865C-410B-5DCD-BCFC-C14C060189B4",
+      "sourceDescription": "JumpTurn",
+      "sourceSHA256": "51b43d8d53b02e70747e0a8fe00269b98de9e1bc34e53da7a37e13fba90d4998",
+      "frameCount": 663,
+      "frameInterval": 0.0083333,
+      "title": "Jump turn",
+      "actionDescription": "Raises the arms, crouches, then jumps and turns, landing with bent knees and straightening.",
+      "primaryCategory": "jumping-landing",
+      "searchTags": [
+        "jump",
+        "turn"
+      ],
+      "reviewStatus": "described"
     }
   ]
 }
