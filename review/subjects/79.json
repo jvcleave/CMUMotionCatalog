@@ -112,7 +112,7 @@
         "mime",
         "hand gestures"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source says lost marker and does not identify an action; the intended gesture cannot be confirmed from the render."
     },
     {
@@ -1001,7 +1001,7 @@
       "searchTags": [
         "forward lean and hand gestures"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source says the movie and trial do not match and provides no action identity; the intended action is unresolved."
     },
     {
@@ -1017,7 +1017,7 @@
       "searchTags": [
         "hunched clasped-hands gesture"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source says no movie and provides no action identity; the intended action is unresolved."
     },
     {
@@ -1168,7 +1168,7 @@
       "searchTags": [
         "vacuuming"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 79 all-zero captured frames. First usable motion is recorded at source frame 80.",
       "firstUsableFrame": 80
     },

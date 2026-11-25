@@ -804,7 +804,7 @@
         "sideways",
         "repeated"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The rendered steps look mostly short and backward from this camera; the source labels the motion sideways. Confirm travel direction."
     },
     {

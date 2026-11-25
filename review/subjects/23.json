@@ -405,7 +405,7 @@
         "walk",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source identifies a key throw; the object and release are not discernible in the sheet."
     },
     {
@@ -442,7 +442,7 @@
         "walk",
         "participant B"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source identifies a wallet throw; the object and release are not discernible in the sheet."
     }
   ]

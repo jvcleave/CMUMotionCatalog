@@ -177,7 +177,7 @@
         "turn",
         "participant A"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 13 all-zero captured frames. First usable motion is recorded at source frame 14.",
       "firstUsableFrame": 14
     },

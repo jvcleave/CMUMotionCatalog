@@ -17,7 +17,7 @@
         " bent elbows",
         " continuous run"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 55 all-zero captured frames. First usable motion is recorded at source frame 56.",
       "firstUsableFrame": 56
     },
@@ -308,7 +308,7 @@
         " arm reach",
         " forward bend"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 113 all-zero captured frames. First usable motion is recorded at source frame 114.",
       "firstUsableFrame": 114
     },
@@ -361,7 +361,7 @@
         " pause",
         " stop"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 5 all-zero captured frames. First usable motion is recorded at source frame 6.",
       "firstUsableFrame": 6
     },
@@ -652,7 +652,7 @@
         " turning path",
         " relaxed arms"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 4 all-zero captured frames. First usable motion is recorded at source frame 5.",
       "firstUsableFrame": 5
     },

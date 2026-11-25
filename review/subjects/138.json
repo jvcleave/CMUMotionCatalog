@@ -544,7 +544,7 @@
         " forward drop",
         " knees bent"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Check the abrupt final transition around 7 seconds. The render ends in a forward-tilted pose with both feet raised, and the source label Story does not identify the action."
     },
     {
@@ -919,7 +919,7 @@
         " turning steps",
         " knee bend"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 74 all-zero captured frames. First usable motion is recorded at source frame 75.",
       "firstUsableFrame": 75
     },

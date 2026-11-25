@@ -663,7 +663,7 @@
         "small gestures",
         "lean"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown and the intended activity is unclear from the hand motions."
     },
     {
@@ -800,7 +800,7 @@
         "forward reach",
         "chest height"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown and the gesture does not establish a specific task."
     },
     {
@@ -1022,7 +1022,7 @@
         "forward bend",
         "standing"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown and no specific scenario is distinguishable."
     },
     {
@@ -1125,7 +1125,7 @@
         "forward bend",
         "standing"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown and the visible low hand movements do not identify an activity."
     },
     {
@@ -1143,7 +1143,7 @@
         "hands raised",
         "weight shifts"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown. The visible motion could fit several kinds of mime or drill."
     },
     {
@@ -1161,7 +1161,7 @@
         "hands near face",
         "standing"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "The source is Unknown and a more specific action is unclear."
     },
     {

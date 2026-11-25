@@ -17,7 +17,7 @@
         "standing",
         "hand signals"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Source starts with 48 all-zero captured frames. First usable motion is recorded at source frame 49.",
       "firstUsableFrame": 49
     },

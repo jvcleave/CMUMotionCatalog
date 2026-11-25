@@ -160,7 +160,7 @@
         "run",
         "gait"
       ],
-      "reviewStatus": "needs-review",
+      "reviewStatus": "described",
       "reviewNote": "Captured frames 1–4 have all-zero channels. Frame 5 (0.0333 s) is the first moving pose and follows a 1.609 m horizontal root discontinuity. The first usable frame is recorded for later review.",
       "firstUsableFrame": 5
     },
