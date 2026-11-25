@@ -128,6 +128,24 @@
       "reviewStatus": "described"
     },
     {
+      "takeID": "26_08",
+      "sourceUUID": "80E03CA8-F182-51CE-82A6-6280636B53C4",
+      "sourceDescription": "nursery rhyme - Cock Robin",
+      "sourceSHA256": "c7521c05aae1584eb65a87a1adb473fcedcd565a668078190a01629349eb2880",
+      "frameCount": 7670,
+      "frameInterval": 0.0083333,
+      "title": "Act Out a Rhyme with Alternating One-Hand Signals",
+      "actionDescription": "The performer starts standing and repeatedly lifts one hand, brings it toward the chest, then extends it out to the side. The arms lower before the final stance.",
+      "primaryCategory": "gestures-pantomime",
+      "searchTags": [
+        "nursery rhyme",
+        "repeated",
+        "one-handed",
+        "side reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
       "takeID": "26_09",
       "sourceUUID": "942806A9-DA5D-566E-A82A-7BB0875AC040",
       "sourceDescription": "bend, pick up",
@@ -142,6 +160,24 @@
         "deep squat",
         "one-handed",
         "side reach"
+      ],
+      "reviewStatus": "described"
+    },
+    {
+      "takeID": "26_10",
+      "sourceUUID": "1B5F2EAF-F9F2-5EF5-8068-5E6545374491",
+      "sourceDescription": "bend, lift",
+      "sourceSHA256": "1a5d4600e442b3fa481cbdf39e1421f80773e02de20dbadcac58dbaaa1c7f3b8",
+      "frameCount": 697,
+      "frameInterval": 0.0083333,
+      "title": "Crouch to Lift, Then Straighten",
+      "actionDescription": "The performer starts upright, crouches deeply with the hands near the floor, and straightens while drawing the hands upward. They finish in an upright stance turned slightly aside.",
+      "primaryCategory": "reaching-handling",
+      "searchTags": [
+        "lifting",
+        "deep crouch",
+        "floor reach",
+        "turn"
       ],
       "reviewStatus": "described"
     },
