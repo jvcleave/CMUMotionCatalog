@@ -10,7 +10,9 @@ from validate import ROOT, index, read
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("subjects", nargs="*", help="Optional two- or three-digit subject IDs.")
-    parser.add_argument("--ids", action="store_true", help="Print only pending take IDs, one per line.")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--ids", action="store_true", help="Print only pending take IDs, one per line.")
+    mode.add_argument("--issues", action="store_true", help="Print only known issues awaiting review.")
     args = parser.parse_args()
 
     source = index(read("catalog/source-catalog.json")["takes"], "trialID")
@@ -19,6 +21,7 @@ def main():
     for path in sorted((ROOT / "review/subjects").glob("*.json")):
         rows.extend(json.loads(path.read_bytes())["takes"])
     completed = index(rows, "takeID")
+    timing_issues = index(read("review/source-timing-issues.json")["takes"], "takeID") if args.issues else {}
     subjects = {take_id.split("_")[0] for take_id in source}
     unknown = set(args.subjects) - subjects
     if unknown:
@@ -32,6 +35,13 @@ def main():
         if args.subjects and take_id.split("_")[0] not in args.subjects:
             continue
         if take_id in completed and completed[take_id]["reviewStatus"] == "described":
+            continue
+        if args.issues:
+            if take_id in completed:
+                print(f"{take_id}\t{completed[take_id]['reviewNote']}")
+            elif take_id in timing_issues:
+                issue = timing_issues[take_id]
+                print(f"{take_id}\tAll-zero opening frames. First usable frame {issue['firstDifferentFrame']}.")
             continue
         if args.ids:
             print(take_id)

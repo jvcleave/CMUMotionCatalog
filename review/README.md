@@ -38,3 +38,6 @@ For an affected take, `firstUsableFrame` identifies the first usable pose in
 original captured-frame coordinates. Keep the pinned BVH, source timing, and
 existing trim coordinates. Log take-specific concerns as `needs-review` with
 a `reviewNote` while continuing other batches.
+
+Run `python3 review/pending.py --issues` for the later review queue. It lists
+flagged annotations and audited source issues that still await annotation.
