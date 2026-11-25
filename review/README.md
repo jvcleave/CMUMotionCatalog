@@ -41,3 +41,4 @@ a `reviewNote` while continuing other batches.
 
 Run `python3 review/pending.py --issues` for the later review queue. It lists
 flagged annotations and audited source issues that still await annotation.
+The regular pending queue skips rows that already have an annotation.

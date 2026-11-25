@@ -43,6 +43,8 @@ def main():
                 issue = timing_issues[take_id]
                 print(f"{take_id}\tAll-zero opening frames. First usable frame {issue['firstDifferentFrame']}.")
             continue
+        if take_id in completed:
+            continue
         if args.ids:
             print(take_id)
             continue
@@ -58,8 +60,6 @@ def main():
             refs = same_context or [match["takeID"] for match in exact_bvh]
             suffix = "same source description" if same_context else "check source context"
             print(f"{take_id}\tSame BVH as {', '.join(refs)} ({suffix})")
-        elif take_id in completed:
-            print(f"{take_id}\t{completed[take_id]['reviewNote']}")
         else:
             print(take_id)
 
